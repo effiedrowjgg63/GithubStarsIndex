@@ -1,6 +1,6 @@
 # ⭐ GitHub Stars Index
 
-> Updated: 2026-05-02 09:14 UTC · Total: 185
+> Updated: 2026-05-03 09:26 UTC · Total: 185
 
 ---
 
@@ -25,7 +25,7 @@
 - [[#DigitalPlatDev/FreeDomain|DigitalPlatDev/FreeDomain]]
 - [[#Taocrypt/LinkPass|Taocrypt/LinkPass]]
 - [[#Haohao-end/GPT-2-Based-Medical-Dialogue-System|Haohao-end/GPT-2-Based-Medical-Dialogue-System]]
-- [[#s4huan/NXJS.ARCH|s4huan/NXJS.ARCH]]
+- [[#s4huan/NXJS-ARCH|s4huan/NXJS-ARCH]]
 - [[#tohka0x01/moemail-telegram-bot|tohka0x01/moemail-telegram-bot]]
 - [[#omegacosss/omega|omegacosss/omega]]
 - [[#Decade-qiu/Go2NetSpectra|Decade-qiu/Go2NetSpectra]]
@@ -206,7 +206,7 @@
 ## MayDay-wpf/snow-cli
 
 > [!info]
-> ⭐ 576 · TypeScript · 2026-05-01T15:17:48Z  
+> ⭐ 575 · TypeScript · 2026-05-02T15:08:59Z  
 > [GitHub](https://github.com/MayDay-wpf/snow-cli) · [Website](https://snowcli.com)  
 > `#AI智能体` `#代码自动化` `#终端工具` `#ai` `#ai-agents` `#ai-coding` 
 > Snow AI CLI 是一款终端 Agentic 编程工具，支持智能代码生成、漏洞检测、异步任务管理和 LSP 集成。通过命令注入、子代理配置和钩子自动化，提供高度可定制的 AI 编码体验，适用于开发者快速构建、审查和优化代码。
@@ -354,7 +354,7 @@
 ## Chevey339/kelivo
 
 > [!info]
-> ⭐ 2,501 · Dart · 2026-05-02T08:00:36Z  
+> ⭐ 2,512 · Dart · 2026-05-03T09:09:20Z  
 > [GitHub](https://github.com/Chevey339/kelivo) · [Website](https://kelivo.psycheas.top)  
 > `#AI智能体` `#Flutter` `#跨平台` `#ai` `#android` `#chatbot` `#chatbox` `#flutter` `#flutter-apps` `#harmony` `#harmonyos` `#ios` `#llm` `#openharmony` 
 > Kelivo 是一款基于 Flutter 开发的跨平台 LLM 聊天客户端，支持移动端（Android/iOS/Harmony）和桌面端（Windows/macOS/Linux）。具备现代化 Material You 设计、多语言支持、多 AI 服务商接入、MCP 工具集成、网页搜索、语音合成、Markdown 渲染及自定义字体等功能，提供高效智能对话体验。
@@ -364,7 +364,7 @@
 ## DigitalPlatDev/FreeDomain
 
 > [!info]
-> ⭐ 159,745 · HTML · 2026-05-02T09:12:11Z  
+> ⭐ 159,860 · HTML · 2026-05-03T09:21:04Z  
 > [GitHub](https://github.com/DigitalPlatDev/FreeDomain) · [Website](https://domain.digitalplat.org)  
 > `#免费域名` `#域名服务` `#数字身份` `#digitalplat` `#domain` `#domain-platform` `#domainname` `#domains` `#free` `#freedomain` 
 > DigitalPlat FreeDomain 是一个面向个人和组织的免费域名注册平台，提供 .DPDNS.ORG、.US.KG 等专属后缀域名，支持与主流 DNS 服务商（如 Cloudflare）无缝集成。项目由 DigitalPlat Foundation 创始人 Edward Hsing 独立开发维护，已服务超 40 万用户，致力于降低网络接入门槛，推动互联网开放包容。
@@ -391,11 +391,11 @@
 > <sub>A medical question-answering system built on the GPT-2 language model, fine-tuned on a large corpus of doctor-patient dialogues. The system supports multi-turn conversations and provides both command-line and web-based interfaces for interaction.</sub>
 
 ---
-## s4huan/NXJS.ARCH
+## s4huan/NXJS-ARCH
 
 > [!info]
-> ⭐ 324 · JavaScript · 2026-05-02T08:00:13Z  
-> [GitHub](https://github.com/s4huan/NXJS.ARCH) · [Website](https://spoo.me/nxs-docs)  
+> ⭐ 325 · JavaScript · 2026-05-03T08:12:11Z  
+> [GitHub](https://github.com/s4huan/NXJS-ARCH) · [Website](https://spoo.me/nxs-docs)  
 > `#architecture` `#docs` `#next-auth` 
 > 暂无描述。
 
@@ -462,7 +462,7 @@
 ## AIR-hl/llm-interview-code
 
 > [!info]
-> ⭐ 387 · Jupyter Notebook · 2026-04-29T12:24:08Z  
+> ⭐ 389 · Jupyter Notebook · 2026-05-03T07:36:49Z  
 > [GitHub](https://github.com/AIR-hl/llm-interview-code)  
 > `#AI大模型` `#深度学习` `#面试题库` `#ai` `#interview` `#llm` `#lm` 
 > LLM面试常见手撕代码合集，涵盖注意力机制、模型组件、归一化、损失函数等核心模块实现。提供MHA/GQA、RoPE、LoRA、DPO/GRPO等高频考点完整代码示例，适合深度学习工程师系统掌握大模型底层原理与面试实战。
@@ -608,7 +608,7 @@
 ## bitlap/sbt-dependency-analyzer
 
 > [!info]
-> ⭐ 90 · Scala · 2026-04-30T03:43:26Z  
+> ⭐ 90 · Scala · 2026-05-03T03:50:11Z  
 > [GitHub](https://github.com/bitlap/sbt-dependency-analyzer) · [Website](https://plugins.jetbrains.com/plugin/22427-sbt-dependency-analyzer)  
 > `#IDE插件` `#SBT工具` `#依赖分析` `#dependency-analysis` `#dependency-tree` `#java` `#jetbrains-plugin` `#sbt` `#scala` 
 > Sbt Dependency Analyzer 是一款专为 IntelliJ IDEA 和 Android Studio 设计的插件，提供可视化依赖树、冲突检测、跨模块依赖分析及 JAR 大小统计等功能，支持快速定位依赖声明与排除传递依赖，显著提升 SBT 项目依赖管理效率。
@@ -716,7 +716,7 @@
 ## xnssg/ewt360-answer-script
 
 > [!info]
-> ⭐ 350 · JavaScript · 2026-04-29T00:25:50Z  
+> ⭐ 351 · JavaScript · 2026-05-03T02:56:59Z  
 > [GitHub](https://github.com/xnssg/ewt360-answer-script)  
 > `#教育辅助` `#用户脚本` `#自动化工具` `#试题解析` 
 > 升学E网通试题答案获取脚本，专为学生快速查看已完成试卷答案设计。支持自动提取reportId、一键获取标准答案与详细解析，内置设置面板和历史记录管理，兼容PC与移动端浏览器，提供捐赠支持及超时保护机制，显著提升学习效率。
@@ -745,7 +745,7 @@
 ## hangwin/mcp-chrome
 
 > [!info]
-> ⭐ 11,370 · TypeScript · 2026-05-02T08:38:58Z  
+> ⭐ 11,371 · TypeScript · 2026-05-03T08:27:05Z  
 > [GitHub](https://github.com/hangwin/mcp-chrome)  
 > `#AI智能体` `#浏览器自动化` `#语义搜索` 
 > Chrome MCP Server 是一款基于 Chrome 扩展的 Model Context Protocol (MCP) 服务器，将浏览器功能暴露给 Claude 等 AI 助手，实现复杂浏览器自动化、内容分析与语义搜索。它直接利用用户现有 Chrome 环境，保留登录状态与配置，支持 20+ 工具，提供本地流式 HTTP 通信，并集成 SIMD 加速的向量数据库，实现智能跨标签页语义检索。
@@ -880,7 +880,7 @@
 ## ohosvscode/arkTS
 
 > [!info]
-> ⭐ 846 · TypeScript · 2026-04-28T09:20:52Z  
+> ⭐ 846 · TypeScript · 2026-05-02T16:47:46Z  
 > [GitHub](https://github.com/ohosvscode/arkTS) · [Website](https://marketplace.visualstudio.com/items?itemName=NailyZero.vscode-naily-ets)  
 > `#ArkTS语言` `#VSCode插件` `#鸿蒙开发` `#arkts` `#development-tools` `#harmony` `#harmonyos` `#harmonyos-next` `#huawei` `#vscode` `#vscode-extensions` 
 > Naily's ArkTS Support 是一款专为 VSCode 设计的鸿蒙 ArkTS 开发插件，提供语法高亮、智能补全、跳转、诊断、代码格式化（基于 Rust 编写的 oxk 工具链）、OpenHarmony SDK 管理、DevEco Studio 模拟器集成、hvigor 任务运行及 ArkTS 专属 Snippets 等功能，显著提升鸿蒙应用开发效率。
@@ -1114,7 +1114,7 @@
 ## TechnologyStar/Openai-Claude-Deepseek-API-provider
 
 > [!info]
-> ⭐ 336 · TypeScript · 2026-05-02T02:40:07Z  
+> ⭐ 335 · TypeScript · 2026-05-02T12:43:59Z  
 > [GitHub](https://github.com/TechnologyStar/Openai-Claude-Deepseek-API-provider)  
 > `#AI智能体` `#API聚合` `#免费试用` 
 > 本项目为免费开源的第三方大模型API导航平台，聚合OpenAI、Claude、DeepSeek、Gemini等主流模型的免注册接入渠道，提供公益级免费额度与合规使用指引，支持多模型一键调用，适用于学习研究与非商业用途。
@@ -1183,7 +1183,7 @@
 ## ljcyt/OpenFeiShuApis
 
 > [!info]
-> ⭐ 109 · Python · 2026-04-20T18:23:45Z  
+> ⭐ 109 · Python · 2026-05-03T09:02:15Z  
 > [GitHub](https://github.com/ljcyt/OpenFeiShuApis)  
 > `#AI智能体` `#API封装` `#飞书集成` 
 > OpenFeiShuApi 是一个飞书第三方API集成库，提供Python和Node.js双语言支持，封装了飞书开放平台全部HTTP接口及WebSocket私信协议。支持异步通信、事件订阅中间件，适用于构建飞书AI机器人与企业级AI Agent，实现消息收发与自动化交互。
@@ -1193,7 +1193,7 @@
 ## Veloera/Veloera
 
 > [!info]
-> ⭐ 1,633 · Go · 2026-05-01T02:16:43Z  
+> ⭐ 1,634 · Go · 2026-05-02T12:26:53Z  
 > [GitHub](https://github.com/Veloera/Veloera)  
 > `#AI大模型` `#API网关` `#开源项目` 
 > Veloera 是一个已停止维护的 AI API 网关系统，基于 new-api 二次开发，提供原生 /hf/v1 接口支持、多 Key 随机分发、正则屏蔽词、日志追踪等功能。遵循 GPL 3.0 协议，无商用限制，支持 Docker 部署与数据库自动迁移。
@@ -1339,7 +1339,7 @@
 ## kadidalax/cf-vps-monitor
 
 > [!info]
-> ⭐ 661 · JavaScript · 2026-05-01T09:48:10Z  
+> ⭐ 663 · JavaScript · 2026-05-02T18:42:15Z  
 > [GitHub](https://github.com/kadidalax/cf-vps-monitor)  
 > `#Cloudflare Worker` `#VPS监控` `#运维自动化` 
 > 基于 Cloudflare Worker 和 D1 数据库构建的轻量级 VPS 探针与网站监控面板，无需自建服务器即可部署。支持实时采集服务器状态、检测网站可用性，并提供响应式前端界面与后台管理功能，集成 Telegram 通知及自定义主题配置。
@@ -1419,7 +1419,7 @@
 ## tbphp/gpt-load
 
 > [!info]
-> ⭐ 6,156 · Go · 2026-05-01T04:41:04Z  
+> ⭐ 6,158 · Go · 2026-05-03T09:17:35Z  
 > [GitHub](https://github.com/tbphp/gpt-load) · [Website](https://www.gpt-load.com)  
 > `#AI智能代理` `#API网关` `#密钥管理` `#负载均衡` `#anthropic` `#claude` `#gemini` `#gin` `#go` `#golang` `#openai` 
 > GPT-Load 是一个高性能企业级 AI API 透明代理服务，专为需要集成多 AI 服务的开发者和企业设计。基于 Go 构建，具备智能密钥轮询、负载均衡、故障自动恢复、动态配置热重载等特性，支持 OpenAI、Google Gemini、Anthropic Claude 等多种 AI 服务格式，提供完整的监控和管理界面。
@@ -1529,7 +1529,7 @@
 ## pixelsdb/pixels
 
 > [!info]
-> ⭐ 908 · Java · 2026-05-01T11:09:26Z  
+> ⭐ 909 · Java · 2026-05-02T14:13:13Z  
 > [GitHub](https://github.com/pixelsdb/pixels)  
 > `#列式存储` `#数据分析` `#数据存储` `#cloud-database` `#column-store` `#data-lake` `#data-warehouse` `#database` `#olap` 
 > Pixels是一个专为数据湖和数据仓库优化的列式存储引擎，支持S3、GCS、HDFS等多种云和本地存储系统。其性能较Parquet提升达两个数量级，已集成DuckDB、Trino、StarRocks等主流查询引擎，并自研了基于Trino的弹性MPP查询引擎Pixels-Turbo，结合Serverless架构实现高性能与成本效率的平衡。
@@ -1598,7 +1598,7 @@
 ## drl990114/MarkFlowy
 
 > [!info]
-> ⭐ 2,307 · TypeScript · 2026-05-01T15:08:25Z  
+> ⭐ 2,307 · TypeScript · 2026-05-03T03:11:46Z  
 > [GitHub](https://github.com/drl990114/MarkFlowy) · [Website](https://www.markflowy.cc)  
 > `#AI智能体` `#Markdown编辑器` `#桌面应用` `#ai` `#chatgpt` `#deepseek` `#editor` `#linux-app` `#macos-app` `#markdown` `#markdowneditor` `#notes-app` `#prosemirror` `#reactjs` `#rust-lang` `#tauri` `#typescript` `#windows-app` 
 > MarkFlowy 是一款现代化智能 Markdown 编辑器，基于 Tauri 框架开发，体积小巧（<20MB）且性能优异。核心功能包括内置 AI 助手（支持 Copilot、翻译、摘要）、多模式编辑（源码/WYSIWYG）、Prosemirror 引擎、多语言支持及自定义主题。适用于高效写作、文档管理和跨平台内容创作。
@@ -1684,7 +1684,7 @@
 ## ling-drag0n/CloudPaste
 
 > [!info]
-> ⭐ 2,338 · JavaScript · 2026-05-02T06:15:25Z  
+> ⭐ 2,340 · JavaScript · 2026-05-02T19:07:46Z  
 > [GitHub](https://github.com/ling-drag0n/CloudPaste) · [Website](https://doc.cloudpaste.qzz.io)  
 > `#多存储聚合` `#文件管理` `#无服务器架构` `#cloudflare` `#cloudflare-workers` `#docker` `#file-browser` `#huggingface` `#markdown` `#onedrive` `#s3` `#telegram` `#telegrambot` `#webdav` 
 > CloudPaste 是一个基于 Cloudflare Workers 的无服务器文件管理与文本分享工具，支持多存储聚合（S3、WebDAV、OneDrive、Google Drive 等），提供 30+ 文件格式在线预览及 WebDAV 挂载功能。内置 Markdown 编辑器，支持实时预览与导出，兼容 Docker 部署，适用于个人或企业轻量化云盘场景。
@@ -1848,7 +1848,7 @@
 ## Dainoar/SuperAutoStudy
 
 > [!info]
-> ⭐ 411 · Java · 2026-04-30T10:33:36Z  
+> ⭐ 410 · Java · 2026-05-03T05:22:43Z  
 > [GitHub](https://github.com/Dainoar/SuperAutoStudy)  
 > `#AI智能答题` `#SpringBoot微服务` `#教育自动化` `#java` `#llm` `#springboot` 
 > SuperAutoStudy 是基于 Spring Boot + Dubbo + RabbitMQ 的分布式超星学习通自动化刷课平台，支持多级倍速播放、断点续学和智能答题。集成百万级 Super 题库与大模型技术，具备高并发任务调度能力，提供 Docker 一键部署方案，适用于个人自部署与二次开发。
@@ -1877,7 +1877,7 @@
 ## sopaco/saga-reader
 
 > [!info]
-> ⭐ 504 · Rust · 2026-05-02T04:10:14Z  
+> ⭐ 506 · Rust · 2026-05-03T05:18:10Z  
 > [GitHub](https://github.com/sopaco/saga-reader) · [Website](https://aiqino.netlify.app/)  
 > `#AI智能体` `#Rust` `#桌面应用` `#desktop` `#llm` `#reader` `#rust` `#svelte` `#tauri` 
 > Saga Reader 是一款由 AI 驱动的极速轻量级跨平台网络阅读器，基于 Rust、Tauri 和 Svelte 构建。它通过智能订阅关键词自动抓取全网信息，利用本地或云端大模型进行内容摘要与 AI 互动，提供沉浸式阅读体验，支持 Windows、Mac 和 Linux，完全开源免费且数据本地化存储。
