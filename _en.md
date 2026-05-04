@@ -254,7 +254,7 @@
 ## Johonsoy/SmartStashDB
 
 > [!info]
-> ⭐ 302 · Go · 2026-04-21T11:22:22Z  
+> ⭐ 301 · Go · 2026-05-04T09:11:41Z  
 > [GitHub](https://github.com/Johonsoy/SmartStashDB)  
 > `#Database` `#High-Performance Storage` `#LSM-Tree` `#golang` `#kv-store` `#lsm-tree` `#write-ahead-logging` 
 > SmartStashDB is a high-performance key-value store built in Go, leveraging LSM-Tree, Skip-List, and Write-Ahead Logging (WAL) for low-latency reads/writes. It ensures durability, scalability, and memory efficiency, making it ideal for write-heavy and data-intensive applications requiring reliable storage.
@@ -294,7 +294,7 @@
 ## ltjed/freephdlabor
 
 > [!info]
-> ⭐ 504 · Python · 2026-04-22T18:15:39Z  
+> ⭐ 503 · Python · 2026-05-04T09:22:22Z  
 > [GitHub](https://github.com/ltjed/freephdlabor) · [Website](https://freephdlabor.github.io/)  
 > `#AI Agents` `#Automated Research` `#Multiagent Systems` `#Scientific Research` `#ai-agents` `#ai4science` `#autonomous-agents` `#multiagent-systems` `#research-automation` 
 > freephdlabor is an open-source multiagent framework automating the full scientific research lifecycle—from hypothesis generation to experimentation and publication-ready manuscripts. It supports out-of-the-box use or domain-specific customization, featuring dynamic workflows, human-in-the-loop feedback, and continual research capabilities across fields like materials science and biology.
@@ -304,7 +304,7 @@
 ## Haohao-end/openagent
 
 > [!info]
-> ⭐ 798 · Python · 2026-05-02T04:10:15Z  
+> ⭐ 797 · Python · 2026-05-04T09:23:04Z  
 > [GitHub](https://github.com/Haohao-end/openagent) · [Website](https://openllm.cloud)  
 > `#AI Agents` `#Docker Deployment` `#LangChain 框架` `#agent` `#ai` `#aiagent` `#celery` `#deepseek` `#docker` `#faiss-vector-database` `#flask` `#langchain` `#langgraph` `#llmops` `#nginx` `#postgresql` `#tailwindcss` `#vue` `#weaviate` 
 > OpenAgent is an end-to-end AI agent development platform supporting multi-provider LLMs (OpenAI/DeepSeek/Wenxin/Tongyi), featuring knowledge base management, workflow automation, conversation search, and enterprise-grade security. Built with Flask + Vue3 + LangChain, it offers one-click Docker deployment with real-time notifications and vector-based retrieval.
@@ -344,7 +344,7 @@
 ## Moonrend/Classworks
 
 > [!info]
-> ⭐ 320 · Vue · 2026-05-01T23:10:29Z  
+> ⭐ 319 · Vue · 2026-05-04T09:24:14Z  
 > [GitHub](https://github.com/Moonrend/Classworks) · [Website](https://cs.houlang.cloud)  
 > `#Classroom Management` `#EdTech` `#Web Application` `#edu` `#education` `#educational` `#educational-project` `#educational-software` 
 > Classworks is a classroom display tool designed for managing assignments on large screens. Built with Node.js and pnpm, it offers a clean web interface for teachers to publish tasks and track student progress in real time, enhancing classroom engagement.
@@ -354,7 +354,7 @@
 ## Chevey339/kelivo
 
 > [!info]
-> ⭐ 2,512 · Dart · 2026-05-03T09:09:20Z  
+> ⭐ 2,526 · Dart · 2026-05-04T09:25:42Z  
 > [GitHub](https://github.com/Chevey339/kelivo) · [Website](https://kelivo.psycheas.top)  
 > `#AI 智能体` `#Cross-Platform` `#Flutter` `#ai` `#android` `#chatbot` `#chatbox` `#flutter` `#flutter-apps` `#harmony` `#harmonyos` `#ios` `#llm` `#openharmony` 
 > Kelivo is a cross-platform LLM chat client built with Flutter, supporting mobile (Android/iOS/Harmony) and desktop (Windows/macOS/Linux). It features modern Material You design, multi-language support, integration with major AI providers, MCP tools, web search, TTS, Markdown rendering, and custom fonts for an intelligent conversational experience.
@@ -364,7 +364,7 @@
 ## DigitalPlatDev/FreeDomain
 
 > [!info]
-> ⭐ 159,860 · HTML · 2026-05-03T09:21:04Z  
+> ⭐ 160,037 · HTML · 2026-05-04T10:19:41Z  
 > [GitHub](https://github.com/DigitalPlatDev/FreeDomain) · [Website](https://domain.digitalplat.org)  
 > `#Digital Identity` `#Domain Service` `#Free Domain` `#digitalplat` `#domain` `#domain-platform` `#domainname` `#domains` `#free` `#freedomain` 
 > DigitalPlat FreeDomain offers free domain registration for individuals and organizations with exclusive extensions like .DPDNS.ORG and .US.KG. Built and maintained by Edward Hsing, founder of DigitalPlat Foundation, it integrates seamlessly with popular DNS providers such as Cloudflare. With over 400,000 domains registered, it empowers users to establish a digital presence at zero cost, promoting open access to the web.
@@ -394,7 +394,7 @@
 ## s4huan/NXJS-ARCH
 
 > [!info]
-> ⭐ 325 · JavaScript · 2026-05-03T08:12:11Z  
+> ⭐ 323 · JavaScript · 2026-05-04T09:21:12Z  
 > [GitHub](https://github.com/s4huan/NXJS-ARCH) · [Website](https://spoo.me/nxs-docs)  
 > `#architecture` `#docs` `#next-auth` 
 > 暂无描述。
@@ -432,7 +432,7 @@
 ## Liu-Hy/WMDD
 
 > [!info]
-> ⭐ 58 · Python · 2026-04-22T02:14:43Z  
+> ⭐ 59 · Python · 2026-05-03T13:32:39Z  
 > [GitHub](https://github.com/Liu-Hy/WMDD) · [Website](https://liu-hy.github.io/WMDD/)  
 > `#Dataset Distillation` `#Optimal Transport` `#Wasserstein Metric` `#dataset-distillation` `#distillation` `#efficiency` `#efficient-ai` `#optimal-transport` 
 > WMDD is a dataset distillation method using the Wasserstein metric to match synthetic data distributions via feature barycenters from pretrained classifiers, preserving intra-class variations with BatchNorm statistics. It achieves state-of-the-art results on high-resolution datasets like ImageNet and Tiny-ImageNet, with full PyTorch implementation and distilled datasets available.
@@ -462,7 +462,7 @@
 ## AIR-hl/llm-interview-code
 
 > [!info]
-> ⭐ 389 · Jupyter Notebook · 2026-05-03T07:36:49Z  
+> ⭐ 390 · Jupyter Notebook · 2026-05-04T08:27:28Z  
 > [GitHub](https://github.com/AIR-hl/llm-interview-code)  
 > `#AI Large Models` `#Interview Preparation` `#深度学习` `#ai` `#interview` `#llm` `#lm` 
 > This repository provides a comprehensive collection of hand-written code implementations for common LLM interview topics, including attention mechanisms (MHA/GQA), model components (RoPE/LoRA), normalization layers, and advanced training losses (DPO/GRPO). Ideal for mastering core deep learning concepts and acing technical interviews in large language models.
@@ -657,7 +657,7 @@
 ## William-Liwei/shuprophet
 
 > [!info]
-> ⭐ 218 · Vue · 2026-04-30T01:22:48Z  
+> ⭐ 217 · Vue · 2026-05-04T09:24:25Z  
 > [GitHub](https://github.com/William-Liwei/shuprophet) · [Website](https://shuprophet.weili.space/)  
 > `#AI Large Model` `#Academic Research` `#Time Series Forecasting` `#Web Application` 
 > SHU Prophet is an academic-driven time series intelligent decision platform integrating 6 proprietary prediction models from CCF-B/C conference papers (e.g., ScatterFusion, AWGFormer). It offers AI-powered conversational analysis, multi-model visualization comparison, community knowledge sharing, and user tier systems. Built with Vue3+Python+Flask+LangChain, it supports cloud deployment and Docker one-click installation for research-to-production workflows.
@@ -667,7 +667,7 @@
 ## SuperKevinZhou/hpdg
 
 > [!info]
-> ⭐ 327 · Rust · 2026-05-02T04:10:16Z  
+> ⭐ 326 · Rust · 2026-05-04T09:22:43Z  
 > [GitHub](https://github.com/SuperKevinZhou/hpdg)  
 > `#Competitive Programming` `#Data Generation` `#Rust` `#competitive-programming` `#competitiveprogramming` `#cpp` `#cyaron` `#data` `#data-generator` `#high-performance` `#informatics` `#informatics-general` `#informatics-olympaid` `#multi-thread` `#oi` `#online-judge` `#online-judge-solutions` `#online-judges` `#rust` `#rust-crate` 
 > hpdg is a high-performance data generator for competitive programming, built in Rust for speed and safety. It emphasizes strong typing, multi-threaded testcase generation, and efficient graph/tree construction. Currently under active development, it aims to surpass tools like Luogu's CYaRon with faster execution and reduced misuse risks through Rust's type system.
@@ -716,7 +716,7 @@
 ## xnssg/ewt360-answer-script
 
 > [!info]
-> ⭐ 351 · JavaScript · 2026-05-03T02:56:59Z  
+> ⭐ 350 · JavaScript · 2026-05-04T09:11:44Z  
 > [GitHub](https://github.com/xnssg/ewt360-answer-script)  
 > `#Automation Tool` `#Education` `#Exam Analysis` `#User Script` 
 > A user script for automatically retrieving exam answers and explanations from the EWT360 platform. Features automatic reportId extraction, one-click answer fetching, settings panel with history management, cross-browser compatibility, donation support, and timeout protection to enhance study efficiency.
@@ -745,7 +745,7 @@
 ## hangwin/mcp-chrome
 
 > [!info]
-> ⭐ 11,371 · TypeScript · 2026-05-03T08:27:05Z  
+> ⭐ 11,373 · TypeScript · 2026-05-04T09:31:20Z  
 > [GitHub](https://github.com/hangwin/mcp-chrome)  
 > `#AI 智能体` `#Browser Automation` `#Semantic Search` 
 > Chrome MCP Server is a Chrome extension-based Model Context Protocol (MCP) server that exposes browser functionality to AI assistants like Claude, enabling complex automation, content analysis, and semantic search. It leverages your existing Chrome browser with preserved login states and settings, supports 20+ tools, offers local streamable HTTP communication, and features SIMD-accelerated vector database for intelligent tab content discovery.
@@ -765,7 +765,7 @@
 ## talex-touch/tuff
 
 > [!info]
-> ⭐ 285 · TypeScript · 2026-05-01T02:42:02Z  
+> ⭐ 285 · TypeScript · 2026-05-04T04:54:24Z  
 > [GitHub](https://github.com/talex-touch/tuff) · [Website](https://tuff.tagzxia.com)  
 > `#AI Large Model` `#Command Center` `#Plugin System` `#桌面应用` `#bar` `#command` `#electron` `#launcher` `#raycast` `#tools` `#typescript` `#utools` `#vite` `#vue` 
 > Tuff is a local-first, AI-native desktop command center built on a sandboxed architecture. It enables fast app/file search, plugin extensibility, clipboard management, and direct preview calculations. Supports BYO LLM for privacy and offers a unified download center with progress tracking.
@@ -784,7 +784,7 @@
 ## William-Liwei/ccfonline
 
 > [!info]
-> ⭐ 246 · HTML · 2026-04-21T05:40:33Z  
+> ⭐ 245 · HTML · 2026-05-04T09:24:24Z  
 > [GitHub](https://github.com/William-Liwei/ccfonline)  
 > `#Academic Information` `#Conferences & Journals` `#Data Query` 
 > CCF Online is an online platform specializing in computer science conference and journal information, offering key data such as submission deadlines, acceptance rates, and impact factors. It supports multi-dimensional filtering and visualization to help researchers efficiently plan academic activities.
@@ -813,7 +813,7 @@
 ## yluiop123/orange
 
 > [!info]
-> ⭐ 491 · TypeScript · 2026-04-29T00:25:46Z  
+> ⭐ 490 · TypeScript · 2026-05-04T09:24:48Z  
 > [GitHub](https://github.com/yluiop123/orange) · [Website](https://yluiop123.github.io/orange/)  
 > `#Admin Dashboard` `#Full-Stack Application` `#ShadCN` `#react-admin` `#shadcn` `#shadcn-admin` `#vite` 
 > ORANGE is a modern admin UI built with ShadCN, Vite, React, Zustand, and React Router, featuring dashboards, forms, and charts. The frontend uses React 19 + Vite 6 with internationalization and MSW mocking, while the backend runs on Spring Boot 4.0.2 with PostgreSQL, JWT security, and OpenAPI 3.0 documentation.
@@ -861,7 +861,7 @@
 ## cokice/japanese-analyzer
 
 > [!info]
-> ⭐ 728 · TypeScript · 2026-04-29T05:57:43Z  
+> ⭐ 727 · TypeScript · 2026-05-04T09:17:00Z  
 > [GitHub](https://github.com/cokice/japanese-analyzer) · [Website](https://japanese-analyzer-demo.vercel.app)  
 > `#AI LLM` `#Japanese Learning` `#Web Application` 
 > AI-powered Japanese sentence analyzer using Gemini Flash model, designed for Chinese learners. Features intelligent syntax parsing, OCR text extraction, TTS pronunciation, bilingual translation, dark mode, and customizable API key deployment with password protection.
@@ -870,7 +870,7 @@
 ## JiayuXu0/FastAPI-Template
 
 > [!info]
-> ⭐ 454 · Python · 2026-04-30T02:41:21Z  
+> ⭐ 458 · Python · 2026-05-04T10:04:19Z  
 > [GitHub](https://github.com/JiayuXu0/FastAPI-Template) · [Website](https://jiayuxu0.github.io/FastAPI-Template/)  
 > `#Backend Development` `#Enterprise Application` `#FastAPI` `#api` `#async` `#authentication` `#boilerplate` `#database` `#fastapi` `#openapi` `#pydantic` `#python` `#starlette` `#swagger` `#template` `#uvicorn` 
 > Production-ready FastAPI backend template featuring clean three-layer architecture with JWT authentication, RBAC authorization, Redis caching, and async database operations. Includes complete modules for user management, file handling, department organization, Docker deployment, and automated database migrations - ready for team development.
@@ -880,7 +880,7 @@
 ## ohosvscode/arkTS
 
 > [!info]
-> ⭐ 846 · TypeScript · 2026-05-02T16:47:46Z  
+> ⭐ 845 · TypeScript · 2026-05-04T09:15:20Z  
 > [GitHub](https://github.com/ohosvscode/arkTS) · [Website](https://marketplace.visualstudio.com/items?itemName=NailyZero.vscode-naily-ets)  
 > `#ArkTS Language` `#HarmonyOS Development` `#VSCode Extension` `#arkts` `#development-tools` `#harmony` `#harmonyos` `#harmonyos-next` `#huawei` `#vscode` `#vscode-extensions` 
 > Naily's ArkTS Support is a VSCode extension for HarmonyOS ArkTS development, offering syntax highlighting, intelligent completion, navigation, diagnostics, code formatting (via Rust-based oxk toolchain), OpenHarmony SDK management, DevEco Studio emulator integration, hvigor task execution, and ArkTS-specific snippets to enhance development efficiency.
@@ -890,7 +890,7 @@
 ## houhongxu/zeropress
 
 > [!info]
-> ⭐ 171 · JavaScript · 2026-02-04T23:01:39Z  
+> ⭐ 170 · JavaScript · 2026-05-04T09:24:40Z  
 > [GitHub](https://github.com/houhongxu/zeropress) · [Website](https://intrinsic.asia)  
 > `#MDX` `#Static Site Generation` `#Vite` 
 > ZEROPRESS is a zero-config static site generator (SSG) framework built on Vite, delivering ultra-fast builds and hot reloading. It leverages MDX2 with JavaScript and React for powerful content creation, auto-generates navigation and sidebar, supports Chinese paths, and enables instant deployment—ideal for docs or blogs.
@@ -910,7 +910,7 @@
 ## msgaxzzz/Milo-discord-fun-bot
 
 > [!info]
-> ⭐ 258 · Python · 2026-04-18T16:46:46Z  
+> ⭐ 257 · Python · 2026-05-04T09:20:18Z  
 > [GitHub](https://github.com/msgaxzzz/Milo-discord-fun-bot) · [Website](https://milo-discord-bot.menice.dev)  
 > `#AI LLM` `#Community Management` `#Discord Bot` `#Self-Hosted` `#discord-bot` `#discord-fun-bot` `#mit-license` `#python` 
 > Milo is an open-source Discord bot built with discord.py, offering AI-assisted community support, lightweight moderation, reminders, and economy systems. It supports per-guild data isolation, customizable chat models, web search integration, and self-hosted deployment for small online communities.
@@ -1065,7 +1065,7 @@
 ## AkkoSpace/eat-what
 
 > [!info]
-> ⭐ 267 · TypeScript · 2026-04-21T14:30:27Z  
+> ⭐ 266 · TypeScript · 2026-05-04T09:14:11Z  
 > [GitHub](https://github.com/AkkoSpace/eat-what)  
 > `#Decision-Making Tool` `#Food Recommendation` `#Next.js` 
 > A Next.js-based food recommendation app that solves the 'what to eat' dilemma with random suggestions and CS-style unboxing animations. Features dish/drink recommendations, blacklist management, user ratings, and guest mode, using Prisma ORM and Cloudflare deployment with admin moderation and analytics.
@@ -1075,7 +1075,7 @@
 ## 14790897/auto-read-liunxdo
 
 > [!info]
-> ⭐ 815 · JavaScript · 2026-04-25T09:34:20Z  
+> ⭐ 814 · JavaScript · 2026-05-04T09:23:12Z  
 > [GitHub](https://github.com/14790897/auto-read-liunxdo)  
 > `#Automation Tool` `#Browser Automation` `#Discourse Forum` `#网页爬虫` 
 > This repository automates reading and liking posts on the Linux.do forum. It supports Tampermonkey scripts, local Node.js execution with headless browsers, and scheduled GitHub Actions workflows. Key features include auto-scrolling article reading, random likes, user-specific liking based on activity, and multi-account cookie-based login. Designed for background operation with minimal logs, compatible across Windows and Linux.
@@ -1105,7 +1105,7 @@
 ## jiayihello/Dream
 
 > [!info]
-> ⭐ 200 · JavaScript · 2026-04-30T01:22:47Z  
+> ⭐ 199 · JavaScript · 2026-05-04T09:24:49Z  
 > [GitHub](https://github.com/jiayihello/Dream)  
 > `#Frontend Theme` `#UI Design` `#V2Board` 
 > Dream is a modern frontend theme designed for V2Board v1.7.4 and compatible versions, created by @geekui. It offers responsive design and elegant UI suitable for subscription-based platforms, with easy installation via theme directory setup.
@@ -1114,7 +1114,7 @@
 ## TechnologyStar/Openai-Claude-Deepseek-API-provider
 
 > [!info]
-> ⭐ 335 · TypeScript · 2026-05-02T12:43:59Z  
+> ⭐ 336 · TypeScript · 2026-05-04T03:34:57Z  
 > [GitHub](https://github.com/TechnologyStar/Openai-Claude-Deepseek-API-provider)  
 > `#AI Agents` `#API Aggregation` `#Free Trial` 
 > This open-source project serves as a curated navigation hub for third-party APIs of major AI models including OpenAI, Claude, DeepSeek, and Gemini. It offers free access without registration, supports multi-model integration, and emphasizes compliance with usage policies for educational and non-commercial purposes.
@@ -1124,7 +1124,7 @@
 ## 14790897/MapDistancePro
 
 > [!info]
-> ⭐ 302 · TypeScript · 2026-04-24T13:26:12Z  
+> ⭐ 301 · TypeScript · 2026-05-04T09:18:43Z  
 > [GitHub](https://github.com/14790897/MapDistancePro) · [Website](https://map.14790897.xyz/)  
 > `#Amap API` `#Batch Address Processing` `#Geospatial Services` `#distance` `#map` `#mutiple` 
 > MapDistancePro is a batch address distance calculation tool powered by Amap API, supporting multi-address geocoding, GPS positioning, spherical distance computation, and map visualization. Features include CSV export, config persistence, customizable request limits, ideal for logistics and travel planning.
@@ -1163,7 +1163,7 @@
 ## 1229984599/nav
 
 > [!info]
-> ⭐ 348 · Vue · 2026-05-01T15:42:59Z  
+> ⭐ 347 · Vue · 2026-05-04T09:23:07Z  
 > [GitHub](https://github.com/1229984599/nav)  
 > `#Automation Tool` `#Navigation Website` `#Personal Tools` `#网页爬虫` 
 > A personal navigation website that supports custom link management and automatic web scraping of site information. Features responsive frontend, admin panel, and Docker deployment with support for SQLite, MySQL, PostgreSQL databases and Nginx port forwarding.
@@ -1183,11 +1183,11 @@
 ## ljcyt/OpenFeiShuApis
 
 > [!info]
-> ⭐ 109 · Python · 2026-05-03T09:02:15Z  
-> [GitHub](https://github.com/ljcyt/OpenFeiShuApis)  
-> `#AI 智能体` `#API Wrapper` `#Feishu Integration` 
+> ⭐ 109 · Python · 2026-05-03T13:17:35Z  
+> [GitHub](https://github.com/ljcyt/OpenFeiShuApis) · [Website](https://github.com/ljcyt/OpenFeiShuApis)  
+> `#AI 智能体` `#API Wrapper` `#Feishu Integration` `#ai-agent` `#api` `#chatbot` `#feishu` `#lark` `#protobuf` `#python` `#reverse-engineering` `#websocket` 
 > OpenFeiShuApi is a third-party API integration library for Feishu, offering Python and Node.js support. It encapsulates all HTTP APIs and WebSocket private messaging protocols from the Feishu Open Platform. Features async communication, event subscription middleware, and is ideal for building Feishu AI bots and enterprise AI agents with message automation.
-> <sub>飞书算法逆向，飞书apis，飞书AI机器人，定制企业AI Agent，接入各类AI平台</sub>
+> <sub>飞书算法逆向，飞书APIs，飞书AI机器人，定制企业AI Agent，接入各类AI平台</sub>
 
 ---
 ## Veloera/Veloera
@@ -1202,7 +1202,7 @@
 ## ZHangZHengEric/Sage
 
 > [!info]
-> ⭐ 1,269 · Python · 2026-05-02T07:17:40Z  
+> ⭐ 1,270 · Python · 2026-05-04T05:46:32Z  
 > [GitHub](https://github.com/ZHangZHengEric/Sage) · [Website](https://zhangzhengeric.github.io/Sage/)  
 > `#AI Agents` `#Multi-Agent System` `#Task Orchestration` `#agents` `#ai` `#llm` `#manus` `#muilt-agents` `#workflow` 
 > Sage is a production-ready multi-agent framework enabling complex task orchestration, model capability maximization, and secure sandbox execution. It features a visual workbench, OpenTelemetry tracing, MCP protocol support, and cross-platform desktop apps for intelligent collaboration and automation.
@@ -1250,7 +1250,7 @@
 ## itmanmax/mylove-pastpain
 
 > [!info]
-> ⭐ 340 · Vue · 2026-04-20T18:23:41Z  
+> ⭐ 339 · Vue · 2026-05-04T09:38:49Z  
 > [GitHub](https://github.com/itmanmax/mylove-pastpain) · [Website](https://mylove2.maxtral.fun)  
 > `#Emotional Expression` `#Holiday Blessing` `#Vue3` 
 > A Vue 3 + Vite-based holiday blessing web app designed to help users express emotions and convey wishes, avoiding life regrets. Built with modern frontend tech for dynamic interactions, ideal for personal tributes or festive occasions.
@@ -1329,7 +1329,7 @@
 ## w0xking/w0xking.github.io
 
 > [!info]
-> ⭐ 294 · HTML · 2026-04-24T13:26:10Z  
+> ⭐ 293 · HTML · 2026-05-04T09:22:23Z  
 > [GitHub](https://github.com/w0xking/w0xking.github.io) · [Website](https://w0xking-github-io.vercel.app)  
 > `#Penetration Testing` `#Technical Blog` `#网络安全` 
 > w0xking.github.io is a personal technical blog focused on cybersecurity, penetration testing, and web security research. It features practical techniques, tool development insights, and vulnerability analysis, built with a static site architecture for clear navigation and code highlighting, ideal for sharing knowledge in the security community.
@@ -1379,7 +1379,7 @@
 ## wendell0218/Awesome-RL-for-Video-Generation
 
 > [!info]
-> ⭐ 474 · N/A · 2026-05-01T17:31:06Z  
+> ⭐ 475 · N/A · 2026-05-03T10:47:23Z  
 > [GitHub](https://github.com/wendell0218/Awesome-RL-for-Video-Generation)  
 > `#AI 智能体` `#Reinforcement Learning` `#Video Generation` `#dpo` `#grpo` `#ppo` `#reinforcement-learning` `#reward-model` `#video-generation` 
 > This repository curates cutting-edge research on reinforcement learning for video generation, featuring automated paper tracking (daily updates), RL-Video-Gen framework using GRPO strategy, and benchmarking tools like VideoGenBench. It bridges theoretical advances with practical applications through structured analysis of methods, datasets, and evaluation metrics.
@@ -1399,7 +1399,7 @@
 ## karldoenitz/Tigo
 
 > [!info]
-> ⭐ 2,248 · Go · 2026-04-30T16:09:07Z  
+> ⭐ 2,247 · Go · 2026-05-04T07:01:31Z  
 > [GitHub](https://github.com/karldoenitz/Tigo) · [Website](https://karldoenitz.github.io/Tigo/)  
 > `#Go Language` `#High Concurrency` `#Web Framework` `#go` `#golang` `#middleware` `#rest-api` `#restful` `#tigo` `#web` 
 > Tigo is a high-performance Go web framework featuring Tornado-like asynchronous APIs with superior performance. It supports routing, middleware, and RESTful development via tools like the scaffold generator 'tiger' and session plugin 'tission', ideal for building scalable backend services.
@@ -1419,7 +1419,7 @@
 ## tbphp/gpt-load
 
 > [!info]
-> ⭐ 6,158 · Go · 2026-05-03T09:17:35Z  
+> ⭐ 6,157 · Go · 2026-05-04T06:05:21Z  
 > [GitHub](https://github.com/tbphp/gpt-load) · [Website](https://www.gpt-load.com)  
 > `#AI Proxy` `#API Gateway` `#Key Management` `#Load Balancing` `#anthropic` `#claude` `#gemini` `#gin` `#go` `#golang` `#openai` 
 > GPT-Load is a high-performance, enterprise-grade transparent proxy service for AI APIs, designed for developers and enterprises integrating multiple AI services. Built with Go, it features intelligent key rotation, load balancing, automatic failure recovery, hot-reload configuration, and comprehensive monitoring. Supports OpenAI, Google Gemini, and Anthropic Claude APIs with a Vue 3 management interface.
@@ -1598,7 +1598,7 @@
 ## drl990114/MarkFlowy
 
 > [!info]
-> ⭐ 2,307 · TypeScript · 2026-05-03T03:11:46Z  
+> ⭐ 2,307 · TypeScript · 2026-05-04T05:34:50Z  
 > [GitHub](https://github.com/drl990114/MarkFlowy) · [Website](https://www.markflowy.cc)  
 > `#AI 智能体` `#Markdown Editor` `#桌面应用` `#ai` `#chatgpt` `#deepseek` `#editor` `#linux-app` `#macos-app` `#markdown` `#markdowneditor` `#notes-app` `#prosemirror` `#reactjs` `#rust-lang` `#tauri` `#typescript` `#windows-app` 
 > MarkFlowy is a modern, intelligent Markdown editor built with Tauri for lightweight performance (<20MB). It features integrated AI (Copilot, translation, summarization), multi-mode editing (source/WYSIWYG), Prosemirror core, custom themes, and cross-platform support. Designed for efficient writing, document management, and content creation.
@@ -1608,7 +1608,7 @@
 ## Jsaperrr/SocialNext
 
 > [!info]
-> ⭐ 359 · TypeScript · 2026-04-21T12:06:40Z  
+> ⭐ 358 · TypeScript · 2026-05-04T09:22:30Z  
 > [GitHub](https://github.com/Jsaperrr/SocialNext) · [Website](https://social-next-dun.vercel.app)  
 > `#Full-Stack App` `#Next.js` `#Social Media` 
 > SocialNext is a lightweight, modern social media platform built with Next.js 14, featuring secure authentication via Clerk, real-time interactions (posts, comments, likes, follows), media uploads with UploadThing, and a responsive design with dark mode support.
@@ -1637,7 +1637,7 @@
 ## Leelokhan/Simple-personal-static-web-page
 
 > [!info]
-> ⭐ 259 · JavaScript · 2026-04-29T12:24:06Z  
+> ⭐ 258 · JavaScript · 2026-05-04T09:24:53Z  
 > [GitHub](https://github.com/Leelokhan/Simple-personal-static-web-page) · [Website](https://simple-personal-static-web-page.vercel.app)  
 > `#AI Application` `#Frontend Development` `#Personal Website` 
 > This is a personal static web page built with AI, featuring Live2D virtual characters, music/video players, image viewer with WASD controls, and custom mouse effects. It enables easy deployment for personalized homepages, ideal for frontend development practice and exploring AI-powered web interactions.
@@ -1666,7 +1666,7 @@
 ## pengwh96/bkk
 
 > [!info]
-> ⭐ 333 · Python · 2026-04-30T01:22:38Z  
+> ⭐ 332 · Python · 2026-05-04T09:19:25Z  
 > [GitHub](https://github.com/pengwh96/bkk)  
 > `#Streamlit` `#Web Application` `#数据可视化` 
 > This is a blank app template built with Streamlit, enabling rapid development of data visualization and interactive web applications. After installing dependencies via pip, the app can be run directly, ideal for prototyping or lightweight dashboard creation.
@@ -1684,7 +1684,7 @@
 ## ling-drag0n/CloudPaste
 
 > [!info]
-> ⭐ 2,340 · JavaScript · 2026-05-02T19:07:46Z  
+> ⭐ 2,344 · JavaScript · 2026-05-04T09:38:55Z  
 > [GitHub](https://github.com/ling-drag0n/CloudPaste) · [Website](https://doc.cloudpaste.qzz.io)  
 > `#File Management` `#Multi-Storage Integration` `#Serverless Architecture` `#cloudflare` `#cloudflare-workers` `#docker` `#file-browser` `#huggingface` `#markdown` `#onedrive` `#s3` `#telegram` `#telegrambot` `#webdav` 
 > CloudPaste is a serverless file management and text sharing tool built on Cloudflare Workers, supporting multi-storage aggregation (S3, WebDAV, OneDrive, Google Drive, etc.), online preview for 30+ file formats, and WebDAV mounting. It features an integrated Markdown editor with real-time preview and export to PDF/HTML, deployable via Docker or Cloudflare Workers.
@@ -1714,7 +1714,7 @@
 ## lost66668888/easy-6digit-domains
 
 > [!info]
-> ⭐ 324 · Python · 2026-04-21T07:53:33Z  
+> ⭐ 323 · Python · 2026-05-04T09:15:17Z  
 > [GitHub](https://github.com/lost66668888/easy-6digit-domains)  
 > `#Automation Tool` `#Domain Service` `#Memorable Numbers` `#6-digit-domain-name` `#alibaba-cloud-account` `#domain-name` `#easy-to-remember-domain-name` `#premium-domain-name` `#short-domain-name` `#xyz-domain-name` 
 > This project provides a batch domain availability checker and generator for memorable 6-digit .xyz domains on Alibaba Cloud, supporting patterns like sequences, symmetry, repeats, and years. It outputs registrable domains priced at 7 CNY in real-time, ideal for branding or asset acquisition.
@@ -1743,7 +1743,7 @@
 ## qqzwqq/sublink-worker
 
 > [!info]
-> ⭐ 434 · JavaScript · 2026-05-02T09:12:20Z  
+> ⭐ 433 · JavaScript · 2026-05-04T09:27:48Z  
 > [GitHub](https://github.com/qqzwqq/sublink-worker) · [Website](https://sublink-worker.sageer.me/)  
 > `#Cloudflare Workers` `#Proxy Protocols` `#Subscription Converter` 
 > Sublink Worker is a lightweight subscription converter supporting multiple proxy protocols like Shadowsocks, V2Ray, and Clash. It enables one-click deployment on Cloudflare Workers, Vercel, or Docker without needing a server, offering flexible APIs and customization for self-hosted node sharing and subscription management.
@@ -1838,7 +1838,7 @@
 ## secdiiii/CloudFlare-ImgBed
 
 > [!info]
-> ⭐ 351 · JavaScript · 2026-05-02T02:53:44Z  
+> ⭐ 350 · JavaScript · 2026-05-04T09:24:13Z  
 > [GitHub](https://github.com/secdiiii/CloudFlare-ImgBed) · [Website](https://cfbed.1314883.xyz)  
 > `#CloudFlare Pages` `#File Hosting` `#Serverless Deployment` 
 > CloudFlare-ImgBed is an open-source file hosting solution built on CloudFlare Pages, supporting Docker and serverless deployment. It offers full lifecycle management of files with upload, authentication, directory structure, image moderation, and compatibility across multiple storage backends like Telegram, R2, S3, and Huggingface, along with WebDAV and RESTful API support.
@@ -1887,7 +1887,7 @@
 ## Mcxiaocaibug/AzureDreamWebsite
 
 > [!info]
-> ⭐ 339 · JavaScript · 2026-04-30T01:22:43Z  
+> ⭐ 338 · JavaScript · 2026-05-04T09:23:08Z  
 > [GitHub](https://github.com/Mcxiaocaibug/AzureDreamWebsite)  
 > `#Modern Website` `#Next.js` `#Web Development` 
 > AzureDreamWebsite is a modern multi-page website built with Next.js using the App Router. It features dynamic shaders, frosted glass effects, and responsive design across all devices. The project includes pages for home, intro, join, hall of fame, and team, with CDN acceleration and security protection sponsored by Tencent EdgeOne.
