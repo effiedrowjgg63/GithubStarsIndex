@@ -1,6 +1,6 @@
 # ⭐ GitHub Stars Index
 
-> Updated: 2026-07-04 10:18 UTC · Total: 182
+> Updated: 2026-07-05 10:23 UTC · Total: 182
 
 ---
 
@@ -203,7 +203,7 @@
 ## MayDay-wpf/snow-cli
 
 > [!info]
-> ⭐ 1,093 · TypeScript · 2026-07-04T03:27:37Z  
+> ⭐ 1,094 · TypeScript · 2026-07-05T08:40:32Z  
 > [GitHub](https://github.com/MayDay-wpf/snow-cli) · [Website](https://snowcli.com)  
 > `#AI智能体` `#代码自动化` `#终端工具` `#ai` `#ai-agents` `#ai-coding` 
 > Snow AI CLI 是一款终端 Agentic 编程工具，支持智能代码生成、漏洞检测、异步任务管理和 LSP 集成。通过命令注入、子代理配置和钩子自动化，提供高度可定制的 AI 编码体验，适用于开发者快速构建、审查和优化代码。
@@ -223,7 +223,7 @@
 ## MIV-XJTU/SeqGrowGraph
 
 > [!info]
-> ⭐ 133 · Python · 2026-06-29T07:36:26Z  
+> ⭐ 134 · Python · 2026-07-04T22:08:40Z  
 > [GitHub](https://github.com/MIV-XJTU/SeqGrowGraph)  
 > `#图神经网络` `#自动驾驶` `#车道拓扑建模` 
 > SeqGrowGraph 是 ICCV 2025 论文提出的车道拓扑学习方法，通过增量式构建有向图结构（逐顶点扩展邻接矩阵），将动态图演化序列化，模拟人类地图绘制过程，实现高效鲁棒的拓扑建模。基于 nuScenes 数据集，结合 mmdetection3d 框架，支持端到端训练与推理。
@@ -351,7 +351,7 @@
 ## Chevey339/kelivo
 
 > [!info]
-> ⭐ 3,167 · Dart · 2026-07-04T09:55:16Z  
+> ⭐ 3,181 · Dart · 2026-07-05T06:28:38Z  
 > [GitHub](https://github.com/Chevey339/kelivo) · [Website](https://kelivo.psycheas.top)  
 > `#AI智能体` `#Flutter` `#跨平台` `#ai` `#android` `#chatbot` `#chatbox` `#flutter` `#flutter-apps` `#harmony` `#harmonyos` `#ios` `#llm` `#openharmony` 
 > Kelivo 是一款基于 Flutter 开发的跨平台 LLM 聊天客户端，支持移动端（Android/iOS/Harmony）和桌面端（Windows/macOS/Linux）。具备现代化 Material You 设计、多语言支持、多 AI 服务商接入、MCP 工具集成、网页搜索、语音合成、Markdown 渲染及自定义字体等功能，提供高效智能对话体验。
@@ -361,7 +361,7 @@
 ## DigitalPlatDev/FreeDomain
 
 > [!info]
-> ⭐ 182,755 · HTML · 2026-07-04T10:15:35Z  
+> ⭐ 183,023 · HTML · 2026-07-05T10:20:54Z  
 > [GitHub](https://github.com/DigitalPlatDev/FreeDomain) · [Website](https://domain.digitalplat.org)  
 > `#免费域名` `#域名服务` `#数字身份` `#digitalplat` `#domain` `#domain-platform` `#domainname` `#domains` `#free` `#freedomain` 
 > DigitalPlat FreeDomain 是一个面向个人和组织的免费域名注册平台，提供 .DPDNS.ORG、.US.KG 等专属后缀域名，支持与主流 DNS 服务商（如 Cloudflare）无缝集成。项目由 DigitalPlat Foundation 创始人 Edward Hsing 独立开发维护，已服务超 40 万用户，致力于降低网络接入门槛，推动互联网开放包容。
@@ -391,7 +391,7 @@
 ## s4huan/NXJS-ARCH
 
 > [!info]
-> ⭐ 342 · JavaScript · 2026-07-04T06:32:29Z  
+> ⭐ 342 · JavaScript · 2026-07-04T23:37:31Z  
 > [GitHub](https://github.com/s4huan/NXJS-ARCH) · [Website](https://spoo.me/nxs-docs)  
 > `#architecture` `#docs` `#next-auth` 
 > 暂无描述。
@@ -459,7 +459,7 @@
 ## AIR-hl/llm-interview-code
 
 > [!info]
-> ⭐ 502 · Jupyter Notebook · 2026-07-04T01:29:26Z  
+> ⭐ 504 · Jupyter Notebook · 2026-07-05T08:07:58Z  
 > [GitHub](https://github.com/AIR-hl/llm-interview-code)  
 > `#AI大模型` `#深度学习` `#面试题库` `#ai` `#interview` `#llm` `#lm` 
 > LLM面试常见手撕代码合集，涵盖注意力机制、模型组件、归一化、损失函数等核心模块实现。提供MHA/GQA、RoPE、LoRA、DPO/GRPO等高频考点完整代码示例，适合深度学习工程师系统掌握大模型底层原理与面试实战。
@@ -722,7 +722,7 @@
 ## hangwin/mcp-chrome
 
 > [!info]
-> ⭐ 12,037 · TypeScript · 2026-07-04T08:46:59Z  
+> ⭐ 12,044 · TypeScript · 2026-07-05T10:00:16Z  
 > [GitHub](https://github.com/hangwin/mcp-chrome)  
 > `#AI智能体` `#浏览器自动化` `#语义搜索` 
 > Chrome MCP Server 是一款基于 Chrome 扩展的 Model Context Protocol (MCP) 服务器，将浏览器功能暴露给 Claude 等 AI 助手，实现复杂浏览器自动化、内容分析与语义搜索。它直接利用用户现有 Chrome 环境，保留登录状态与配置，支持 20+ 工具，提供本地流式 HTTP 通信，并集成 SIMD 加速的向量数据库，实现智能跨标签页语义检索。
@@ -742,7 +742,7 @@
 ## talex-touch/tuff
 
 > [!info]
-> ⭐ 283 · TypeScript · 2026-07-01T06:52:03Z  
+> ⭐ 282 · TypeScript · 2026-07-05T10:09:37Z  
 > [GitHub](https://github.com/talex-touch/tuff) · [Website](https://tuff.tagzxia.com)  
 > `#AI大模型` `#命令中心` `#插件系统` `#桌面应用` `#bar` `#command` `#electron` `#launcher` `#raycast` `#tools` `#typescript` `#utools` `#vite` `#vue` 
 > Tuff 是一个基于沙箱架构的本地优先、AI原生桌面命令中心，提供快速应用与文件搜索、插件化扩展、多窗口管理等功能。支持自定义 LLM 接入，具备统一下载中心与上下文智能建议，旨在无缝集成用户工作流。
@@ -810,7 +810,7 @@
 ## IonRh/Cloudflare-BestIP
 
 > [!info]
-> ⭐ 449 · JavaScript · 2026-06-29T07:31:43Z  
+> ⭐ 451 · JavaScript · 2026-07-04T20:27:42Z  
 > [GitHub](https://github.com/IonRh/Cloudflare-BestIP)  
 > `#DNS自动化` `#IP优选` `#网络优化` 
 > Cloudflare BestIP 是一款基于 Go 语言开发的高性能 IP 优选自动化工具，集成 XIU2/CloudflareSpeedTest 测速引擎，支持 IPv4/IPv6 双栈优选及多平台 DNS 自动更新（Cloudflare、阿里云、DNSPod、华为云），具备定时健康检测、Web 可视化展示和 Telegram 推送功能。
@@ -1140,7 +1140,7 @@
 ## 1229984599/nav
 
 > [!info]
-> ⭐ 359 · Vue · 2026-07-04T09:55:46Z  
+> ⭐ 360 · Vue · 2026-07-04T17:10:25Z  
 > [GitHub](https://github.com/1229984599/nav)  
 > `#个人工具` `#导航网站` `#网页爬虫` `#自动化工具` 
 > 个人导航网站，支持自定义链接管理与自动爬取网站信息，提供响应式前端界面和后台管理功能。采用Docker部署，兼容SQLite、MySQL、PostgreSQL数据库，支持Nginx端口转发，适合快速搭建个性化网址导航站。
@@ -1316,7 +1316,7 @@
 ## kadidalax/cf-vps-monitor
 
 > [!info]
-> ⭐ 789 · JavaScript · 2026-07-04T09:03:53Z  
+> ⭐ 794 · TypeScript · 2026-07-05T10:17:13Z  
 > [GitHub](https://github.com/kadidalax/cf-vps-monitor)  
 > `#Cloudflare Worker` `#VPS监控` `#运维自动化` 
 > 基于 Cloudflare Worker 和 D1 数据库构建的轻量级 VPS 探针与网站监控面板，无需自建服务器即可部署。支持实时采集服务器状态、检测网站可用性，并提供响应式前端界面与后台管理功能，集成 Telegram 通知及自定义主题配置。
@@ -1396,7 +1396,7 @@
 ## tbphp/gpt-load
 
 > [!info]
-> ⭐ 6,235 · Go · 2026-07-03T17:55:32Z  
+> ⭐ 6,238 · Go · 2026-07-04T18:35:44Z  
 > [GitHub](https://github.com/tbphp/gpt-load) · [Website](https://www.gpt-load.com)  
 > `#AI智能代理` `#API网关` `#密钥管理` `#负载均衡` `#anthropic` `#claude` `#gemini` `#gin` `#go` `#golang` `#openai` 
 > GPT-Load 是一个高性能企业级 AI API 透明代理服务，专为需要集成多 AI 服务的开发者和企业设计。基于 Go 构建，具备智能密钥轮询、负载均衡、故障自动恢复、动态配置热重载等特性，支持 OpenAI、Google Gemini、Anthropic Claude 等多种 AI 服务格式，提供完整的监控和管理界面。
@@ -1575,11 +1575,11 @@
 ## drl990114/MarkFlowy
 
 > [!info]
-> ⭐ 2,328 · TypeScript · 2026-07-04T09:44:21Z  
+> ⭐ 2,329 · TypeScript · 2026-07-05T07:52:17Z  
 > [GitHub](https://github.com/drl990114/MarkFlowy) · [Website](https://www.markflowy.cc)  
 > `#AI智能体` `#Markdown编辑器` `#桌面应用` `#ai` `#chatgpt` `#deepseek` `#editor` `#linux-app` `#macos-app` `#markdown` `#markdowneditor` `#notes-app` `#prosemirror` `#reactjs` `#rust-lang` `#tauri` `#typescript` `#windows-app` 
 > MarkFlowy 是一款现代化智能 Markdown 编辑器，基于 Tauri 框架开发，体积小巧（<20MB）且性能优异。核心功能包括内置 AI 助手（支持 Copilot、翻译、摘要）、多模式编辑（源码/WYSIWYG）、Prosemirror 引擎、多语言支持及自定义主题。适用于高效写作、文档管理和跨平台内容创作。
-> <sub>The AI Markdown Editor</sub>
+> <sub>AI-powered cross-platform editor for WYSIWYG Markdown and general-purpose text editing.</sub>
 
 ---
 ## Jsaperrr/SocialNext
@@ -1651,7 +1651,7 @@
 ## ling-drag0n/CloudPaste
 
 > [!info]
-> ⭐ 2,520 · JavaScript · 2026-07-03T21:15:18Z  
+> ⭐ 2,523 · JavaScript · 2026-07-05T06:14:04Z  
 > [GitHub](https://github.com/ling-drag0n/CloudPaste) · [Website](https://doc.cloudpaste.qzz.io)  
 > `#多存储聚合` `#文件管理` `#无服务器架构` `#cloudflare` `#cloudflare-workers` `#docker` `#file-browser` `#huggingface` `#markdown` `#onedrive` `#s3` `#telegram` `#telegrambot` `#webdav` 
 > CloudPaste 是一个基于 Cloudflare Workers 的无服务器文件管理与文本分享工具，支持多存储聚合（S3、WebDAV、OneDrive、Google Drive 等），提供 30+ 文件格式在线预览及 WebDAV 挂载功能。内置 Markdown 编辑器，支持实时预览与导出，兼容 Docker 部署，适用于个人或企业轻量化云盘场景。
@@ -1815,7 +1815,7 @@
 ## Dainoar/SuperAutoStudy
 
 > [!info]
-> ⭐ 600 · Java · 2026-07-04T09:17:00Z  
+> ⭐ 601 · Java · 2026-07-05T04:16:34Z  
 > [GitHub](https://github.com/Dainoar/SuperAutoStudy)  
 > `#AI智能答题` `#SpringBoot微服务` `#教育自动化` `#java` `#llm` `#springboot` 
 > SuperAutoStudy 是基于 Spring Boot + Dubbo + RabbitMQ 的分布式超星学习通自动化刷课平台，支持多级倍速播放、断点续学和智能答题。集成百万级 Super 题库与大模型技术，具备高并发任务调度能力，提供 Docker 一键部署方案，适用于个人自部署与二次开发。

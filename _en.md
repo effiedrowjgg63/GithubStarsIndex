@@ -1,6 +1,6 @@
 # ⭐ GitHub Stars Index
 
-> Updated: 2026-07-04 10:18 UTC · Total: 182
+> Updated: 2026-07-05 10:23 UTC · Total: 182
 
 ---
 
@@ -203,7 +203,7 @@
 ## MayDay-wpf/snow-cli
 
 > [!info]
-> ⭐ 1,093 · TypeScript · 2026-07-04T03:27:37Z  
+> ⭐ 1,094 · TypeScript · 2026-07-05T08:40:32Z  
 > [GitHub](https://github.com/MayDay-wpf/snow-cli) · [Website](https://snowcli.com)  
 > `#AI 智能体` `#Code Automation` `#Terminal Tool` `#ai` `#ai-agents` `#ai-coding` 
 > Snow AI CLI is an agentic coding tool for the terminal, enabling intelligent code generation, vulnerability scanning, and async task management. With command injection, sub-agent configuration, and hook automation, it offers a customizable AI-driven development workflow for building, reviewing, and optimizing code efficiently.
@@ -223,7 +223,7 @@
 ## MIV-XJTU/SeqGrowGraph
 
 > [!info]
-> ⭐ 133 · Python · 2026-06-29T07:36:26Z  
+> ⭐ 134 · Python · 2026-07-04T22:08:40Z  
 > [GitHub](https://github.com/MIV-XJTU/SeqGrowGraph)  
 > `#Autonomous Driving` `#Graph Neural Networks` `#Lane Topology Modeling` 
 > SeqGrowGraph, presented at ICCV 2025, incrementally constructs directed lane graphs by expanding adjacency matrices vertex-by-vertex, serializing graph evolution to mimic human map-drawing. It enables robust and efficient topology learning on nuScenes, with full training/inference pipeline via mmdetection3d.
@@ -351,7 +351,7 @@
 ## Chevey339/kelivo
 
 > [!info]
-> ⭐ 3,167 · Dart · 2026-07-04T09:55:16Z  
+> ⭐ 3,181 · Dart · 2026-07-05T06:28:38Z  
 > [GitHub](https://github.com/Chevey339/kelivo) · [Website](https://kelivo.psycheas.top)  
 > `#AI 智能体` `#Cross-Platform` `#Flutter` `#ai` `#android` `#chatbot` `#chatbox` `#flutter` `#flutter-apps` `#harmony` `#harmonyos` `#ios` `#llm` `#openharmony` 
 > Kelivo is a cross-platform LLM chat client built with Flutter, supporting mobile (Android/iOS/Harmony) and desktop (Windows/macOS/Linux). It features modern Material You design, multi-language support, integration with major AI providers, MCP tools, web search, TTS, Markdown rendering, and custom fonts for an intelligent conversational experience.
@@ -361,7 +361,7 @@
 ## DigitalPlatDev/FreeDomain
 
 > [!info]
-> ⭐ 182,755 · HTML · 2026-07-04T10:15:35Z  
+> ⭐ 183,023 · HTML · 2026-07-05T10:20:54Z  
 > [GitHub](https://github.com/DigitalPlatDev/FreeDomain) · [Website](https://domain.digitalplat.org)  
 > `#Digital Identity` `#Domain Service` `#Free Domain` `#digitalplat` `#domain` `#domain-platform` `#domainname` `#domains` `#free` `#freedomain` 
 > DigitalPlat FreeDomain offers free domain registration for individuals and organizations with exclusive extensions like .DPDNS.ORG and .US.KG. Built and maintained by Edward Hsing, founder of DigitalPlat Foundation, it integrates seamlessly with popular DNS providers such as Cloudflare. With over 400,000 domains registered, it empowers users to establish a digital presence at zero cost, promoting open access to the web.
@@ -391,7 +391,7 @@
 ## s4huan/NXJS-ARCH
 
 > [!info]
-> ⭐ 342 · JavaScript · 2026-07-04T06:32:29Z  
+> ⭐ 342 · JavaScript · 2026-07-04T23:37:31Z  
 > [GitHub](https://github.com/s4huan/NXJS-ARCH) · [Website](https://spoo.me/nxs-docs)  
 > `#architecture` `#docs` `#next-auth` 
 > 暂无描述。
@@ -459,7 +459,7 @@
 ## AIR-hl/llm-interview-code
 
 > [!info]
-> ⭐ 502 · Jupyter Notebook · 2026-07-04T01:29:26Z  
+> ⭐ 504 · Jupyter Notebook · 2026-07-05T08:07:58Z  
 > [GitHub](https://github.com/AIR-hl/llm-interview-code)  
 > `#AI Large Models` `#Interview Preparation` `#深度学习` `#ai` `#interview` `#llm` `#lm` 
 > This repository provides a comprehensive collection of hand-written code implementations for common LLM interview topics, including attention mechanisms (MHA/GQA), model components (RoPE/LoRA), normalization layers, and advanced training losses (DPO/GRPO). Ideal for mastering core deep learning concepts and acing technical interviews in large language models.
@@ -722,7 +722,7 @@
 ## hangwin/mcp-chrome
 
 > [!info]
-> ⭐ 12,037 · TypeScript · 2026-07-04T08:46:59Z  
+> ⭐ 12,044 · TypeScript · 2026-07-05T10:00:16Z  
 > [GitHub](https://github.com/hangwin/mcp-chrome)  
 > `#AI 智能体` `#Browser Automation` `#Semantic Search` 
 > Chrome MCP Server is a Chrome extension-based Model Context Protocol (MCP) server that exposes browser functionality to AI assistants like Claude, enabling complex automation, content analysis, and semantic search. It leverages your existing Chrome browser with preserved login states and settings, supports 20+ tools, offers local streamable HTTP communication, and features SIMD-accelerated vector database for intelligent tab content discovery.
@@ -742,7 +742,7 @@
 ## talex-touch/tuff
 
 > [!info]
-> ⭐ 283 · TypeScript · 2026-07-01T06:52:03Z  
+> ⭐ 282 · TypeScript · 2026-07-05T10:09:37Z  
 > [GitHub](https://github.com/talex-touch/tuff) · [Website](https://tuff.tagzxia.com)  
 > `#AI Large Model` `#Command Center` `#Plugin System` `#桌面应用` `#bar` `#command` `#electron` `#launcher` `#raycast` `#tools` `#typescript` `#utools` `#vite` `#vue` 
 > Tuff is a local-first, AI-native desktop command center built on a sandboxed architecture. It enables fast app/file search, plugin extensibility, clipboard management, and direct preview calculations. Supports BYO LLM for privacy and offers a unified download center with progress tracking.
@@ -810,7 +810,7 @@
 ## IonRh/Cloudflare-BestIP
 
 > [!info]
-> ⭐ 449 · JavaScript · 2026-06-29T07:31:43Z  
+> ⭐ 451 · JavaScript · 2026-07-04T20:27:42Z  
 > [GitHub](https://github.com/IonRh/Cloudflare-BestIP)  
 > `#DNS Automation` `#IP Selection` `#Network Optimization` 
 > Cloudflare BestIP is a high-performance IP optimization automation tool built with Go, integrating the XIU2/CloudflareSpeedTest speed test engine. It supports dual-stack IPv4/IPv6 selection and automatic DNS updates across major providers (Cloudflare, Aliyun, DNSPod, HUAWEI Cloud), featuring health monitoring, web dashboard via Cloudflare Workers KV, and Telegram notifications.
@@ -1140,7 +1140,7 @@
 ## 1229984599/nav
 
 > [!info]
-> ⭐ 359 · Vue · 2026-07-04T09:55:46Z  
+> ⭐ 360 · Vue · 2026-07-04T17:10:25Z  
 > [GitHub](https://github.com/1229984599/nav)  
 > `#Automation Tool` `#Navigation Website` `#Personal Tools` `#网页爬虫` 
 > A personal navigation website that supports custom link management and automatic web scraping of site information. Features responsive frontend, admin panel, and Docker deployment with support for SQLite, MySQL, PostgreSQL databases and Nginx port forwarding.
@@ -1316,7 +1316,7 @@
 ## kadidalax/cf-vps-monitor
 
 > [!info]
-> ⭐ 789 · JavaScript · 2026-07-04T09:03:53Z  
+> ⭐ 794 · TypeScript · 2026-07-05T10:17:13Z  
 > [GitHub](https://github.com/kadidalax/cf-vps-monitor)  
 > `#Cloudflare Worker` `#DevOps Automation` `#Server Monitoring` 
 > A lightweight VPS probe and website monitoring panel built on Cloudflare Workers and D1 database, deployable without a dedicated server. It enables real-time server status collection, website uptime checks, responsive UI, admin dashboard, Telegram alerts, and customizable themes.
@@ -1396,7 +1396,7 @@
 ## tbphp/gpt-load
 
 > [!info]
-> ⭐ 6,235 · Go · 2026-07-03T17:55:32Z  
+> ⭐ 6,238 · Go · 2026-07-04T18:35:44Z  
 > [GitHub](https://github.com/tbphp/gpt-load) · [Website](https://www.gpt-load.com)  
 > `#AI Proxy` `#API Gateway` `#Key Management` `#Load Balancing` `#anthropic` `#claude` `#gemini` `#gin` `#go` `#golang` `#openai` 
 > GPT-Load is a high-performance, enterprise-grade transparent proxy service for AI APIs, designed for developers and enterprises integrating multiple AI services. Built with Go, it features intelligent key rotation, load balancing, automatic failure recovery, hot-reload configuration, and comprehensive monitoring. Supports OpenAI, Google Gemini, and Anthropic Claude APIs with a Vue 3 management interface.
@@ -1575,11 +1575,11 @@
 ## drl990114/MarkFlowy
 
 > [!info]
-> ⭐ 2,328 · TypeScript · 2026-07-04T09:44:21Z  
+> ⭐ 2,329 · TypeScript · 2026-07-05T07:52:17Z  
 > [GitHub](https://github.com/drl990114/MarkFlowy) · [Website](https://www.markflowy.cc)  
 > `#AI 智能体` `#Markdown Editor` `#桌面应用` `#ai` `#chatgpt` `#deepseek` `#editor` `#linux-app` `#macos-app` `#markdown` `#markdowneditor` `#notes-app` `#prosemirror` `#reactjs` `#rust-lang` `#tauri` `#typescript` `#windows-app` 
 > MarkFlowy is a modern, intelligent Markdown editor built with Tauri for lightweight performance (<20MB). It features integrated AI (Copilot, translation, summarization), multi-mode editing (source/WYSIWYG), Prosemirror core, custom themes, and cross-platform support. Designed for efficient writing, document management, and content creation.
-> <sub>The AI Markdown Editor</sub>
+> <sub>AI-powered cross-platform editor for WYSIWYG Markdown and general-purpose text editing.</sub>
 
 ---
 ## Jsaperrr/SocialNext
@@ -1651,7 +1651,7 @@
 ## ling-drag0n/CloudPaste
 
 > [!info]
-> ⭐ 2,520 · JavaScript · 2026-07-03T21:15:18Z  
+> ⭐ 2,523 · JavaScript · 2026-07-05T06:14:04Z  
 > [GitHub](https://github.com/ling-drag0n/CloudPaste) · [Website](https://doc.cloudpaste.qzz.io)  
 > `#File Management` `#Multi-Storage Integration` `#Serverless Architecture` `#cloudflare` `#cloudflare-workers` `#docker` `#file-browser` `#huggingface` `#markdown` `#onedrive` `#s3` `#telegram` `#telegrambot` `#webdav` 
 > CloudPaste is a serverless file management and text sharing tool built on Cloudflare Workers, supporting multi-storage aggregation (S3, WebDAV, OneDrive, Google Drive, etc.), online preview for 30+ file formats, and WebDAV mounting. It features an integrated Markdown editor with real-time preview and export to PDF/HTML, deployable via Docker or Cloudflare Workers.
@@ -1815,7 +1815,7 @@
 ## Dainoar/SuperAutoStudy
 
 > [!info]
-> ⭐ 600 · Java · 2026-07-04T09:17:00Z  
+> ⭐ 601 · Java · 2026-07-05T04:16:34Z  
 > [GitHub](https://github.com/Dainoar/SuperAutoStudy)  
 > `#AI-Powered Q&A` `#Education Automation` `#SpringBoot Microservices` `#java` `#llm` `#springboot` 
 > SuperAutoStudy is an open-source, self-deployable automation platform for Chaoxing Learning Platform, built on Spring Boot + Dubbo + RabbitMQ. It supports multi-speed video playback, auto-answering via a million-level Super Q&A database and AI models, with distributed task scheduling and Redis caching. Features Docker Compose deployment for ARM/x86.

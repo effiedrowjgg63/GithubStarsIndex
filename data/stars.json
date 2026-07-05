@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-04 10:18 UTC",
+  "last_updated": "2026-07-05 10:23 UTC",
   "repos": {
     "waoowaooAI/waoowaoo": {
       "metadata": {
@@ -3097,7 +3097,7 @@
         "name": "gpt-load",
         "owner": "tbphp",
         "description": "Multi-channel AI proxy with intelligent key rotation. 智能密钥轮询的多渠道 AI 代理。",
-        "stars": 6235,
+        "stars": 6238,
         "language": "Go",
         "url": "https://github.com/tbphp/gpt-load",
         "homepage": "https://www.gpt-load.com",
@@ -3111,7 +3111,7 @@
           "openai"
         ],
         "pushed_at": "2026-07-02T06:26:05Z",
-        "updated_at": "2026-07-03T17:55:32Z",
+        "updated_at": "2026-07-04T18:35:44Z",
         "starred_at": "2025-06-18T04:14:43Z"
       },
       "summary": {
@@ -4421,13 +4421,13 @@
         "name": "mcp-chrome",
         "owner": "hangwin",
         "description": "Chrome MCP Server is a Chrome extension-based Model Context Protocol (MCP) server that exposes your Chrome browser functionality to AI assistants like Claude, enabling complex browser automation, content analysis, and semantic search.",
-        "stars": 12037,
+        "stars": 12044,
         "language": "TypeScript",
         "url": "https://github.com/hangwin/mcp-chrome",
         "homepage": "",
         "topics": [],
         "pushed_at": "2026-01-06T13:05:39Z",
-        "updated_at": "2026-07-04T08:46:59Z",
+        "updated_at": "2026-07-05T10:00:16Z",
         "starred_at": "2025-08-25T14:40:10Z"
       },
       "summary": {
@@ -31284,13 +31284,13 @@
         "name": "SeqGrowGraph",
         "owner": "MIV-XJTU",
         "description": "[ICCV 2025] Official implementation for \"SeqGrowGraph: Learning Lane Topology as a Chain of Graph Expansions\"",
-        "stars": 133,
+        "stars": 134,
         "language": "Python",
         "url": "https://github.com/MIV-XJTU/SeqGrowGraph",
         "homepage": "",
         "topics": [],
         "pushed_at": "2025-11-14T04:23:05Z",
-        "updated_at": "2026-06-29T07:36:26Z",
+        "updated_at": "2026-07-04T22:08:40Z",
         "starred_at": "2025-11-22T19:07:55Z"
       },
       "summary": {
@@ -31316,7 +31316,7 @@
         "name": "snow-cli",
         "owner": "MayDay-wpf",
         "description": "Agentic coding in your terminal,Simultaneously compatible with OpenAI, Gemini, and Claude.运行在终端的 AI 编程智能体，同时兼容 Deepseek、OpenAI、Gemini和Claude。",
-        "stars": 1093,
+        "stars": 1094,
         "language": "TypeScript",
         "url": "https://github.com/MayDay-wpf/snow-cli",
         "homepage": "https://snowcli.com",
@@ -31325,8 +31325,8 @@
           "ai-agents",
           "ai-coding"
         ],
-        "pushed_at": "2026-07-04T03:27:33Z",
-        "updated_at": "2026-07-04T03:27:37Z",
+        "pushed_at": "2026-07-05T08:15:39Z",
+        "updated_at": "2026-07-05T08:40:32Z",
         "starred_at": "2025-11-23T10:29:17Z"
       },
       "summary": {
@@ -31789,7 +31789,7 @@
         "name": "kelivo",
         "owner": "Chevey339",
         "description": "A Flutter LLM Chat Client. Support Mobile & Desktop.",
-        "stars": 3167,
+        "stars": 3181,
         "language": "Dart",
         "url": "https://github.com/Chevey339/kelivo",
         "homepage": "https://kelivo.psycheas.top",
@@ -31807,7 +31807,7 @@
           "openharmony"
         ],
         "pushed_at": "2026-06-30T09:41:50Z",
-        "updated_at": "2026-07-04T09:55:16Z",
+        "updated_at": "2026-07-05T06:28:38Z",
         "starred_at": "2025-10-28T08:02:47Z"
       },
       "summary": {
@@ -31833,7 +31833,7 @@
         "name": "FreeDomain",
         "owner": "DigitalPlatDev",
         "description": "DigitalPlat FreeDomain: Free Domain For Everyone",
-        "stars": 182755,
+        "stars": 183023,
         "language": "HTML",
         "url": "https://github.com/DigitalPlatDev/FreeDomain",
         "homepage": "https://domain.digitalplat.org",
@@ -31847,7 +31847,7 @@
           "freedomain"
         ],
         "pushed_at": "2026-04-24T13:50:28Z",
-        "updated_at": "2026-07-04T10:15:35Z",
+        "updated_at": "2026-07-05T10:20:54Z",
         "starred_at": "2025-10-26T08:03:55Z"
       },
       "summary": {
@@ -32133,7 +32133,7 @@
         "name": "llm-interview-code",
         "owner": "AIR-hl",
         "description": "LLM面试常见手撕合集",
-        "stars": 502,
+        "stars": 504,
         "language": "Jupyter Notebook",
         "url": "https://github.com/AIR-hl/llm-interview-code",
         "homepage": "",
@@ -32144,7 +32144,7 @@
           "lm"
         ],
         "pushed_at": "2026-06-19T14:22:10Z",
-        "updated_at": "2026-07-04T01:29:26Z",
+        "updated_at": "2026-07-05T08:07:58Z",
         "starred_at": "2025-10-02T04:30:36Z"
       },
       "summary": {
@@ -33233,7 +33233,7 @@
         "name": "tuff",
         "owner": "talex-touch",
         "description": "The command bar, reimagined for those who build. Tuff is an open-source core for your OS, built on a sandboxed architecture with a local-first AI and a powerful TypeScript SDK.",
-        "stars": 283,
+        "stars": 282,
         "language": "TypeScript",
         "url": "https://github.com/talex-touch/tuff",
         "homepage": "https://tuff.tagzxia.com",
@@ -33249,8 +33249,8 @@
           "vite",
           "vue"
         ],
-        "pushed_at": "2026-06-24T12:32:36Z",
-        "updated_at": "2026-07-01T06:52:03Z",
+        "pushed_at": "2026-07-05T10:09:36Z",
+        "updated_at": "2026-07-05T10:09:37Z",
         "starred_at": "2025-08-25T03:56:43Z"
       },
       "summary": {
@@ -33443,13 +33443,13 @@
         "name": "Cloudflare-BestIP",
         "owner": "IonRh",
         "description": "将优选IP推送到CF、阿里云、DNSpod、华为云DNS进行DNS解析，定期延时检测，web页面展示等",
-        "stars": 449,
+        "stars": 451,
         "language": "JavaScript",
         "url": "https://github.com/IonRh/Cloudflare-BestIP",
         "homepage": "",
         "topics": [],
         "pushed_at": "2026-02-23T06:00:16Z",
-        "updated_at": "2026-06-29T07:31:43Z",
+        "updated_at": "2026-07-04T20:27:42Z",
         "starred_at": "2025-07-29T22:25:25Z"
       },
       "summary": {
@@ -33607,7 +33607,7 @@
           "vscode",
           "vscode-extensions"
         ],
-        "pushed_at": "2026-07-03T17:47:04Z",
+        "pushed_at": "2026-07-05T01:13:44Z",
         "updated_at": "2026-07-03T07:35:12Z",
         "starred_at": "2025-07-26T17:07:22Z"
       },
@@ -34652,13 +34652,13 @@
         "name": "nav",
         "owner": "1229984599",
         "description": "个人导航网站",
-        "stars": 359,
+        "stars": 360,
         "language": "Vue",
         "url": "https://github.com/1229984599/nav",
         "homepage": "",
         "topics": [],
         "pushed_at": "2026-03-18T13:00:05Z",
-        "updated_at": "2026-07-04T09:55:46Z",
+        "updated_at": "2026-07-04T17:10:25Z",
         "starred_at": "2025-07-20T01:22:44Z"
       },
       "summary": {
@@ -35294,13 +35294,13 @@
         "name": "cf-vps-monitor",
         "owner": "kadidalax",
         "description": "用cloudflare worker搭建的vps探针+网站检测 面板，部署简单，不需要服务器。",
-        "stars": 789,
-        "language": "JavaScript",
+        "stars": 794,
+        "language": "TypeScript",
         "url": "https://github.com/kadidalax/cf-vps-monitor",
         "homepage": "",
         "topics": [],
-        "pushed_at": "2026-07-04T09:03:50Z",
-        "updated_at": "2026-07-04T09:03:53Z",
+        "pushed_at": "2026-07-05T10:17:09Z",
+        "updated_at": "2026-07-05T10:17:13Z",
         "starred_at": "2025-06-18T16:04:51Z"
       },
       "summary": {
@@ -36106,8 +36106,8 @@
         "full_name": "drl990114/MarkFlowy",
         "name": "MarkFlowy",
         "owner": "drl990114",
-        "description": "The AI Markdown Editor",
-        "stars": 2328,
+        "description": "AI-powered cross-platform editor for WYSIWYG Markdown and general-purpose text editing.",
+        "stars": 2329,
         "language": "TypeScript",
         "url": "https://github.com/drl990114/MarkFlowy",
         "homepage": "https://www.markflowy.cc",
@@ -36128,8 +36128,8 @@
           "typescript",
           "windows-app"
         ],
-        "pushed_at": "2026-07-04T09:46:13Z",
-        "updated_at": "2026-07-04T09:44:21Z",
+        "pushed_at": "2026-07-05T06:17:46Z",
+        "updated_at": "2026-07-05T07:52:17Z",
         "starred_at": "2025-06-10T21:09:44Z"
       },
       "summary": {
@@ -36455,7 +36455,7 @@
         "name": "CloudPaste",
         "owner": "ling-drag0n",
         "description": "🌩️ Serverless 自托管的文件管理与文本分享工具/网盘，支持多存储聚合管理和WebDAV 服务挂载。兼容 S3、WebDAV、OneDrive、Google Drive、Telegram、HF、GitHub 等。内置   Markdown 编辑器、30+文件格式预览。支持 Cloudflare Workers 或 Docker 部署。",
-        "stars": 2520,
+        "stars": 2523,
         "language": "JavaScript",
         "url": "https://github.com/ling-drag0n/CloudPaste",
         "homepage": "https://doc.cloudpaste.qzz.io",
@@ -36473,7 +36473,7 @@
           "webdav"
         ],
         "pushed_at": "2026-01-23T08:12:18Z",
-        "updated_at": "2026-07-03T21:15:18Z",
+        "updated_at": "2026-07-05T06:14:04Z",
         "starred_at": "2025-06-10T02:20:49Z"
       },
       "summary": {
@@ -37019,7 +37019,7 @@
         "name": "SuperAutoStudy",
         "owner": "Dainoar",
         "description": "超星学习通/学习通/泛雅学习通自动云端刷课的Springboot项目,支持多级倍速播放和自动答题，已接入Super题库+大模型答题。",
-        "stars": 600,
+        "stars": 601,
         "language": "Java",
         "url": "https://github.com/Dainoar/SuperAutoStudy",
         "homepage": "",
@@ -37029,7 +37029,7 @@
           "springboot"
         ],
         "pushed_at": "2025-12-18T10:05:20Z",
-        "updated_at": "2026-07-04T09:17:00Z",
+        "updated_at": "2026-07-05T04:16:34Z",
         "starred_at": "2025-06-07T17:41:38Z"
       },
       "summary": {
@@ -38010,7 +38010,7 @@
           "next-auth"
         ],
         "pushed_at": "2026-05-01T12:22:41Z",
-        "updated_at": "2026-07-04T06:32:29Z",
+        "updated_at": "2026-07-04T23:37:31Z",
         "starred_at": "2025-10-23T21:08:06Z"
       },
       "summary": {
@@ -38042,7 +38042,7 @@
         "tags_en": []
       },
       "pushed_at": "2026-06-16T15:48:58Z",
-      "updated_at": "2026-07-04"
+      "updated_at": "2026-07-05"
     },
     "flechazo-crushed/webmeta-cli": {
       "metadata": {
@@ -38066,7 +38066,7 @@
         "tags_en": []
       },
       "pushed_at": "2026-05-05T02:47:54Z",
-      "updated_at": "2026-07-04"
+      "updated_at": "2026-07-05"
     }
   }
 }
