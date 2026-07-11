@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-10 11:11 UTC",
+  "last_updated": "2026-07-11 09:43 UTC",
   "repos": {
     "waoowaooAI/waoowaoo": {
       "metadata": {
@@ -4421,13 +4421,13 @@
         "name": "mcp-chrome",
         "owner": "hangwin",
         "description": "Chrome MCP Server is a Chrome extension-based Model Context Protocol (MCP) server that exposes your Chrome browser functionality to AI assistants like Claude, enabling complex browser automation, content analysis, and semantic search.",
-        "stars": 12073,
+        "stars": 12089,
         "language": "TypeScript",
         "url": "https://github.com/hangwin/mcp-chrome",
         "homepage": "",
         "topics": [],
         "pushed_at": "2026-01-06T13:05:39Z",
-        "updated_at": "2026-07-10T09:27:02Z",
+        "updated_at": "2026-07-11T09:38:26Z",
         "starred_at": "2025-08-25T14:40:10Z"
       },
       "summary": {
@@ -31316,7 +31316,7 @@
         "name": "snow-cli",
         "owner": "MayDay-wpf",
         "description": "Agentic coding in your terminal,Simultaneously compatible with OpenAI, Gemini, and Claude.运行在终端的 AI 编程智能体，同时兼容 Deepseek、OpenAI、Gemini和Claude。",
-        "stars": 1101,
+        "stars": 1102,
         "language": "TypeScript",
         "url": "https://github.com/MayDay-wpf/snow-cli",
         "homepage": "https://snowcli.com",
@@ -31325,8 +31325,8 @@
           "ai-agents",
           "ai-coding"
         ],
-        "pushed_at": "2026-07-10T10:26:49Z",
-        "updated_at": "2026-07-10T10:26:57Z",
+        "pushed_at": "2026-07-11T07:42:37Z",
+        "updated_at": "2026-07-11T07:42:42Z",
         "starred_at": "2025-11-23T10:29:17Z"
       },
       "summary": {
@@ -31416,7 +31416,7 @@
         "name": "SmartStashDB",
         "owner": "Johonsoy",
         "description": "A High-Performance Key-Value Store",
-        "stars": 321,
+        "stars": 322,
         "language": "Go",
         "url": "https://github.com/Johonsoy/SmartStashDB",
         "homepage": "",
@@ -31427,7 +31427,7 @@
           "write-ahead-logging"
         ],
         "pushed_at": "2025-05-22T13:38:05Z",
-        "updated_at": "2026-07-09T00:46:17Z",
+        "updated_at": "2026-07-10T17:09:43Z",
         "starred_at": "2025-11-21T20:03:42Z"
       },
       "summary": {
@@ -31789,7 +31789,7 @@
         "name": "kelivo",
         "owner": "Chevey339",
         "description": "A Flutter LLM Chat Client. Support Mobile & Desktop.",
-        "stars": 3223,
+        "stars": 3237,
         "language": "Dart",
         "url": "https://github.com/Chevey339/kelivo",
         "homepage": "https://kelivo.psycheas.top",
@@ -31807,7 +31807,7 @@
           "openharmony"
         ],
         "pushed_at": "2026-06-30T09:41:50Z",
-        "updated_at": "2026-07-10T08:51:52Z",
+        "updated_at": "2026-07-11T08:49:22Z",
         "starred_at": "2025-10-28T08:02:47Z"
       },
       "summary": {
@@ -31833,7 +31833,7 @@
         "name": "FreeDomain",
         "owner": "DigitalPlatDev",
         "description": "DigitalPlat FreeDomain: Free Domain For Everyone",
-        "stars": 184496,
+        "stars": 184743,
         "language": "HTML",
         "url": "https://github.com/DigitalPlatDev/FreeDomain",
         "homepage": "https://domain.digitalplat.org",
@@ -31847,7 +31847,7 @@
           "freedomain"
         ],
         "pushed_at": "2026-04-24T13:50:28Z",
-        "updated_at": "2026-07-10T11:11:40Z",
+        "updated_at": "2026-07-11T09:38:56Z",
         "starred_at": "2025-10-26T08:03:55Z"
       },
       "summary": {
@@ -32133,7 +32133,7 @@
         "name": "llm-interview-code",
         "owner": "AIR-hl",
         "description": "LLM面试常见手撕合集",
-        "stars": 509,
+        "stars": 511,
         "language": "Jupyter Notebook",
         "url": "https://github.com/AIR-hl/llm-interview-code",
         "homepage": "",
@@ -32144,7 +32144,7 @@
           "lm"
         ],
         "pushed_at": "2026-06-19T14:22:10Z",
-        "updated_at": "2026-07-10T08:18:20Z",
+        "updated_at": "2026-07-11T04:21:46Z",
         "starred_at": "2025-10-02T04:30:36Z"
       },
       "summary": {
@@ -32357,7 +32357,7 @@
           "multi-agent"
         ],
         "pushed_at": "2026-05-01T14:26:26Z",
-        "updated_at": "2026-07-08T12:37:00Z",
+        "updated_at": "2026-07-11T06:22:46Z",
         "starred_at": "2025-09-26T01:38:12Z"
       },
       "summary": {
@@ -32452,13 +32452,13 @@
         "name": "SWIFT",
         "owner": "William-Liwei",
         "description": "This is an official implementation of \"SWIFT: State-space Wavelet Integrated Forecasting Technology for Enhanced Time Series Prediction\".",
-        "stars": 276,
+        "stars": 277,
         "language": "Python",
         "url": "https://github.com/William-Liwei/SWIFT",
         "homepage": "",
         "topics": [],
         "pushed_at": "2025-06-25T11:06:51Z",
-        "updated_at": "2026-07-08T11:32:06Z",
+        "updated_at": "2026-07-11T05:02:43Z",
         "starred_at": "2025-09-25T17:22:02Z"
       },
       "summary": {
@@ -32627,13 +32627,13 @@
         "name": "LLM4WM",
         "owner": "PKU-PCNI",
         "description": "",
-        "stars": 522,
+        "stars": 523,
         "language": "Python",
         "url": "https://github.com/PKU-PCNI/LLM4WM",
         "homepage": "",
         "topics": [],
         "pushed_at": "2026-03-20T12:43:19Z",
-        "updated_at": "2026-07-09T10:30:36Z",
+        "updated_at": "2026-07-10T12:36:18Z",
         "starred_at": "2025-09-18T13:29:59Z"
       },
       "summary": {
@@ -32812,7 +32812,7 @@
         "name": "TypeFX.js",
         "owner": "Zqysl",
         "description": "A modern typewriter effect library in plain JavaScript: type, erase, select – almost anything you’d do on a keyboard.",
-        "stars": 300,
+        "stars": 301,
         "language": "TypeScript",
         "url": "https://github.com/Zqysl/TypeFX.js",
         "homepage": "",
@@ -32823,7 +32823,7 @@
           "typewriter-effect"
         ],
         "pushed_at": "2026-03-24T12:15:26Z",
-        "updated_at": "2026-07-08T11:31:11Z",
+        "updated_at": "2026-07-11T09:05:14Z",
         "starred_at": "2025-09-08T08:35:41Z"
       },
       "summary": {
@@ -32881,13 +32881,13 @@
         "name": "NewsFocus",
         "owner": "benjiann",
         "description": "a web news focus",
-        "stars": 272,
+        "stars": 274,
         "language": "JavaScript",
         "url": "https://github.com/benjiann/NewsFocus",
         "homepage": "",
         "topics": [],
         "pushed_at": "2025-12-04T14:15:00Z",
-        "updated_at": "2026-07-08T11:28:45Z",
+        "updated_at": "2026-07-11T05:20:07Z",
         "starred_at": "2025-09-17T23:59:23Z"
       },
       "summary": {
@@ -32979,7 +32979,7 @@
         "name": "hpdg",
         "owner": "SuperKevinZhou",
         "description": "High-Performance Data Generator for competitive programming (Olympiad in Informatics) use.",
-        "stars": 348,
+        "stars": 349,
         "language": "Rust",
         "url": "https://github.com/SuperKevinZhou/hpdg",
         "homepage": "",
@@ -33003,7 +33003,7 @@
           "rust-crate"
         ],
         "pushed_at": "2026-03-30T12:06:48Z",
-        "updated_at": "2026-07-08T11:30:51Z",
+        "updated_at": "2026-07-11T08:39:15Z",
         "starred_at": "2025-09-07T16:56:51Z"
       },
       "summary": {
@@ -33249,7 +33249,7 @@
           "vite",
           "vue"
         ],
-        "pushed_at": "2026-07-09T03:58:53Z",
+        "pushed_at": "2026-07-10T16:55:06Z",
         "updated_at": "2026-07-07T16:00:10Z",
         "starred_at": "2025-08-25T03:56:43Z"
       },
@@ -33278,13 +33278,13 @@
         "name": "Elkindy-Frontend-ENIGMA",
         "owner": "MoezBenHassen",
         "description": "",
-        "stars": 292,
+        "stars": 293,
         "language": "N/A",
         "url": "https://github.com/MoezBenHassen/Elkindy-Frontend-ENIGMA",
         "homepage": "",
         "topics": [],
         "pushed_at": "2025-06-19T15:59:46Z",
-        "updated_at": "2026-07-10T03:36:38Z",
+        "updated_at": "2026-07-10T14:27:12Z",
         "starred_at": "2025-08-24T19:35:57Z"
       },
       "summary": {
@@ -33310,13 +33310,13 @@
         "name": "ccfonline",
         "owner": "William-Liwei",
         "description": "CCF Online is an online query platform focusing on academic conferences and periodicals in the computer field.",
-        "stars": 263,
+        "stars": 264,
         "language": "HTML",
         "url": "https://github.com/William-Liwei/ccfonline",
         "homepage": "",
         "topics": [],
         "pushed_at": "2026-03-05T13:01:22Z",
-        "updated_at": "2026-07-08T11:33:28Z",
+        "updated_at": "2026-07-11T04:09:13Z",
         "starred_at": "2025-08-24T16:30:59Z"
       },
       "summary": {
@@ -33443,13 +33443,13 @@
         "name": "Cloudflare-BestIP",
         "owner": "IonRh",
         "description": "将优选IP推送到CF、阿里云、DNSpod、华为云DNS进行DNS解析，定期延时检测，web页面展示等",
-        "stars": 452,
+        "stars": 453,
         "language": "JavaScript",
         "url": "https://github.com/IonRh/Cloudflare-BestIP",
         "homepage": "",
         "topics": [],
         "pushed_at": "2026-02-23T06:00:16Z",
-        "updated_at": "2026-07-09T04:40:56Z",
+        "updated_at": "2026-07-11T04:26:26Z",
         "starred_at": "2025-07-29T22:25:25Z"
       },
       "summary": {
@@ -33561,13 +33561,13 @@
         "name": "japanese-analyzer",
         "owner": "cokice",
         "description": "",
-        "stars": 765,
+        "stars": 766,
         "language": "TypeScript",
         "url": "https://github.com/cokice/japanese-analyzer",
         "homepage": "https://nihongodemo.howen.ink/",
         "topics": [],
         "pushed_at": "2026-07-02T16:58:19Z",
-        "updated_at": "2026-07-08T19:11:17Z",
+        "updated_at": "2026-07-11T02:43:32Z",
         "starred_at": "2025-07-27T04:01:34Z"
       },
       "summary": {
@@ -33607,7 +33607,7 @@
           "vscode",
           "vscode-extensions"
         ],
-        "pushed_at": "2026-07-08T11:25:11Z",
+        "pushed_at": "2026-07-10T23:23:24Z",
         "updated_at": "2026-07-08T18:34:16Z",
         "starred_at": "2025-07-26T17:07:22Z"
       },
@@ -34057,13 +34057,13 @@
         "name": "aibotgo",
         "owner": "shengdingbox",
         "description": "🚀 AI 长文本大模型逆向API白嫖测试【特长：长文本解读整理】，支持高速流式输出、智能体对话、联网搜索、长文档解读、图像OCR、多轮对话，零配置部署，多路token支持，自动清理会话痕迹。",
-        "stars": 432,
+        "stars": 433,
         "language": "Java",
         "url": "https://github.com/shengdingbox/aibotgo",
         "homepage": "https://aibotgo.vercel.app",
         "topics": [],
         "pushed_at": "2025-12-05T03:26:43Z",
-        "updated_at": "2026-07-08T11:29:01Z",
+        "updated_at": "2026-07-10T15:02:56Z",
         "starred_at": "2025-07-22T12:37:43Z"
       },
       "summary": {
@@ -34289,13 +34289,13 @@
         "name": "eat-what",
         "owner": "AkkoSpace",
         "description": "尝试解决“吃什么”这个世纪难题",
-        "stars": 293,
+        "stars": 294,
         "language": "TypeScript",
         "url": "https://github.com/AkkoSpace/eat-what",
         "homepage": "",
         "topics": [],
         "pushed_at": "2025-06-11T01:12:49Z",
-        "updated_at": "2026-07-08T11:31:43Z",
+        "updated_at": "2026-07-11T08:42:38Z",
         "starred_at": "2025-07-21T12:29:07Z"
       },
       "summary": {
@@ -34492,7 +34492,7 @@
         "homepage": "",
         "topics": [],
         "pushed_at": "2026-03-28T11:17:44Z",
-        "updated_at": "2026-07-09T08:57:36Z",
+        "updated_at": "2026-07-10T23:01:36Z",
         "starred_at": "2025-07-20T06:52:38Z"
       },
       "summary": {
@@ -34652,13 +34652,13 @@
         "name": "nav",
         "owner": "1229984599",
         "description": "个人导航网站",
-        "stars": 359,
+        "stars": 360,
         "language": "Vue",
         "url": "https://github.com/1229984599/nav",
         "homepage": "",
         "topics": [],
         "pushed_at": "2026-03-18T13:00:05Z",
-        "updated_at": "2026-07-08T11:31:01Z",
+        "updated_at": "2026-07-10T23:04:57Z",
         "starred_at": "2025-07-20T01:22:44Z"
       },
       "summary": {
@@ -34799,13 +34799,13 @@
         "name": "Veloera",
         "owner": "Veloera",
         "description": "",
-        "stars": 1620,
+        "stars": 1621,
         "language": "Go",
         "url": "https://github.com/Veloera/Veloera",
         "homepage": "",
         "topics": [],
         "pushed_at": "2026-02-11T09:14:23Z",
-        "updated_at": "2026-07-08T20:13:54Z",
+        "updated_at": "2026-07-11T04:11:05Z",
         "starred_at": "2025-06-20T18:29:10Z"
       },
       "summary": {
@@ -35300,7 +35300,7 @@
         "homepage": "",
         "topics": [],
         "pushed_at": "2026-07-10T06:13:05Z",
-        "updated_at": "2026-07-10T08:42:58Z",
+        "updated_at": "2026-07-11T04:13:22Z",
         "starred_at": "2025-06-18T16:04:51Z"
       },
       "summary": {
@@ -35358,7 +35358,7 @@
         "name": "Awesome-RL-for-Video-Generation",
         "owner": "wendell0218",
         "description": "A curated list of papers on reinforcement learning for video generation",
-        "stars": 563,
+        "stars": 564,
         "language": "N/A",
         "url": "https://github.com/wendell0218/Awesome-RL-for-Video-Generation",
         "homepage": "",
@@ -35371,7 +35371,7 @@
           "video-generation"
         ],
         "pushed_at": "2026-04-15T16:58:38Z",
-        "updated_at": "2026-07-10T02:43:37Z",
+        "updated_at": "2026-07-10T14:25:05Z",
         "starred_at": "2025-06-18T13:31:11Z"
       },
       "summary": {
@@ -35639,13 +35639,13 @@
         "name": "pixels-rover",
         "owner": "pixelsdb",
         "description": "The web UI of PixelsDB.",
-        "stars": 230,
+        "stars": 231,
         "language": "JavaScript",
         "url": "https://github.com/pixelsdb/pixels-rover",
         "homepage": "",
         "topics": [],
         "pushed_at": "2024-11-07T14:58:29Z",
-        "updated_at": "2026-07-09T17:14:21Z",
+        "updated_at": "2026-07-10T21:40:36Z",
         "starred_at": "2025-06-17T11:40:24Z"
       },
       "summary": {
@@ -35876,7 +35876,7 @@
         "name": "pixels",
         "owner": "pixelsdb",
         "description": "An efficient storage and compute engine for both on-prem and cloud-native data analytics.",
-        "stars": 899,
+        "stars": 900,
         "language": "Java",
         "url": "https://github.com/pixelsdb/pixels",
         "homepage": "",
@@ -35888,8 +35888,8 @@
           "database",
           "olap"
         ],
-        "pushed_at": "2026-07-09T05:18:13Z",
-        "updated_at": "2026-07-08T11:26:41Z",
+        "pushed_at": "2026-07-11T04:36:55Z",
+        "updated_at": "2026-07-11T07:54:33Z",
         "starred_at": "2025-06-12T18:48:23Z"
       },
       "summary": {
@@ -36107,7 +36107,7 @@
         "name": "MarkFlowy",
         "owner": "drl990114",
         "description": "AI-powered cross-platform editor for WYSIWYG Markdown and general-purpose text editing.",
-        "stars": 2336,
+        "stars": 2337,
         "language": "TypeScript",
         "url": "https://github.com/drl990114/MarkFlowy",
         "homepage": "https://www.markflowy.cc",
@@ -36128,8 +36128,8 @@
           "typescript",
           "windows-app"
         ],
-        "pushed_at": "2026-07-06T13:41:08Z",
-        "updated_at": "2026-07-10T04:56:29Z",
+        "pushed_at": "2026-07-11T09:19:02Z",
+        "updated_at": "2026-07-10T15:23:48Z",
         "starred_at": "2025-06-10T21:09:44Z"
       },
       "summary": {
@@ -36155,7 +36155,7 @@
         "name": "screenlite",
         "owner": "screenlite",
         "description": "Open-source digital signage software",
-        "stars": 357,
+        "stars": 356,
         "language": "TypeScript",
         "url": "https://github.com/screenlite/screenlite",
         "homepage": "https://screenlite.org",
@@ -36164,7 +36164,7 @@
           "digital-signage"
         ],
         "pushed_at": "2026-05-08T22:53:29Z",
-        "updated_at": "2026-06-25T08:06:46Z",
+        "updated_at": "2026-07-10T17:33:02Z",
         "starred_at": "2025-06-10T18:36:44Z"
       },
       "summary": {
@@ -36256,13 +36256,13 @@
         "name": "Simple-personal-static-web-page",
         "owner": "Leelokhan",
         "description": "",
-        "stars": 341,
+        "stars": 342,
         "language": "JavaScript",
         "url": "https://github.com/Leelokhan/Simple-personal-static-web-page",
         "homepage": "https://simple-personal-static-web-page.vercel.app",
         "topics": [],
         "pushed_at": "2026-05-15T10:34:08Z",
-        "updated_at": "2026-07-09T09:10:58Z",
+        "updated_at": "2026-07-10T22:47:50Z",
         "starred_at": "2025-06-10T11:25:05Z"
       },
       "summary": {
@@ -36423,13 +36423,13 @@
         "name": "bkk",
         "owner": "pengwh96",
         "description": "",
-        "stars": 337,
+        "stars": 338,
         "language": "Python",
         "url": "https://github.com/pengwh96/bkk",
         "homepage": "",
         "topics": [],
         "pushed_at": "2025-06-06T10:37:20Z",
-        "updated_at": "2026-07-08T11:33:40Z",
+        "updated_at": "2026-07-10T16:32:22Z",
         "starred_at": "2025-06-10T06:28:08Z"
       },
       "summary": {
@@ -36455,7 +36455,7 @@
         "name": "CloudPaste",
         "owner": "ling-drag0n",
         "description": "🌩️ Serverless 自托管的文件管理与文本分享工具/网盘，支持多存储聚合管理和WebDAV 服务挂载。兼容 S3、WebDAV、OneDrive、Google Drive、Telegram、HF、GitHub 等。内置   Markdown 编辑器、30+文件格式预览。支持 Cloudflare Workers 或 Docker 部署。",
-        "stars": 2528,
+        "stars": 2531,
         "language": "JavaScript",
         "url": "https://github.com/ling-drag0n/CloudPaste",
         "homepage": "https://doc.cloudpaste.qzz.io",
@@ -36473,7 +36473,7 @@
           "webdav"
         ],
         "pushed_at": "2026-01-23T08:12:18Z",
-        "updated_at": "2026-07-10T04:47:24Z",
+        "updated_at": "2026-07-11T04:11:05Z",
         "starred_at": "2025-06-10T02:20:49Z"
       },
       "summary": {
@@ -36499,13 +36499,13 @@
         "name": "domain-check-new",
         "owner": "lbjxr",
         "description": "这是一个简洁高效的域名可视化展示面板，基于Cloudflare Workers构建。它提供了一个直观的界面，让用户能够一目了然地查看他们域名的状态、注册商、注册日期、过期日期和使用进度，并可在到期前通过TG机器人向用户推送通知。",
-        "stars": 379,
+        "stars": 380,
         "language": "JavaScript",
         "url": "https://github.com/lbjxr/domain-check-new",
         "homepage": "",
         "topics": [],
         "pushed_at": "2025-06-29T06:42:17Z",
-        "updated_at": "2026-07-08T15:07:10Z",
+        "updated_at": "2026-07-11T04:19:28Z",
         "starred_at": "2025-06-09T15:28:24Z"
       },
       "summary": {
@@ -36667,13 +36667,13 @@
         "name": "sublink-worker",
         "owner": "qqzwqq",
         "description": "无需服务器，一键部署，快速使用自建节点分享URL进行订阅转换，提供灵活的自定义选项，支持SingBox/Clash/V2Ray/Xray",
-        "stars": 419,
+        "stars": 420,
         "language": "JavaScript",
         "url": "https://github.com/qqzwqq/sublink-worker",
         "homepage": "https://sublink-worker.sageer.me/",
         "topics": [],
         "pushed_at": "2026-06-24T01:23:02Z",
-        "updated_at": "2026-07-08T15:50:20Z",
+        "updated_at": "2026-07-10T23:09:57Z",
         "starred_at": "2025-06-08T09:23:40Z"
       },
       "summary": {
@@ -36923,13 +36923,13 @@
         "name": "TGBot_RSS",
         "owner": "IonRh",
         "description": "TGBot_RSS 是一个灵活的利用TGBot信息推送订阅RSS的工具，可通过Bot更方便的管理订阅推送。",
-        "stars": 418,
+        "stars": 419,
         "language": "Go",
         "url": "https://github.com/IonRh/TGBot_RSS",
         "homepage": "",
         "topics": [],
         "pushed_at": "2026-02-11T04:56:48Z",
-        "updated_at": "2026-07-09T03:20:40Z",
+        "updated_at": "2026-07-11T04:00:54Z",
         "starred_at": "2025-06-08T00:37:01Z"
       },
       "summary": {
@@ -36987,13 +36987,13 @@
         "name": "CloudFlare-ImgBed",
         "owner": "secdiiii",
         "description": "基于 CloudFlare Pages 的开源文件托管解决方案（图床/文件床/网盘）",
-        "stars": 356,
+        "stars": 358,
         "language": "JavaScript",
         "url": "https://github.com/secdiiii/CloudFlare-ImgBed",
         "homepage": "https://cfbed.1314883.xyz",
         "topics": [],
         "pushed_at": "2026-07-10T03:49:07Z",
-        "updated_at": "2026-07-10T03:49:12Z",
+        "updated_at": "2026-07-11T04:29:19Z",
         "starred_at": "2025-06-07T21:41:12Z"
       },
       "summary": {
@@ -37087,13 +37087,13 @@
         "name": "AzureDreamWebsite",
         "owner": "Mcxiaocaibug",
         "description": "AzureDreamWebsite",
-        "stars": 342,
+        "stars": 343,
         "language": "JavaScript",
         "url": "https://github.com/Mcxiaocaibug/AzureDreamWebsite",
         "homepage": "",
         "topics": [],
         "pushed_at": "2026-03-03T06:11:20Z",
-        "updated_at": "2026-07-09T04:03:31Z",
+        "updated_at": "2026-07-10T17:32:21Z",
         "starred_at": "2025-06-07T12:29:47Z"
       },
       "summary": {
@@ -37620,7 +37620,7 @@
         "name": "openagent",
         "owner": "Haohao-end",
         "description": "What if OpenAI Deep Research and Dify were one platform? OpenAgent — harness architecture for rapidly building vertical AI agents, with deep reasoning loops, visual workflows, RAG, and A2A delegation. ",
-        "stars": 827,
+        "stars": 828,
         "language": "Python",
         "url": "https://github.com/Haohao-end/openagent",
         "homepage": "https://openllm.cloud",
@@ -37647,7 +37647,7 @@
           "weaviate"
         ],
         "pushed_at": "2026-06-24T14:46:13Z",
-        "updated_at": "2026-07-09T23:00:25Z",
+        "updated_at": "2026-07-11T08:23:31Z",
         "starred_at": "2025-11-09T06:43:19Z"
       },
       "summary": {
@@ -37716,8 +37716,8 @@
           "educational-project",
           "educational-software"
         ],
-        "pushed_at": "2026-06-28T07:05:09Z",
-        "updated_at": "2026-07-08T11:30:27Z",
+        "pushed_at": "2026-07-11T08:32:10Z",
+        "updated_at": "2026-07-11T08:31:11Z",
         "starred_at": "2025-11-08T17:12:03Z"
       },
       "summary": {
@@ -37784,8 +37784,8 @@
           "community",
           "scratch"
         ],
-        "pushed_at": "2026-06-28T05:22:11Z",
-        "updated_at": "2026-07-08T12:32:47Z",
+        "pushed_at": "2026-07-11T06:21:17Z",
+        "updated_at": "2026-07-11T06:21:21Z",
         "starred_at": "2025-09-18T13:15:24Z"
       },
       "summary": {
@@ -38000,7 +38000,7 @@
         "name": "NXJS-ARCH",
         "owner": "s4huan",
         "description": "",
-        "stars": 342,
+        "stars": 344,
         "language": "JavaScript",
         "url": "https://github.com/s4huan/NXJS-ARCH",
         "homepage": "https://spoo.me/nxs-docs",
@@ -38010,7 +38010,7 @@
           "next-auth"
         ],
         "pushed_at": "2026-05-01T12:22:41Z",
-        "updated_at": "2026-07-09T05:17:01Z",
+        "updated_at": "2026-07-11T08:45:23Z",
         "starred_at": "2025-10-23T21:08:06Z"
       },
       "summary": {
@@ -38042,7 +38042,7 @@
         "tags_en": []
       },
       "pushed_at": "2026-06-16T15:48:58Z",
-      "updated_at": "2026-07-10"
+      "updated_at": "2026-07-11"
     },
     "flechazo-crushed/webmeta-cli": {
       "metadata": {
@@ -38066,7 +38066,7 @@
         "tags_en": []
       },
       "pushed_at": "2026-05-05T02:47:54Z",
-      "updated_at": "2026-07-10"
+      "updated_at": "2026-07-11"
     }
   }
 }
