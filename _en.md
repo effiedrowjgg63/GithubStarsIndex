@@ -1,6 +1,6 @@
 # ⭐ GitHub Stars Index
 
-> Updated: 2026-07-31 10:46 UTC · Total: 180
+> Updated: 2026-08-01 10:05 UTC · Total: 179
 
 ---
 
@@ -97,7 +97,6 @@
 - [[#yanyaoli/cmpedu-dl|yanyaoli/cmpedu-dl]]
 - [[#sz30/2048--|sz30/2048--]]
 - [[#jiayihello/Dream|jiayihello/Dream]]
-- [[#TechnologyStar/Openai-Claude-Deepseek-API-provider|TechnologyStar/Openai-Claude-Deepseek-API-provider]]
 - [[#14790897/MapDistancePro|14790897/MapDistancePro]]
 - [[#14790897/Ali-NFC2QR|14790897/Ali-NFC2QR]]
 - [[#tiouoo/Aurelio|tiouoo/Aurelio]]
@@ -299,7 +298,7 @@
 ## Haohao-end/openagent
 
 > [!info]
-> ⭐ 775 · Python · 2026-07-31T03:39:11Z  
+> ⭐ 776 · Python · 2026-08-01T06:33:55Z  
 > [GitHub](https://github.com/Haohao-end/openagent) · [Website](https://openllm.cloud)  
 > `#AI Agents` `#Docker Deployment` `#LangChain 框架` `#agent` `#ai` `#celery` `#deepagents` `#deepresearch` `#deepseek` `#docker` `#faiss-vector-database` `#flask` `#harness-engineering` `#langchain` `#langgraph` `#llmops` `#mcp` `#nginx` `#postgresql` `#skills` `#tailwindcss` `#vue` `#weaviate` 
 > OpenAgent is an end-to-end AI agent development platform supporting multi-provider LLMs (OpenAI/DeepSeek/Wenxin/Tongyi), featuring knowledge base management, workflow automation, conversation search, and enterprise-grade security. Built with Flask + Vue3 + LangChain, it offers one-click Docker deployment with real-time notifications and vector-based retrieval.
@@ -349,7 +348,7 @@
 ## Chevey339/kelivo
 
 > [!info]
-> ⭐ 3,413 · Dart · 2026-07-31T09:33:46Z  
+> ⭐ 3,426 · Dart · 2026-08-01T08:58:16Z  
 > [GitHub](https://github.com/Chevey339/kelivo) · [Website](https://kelivo.psycheas.top)  
 > `#AI 智能体` `#Cross-Platform` `#Flutter` `#ai` `#android` `#chatbot` `#chatbox` `#flutter` `#flutter-apps` `#harmony` `#harmonyos` `#ios` `#llm` `#openharmony` 
 > Kelivo is a cross-platform LLM chat client built with Flutter, supporting mobile (Android/iOS/Harmony) and desktop (Windows/macOS/Linux). It features modern Material You design, multi-language support, integration with major AI providers, MCP tools, web search, TTS, Markdown rendering, and custom fonts for an intelligent conversational experience.
@@ -359,7 +358,7 @@
 ## DigitalPlatDev/FreeDomain
 
 > [!info]
-> ⭐ 189,747 · N/A · 2026-07-31T10:44:40Z  
+> ⭐ 189,925 · N/A · 2026-08-01T10:04:47Z  
 > [GitHub](https://github.com/DigitalPlatDev/FreeDomain) · [Website](https://domain.digitalplat.org)  
 > `#Digital Identity` `#Domain Service` `#Free Domain` `#digitalplat` `#domain` `#domain-platform` `#domainname` `#domains` `#free` `#freedomain` 
 > DigitalPlat FreeDomain offers free domain registration for individuals and organizations with exclusive extensions like .DPDNS.ORG and .US.KG. Built and maintained by Edward Hsing, founder of DigitalPlat Foundation, it integrates seamlessly with popular DNS providers such as Cloudflare. With over 400,000 domains registered, it empowers users to establish a digital presence at zero cost, promoting open access to the web.
@@ -389,7 +388,7 @@
 ## s4huan/NXJS-ARCH
 
 > [!info]
-> ⭐ 369 · JavaScript · 2026-07-29T14:10:29Z  
+> ⭐ 370 · JavaScript · 2026-08-01T06:34:02Z  
 > [GitHub](https://github.com/s4huan/NXJS-ARCH) · [Website](https://spoo.me/nxs-docs)  
 > `#architecture` `#docs` `#next-auth` 
 > 暂无描述。
@@ -457,7 +456,7 @@
 ## AIR-hl/llm-interview-code
 
 > [!info]
-> ⭐ 541 · Jupyter Notebook · 2026-07-31T09:57:31Z  
+> ⭐ 542 · Jupyter Notebook · 2026-08-01T06:17:44Z  
 > [GitHub](https://github.com/AIR-hl/llm-interview-code)  
 > `#AI Large Models` `#Interview Preparation` `#深度学习` `#ai` `#interview` `#llm` `#lm` 
 > This repository provides a comprehensive collection of hand-written code implementations for common LLM interview topics, including attention mechanisms (MHA/GQA), model components (RoPE/LoRA), normalization layers, and advanced training losses (DPO/GRPO). Ideal for mastering core deep learning concepts and acing technical interviews in large language models.
@@ -574,7 +573,7 @@
 ## PKU-PCNI/LLM4WM
 
 > [!info]
-> ⭐ 527 · Python · 2026-07-27T11:09:01Z  
+> ⭐ 528 · Python · 2026-08-01T02:19:45Z  
 > [GitHub](https://github.com/PKU-PCNI/LLM4WM)  
 > `#AI 大模型` `#Multi-Task Learning` `#Wireless Communications` 
 > LLM4WM is a specialized framework adapting Large Language Models for wireless multi-tasking, integrating physical-layer signal processing with language model reasoning. It includes pretrained weights, QuaDRiGa-generated datasets, and inference scripts, enabling end-to-end learning for intelligent wireless systems on NVIDIA GPUs.
@@ -720,7 +719,7 @@
 ## hangwin/mcp-chrome
 
 > [!info]
-> ⭐ 12,239 · TypeScript · 2026-07-31T08:24:39Z  
+> ⭐ 12,242 · TypeScript · 2026-08-01T07:35:02Z  
 > [GitHub](https://github.com/hangwin/mcp-chrome)  
 > `#AI 智能体` `#Browser Automation` `#Semantic Search` 
 > Chrome MCP Server is a Chrome extension-based Model Context Protocol (MCP) server that exposes browser functionality to AI assistants like Claude, enabling complex automation, content analysis, and semantic search. It leverages your existing Chrome browser with preserved login states and settings, supports 20+ tools, offers local streamable HTTP communication, and features SIMD-accelerated vector database for intelligent tab content discovery.
@@ -740,7 +739,7 @@
 ## talex-touch/tuff
 
 > [!info]
-> ⭐ 282 · TypeScript · 2026-07-31T07:22:20Z  
+> ⭐ 282 · TypeScript · 2026-08-01T05:08:25Z  
 > [GitHub](https://github.com/talex-touch/tuff) · [Website](https://tuff.tagzxia.com)  
 > `#AI Large Model` `#Command Center` `#Plugin System` `#桌面应用` `#bar` `#command` `#electron` `#launcher` `#raycast` `#tools` `#typescript` `#utools` `#vite` `#vue` 
 > Tuff is a local-first, AI-native desktop command center built on a sandboxed architecture. It enables fast app/file search, plugin extensibility, clipboard management, and direct preview calculations. Supports BYO LLM for privacy and offers a unified download center with progress tracking.
@@ -845,7 +844,7 @@
 ## JiayuXu0/FastAPI-Template
 
 > [!info]
-> ⭐ 497 · Python · 2026-07-30T08:57:05Z  
+> ⭐ 498 · Python · 2026-08-01T09:16:03Z  
 > [GitHub](https://github.com/JiayuXu0/FastAPI-Template) · [Website](https://jiayuxu0.github.io/FastAPI-Template/)  
 > `#Backend Development` `#Enterprise Application` `#FastAPI` `#api` `#async` `#authentication` `#boilerplate` `#database` `#fastapi` `#openapi` `#pydantic` `#python` `#starlette` `#swagger` `#template` `#uvicorn` 
 > Production-ready FastAPI backend template featuring clean three-layer architecture with JWT authentication, RBAC authorization, Redis caching, and async database operations. Includes complete modules for user management, file handling, department organization, Docker deployment, and automated database migrations - ready for team development.
@@ -924,7 +923,7 @@
 ## zhugezifang/Awesome-xiaohongshu-download-Tools
 
 > [!info]
-> ⭐ 275 · N/A · 2026-07-31T03:57:21Z  
+> ⭐ 276 · N/A · 2026-07-31T12:54:29Z  
 > [GitHub](https://github.com/zhugezifang/Awesome-xiaohongshu-download-Tools) · [Website](https://rednote-downloader.online/zh)  
 > `#Social Media Tools` `#Watermark Removal` `#网页爬虫` `#xiaohongshu` `#xiaohongshu-api` `#xiaohongshu-crawler` `#xiaohongshu-downloader` `#xiaohongshu-scraper` 
 > This guide presents 6 free tools for downloading watermark-free images and videos from Xiaohongshu (RedNote) in 2026. All are web-based, supporting direct extraction from shared links with no app installation required. Emphasis is placed on ease of use, high-quality output, and compliance with platform policies.
@@ -1086,16 +1085,6 @@
 > Dream is a modern frontend theme designed for V2Board v1.7.4 and compatible versions, created by @geekui. It offers responsive design and elegant UI suitable for subscription-based platforms, with easy installation via theme directory setup.
 
 ---
-## TechnologyStar/Openai-Claude-Deepseek-API-provider
-
-> [!info]
-> ⭐ 397 · TypeScript · 2026-07-31T07:42:15Z  
-> [GitHub](https://github.com/TechnologyStar/Openai-Claude-Deepseek-API-provider)  
-> `#AI Agents` `#API Aggregation` `#Free Trial` 
-> This open-source project serves as a curated navigation hub for third-party APIs of major AI models including OpenAI, Claude, DeepSeek, and Gemini. It offers free access without registration, supports multi-model integration, and emphasizes compliance with usage policies for educational and non-commercial purposes.
-> <sub>🎁🆓OpenAI,Claude,Baidu等模型api直接上手使用，免去繁琐的注册过程，大多模型可免费试用</sub>
-
----
 ## 14790897/MapDistancePro
 
 > [!info]
@@ -1168,7 +1157,7 @@
 ## Veloera/Veloera
 
 > [!info]
-> ⭐ 1,628 · Go · 2026-07-29T20:13:53Z  
+> ⭐ 1,629 · Go · 2026-07-31T11:41:34Z  
 > [GitHub](https://github.com/Veloera/Veloera)  
 > `#AI Large Model` `#API Gateway` `#Open Source` 
 > Veloera is an AI API gateway system no longer under active maintenance, forked from new-api with native /hf/v1 support, multi-key distribution, regex content filtering, and detailed logging. Licensed under GPL 3.0 with no commercial restrictions, it supports Docker deployment and automatic database migration.
@@ -1305,7 +1294,7 @@
 ## kadidalax/cf-vps-monitor
 
 > [!info]
-> ⭐ 856 · TypeScript · 2026-07-30T08:26:23Z  
+> ⭐ 856 · TypeScript · 2026-07-31T19:50:48Z  
 > [GitHub](https://github.com/kadidalax/cf-vps-monitor)  
 > `#Cloudflare Worker` `#DevOps Automation` `#Server Monitoring` 
 > A lightweight VPS probe and website monitoring panel built on Cloudflare Workers and D1 database, deployable without a dedicated server. It enables real-time server status collection, website uptime checks, responsive UI, admin dashboard, Telegram alerts, and customizable themes.
@@ -1385,7 +1374,7 @@
 ## tbphp/gpt-load
 
 > [!info]
-> ⭐ 6,257 · Go · 2026-07-31T03:08:24Z  
+> ⭐ 6,256 · Go · 2026-07-31T13:37:08Z  
 > [GitHub](https://github.com/tbphp/gpt-load) · [Website](https://www.gpt-load.com)  
 > `#AI Proxy` `#API Gateway` `#Key Management` `#Load Balancing` `#anthropic` `#claude` `#gemini` `#gin` `#go` `#golang` `#openai` 
 > GPT-Load is a high-performance, enterprise-grade transparent proxy service for AI APIs, designed for developers and enterprises integrating multiple AI services. Built with Go, it features intelligent key rotation, load balancing, automatic failure recovery, hot-reload configuration, and comprehensive monitoring. Supports OpenAI, Google Gemini, and Anthropic Claude APIs with a Vue 3 management interface.
@@ -1564,7 +1553,7 @@
 ## drl990114/MarkFlowy
 
 > [!info]
-> ⭐ 2,348 · TypeScript · 2026-07-31T08:14:05Z  
+> ⭐ 2,349 · TypeScript · 2026-07-31T12:33:14Z  
 > [GitHub](https://github.com/drl990114/MarkFlowy) · [Website](https://www.markflowy.cc)  
 > `#AI 智能体` `#Markdown Editor` `#桌面应用` `#ai` `#chatgpt` `#deepseek` `#editor` `#linux-app` `#macos-app` `#markdown` `#markdowneditor` `#notes-app` `#prosemirror` `#reactjs` `#rust-lang` `#tauri` `#typescript` `#windows-app` 
 > MarkFlowy is a modern, intelligent Markdown editor built with Tauri for lightweight performance (<20MB). It features integrated AI (Copilot, translation, summarization), multi-mode editing (source/WYSIWYG), Prosemirror core, custom themes, and cross-platform support. Designed for efficient writing, document management, and content creation.
@@ -1583,7 +1572,7 @@
 ## screenlite/screenlite
 
 > [!info]
-> ⭐ 359 · TypeScript · 2026-07-24T10:25:32Z  
+> ⭐ 360 · TypeScript · 2026-07-31T14:48:53Z  
 > [GitHub](https://github.com/screenlite/screenlite) · [Website](https://screenlite.org)  
 > `#Digital Signage` `#Enterprise Application` `#Fastify` `#React` `#cms` `#digital-signage` 
 > Screenlite is an open-source digital signage solution offering a cost-effective alternative to proprietary software. It features a centralized CMS for content and device management, paired with web-based players. Built with Fastify, TypeScript, React, and modern databases like PostgreSQL and Redis, it's designed for scalable digital displays in enterprises.
@@ -1640,7 +1629,7 @@
 ## ling-drag0n/CloudPaste
 
 > [!info]
-> ⭐ 2,568 · JavaScript · 2026-07-30T06:54:13Z  
+> ⭐ 2,568 · JavaScript · 2026-08-01T02:17:12Z  
 > [GitHub](https://github.com/ling-drag0n/CloudPaste) · [Website](https://doc.cloudpaste.qzz.io)  
 > `#File Management` `#Multi-Storage Integration` `#Serverless Architecture` `#cloudflare` `#cloudflare-workers` `#docker` `#file-browser` `#huggingface` `#markdown` `#onedrive` `#s3` `#telegram` `#telegrambot` `#webdav` 
 > CloudPaste is a serverless file management and text sharing tool built on Cloudflare Workers, supporting multi-storage aggregation (S3, WebDAV, OneDrive, Google Drive, etc.), online preview for 30+ file formats, and WebDAV mounting. It features an integrated Markdown editor with real-time preview and export to PDF/HTML, deployable via Docker or Cloudflare Workers.
@@ -1804,7 +1793,7 @@
 ## Dainoar/SuperAutoStudy
 
 > [!info]
-> ⭐ 617 · Java · 2026-07-31T02:48:44Z  
+> ⭐ 618 · Java · 2026-08-01T08:36:37Z  
 > [GitHub](https://github.com/Dainoar/SuperAutoStudy)  
 > `#AI-Powered Q&A` `#Education Automation` `#SpringBoot Microservices` `#java` `#llm` `#springboot` 
 > SuperAutoStudy is an open-source, self-deployable automation platform for Chaoxing Learning Platform, built on Spring Boot + Dubbo + RabbitMQ. It supports multi-speed video playback, auto-answering via a million-level Super Q&A database and AI models, with distributed task scheduling and Redis caching. Features Docker Compose deployment for ARM/x86.

@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-31 10:46 UTC",
+  "last_updated": "2026-08-01 10:05 UTC",
   "repos": {
     "waoowaooAI/waoowaoo": {
       "metadata": {
@@ -3097,7 +3097,7 @@
         "name": "gpt-load",
         "owner": "tbphp",
         "description": "Multi-channel AI proxy with intelligent key rotation. 智能密钥轮询的多渠道 AI 代理。",
-        "stars": 6257,
+        "stars": 6256,
         "language": "Go",
         "url": "https://github.com/tbphp/gpt-load",
         "homepage": "https://www.gpt-load.com",
@@ -3110,8 +3110,8 @@
           "golang",
           "openai"
         ],
-        "pushed_at": "2026-07-31T05:21:25Z",
-        "updated_at": "2026-07-31T03:08:24Z",
+        "pushed_at": "2026-08-01T09:21:10Z",
+        "updated_at": "2026-07-31T13:37:08Z",
         "starred_at": "2025-06-18T04:14:43Z"
       },
       "summary": {
@@ -4421,13 +4421,13 @@
         "name": "mcp-chrome",
         "owner": "hangwin",
         "description": "Chrome MCP Server is a Chrome extension-based Model Context Protocol (MCP) server that exposes your Chrome browser functionality to AI assistants like Claude, enabling complex browser automation, content analysis, and semantic search.",
-        "stars": 12239,
+        "stars": 12242,
         "language": "TypeScript",
         "url": "https://github.com/hangwin/mcp-chrome",
         "homepage": "",
         "topics": [],
         "pushed_at": "2026-01-06T13:05:39Z",
-        "updated_at": "2026-07-31T08:24:39Z",
+        "updated_at": "2026-08-01T07:35:02Z",
         "starred_at": "2025-08-25T14:40:10Z"
       },
       "summary": {
@@ -31789,7 +31789,7 @@
         "name": "kelivo",
         "owner": "Chevey339",
         "description": "A Flutter LLM Chat Client. Support Mobile & Desktop.",
-        "stars": 3413,
+        "stars": 3426,
         "language": "Dart",
         "url": "https://github.com/Chevey339/kelivo",
         "homepage": "https://kelivo.psycheas.top",
@@ -31807,7 +31807,7 @@
           "openharmony"
         ],
         "pushed_at": "2026-07-29T13:01:20Z",
-        "updated_at": "2026-07-31T09:33:46Z",
+        "updated_at": "2026-08-01T08:58:16Z",
         "starred_at": "2025-10-28T08:02:47Z"
       },
       "summary": {
@@ -31833,7 +31833,7 @@
         "name": "FreeDomain",
         "owner": "DigitalPlatDev",
         "description": "DigitalPlat FreeDomain: Free Domain For Everyone",
-        "stars": 189747,
+        "stars": 189925,
         "language": "N/A",
         "url": "https://github.com/DigitalPlatDev/FreeDomain",
         "homepage": "https://domain.digitalplat.org",
@@ -31847,7 +31847,7 @@
           "freedomain"
         ],
         "pushed_at": "2026-07-16T15:38:52Z",
-        "updated_at": "2026-07-31T10:44:40Z",
+        "updated_at": "2026-08-01T10:04:47Z",
         "starred_at": "2025-10-26T08:03:55Z"
       },
       "summary": {
@@ -32133,7 +32133,7 @@
         "name": "llm-interview-code",
         "owner": "AIR-hl",
         "description": "LLM面试常见手撕合集",
-        "stars": 541,
+        "stars": 542,
         "language": "Jupyter Notebook",
         "url": "https://github.com/AIR-hl/llm-interview-code",
         "homepage": "",
@@ -32144,7 +32144,7 @@
           "lm"
         ],
         "pushed_at": "2026-06-19T14:22:10Z",
-        "updated_at": "2026-07-31T09:57:31Z",
+        "updated_at": "2026-08-01T06:17:44Z",
         "starred_at": "2025-10-02T04:30:36Z"
       },
       "summary": {
@@ -32627,13 +32627,13 @@
         "name": "LLM4WM",
         "owner": "PKU-PCNI",
         "description": "",
-        "stars": 527,
+        "stars": 528,
         "language": "Python",
         "url": "https://github.com/PKU-PCNI/LLM4WM",
         "homepage": "",
         "topics": [],
         "pushed_at": "2026-03-20T12:43:19Z",
-        "updated_at": "2026-07-27T11:09:01Z",
+        "updated_at": "2026-08-01T02:19:45Z",
         "starred_at": "2025-09-18T13:29:59Z"
       },
       "summary": {
@@ -33249,8 +33249,8 @@
           "vite",
           "vue"
         ],
-        "pushed_at": "2026-07-31T07:21:11Z",
-        "updated_at": "2026-07-31T07:22:20Z",
+        "pushed_at": "2026-08-01T05:07:45Z",
+        "updated_at": "2026-08-01T05:08:25Z",
         "starred_at": "2025-08-25T03:56:43Z"
       },
       "summary": {
@@ -33634,7 +33634,7 @@
         "name": "FastAPI-Template",
         "owner": "JiayuXu0",
         "description": "A production-ready FastAPI backend template with clean architecture. 一个功能完整、架构清晰的企业级FastAPI后端模板，专为团队开发设计，开箱即用。",
-        "stars": 497,
+        "stars": 498,
         "language": "Python",
         "url": "https://github.com/JiayuXu0/FastAPI-Template",
         "homepage": "https://jiayuxu0.github.io/FastAPI-Template/",
@@ -33654,7 +33654,7 @@
           "uvicorn"
         ],
         "pushed_at": "2026-05-07T02:38:00Z",
-        "updated_at": "2026-07-30T08:57:05Z",
+        "updated_at": "2026-08-01T09:16:03Z",
         "starred_at": "2025-07-26T21:54:51Z"
       },
       "summary": {
@@ -33884,7 +33884,7 @@
         "name": "Awesome-xiaohongshu-download-Tools",
         "owner": "zhugezifang",
         "description": "2026年6款小红书图片视频无水印下载工具推荐",
-        "stars": 275,
+        "stars": 276,
         "language": "N/A",
         "url": "https://github.com/zhugezifang/Awesome-xiaohongshu-download-Tools",
         "homepage": "https://rednote-downloader.online/zh",
@@ -33896,7 +33896,7 @@
           "xiaohongshu-scraper"
         ],
         "pushed_at": "2026-06-24T09:21:41Z",
-        "updated_at": "2026-07-31T03:57:21Z",
+        "updated_at": "2026-07-31T12:54:29Z",
         "starred_at": "2025-07-23T07:04:15Z"
       },
       "summary": {
@@ -34799,13 +34799,13 @@
         "name": "Veloera",
         "owner": "Veloera",
         "description": "",
-        "stars": 1628,
+        "stars": 1629,
         "language": "Go",
         "url": "https://github.com/Veloera/Veloera",
         "homepage": "",
         "topics": [],
         "pushed_at": "2026-02-11T09:14:23Z",
-        "updated_at": "2026-07-29T20:13:53Z",
+        "updated_at": "2026-07-31T11:41:34Z",
         "starred_at": "2025-06-20T18:29:10Z"
       },
       "summary": {
@@ -35300,7 +35300,7 @@
         "homepage": "",
         "topics": [],
         "pushed_at": "2026-07-13T06:28:34Z",
-        "updated_at": "2026-07-30T08:26:23Z",
+        "updated_at": "2026-07-31T19:50:48Z",
         "starred_at": "2025-06-18T16:04:51Z"
       },
       "summary": {
@@ -36107,7 +36107,7 @@
         "name": "MarkFlowy",
         "owner": "drl990114",
         "description": "AI-powered cross-platform editor for WYSIWYG Markdown and general-purpose text editing.",
-        "stars": 2348,
+        "stars": 2349,
         "language": "TypeScript",
         "url": "https://github.com/drl990114/MarkFlowy",
         "homepage": "https://www.markflowy.cc",
@@ -36128,8 +36128,8 @@
           "typescript",
           "windows-app"
         ],
-        "pushed_at": "2026-07-30T13:56:24Z",
-        "updated_at": "2026-07-31T08:14:05Z",
+        "pushed_at": "2026-07-31T23:36:33Z",
+        "updated_at": "2026-07-31T12:33:14Z",
         "starred_at": "2025-06-10T21:09:44Z"
       },
       "summary": {
@@ -36155,7 +36155,7 @@
         "name": "screenlite",
         "owner": "screenlite",
         "description": "Open-source digital signage software",
-        "stars": 359,
+        "stars": 360,
         "language": "TypeScript",
         "url": "https://github.com/screenlite/screenlite",
         "homepage": "https://screenlite.org",
@@ -36164,7 +36164,7 @@
           "digital-signage"
         ],
         "pushed_at": "2026-05-08T22:53:29Z",
-        "updated_at": "2026-07-24T10:25:32Z",
+        "updated_at": "2026-07-31T14:48:53Z",
         "starred_at": "2025-06-10T18:36:44Z"
       },
       "summary": {
@@ -36473,7 +36473,7 @@
           "webdav"
         ],
         "pushed_at": "2026-01-23T08:12:18Z",
-        "updated_at": "2026-07-30T06:54:13Z",
+        "updated_at": "2026-08-01T02:17:12Z",
         "starred_at": "2025-06-10T02:20:49Z"
       },
       "summary": {
@@ -37019,7 +37019,7 @@
         "name": "SuperAutoStudy",
         "owner": "Dainoar",
         "description": "超星学习通/学习通/泛雅学习通自动云端刷课的Springboot项目,支持多级倍速播放和自动答题，已接入Super题库+大模型答题。",
-        "stars": 617,
+        "stars": 618,
         "language": "Java",
         "url": "https://github.com/Dainoar/SuperAutoStudy",
         "homepage": "",
@@ -37029,7 +37029,7 @@
           "springboot"
         ],
         "pushed_at": "2026-07-14T04:15:38Z",
-        "updated_at": "2026-07-31T02:48:44Z",
+        "updated_at": "2026-08-01T08:36:37Z",
         "starred_at": "2025-06-07T17:41:38Z"
       },
       "summary": {
@@ -37620,7 +37620,7 @@
         "name": "openagent",
         "owner": "Haohao-end",
         "description": "What if OpenAI Deep Research and Dify were one platform? OpenAgent — harness architecture for rapidly building vertical AI agents, with deep reasoning loops, visual workflows, RAG, and A2A delegation. ",
-        "stars": 775,
+        "stars": 776,
         "language": "Python",
         "url": "https://github.com/Haohao-end/openagent",
         "homepage": "https://openllm.cloud",
@@ -37647,7 +37647,7 @@
           "weaviate"
         ],
         "pushed_at": "2026-07-17T13:36:09Z",
-        "updated_at": "2026-07-31T03:39:11Z",
+        "updated_at": "2026-08-01T06:33:55Z",
         "starred_at": "2025-11-09T06:43:19Z"
       },
       "summary": {
@@ -38000,7 +38000,7 @@
         "name": "NXJS-ARCH",
         "owner": "s4huan",
         "description": "",
-        "stars": 369,
+        "stars": 370,
         "language": "JavaScript",
         "url": "https://github.com/s4huan/NXJS-ARCH",
         "homepage": "https://spoo.me/nxs-docs",
@@ -38010,7 +38010,7 @@
           "next-auth"
         ],
         "pushed_at": "2026-05-01T12:22:41Z",
-        "updated_at": "2026-07-29T14:10:29Z",
+        "updated_at": "2026-08-01T06:34:02Z",
         "starred_at": "2025-10-23T21:08:06Z"
       },
       "summary": {
@@ -38042,7 +38042,7 @@
         "tags_en": []
       },
       "pushed_at": "2026-06-16T15:48:58Z",
-      "updated_at": "2026-07-31"
+      "updated_at": "2026-08-01"
     },
     "flechazo-crushed/webmeta-cli": {
       "metadata": {
@@ -38066,7 +38066,7 @@
         "tags_en": []
       },
       "pushed_at": "2026-05-05T02:47:54Z",
-      "updated_at": "2026-07-31"
+      "updated_at": "2026-08-01"
     },
     "fastbyte19/terraform-docker-postgresql": {
       "metadata": {
@@ -38157,7 +38157,7 @@
         "tags_en": []
       },
       "pushed_at": "2026-07-27T10:33:47Z",
-      "updated_at": "2026-07-31"
+      "updated_at": "2026-08-01"
     },
     "fastbyte18/Solana-NFT-Marketplace-by-CandyMachine": {
       "metadata": {
@@ -38200,7 +38200,7 @@
         "tags_en": []
       },
       "pushed_at": "2025-11-21T01:15:31Z",
-      "updated_at": "2026-07-31"
+      "updated_at": "2026-08-01"
     }
   }
 }
