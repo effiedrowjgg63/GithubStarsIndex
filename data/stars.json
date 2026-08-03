@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-02 10:03 UTC",
+  "last_updated": "2026-08-03 11:34 UTC",
   "repos": {
     "waoowaooAI/waoowaoo": {
       "metadata": {
@@ -3097,7 +3097,7 @@
         "name": "gpt-load",
         "owner": "tbphp",
         "description": "Multi-channel AI proxy with intelligent key rotation. 智能密钥轮询的多渠道 AI 代理。",
-        "stars": 6257,
+        "stars": 6260,
         "language": "Go",
         "url": "https://github.com/tbphp/gpt-load",
         "homepage": "https://www.gpt-load.com",
@@ -3110,8 +3110,8 @@
           "golang",
           "openai"
         ],
-        "pushed_at": "2026-08-02T08:56:37Z",
-        "updated_at": "2026-08-01T15:10:24Z",
+        "pushed_at": "2026-08-03T07:44:45Z",
+        "updated_at": "2026-08-03T11:29:10Z",
         "starred_at": "2025-06-18T04:14:43Z"
       },
       "summary": {
@@ -4421,13 +4421,13 @@
         "name": "mcp-chrome",
         "owner": "hangwin",
         "description": "Chrome MCP Server is a Chrome extension-based Model Context Protocol (MCP) server that exposes your Chrome browser functionality to AI assistants like Claude, enabling complex browser automation, content analysis, and semantic search.",
-        "stars": 12245,
+        "stars": 12248,
         "language": "TypeScript",
         "url": "https://github.com/hangwin/mcp-chrome",
         "homepage": "",
         "topics": [],
         "pushed_at": "2026-01-06T13:05:39Z",
-        "updated_at": "2026-08-02T08:47:54Z",
+        "updated_at": "2026-08-03T11:29:10Z",
         "starred_at": "2025-08-25T14:40:10Z"
       },
       "summary": {
@@ -31325,8 +31325,8 @@
           "ai-agents",
           "ai-coding"
         ],
-        "pushed_at": "2026-07-31T06:21:39Z",
-        "updated_at": "2026-08-02T04:05:14Z",
+        "pushed_at": "2026-08-03T01:18:29Z",
+        "updated_at": "2026-08-03T01:18:33Z",
         "starred_at": "2025-11-23T10:29:17Z"
       },
       "summary": {
@@ -31661,7 +31661,7 @@
           "test-case-generation"
         ],
         "pushed_at": "2026-07-17T03:47:36Z",
-        "updated_at": "2026-08-01T16:15:15Z",
+        "updated_at": "2026-08-03T11:29:23Z",
         "starred_at": "2025-11-09T01:37:27Z"
       },
       "summary": {
@@ -31789,7 +31789,7 @@
         "name": "kelivo",
         "owner": "Chevey339",
         "description": "A Flutter LLM Chat Client. Support Mobile & Desktop.",
-        "stars": 3439,
+        "stars": 3448,
         "language": "Dart",
         "url": "https://github.com/Chevey339/kelivo",
         "homepage": "https://kelivo.psycheas.top",
@@ -31807,7 +31807,7 @@
           "openharmony"
         ],
         "pushed_at": "2026-07-29T13:01:20Z",
-        "updated_at": "2026-08-02T09:02:18Z",
+        "updated_at": "2026-08-03T08:40:36Z",
         "starred_at": "2025-10-28T08:02:47Z"
       },
       "summary": {
@@ -31833,7 +31833,7 @@
         "name": "FreeDomain",
         "owner": "DigitalPlatDev",
         "description": "DigitalPlat FreeDomain: Free Domain For Everyone",
-        "stars": 190096,
+        "stars": 190359,
         "language": "N/A",
         "url": "https://github.com/DigitalPlatDev/FreeDomain",
         "homepage": "https://domain.digitalplat.org",
@@ -31847,7 +31847,7 @@
           "freedomain"
         ],
         "pushed_at": "2026-07-16T15:38:52Z",
-        "updated_at": "2026-08-02T09:50:25Z",
+        "updated_at": "2026-08-03T11:31:54Z",
         "starred_at": "2025-10-26T08:03:55Z"
       },
       "summary": {
@@ -32133,7 +32133,7 @@
         "name": "llm-interview-code",
         "owner": "AIR-hl",
         "description": "LLM面试常见手撕合集",
-        "stars": 543,
+        "stars": 544,
         "language": "Jupyter Notebook",
         "url": "https://github.com/AIR-hl/llm-interview-code",
         "homepage": "",
@@ -32144,7 +32144,7 @@
           "lm"
         ],
         "pushed_at": "2026-06-19T14:22:10Z",
-        "updated_at": "2026-08-02T03:16:37Z",
+        "updated_at": "2026-08-03T10:24:15Z",
         "starred_at": "2025-10-02T04:30:36Z"
       },
       "summary": {
@@ -33249,8 +33249,8 @@
           "vite",
           "vue"
         ],
-        "pushed_at": "2026-08-02T07:18:34Z",
-        "updated_at": "2026-08-02T07:18:46Z",
+        "pushed_at": "2026-08-03T07:18:43Z",
+        "updated_at": "2026-08-03T07:19:24Z",
         "starred_at": "2025-08-25T03:56:43Z"
       },
       "summary": {
@@ -33566,7 +33566,7 @@
         "url": "https://github.com/cokice/japanese-analyzer",
         "homepage": "https://nihongodemo.howen.ink/",
         "topics": [],
-        "pushed_at": "2026-08-01T19:30:21Z",
+        "pushed_at": "2026-08-02T13:19:54Z",
         "updated_at": "2026-08-01T17:29:21Z",
         "starred_at": "2025-07-27T04:01:34Z"
       },
@@ -33986,7 +33986,7 @@
         "name": "D-OnlineJudge",
         "owner": "Decade-qiu",
         "description": "A full-stack online coding platform powered by Spring Cloud microservices and a Vue 3 frontend, offering scalable, secure, and interactive coding challenges.",
-        "stars": 219,
+        "stars": 220,
         "language": "Java",
         "url": "https://github.com/Decade-qiu/D-OnlineJudge",
         "homepage": "",
@@ -33999,7 +33999,7 @@
           "vue3"
         ],
         "pushed_at": "2026-02-11T18:18:24Z",
-        "updated_at": "2026-07-24T12:02:28Z",
+        "updated_at": "2026-08-03T08:00:47Z",
         "starred_at": "2025-07-22T21:10:49Z"
       },
       "summary": {
@@ -34394,7 +34394,7 @@
         "homepage": "",
         "topics": [],
         "pushed_at": "2026-06-04T03:42:14Z",
-        "updated_at": "2026-07-28T13:40:19Z",
+        "updated_at": "2026-08-03T11:28:41Z",
         "starred_at": "2025-07-20T20:48:08Z"
       },
       "summary": {
@@ -34772,8 +34772,8 @@
           "muilt-agents",
           "workflow"
         ],
-        "pushed_at": "2026-08-02T05:39:52Z",
-        "updated_at": "2026-08-02T05:40:35Z",
+        "pushed_at": "2026-08-03T11:01:46Z",
+        "updated_at": "2026-08-03T11:02:22Z",
         "starred_at": "2025-06-20T12:41:29Z"
       },
       "summary": {
@@ -35294,13 +35294,13 @@
         "name": "cf-vps-monitor",
         "owner": "kadidalax",
         "description": "用cloudflare worker搭建的vps探针+网站检测 面板，部署简单，不需要服务器。",
-        "stars": 858,
+        "stars": 860,
         "language": "TypeScript",
         "url": "https://github.com/kadidalax/cf-vps-monitor",
         "homepage": "",
         "topics": [],
         "pushed_at": "2026-07-13T06:28:34Z",
-        "updated_at": "2026-08-02T06:34:07Z",
+        "updated_at": "2026-08-02T17:48:20Z",
         "starred_at": "2025-06-18T16:04:51Z"
       },
       "summary": {
@@ -35358,7 +35358,7 @@
         "name": "Awesome-RL-for-Video-Generation",
         "owner": "wendell0218",
         "description": "A curated list of papers on reinforcement learning for video generation",
-        "stars": 575,
+        "stars": 577,
         "language": "N/A",
         "url": "https://github.com/wendell0218/Awesome-RL-for-Video-Generation",
         "homepage": "",
@@ -35371,7 +35371,7 @@
           "video-generation"
         ],
         "pushed_at": "2026-04-15T16:58:38Z",
-        "updated_at": "2026-07-30T02:53:40Z",
+        "updated_at": "2026-08-03T07:13:00Z",
         "starred_at": "2025-06-18T13:31:11Z"
       },
       "summary": {
@@ -35473,13 +35473,13 @@
         "name": "GoComicMosaic",
         "owner": "fish2018",
         "description": "一款开源影视资源共建平台，集成网盘搜索、分季分集剧集信息查看、在线点播(支持采集解析和自定义爬虫)等功能。支持Docker一键部署。https://dm.xueximeng.com/ ",
-        "stars": 487,
+        "stars": 486,
         "language": "Vue",
         "url": "https://github.com/fish2018/GoComicMosaic",
         "homepage": "",
         "topics": [],
         "pushed_at": "2025-10-22T11:54:12Z",
-        "updated_at": "2026-07-28T12:47:08Z",
+        "updated_at": "2026-08-03T11:29:09Z",
         "starred_at": "2025-06-18T05:45:05Z"
       },
       "summary": {
@@ -36128,8 +36128,8 @@
           "typescript",
           "windows-app"
         ],
-        "pushed_at": "2026-08-02T09:20:34Z",
-        "updated_at": "2026-08-02T09:20:47Z",
+        "pushed_at": "2026-08-02T11:21:51Z",
+        "updated_at": "2026-08-02T10:59:53Z",
         "starred_at": "2025-06-10T21:09:44Z"
       },
       "summary": {
@@ -36455,7 +36455,7 @@
         "name": "CloudPaste",
         "owner": "ling-drag0n",
         "description": "🌩️ Serverless 自托管的文件管理与文本分享工具/网盘，支持多存储聚合管理和WebDAV 服务挂载。兼容 S3、WebDAV、OneDrive、Google Drive、Telegram、HF、GitHub 等。内置   Markdown 编辑器、30+文件格式预览。支持 Cloudflare Workers 或 Docker 部署。",
-        "stars": 2573,
+        "stars": 2575,
         "language": "JavaScript",
         "url": "https://github.com/ling-drag0n/CloudPaste",
         "homepage": "https://doc.cloudpaste.qzz.io",
@@ -36473,7 +36473,7 @@
           "webdav"
         ],
         "pushed_at": "2026-01-23T08:12:18Z",
-        "updated_at": "2026-08-02T05:00:35Z",
+        "updated_at": "2026-08-03T06:06:25Z",
         "starred_at": "2025-06-10T02:20:49Z"
       },
       "summary": {
@@ -37352,13 +37352,13 @@
         "name": "uni-pagination",
         "owner": "taoganio",
         "description": "Uni Pagination 是一个基于 Java 的通用分页框架，它通过抽象化的设计，为不同数据源提供统一的分页查询接口。框架采用模块化架构，现目前集成 JDBC、Mybatis、MongoDB、Elasticsearch 等多种数据源，并提供了灵活的扩展机制。",
-        "stars": 203,
+        "stars": 204,
         "language": "Java",
         "url": "https://github.com/taoganio/uni-pagination",
         "homepage": "",
         "topics": [],
         "pushed_at": "2025-11-11T03:01:42Z",
-        "updated_at": "2026-07-27T22:19:43Z",
+        "updated_at": "2026-08-03T07:57:35Z",
         "starred_at": "2025-06-07T09:58:10Z"
       },
       "summary": {
@@ -37384,7 +37384,7 @@
         "name": "memberclub",
         "owner": "juejin-wuyang",
         "description": "电商类交易系统工具箱， 以SDK方式对外提供通用的交易能力，能让开发者像搭积木方式，从0到1，快速构建一个新的电商交易系统！ 包含交易提单、履约、售后、结算、库存管理、用户配额管理等模块，非常适合用来学习如何构建电商业务中台！QQ群：1033066503",
-        "stars": 590,
+        "stars": 591,
         "language": "Java",
         "url": "https://github.com/juejin-wuyang/memberclub",
         "homepage": "",
@@ -37393,7 +37393,7 @@
           "springboot"
         ],
         "pushed_at": "2025-08-30T13:41:12Z",
-        "updated_at": "2026-07-27T22:19:47Z",
+        "updated_at": "2026-08-03T02:40:04Z",
         "starred_at": "2025-06-07T10:15:45Z"
       },
       "summary": {
@@ -37458,8 +37458,8 @@
         "url": "https://github.com/Yoan98/Ncurator",
         "homepage": "",
         "topics": [],
-        "pushed_at": "2026-07-28T02:40:31Z",
-        "updated_at": "2026-07-29T03:26:36Z",
+        "pushed_at": "2026-08-03T05:59:22Z",
+        "updated_at": "2026-08-03T05:59:37Z",
         "starred_at": "2025-05-03T13:17:31Z"
       },
       "summary": {
@@ -37647,7 +37647,7 @@
           "weaviate"
         ],
         "pushed_at": "2026-07-17T13:36:09Z",
-        "updated_at": "2026-08-01T20:59:25Z",
+        "updated_at": "2026-08-03T02:36:23Z",
         "starred_at": "2025-11-09T06:43:19Z"
       },
       "summary": {
@@ -37673,13 +37673,13 @@
         "name": "RecFM",
         "owner": "ustcllm",
         "description": "Comprehensive tools and frameworks for developing foundation models tailored to recommendation systems.",
-        "stars": 1035,
+        "stars": 1033,
         "language": "N/A",
         "url": "https://github.com/ustcllm/RecFM",
         "homepage": "",
         "topics": [],
         "pushed_at": "2025-09-16T01:38:26Z",
-        "updated_at": "2026-07-23T06:30:26Z",
+        "updated_at": "2026-08-03T09:06:41Z",
         "starred_at": "2025-06-08T05:35:54Z"
       },
       "summary": {
@@ -38042,7 +38042,7 @@
         "tags_en": []
       },
       "pushed_at": "2026-06-16T15:48:58Z",
-      "updated_at": "2026-08-02"
+      "updated_at": "2026-08-03"
     },
     "flechazo-crushed/webmeta-cli": {
       "metadata": {
@@ -38066,7 +38066,7 @@
         "tags_en": []
       },
       "pushed_at": "2026-05-05T02:47:54Z",
-      "updated_at": "2026-08-02"
+      "updated_at": "2026-08-03"
     },
     "fastbyte19/terraform-docker-postgresql": {
       "metadata": {
@@ -38157,7 +38157,7 @@
         "tags_en": []
       },
       "pushed_at": "2026-07-27T10:33:47Z",
-      "updated_at": "2026-08-02"
+      "updated_at": "2026-08-03"
     },
     "fastbyte18/Solana-NFT-Marketplace-by-CandyMachine": {
       "metadata": {
@@ -38200,7 +38200,7 @@
         "tags_en": []
       },
       "pushed_at": "2025-11-21T01:15:31Z",
-      "updated_at": "2026-08-02"
+      "updated_at": "2026-08-03"
     }
   }
 }
