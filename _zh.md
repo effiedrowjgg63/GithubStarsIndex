@@ -1,6 +1,6 @@
 # ⭐ GitHub Stars Index
 
-> Updated: 2026-08-09 08:52 UTC · Total: 179
+> Updated: 2026-08-10 09:39 UTC · Total: 179
 
 ---
 
@@ -200,8 +200,8 @@
 ## MayDay-wpf/snow-cli
 
 > [!info]
-> ⭐ 1,115 · TypeScript · 2026-08-08T16:50:53Z  
-> [GitHub](https://github.com/MayDay-wpf/snow-cli) · [Website](https://snowcli.com)  
+> ⭐ 1,117 · TypeScript · 2026-08-09T13:46:55Z  
+> [GitHub](https://github.com/MayDay-wpf/snow-cli)  
 > `#AI智能体` `#代码自动化` `#终端工具` `#ai` `#ai-agents` `#ai-coding` 
 > Snow AI CLI 是一款终端 Agentic 编程工具，支持智能代码生成、漏洞检测、异步任务管理和 LSP 集成。通过命令注入、子代理配置和钩子自动化，提供高度可定制的 AI 编码体验，适用于开发者快速构建、审查和优化代码。
 > <sub>Agentic coding in your terminal,Simultaneously compatible with OpenAI, Gemini, and Claude.运行在终端的 AI 编程智能体，同时兼容 Deepseek、OpenAI、Gemini和Claude。</sub>
@@ -288,7 +288,7 @@
 ## ltjed/freephdlabor
 
 > [!info]
-> ⭐ 597 · Python · 2026-08-09T07:20:01Z  
+> ⭐ 607 · Python · 2026-08-10T04:06:10Z  
 > [GitHub](https://github.com/ltjed/freephdlabor) · [Website](https://freephdlabor.github.io/)  
 > `#AI智能体` `#多智能体系统` `#科学研究` `#自动化研究` `#ai-agents` `#ai4science` `#autonomous-agents` `#multiagent-systems` `#research-automation` 
 > freephdlabor 是一个开源多智能体框架，可自动化科学研究的完整生命周期，从假设生成到实验验证再到论文撰写。支持开箱即用和领域定制，具备动态工作流、人类协同干预及持续研究能力，适用于材料科学、生物学等跨学科研究场景。
@@ -298,7 +298,7 @@
 ## Haohao-end/openagent
 
 > [!info]
-> ⭐ 779 · Python · 2026-08-07T02:21:11Z  
+> ⭐ 780 · Python · 2026-08-10T08:25:12Z  
 > [GitHub](https://github.com/Haohao-end/openagent) · [Website](https://openllm.cloud)  
 > `#AI智能体` `#Docker部署` `#LangChain 框架` `#agent` `#ai` `#celery` `#deepagents` `#deepresearch` `#deepseek` `#docker` `#faiss-vector-database` `#flask` `#harness-engineering` `#langchain` `#langgraph` `#llmops` `#mcp` `#nginx` `#postgresql` `#skills` `#tailwindcss` `#vue` `#weaviate` 
 > OpenAgent 是一个端到端的 AI Agent 开发平台，支持 OpenAI、DeepSeek、文心一言等多模型接入，提供知识库管理、工作流自动化编排、对话历史检索等企业级功能。采用 Flask + Vue3 + LangChain 技术栈，内置 Docker 一键部署，具备实时通知、权限管控和向量检索能力。
@@ -318,7 +318,7 @@
 ## MGdaasLab/WHartTest
 
 > [!info]
-> ⭐ 981 · Python · 2026-08-09T07:59:45Z  
+> ⭐ 985 · Python · 2026-08-10T07:17:58Z  
 > [GitHub](https://github.com/MGdaasLab/WHartTest) · [Website](https://docs.wharttest.mgdaas.com/)  
 > `#AI智能体` `#Django` `#测试自动化` `#ai-test-platform` `#ai-testing` `#automated-testing` `#browser-automation` `#intelligent-testing` `#test-case-generation` 
 > WHartTest 是基于 Django REST Framework 和现代大模型技术构建的 AI 驱动测试自动化平台，集成 LangChain 与 MCP 协议，支持从需求文档自动生成结构化测试用例。平台具备知识库语义检索、UI/APP 自动化执行、MCP 工具调用及多模型嵌入服务适配能力，提供端到端的智能测试管理解决方案，显著提升测试效率与覆盖率。
@@ -348,7 +348,7 @@
 ## Chevey339/kelivo
 
 > [!info]
-> ⭐ 3,588 · Dart · 2026-08-09T06:47:46Z  
+> ⭐ 3,606 · Dart · 2026-08-10T09:24:46Z  
 > [GitHub](https://github.com/Chevey339/kelivo) · [Website](https://kelivo.psycheas.top)  
 > `#AI智能体` `#Flutter` `#跨平台` `#ai` `#android` `#chatbot` `#chatbox` `#flutter` `#flutter-apps` `#harmony` `#harmonyos` `#ios` `#llm` `#openharmony` 
 > Kelivo 是一款基于 Flutter 开发的跨平台 LLM 聊天客户端，支持移动端（Android/iOS/Harmony）和桌面端（Windows/macOS/Linux）。具备现代化 Material You 设计、多语言支持、多 AI 服务商接入、MCP 工具集成、网页搜索、语音合成、Markdown 渲染及自定义字体等功能，提供高效智能对话体验。
@@ -358,7 +358,7 @@
 ## DigitalPlatDev/FreeDomain
 
 > [!info]
-> ⭐ 191,794 · N/A · 2026-08-09T08:49:53Z  
+> ⭐ 192,173 · N/A · 2026-08-10T09:39:07Z  
 > [GitHub](https://github.com/DigitalPlatDev/FreeDomain) · [Website](https://domain.digitalplat.org)  
 > `#免费域名` `#域名服务` `#数字身份` `#digitalplat` `#domain` `#domain-platform` `#domainname` `#domains` `#free` `#freedomain` 
 > DigitalPlat FreeDomain 是一个面向个人和组织的免费域名注册平台，提供 .DPDNS.ORG、.US.KG 等专属后缀域名，支持与主流 DNS 服务商（如 Cloudflare）无缝集成。项目由 DigitalPlat Foundation 创始人 Edward Hsing 独立开发维护，已服务超 40 万用户，致力于降低网络接入门槛，推动互联网开放包容。
@@ -719,7 +719,7 @@
 ## hangwin/mcp-chrome
 
 > [!info]
-> ⭐ 12,275 · TypeScript · 2026-08-09T06:18:16Z  
+> ⭐ 12,279 · TypeScript · 2026-08-10T07:23:06Z  
 > [GitHub](https://github.com/hangwin/mcp-chrome)  
 > `#AI智能体` `#浏览器自动化` `#语义搜索` 
 > Chrome MCP Server 是一款基于 Chrome 扩展的 Model Context Protocol (MCP) 服务器，将浏览器功能暴露给 Claude 等 AI 助手，实现复杂浏览器自动化、内容分析与语义搜索。它直接利用用户现有 Chrome 环境，保留登录状态与配置，支持 20+ 工具，提供本地流式 HTTP 通信，并集成 SIMD 加速的向量数据库，实现智能跨标签页语义检索。
@@ -787,7 +787,7 @@
 ## yluiop123/orange
 
 > [!info]
-> ⭐ 504 · TypeScript · 2026-08-07T03:51:56Z  
+> ⭐ 505 · TypeScript · 2026-08-09T16:13:15Z  
 > [GitHub](https://github.com/yluiop123/orange) · [Website](https://yluiop123.github.io/orange/)  
 > `#ShadCN` `#前后端分离` `#管理后台` `#react-admin` `#shadcn` `#shadcn-admin` `#vite` 
 > ORANGE 是一个基于 ShadCN、Vite、React、Zustand 和 React Router 构建的现代化管理后台 UI，提供仪表盘、表单、图表等完整界面组件。前端采用 React 19 + Vite 6 架构，后端基于 Spring Boot 4.0.2 与 PostgreSQL，集成 JWT 安全认证和 OpenAPI 3.0 文档，支持国际化与 Mock API 开发。
@@ -797,7 +797,7 @@
 ## Shengxiang-Lin/IMIS-BS
 
 > [!info]
-> ⭐ 267 · Python · 2026-08-05T12:56:37Z  
+> ⭐ 267 · Python · 2026-08-10T02:06:47Z  
 > [GitHub](https://github.com/Shengxiang-Lin/IMIS-BS)  
 > `#Flask后端` `#企业管理系统` `#图书电商` 
 > 基于 Flask 的中小型图书销售企业管理系统框架，支持用户、图书、订单、评论等核心功能模块，采用分层架构设计（API层、业务逻辑层、数据访问层），集成 SQLAlchemy + PostgreSQL 实现数据持久化，通过 Flask-RESTful 提供 RESTful API 接口，并配备 JWT 认证机制保障安全性。
@@ -1166,7 +1166,7 @@
 ## ZHangZHengEric/Sage
 
 > [!info]
-> ⭐ 1,218 · Python · 2026-08-07T22:07:28Z  
+> ⭐ 1,220 · Python · 2026-08-10T06:37:16Z  
 > [GitHub](https://github.com/ZHangZHengEric/Sage) · [Website](https://zhangzhengeric.github.io/Sage/)  
 > `#AI智能体` `#任务编排` `#多智能体系统` `#agents` `#ai` `#llm` `#manus` `#muilt-agents` `#workflow` 
 > Sage 是一个生产级多智能体框架，支持任务编排、模型能力最大化及安全沙箱执行。提供可视化工作台、OpenTelemetry 全链路追踪、MCP 协议集成和跨平台桌面应用，适用于复杂任务的智能协作与自动化处理。
@@ -1334,7 +1334,7 @@
 ## wendell0218/Awesome-RL-for-Video-Generation
 
 > [!info]
-> ⭐ 580 · N/A · 2026-08-07T15:52:23Z  
+> ⭐ 581 · N/A · 2026-08-10T05:25:58Z  
 > [GitHub](https://github.com/wendell0218/Awesome-RL-for-Video-Generation)  
 > `#AI智能体` `#强化学习` `#视频生成` `#dpo` `#grpo` `#ppo` `#reinforcement-learning` `#reward-model` `#video-generation` 
 > 该仓库系统梳理了强化学习在视频生成领域的最新研究进展，提供论文精选、方法分类与基准测试对比。核心亮点包括自动化的文献追踪系统（每日更新）、基于GRPO等策略的RL-Video-Gen框架，以及VideoGenBench等评估体系，为研究者提供从理论到实践的完整资源支持。
@@ -1364,7 +1364,7 @@
 ## fish2018/GoComicMosaic
 
 > [!info]
-> ⭐ 490 · Vue · 2026-08-07T13:04:51Z  
+> ⭐ 491 · Vue · 2026-08-10T01:20:16Z  
 > [GitHub](https://github.com/fish2018/GoComicMosaic)  
 > `#影视资源` `#社区共建` `#网盘搜索` 
 > GoComicMosaic 是一款开源影视资源共建平台，支持用户提交动漫资源信息并协作完善内容库。集成网盘搜索、分季分集管理、在线点播及自定义爬虫解析功能，提供 Docker 一键部署，内置 TMDB 数据源支持，管理员可审批资源并编辑详情页，适合构建社区驱动的影视资源聚合站点。
@@ -1374,7 +1374,7 @@
 ## tbphp/gpt-load
 
 > [!info]
-> ⭐ 6,269 · Go · 2026-08-08T07:02:48Z  
+> ⭐ 6,271 · Go · 2026-08-10T07:16:01Z  
 > [GitHub](https://github.com/tbphp/gpt-load) · [Website](https://www.gpt-load.com)  
 > `#AI智能代理` `#API网关` `#密钥管理` `#负载均衡` `#anthropic` `#claude` `#gemini` `#gin` `#go` `#golang` `#openai` 
 > GPT-Load 是一个高性能企业级 AI API 透明代理服务，专为需要集成多 AI 服务的开发者和企业设计。基于 Go 构建，具备智能密钥轮询、负载均衡、故障自动恢复、动态配置热重载等特性，支持 OpenAI、Google Gemini、Anthropic Claude 等多种 AI 服务格式，提供完整的监控和管理界面。
@@ -1553,7 +1553,7 @@
 ## drl990114/MarkFlowy
 
 > [!info]
-> ⭐ 2,348 · TypeScript · 2026-08-09T07:27:10Z  
+> ⭐ 2,350 · TypeScript · 2026-08-09T21:37:24Z  
 > [GitHub](https://github.com/drl990114/MarkFlowy) · [Website](https://www.markflowy.cc)  
 > `#AI智能体` `#Markdown编辑器` `#桌面应用` `#ai` `#chatgpt` `#deepseek` `#editor` `#linux-app` `#macos-app` `#markdown` `#markdowneditor` `#notes-app` `#prosemirror` `#reactjs` `#rust-lang` `#tauri` `#typescript` `#windows-app` 
 > MarkFlowy 是一款现代化智能 Markdown 编辑器，基于 Tauri 框架开发，体积小巧（<20MB）且性能优异。核心功能包括内置 AI 助手（支持 Copilot、翻译、摘要）、多模式编辑（源码/WYSIWYG）、Prosemirror 引擎、多语言支持及自定义主题。适用于高效写作、文档管理和跨平台内容创作。
@@ -1629,7 +1629,7 @@
 ## ling-drag0n/CloudPaste
 
 > [!info]
-> ⭐ 2,589 · JavaScript · 2026-08-09T07:11:14Z  
+> ⭐ 2,591 · JavaScript · 2026-08-10T05:01:00Z  
 > [GitHub](https://github.com/ling-drag0n/CloudPaste) · [Website](https://doc.cloudpaste.qzz.io)  
 > `#多存储聚合` `#文件管理` `#无服务器架构` `#cloudflare` `#cloudflare-workers` `#docker` `#file-browser` `#huggingface` `#markdown` `#onedrive` `#s3` `#telegram` `#telegrambot` `#webdav` 
 > CloudPaste 是一个基于 Cloudflare Workers 的无服务器文件管理与文本分享工具，支持多存储聚合（S3、WebDAV、OneDrive、Google Drive 等），提供 30+ 文件格式在线预览及 WebDAV 挂载功能。内置 Markdown 编辑器，支持实时预览与导出，兼容 Docker 部署，适用于个人或企业轻量化云盘场景。
@@ -1822,7 +1822,7 @@
 ## sopaco/saga-reader
 
 > [!info]
-> ⭐ 531 · Rust · 2026-08-05T12:50:32Z  
+> ⭐ 533 · Rust · 2026-08-09T17:37:22Z  
 > [GitHub](https://github.com/sopaco/saga-reader) · [Website](https://aiqino.netlify.app/)  
 > `#AI智能体` `#Rust` `#桌面应用` `#desktop` `#llm` `#reader` `#rust` `#svelte` `#tauri` 
 > Saga Reader 是一款由 AI 驱动的极速轻量级跨平台网络阅读器，基于 Rust、Tauri 和 Svelte 构建。它通过智能订阅关键词自动抓取全网信息，利用本地或云端大模型进行内容摘要与 AI 互动，提供沉浸式阅读体验，支持 Windows、Mac 和 Linux，完全开源免费且数据本地化存储。
@@ -1921,7 +1921,7 @@
 ## Yoan98/Ncurator
 
 > [!info]
-> ⭐ 113 · HTML · 2026-08-09T04:52:15Z  
+> ⭐ 114 · HTML · 2026-08-10T01:23:23Z  
 > [GitHub](https://github.com/Yoan98/Ncurator)  
 > `#AI智能体` `#本地知识库` `#浏览器插件` `#隐私保护` 
 > Ncurator（馆长）是一款注重隐私的本地知识库AI问答助手，以浏览器插件形式运行。支持导入PDF、网页、书签等构建个人知识库，通过本地大模型实现智能问答与语义搜索。所有数据本地存储，确保隐私安全，支持离线使用且完全免费。

@@ -1,6 +1,6 @@
 # ⭐ GitHub Stars Index
 
-> Updated: 2026-08-09 08:52 UTC · Total: 179
+> Updated: 2026-08-10 09:39 UTC · Total: 179
 
 ---
 
@@ -200,8 +200,8 @@
 ## MayDay-wpf/snow-cli
 
 > [!info]
-> ⭐ 1,115 · TypeScript · 2026-08-08T16:50:53Z  
-> [GitHub](https://github.com/MayDay-wpf/snow-cli) · [Website](https://snowcli.com)  
+> ⭐ 1,117 · TypeScript · 2026-08-09T13:46:55Z  
+> [GitHub](https://github.com/MayDay-wpf/snow-cli)  
 > `#AI 智能体` `#Code Automation` `#Terminal Tool` `#ai` `#ai-agents` `#ai-coding` 
 > Snow AI CLI is an agentic coding tool for the terminal, enabling intelligent code generation, vulnerability scanning, and async task management. With command injection, sub-agent configuration, and hook automation, it offers a customizable AI-driven development workflow for building, reviewing, and optimizing code efficiently.
 > <sub>Agentic coding in your terminal,Simultaneously compatible with OpenAI, Gemini, and Claude.运行在终端的 AI 编程智能体，同时兼容 Deepseek、OpenAI、Gemini和Claude。</sub>
@@ -288,7 +288,7 @@
 ## ltjed/freephdlabor
 
 > [!info]
-> ⭐ 597 · Python · 2026-08-09T07:20:01Z  
+> ⭐ 607 · Python · 2026-08-10T04:06:10Z  
 > [GitHub](https://github.com/ltjed/freephdlabor) · [Website](https://freephdlabor.github.io/)  
 > `#AI Agents` `#Automated Research` `#Multiagent Systems` `#Scientific Research` `#ai-agents` `#ai4science` `#autonomous-agents` `#multiagent-systems` `#research-automation` 
 > freephdlabor is an open-source multiagent framework automating the full scientific research lifecycle—from hypothesis generation to experimentation and publication-ready manuscripts. It supports out-of-the-box use or domain-specific customization, featuring dynamic workflows, human-in-the-loop feedback, and continual research capabilities across fields like materials science and biology.
@@ -298,7 +298,7 @@
 ## Haohao-end/openagent
 
 > [!info]
-> ⭐ 779 · Python · 2026-08-07T02:21:11Z  
+> ⭐ 780 · Python · 2026-08-10T08:25:12Z  
 > [GitHub](https://github.com/Haohao-end/openagent) · [Website](https://openllm.cloud)  
 > `#AI Agents` `#Docker Deployment` `#LangChain 框架` `#agent` `#ai` `#celery` `#deepagents` `#deepresearch` `#deepseek` `#docker` `#faiss-vector-database` `#flask` `#harness-engineering` `#langchain` `#langgraph` `#llmops` `#mcp` `#nginx` `#postgresql` `#skills` `#tailwindcss` `#vue` `#weaviate` 
 > OpenAgent is an end-to-end AI agent development platform supporting multi-provider LLMs (OpenAI/DeepSeek/Wenxin/Tongyi), featuring knowledge base management, workflow automation, conversation search, and enterprise-grade security. Built with Flask + Vue3 + LangChain, it offers one-click Docker deployment with real-time notifications and vector-based retrieval.
@@ -318,7 +318,7 @@
 ## MGdaasLab/WHartTest
 
 > [!info]
-> ⭐ 981 · Python · 2026-08-09T07:59:45Z  
+> ⭐ 985 · Python · 2026-08-10T07:17:58Z  
 > [GitHub](https://github.com/MGdaasLab/WHartTest) · [Website](https://docs.wharttest.mgdaas.com/)  
 > `#AI 智能体` `#Django` `#Test Automation` `#ai-test-platform` `#ai-testing` `#automated-testing` `#browser-automation` `#intelligent-testing` `#test-case-generation` 
 > WHartTest is an AI-driven test automation platform built on Django REST Framework and modern LLMs, integrating LangChain and MCP protocol. It enables automated generation of structured test cases from requirements via natural language understanding, semantic knowledge retrieval, and multi-model embedding support. Features include UI/APP automation, MCP tool integration, risk analysis, and full lifecycle test case management for enhanced efficiency and coverage.
@@ -348,7 +348,7 @@
 ## Chevey339/kelivo
 
 > [!info]
-> ⭐ 3,588 · Dart · 2026-08-09T06:47:46Z  
+> ⭐ 3,606 · Dart · 2026-08-10T09:24:46Z  
 > [GitHub](https://github.com/Chevey339/kelivo) · [Website](https://kelivo.psycheas.top)  
 > `#AI 智能体` `#Cross-Platform` `#Flutter` `#ai` `#android` `#chatbot` `#chatbox` `#flutter` `#flutter-apps` `#harmony` `#harmonyos` `#ios` `#llm` `#openharmony` 
 > Kelivo is a cross-platform LLM chat client built with Flutter, supporting mobile (Android/iOS/Harmony) and desktop (Windows/macOS/Linux). It features modern Material You design, multi-language support, integration with major AI providers, MCP tools, web search, TTS, Markdown rendering, and custom fonts for an intelligent conversational experience.
@@ -358,7 +358,7 @@
 ## DigitalPlatDev/FreeDomain
 
 > [!info]
-> ⭐ 191,794 · N/A · 2026-08-09T08:49:53Z  
+> ⭐ 192,173 · N/A · 2026-08-10T09:39:07Z  
 > [GitHub](https://github.com/DigitalPlatDev/FreeDomain) · [Website](https://domain.digitalplat.org)  
 > `#Digital Identity` `#Domain Service` `#Free Domain` `#digitalplat` `#domain` `#domain-platform` `#domainname` `#domains` `#free` `#freedomain` 
 > DigitalPlat FreeDomain offers free domain registration for individuals and organizations with exclusive extensions like .DPDNS.ORG and .US.KG. Built and maintained by Edward Hsing, founder of DigitalPlat Foundation, it integrates seamlessly with popular DNS providers such as Cloudflare. With over 400,000 domains registered, it empowers users to establish a digital presence at zero cost, promoting open access to the web.
@@ -719,7 +719,7 @@
 ## hangwin/mcp-chrome
 
 > [!info]
-> ⭐ 12,275 · TypeScript · 2026-08-09T06:18:16Z  
+> ⭐ 12,279 · TypeScript · 2026-08-10T07:23:06Z  
 > [GitHub](https://github.com/hangwin/mcp-chrome)  
 > `#AI 智能体` `#Browser Automation` `#Semantic Search` 
 > Chrome MCP Server is a Chrome extension-based Model Context Protocol (MCP) server that exposes browser functionality to AI assistants like Claude, enabling complex automation, content analysis, and semantic search. It leverages your existing Chrome browser with preserved login states and settings, supports 20+ tools, offers local streamable HTTP communication, and features SIMD-accelerated vector database for intelligent tab content discovery.
@@ -787,7 +787,7 @@
 ## yluiop123/orange
 
 > [!info]
-> ⭐ 504 · TypeScript · 2026-08-07T03:51:56Z  
+> ⭐ 505 · TypeScript · 2026-08-09T16:13:15Z  
 > [GitHub](https://github.com/yluiop123/orange) · [Website](https://yluiop123.github.io/orange/)  
 > `#Admin Dashboard` `#Full-Stack Application` `#ShadCN` `#react-admin` `#shadcn` `#shadcn-admin` `#vite` 
 > ORANGE is a modern admin UI built with ShadCN, Vite, React, Zustand, and React Router, featuring dashboards, forms, and charts. The frontend uses React 19 + Vite 6 with internationalization and MSW mocking, while the backend runs on Spring Boot 4.0.2 with PostgreSQL, JWT security, and OpenAPI 3.0 documentation.
@@ -797,7 +797,7 @@
 ## Shengxiang-Lin/IMIS-BS
 
 > [!info]
-> ⭐ 267 · Python · 2026-08-05T12:56:37Z  
+> ⭐ 267 · Python · 2026-08-10T02:06:47Z  
 > [GitHub](https://github.com/Shengxiang-Lin/IMIS-BS)  
 > `#Business Management System` `#E-commerce` `#Flask Backend` 
 > A Flask-based framework for small-to-medium book sales enterprises, featuring user management, book cataloging, order processing, and review systems. Built with a layered architecture using SQLAlchemy/PostgreSQL for data access, Flask-RESTful for APIs, and JWT authentication. Designed for scalability from hundreds to thousands of users.
@@ -1166,7 +1166,7 @@
 ## ZHangZHengEric/Sage
 
 > [!info]
-> ⭐ 1,218 · Python · 2026-08-07T22:07:28Z  
+> ⭐ 1,220 · Python · 2026-08-10T06:37:16Z  
 > [GitHub](https://github.com/ZHangZHengEric/Sage) · [Website](https://zhangzhengeric.github.io/Sage/)  
 > `#AI Agents` `#Multi-Agent System` `#Task Orchestration` `#agents` `#ai` `#llm` `#manus` `#muilt-agents` `#workflow` 
 > Sage is a production-ready multi-agent framework enabling complex task orchestration, model capability maximization, and secure sandbox execution. It features a visual workbench, OpenTelemetry tracing, MCP protocol support, and cross-platform desktop apps for intelligent collaboration and automation.
@@ -1334,7 +1334,7 @@
 ## wendell0218/Awesome-RL-for-Video-Generation
 
 > [!info]
-> ⭐ 580 · N/A · 2026-08-07T15:52:23Z  
+> ⭐ 581 · N/A · 2026-08-10T05:25:58Z  
 > [GitHub](https://github.com/wendell0218/Awesome-RL-for-Video-Generation)  
 > `#AI 智能体` `#Reinforcement Learning` `#Video Generation` `#dpo` `#grpo` `#ppo` `#reinforcement-learning` `#reward-model` `#video-generation` 
 > This repository curates cutting-edge research on reinforcement learning for video generation, featuring automated paper tracking (daily updates), RL-Video-Gen framework using GRPO strategy, and benchmarking tools like VideoGenBench. It bridges theoretical advances with practical applications through structured analysis of methods, datasets, and evaluation metrics.
@@ -1364,7 +1364,7 @@
 ## fish2018/GoComicMosaic
 
 > [!info]
-> ⭐ 490 · Vue · 2026-08-07T13:04:51Z  
+> ⭐ 491 · Vue · 2026-08-10T01:20:16Z  
 > [GitHub](https://github.com/fish2018/GoComicMosaic)  
 > `#Cloud Drive Search` `#Community Collaboration` `#Streaming Platform` 
 > GoComicMosaic is an open-source collaborative platform for building and sharing anime/movie resources. It enables users to submit content, integrates cloud drive search, episode management, online streaming with custom crawler support, and offers one-click Docker deployment. Admins can approve submissions and manage metadata via a built-in backend with TMDB integration.
@@ -1374,7 +1374,7 @@
 ## tbphp/gpt-load
 
 > [!info]
-> ⭐ 6,269 · Go · 2026-08-08T07:02:48Z  
+> ⭐ 6,271 · Go · 2026-08-10T07:16:01Z  
 > [GitHub](https://github.com/tbphp/gpt-load) · [Website](https://www.gpt-load.com)  
 > `#AI Proxy` `#API Gateway` `#Key Management` `#Load Balancing` `#anthropic` `#claude` `#gemini` `#gin` `#go` `#golang` `#openai` 
 > GPT-Load is a high-performance, enterprise-grade transparent proxy service for AI APIs, designed for developers and enterprises integrating multiple AI services. Built with Go, it features intelligent key rotation, load balancing, automatic failure recovery, hot-reload configuration, and comprehensive monitoring. Supports OpenAI, Google Gemini, and Anthropic Claude APIs with a Vue 3 management interface.
@@ -1553,7 +1553,7 @@
 ## drl990114/MarkFlowy
 
 > [!info]
-> ⭐ 2,348 · TypeScript · 2026-08-09T07:27:10Z  
+> ⭐ 2,350 · TypeScript · 2026-08-09T21:37:24Z  
 > [GitHub](https://github.com/drl990114/MarkFlowy) · [Website](https://www.markflowy.cc)  
 > `#AI 智能体` `#Markdown Editor` `#桌面应用` `#ai` `#chatgpt` `#deepseek` `#editor` `#linux-app` `#macos-app` `#markdown` `#markdowneditor` `#notes-app` `#prosemirror` `#reactjs` `#rust-lang` `#tauri` `#typescript` `#windows-app` 
 > MarkFlowy is a modern, intelligent Markdown editor built with Tauri for lightweight performance (<20MB). It features integrated AI (Copilot, translation, summarization), multi-mode editing (source/WYSIWYG), Prosemirror core, custom themes, and cross-platform support. Designed for efficient writing, document management, and content creation.
@@ -1629,7 +1629,7 @@
 ## ling-drag0n/CloudPaste
 
 > [!info]
-> ⭐ 2,589 · JavaScript · 2026-08-09T07:11:14Z  
+> ⭐ 2,591 · JavaScript · 2026-08-10T05:01:00Z  
 > [GitHub](https://github.com/ling-drag0n/CloudPaste) · [Website](https://doc.cloudpaste.qzz.io)  
 > `#File Management` `#Multi-Storage Integration` `#Serverless Architecture` `#cloudflare` `#cloudflare-workers` `#docker` `#file-browser` `#huggingface` `#markdown` `#onedrive` `#s3` `#telegram` `#telegrambot` `#webdav` 
 > CloudPaste is a serverless file management and text sharing tool built on Cloudflare Workers, supporting multi-storage aggregation (S3, WebDAV, OneDrive, Google Drive, etc.), online preview for 30+ file formats, and WebDAV mounting. It features an integrated Markdown editor with real-time preview and export to PDF/HTML, deployable via Docker or Cloudflare Workers.
@@ -1822,7 +1822,7 @@
 ## sopaco/saga-reader
 
 > [!info]
-> ⭐ 531 · Rust · 2026-08-05T12:50:32Z  
+> ⭐ 533 · Rust · 2026-08-09T17:37:22Z  
 > [GitHub](https://github.com/sopaco/saga-reader) · [Website](https://aiqino.netlify.app/)  
 > `#AI 智能体` `#Desktop Application` `#Rust` `#desktop` `#llm` `#reader` `#rust` `#svelte` `#tauri` 
 > Saga Reader is a blazing-fast, lightweight cross-platform internet reader powered by AI. Built with Rust, Tauri & Svelte, it automatically retrieves content based on user-defined keywords using cloud or local LLMs for summarization and interactive AI discussions, offering a secure, ad-free, and fully open-source reading experience across Windows, Mac, and Linux.
@@ -1921,7 +1921,7 @@
 ## Yoan98/Ncurator
 
 > [!info]
-> ⭐ 113 · HTML · 2026-08-09T04:52:15Z  
+> ⭐ 114 · HTML · 2026-08-10T01:23:23Z  
 > [GitHub](https://github.com/Yoan98/Ncurator)  
 > `#AI 智能体` `#Local Knowledge Base` `#Privacy Protection` `#浏览器插件` 
 > Ncurator (馆长) is a privacy-focused local knowledge base AI assistant running as a browser extension. It supports importing PDFs, web pages, and bookmarks to build personal knowledge bases, enabling intelligent Q&A and semantic search via local LLMs. All data is stored locally for enhanced privacy, with full offline functionality and zero cost.
