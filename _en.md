@@ -1,6 +1,6 @@
 # ⭐ GitHub Stars Index
 
-> Updated: 2026-08-10 09:39 UTC · Total: 179
+> Updated: 2026-08-11 09:06 UTC · Total: 179
 
 ---
 
@@ -25,7 +25,7 @@
 - [[#DigitalPlatDev/FreeDomain|DigitalPlatDev/FreeDomain]]
 - [[#Taocrypt/LinkPass|Taocrypt/LinkPass]]
 - [[#Haohao-end/GPT-2-Based-Medical-Dialogue-System|Haohao-end/GPT-2-Based-Medical-Dialogue-System]]
-- [[#s4huan/NXJS-ARCH|s4huan/NXJS-ARCH]]
+- [[#4pwn/NXJS-ARCH|4pwn/NXJS-ARCH]]
 - [[#tohka0x01/moemail-telegram-bot|tohka0x01/moemail-telegram-bot]]
 - [[#omegacosss/omega|omegacosss/omega]]
 - [[#Decade-qiu/Go2NetSpectra|Decade-qiu/Go2NetSpectra]]
@@ -34,7 +34,7 @@
 - [[#artsakenos/Whisperer|artsakenos/Whisperer]]
 - [[#AIR-hl/llm-interview-code|AIR-hl/llm-interview-code]]
 - [[#Deyweaver/DeyWeaver|Deyweaver/DeyWeaver]]
-- [[#s4huan/CERBERUS-OPSCT|s4huan/CERBERUS-OPSCT]]
+- [[#4pwn/CERBERUS-OPSCT|4pwn/CERBERUS-OPSCT]]
 - [[#artsakenos/BrowserMcWingspan|artsakenos/BrowserMcWingspan]]
 - [[#Qpu523/MA-SST-DDPG-framework|Qpu523/MA-SST-DDPG-framework]]
 - [[#XiangyuFan17/p6s|XiangyuFan17/p6s]]
@@ -200,7 +200,7 @@
 ## MayDay-wpf/snow-cli
 
 > [!info]
-> ⭐ 1,117 · TypeScript · 2026-08-09T13:46:55Z  
+> ⭐ 1,086 · TypeScript · 2026-08-10T17:43:54Z  
 > [GitHub](https://github.com/MayDay-wpf/snow-cli)  
 > `#AI 智能体` `#Code Automation` `#Terminal Tool` `#ai` `#ai-agents` `#ai-coding` 
 > Snow AI CLI is an agentic coding tool for the terminal, enabling intelligent code generation, vulnerability scanning, and async task management. With command injection, sub-agent configuration, and hook automation, it offers a customizable AI-driven development workflow for building, reviewing, and optimizing code efficiently.
@@ -288,7 +288,7 @@
 ## ltjed/freephdlabor
 
 > [!info]
-> ⭐ 607 · Python · 2026-08-10T04:06:10Z  
+> ⭐ 611 · Python · 2026-08-10T19:42:41Z  
 > [GitHub](https://github.com/ltjed/freephdlabor) · [Website](https://freephdlabor.github.io/)  
 > `#AI Agents` `#Automated Research` `#Multiagent Systems` `#Scientific Research` `#ai-agents` `#ai4science` `#autonomous-agents` `#multiagent-systems` `#research-automation` 
 > freephdlabor is an open-source multiagent framework automating the full scientific research lifecycle—from hypothesis generation to experimentation and publication-ready manuscripts. It supports out-of-the-box use or domain-specific customization, featuring dynamic workflows, human-in-the-loop feedback, and continual research capabilities across fields like materials science and biology.
@@ -338,7 +338,7 @@
 ## Moonrend/Classworks
 
 > [!info]
-> ⭐ 344 · Vue · 2026-07-27T22:19:23Z  
+> ⭐ 344 · Vue · 2026-08-11T01:41:20Z  
 > [GitHub](https://github.com/Moonrend/Classworks) · [Website](https://cs.houlang.cloud)  
 > `#Classroom Management` `#EdTech` `#Web Application` `#edu` `#education` `#educational` `#educational-project` `#educational-software` 
 > Classworks is a classroom display tool designed for managing assignments on large screens. Built with Node.js and pnpm, it offers a clean web interface for teachers to publish tasks and track student progress in real time, enhancing classroom engagement.
@@ -348,7 +348,7 @@
 ## Chevey339/kelivo
 
 > [!info]
-> ⭐ 3,606 · Dart · 2026-08-10T09:24:46Z  
+> ⭐ 3,610 · Dart · 2026-08-11T08:55:22Z  
 > [GitHub](https://github.com/Chevey339/kelivo) · [Website](https://kelivo.psycheas.top)  
 > `#AI 智能体` `#Cross-Platform` `#Flutter` `#ai` `#android` `#chatbot` `#chatbox` `#flutter` `#flutter-apps` `#harmony` `#harmonyos` `#ios` `#llm` `#openharmony` 
 > Kelivo is a cross-platform LLM chat client built with Flutter, supporting mobile (Android/iOS/Harmony) and desktop (Windows/macOS/Linux). It features modern Material You design, multi-language support, integration with major AI providers, MCP tools, web search, TTS, Markdown rendering, and custom fonts for an intelligent conversational experience.
@@ -358,7 +358,7 @@
 ## DigitalPlatDev/FreeDomain
 
 > [!info]
-> ⭐ 192,173 · N/A · 2026-08-10T09:39:07Z  
+> ⭐ 192,074 · N/A · 2026-08-11T09:04:48Z  
 > [GitHub](https://github.com/DigitalPlatDev/FreeDomain) · [Website](https://domain.digitalplat.org)  
 > `#Digital Identity` `#Domain Service` `#Free Domain` `#digitalplat` `#domain` `#domain-platform` `#domainname` `#domains` `#free` `#freedomain` 
 > DigitalPlat FreeDomain offers free domain registration for individuals and organizations with exclusive extensions like .DPDNS.ORG and .US.KG. Built and maintained by Edward Hsing, founder of DigitalPlat Foundation, it integrates seamlessly with popular DNS providers such as Cloudflare. With over 400,000 domains registered, it empowers users to establish a digital presence at zero cost, promoting open access to the web.
@@ -385,11 +385,11 @@
 > <sub>A medical question-answering system built on the GPT-2 language model, fine-tuned on a large corpus of doctor-patient dialogues. The system supports multi-turn conversations and provides both command-line and web-based interfaces for interaction.</sub>
 
 ---
-## s4huan/NXJS-ARCH
+## 4pwn/NXJS-ARCH
 
 > [!info]
-> ⭐ 370 · JavaScript · 2026-08-07T22:04:17Z  
-> [GitHub](https://github.com/s4huan/NXJS-ARCH) · [Website](https://spoo.me/nxs-docs)  
+> ⭐ 371 · JavaScript · 2026-08-11T07:53:17Z  
+> [GitHub](https://github.com/4pwn/NXJS-ARCH)  
 > `#architecture` `#docs` `#next-auth` 
 > 暂无描述。
 
@@ -456,7 +456,7 @@
 ## AIR-hl/llm-interview-code
 
 > [!info]
-> ⭐ 548 · Jupyter Notebook · 2026-08-07T12:49:53Z  
+> ⭐ 550 · Jupyter Notebook · 2026-08-11T08:34:58Z  
 > [GitHub](https://github.com/AIR-hl/llm-interview-code)  
 > `#AI Large Models` `#Interview Preparation` `#深度学习` `#ai` `#interview` `#llm` `#lm` 
 > This repository provides a comprehensive collection of hand-written code implementations for common LLM interview topics, including attention mechanisms (MHA/GQA), model components (RoPE/LoRA), normalization layers, and advanced training losses (DPO/GRPO). Ideal for mastering core deep learning concepts and acing technical interviews in large language models.
@@ -466,20 +466,20 @@
 ## Deyweaver/DeyWeaver
 
 > [!info]
-> ⭐ 363 · TypeScript · 2026-08-04T06:04:30Z  
+> ⭐ 364 · TypeScript · 2026-08-11T06:26:37Z  
 > [GitHub](https://github.com/Deyweaver/DeyWeaver) · [Website](https://deyweaver.live)  
 > `#AI 智能体` `#Productivity Tool` `#Time Management` `#提示工程` `#ai-powered` `#calendar` `#daily-planner` `#organization-tool` `#personal-ai` `#productivity` `#task-manager` 
 > DeyWeaver is an AI-powered task planner that structures your day using smart scheduling. It generates personalized daily plans via natural language input, intelligently breaks down tasks, reschedules dynamically, and offers productivity analytics including completion tracking and burnout prediction powered by Google Gemini.
 > <sub>AI-powered task planner to structure your day with smart scheduling.</sub>
 
 ---
-## s4huan/CERBERUS-OPSCT
+## 4pwn/CERBERUS-OPSCT
 
 > [!info]
-> ⭐ 180 · Rust · 2026-07-27T02:15:36Z  
-> [GitHub](https://github.com/s4huan/CERBERUS-OPSCT)  
-> `#Automation Tool` `#Penetration Testing` `#网络安全` `#cli-app` `#cybersecurity` `#linux` `#tools` 
-> CERBERUS-OPSCT is a cross-platform cybersecurity toolkit combining web application scanning, network reconnaissance, and automated penetration testing. It supports Linux/macOS with features like intelligent crawling, API busting, tech stack detection, ARP spoofing, and mind map visualization for red team operations.
+> ⭐ 180 · Rust · 2026-08-11T07:52:07Z  
+> [GitHub](https://github.com/4pwn/CERBERUS-OPSCT)  
+> `#cli-app` `#cybersecurity` `#linux` `#tools` 
+> Generation failed
 
 ---
 ## artsakenos/BrowserMcWingspan
@@ -582,7 +582,7 @@
 ## Moonrend/ZeroCat
 
 > [!info]
-> ⭐ 356 · JavaScript · 2026-08-05T12:55:15Z  
+> ⭐ 356 · JavaScript · 2026-08-11T01:29:39Z  
 > [GitHub](https://github.com/Moonrend/ZeroCat) · [Website](https://zerocat.dev)  
 > `#Node.js` `#Open Source Collaboration` `#Programming Community` `#code` `#community` `#scratch` 
 > ZeroCat is a next-generation, open-source programming community built with Node.js, aiming to create a fully open collaborative coding environment. Initiated by Sunwuyuan, it emphasizes community contribution and follows the Contributor Covenant code of conduct under AGPLv3 licensing, encouraging participation via GitHub issues or pull requests.
@@ -719,7 +719,7 @@
 ## hangwin/mcp-chrome
 
 > [!info]
-> ⭐ 12,279 · TypeScript · 2026-08-10T07:23:06Z  
+> ⭐ 12,282 · TypeScript · 2026-08-11T07:30:56Z  
 > [GitHub](https://github.com/hangwin/mcp-chrome)  
 > `#AI 智能体` `#Browser Automation` `#Semantic Search` 
 > Chrome MCP Server is a Chrome extension-based Model Context Protocol (MCP) server that exposes browser functionality to AI assistants like Claude, enabling complex automation, content analysis, and semantic search. It leverages your existing Chrome browser with preserved login states and settings, supports 20+ tools, offers local streamable HTTP communication, and features SIMD-accelerated vector database for intelligent tab content discovery.
@@ -807,7 +807,7 @@
 ## IonRh/Cloudflare-BestIP
 
 > [!info]
-> ⭐ 466 · JavaScript · 2026-08-08T20:16:45Z  
+> ⭐ 467 · JavaScript · 2026-08-10T15:10:28Z  
 > [GitHub](https://github.com/IonRh/Cloudflare-BestIP)  
 > `#DNS Automation` `#IP Selection` `#Network Optimization` 
 > Cloudflare BestIP is a high-performance IP optimization automation tool built with Go, integrating the XIU2/CloudflareSpeedTest speed test engine. It supports dual-stack IPv4/IPv6 selection and automatic DNS updates across major providers (Cloudflare, Aliyun, DNSPod, HUAWEI Cloud), featuring health monitoring, web dashboard via Cloudflare Workers KV, and Telegram notifications.
@@ -817,7 +817,7 @@
 ## harren-collections/dnspod-monitor
 
 > [!info]
-> ⭐ 229 · Python · 2026-08-04T06:05:38Z  
+> ⭐ 230 · Python · 2026-08-11T08:31:05Z  
 > [GitHub](https://github.com/harren-collections/dnspod-monitor)  
 > `#Automation Alerts` `#DNS Monitoring` `#Network Operations` 
 > This tool monitors IP changes for domains on DNSPod and sends notifications via Telegram, ideal for dynamic DNS scenarios. It supports custom check intervals and subdomains, with extensible codebase for further automation enhancements.
@@ -923,7 +923,7 @@
 ## zhugezifang/Awesome-xiaohongshu-download-Tools
 
 > [!info]
-> ⭐ 276 · N/A · 2026-08-06T04:18:23Z  
+> ⭐ 277 · N/A · 2026-08-10T13:21:17Z  
 > [GitHub](https://github.com/zhugezifang/Awesome-xiaohongshu-download-Tools) · [Website](https://www.xhs-download.online/)  
 > `#Social Media Tools` `#Watermark Removal` `#网页爬虫` `#xiaohongshu` `#xiaohongshu-api` `#xiaohongshu-crawler` `#xiaohongshu-downloader` `#xiaohongshu-scraper` 
 > This guide presents 6 free tools for downloading watermark-free images and videos from Xiaohongshu (RedNote) in 2026. All are web-based, supporting direct extraction from shared links with no app installation required. Emphasis is placed on ease of use, high-quality output, and compliance with platform policies.
@@ -1157,7 +1157,7 @@
 ## Veloera/Veloera
 
 > [!info]
-> ⭐ 1,628 · Go · 2026-08-07T14:57:08Z  
+> ⭐ 1,627 · Go · 2026-08-10T14:46:05Z  
 > [GitHub](https://github.com/Veloera/Veloera)  
 > `#AI Large Model` `#API Gateway` `#Open Source` 
 > Veloera is an AI API gateway system no longer under active maintenance, forked from new-api with native /hf/v1 support, multi-key distribution, regex content filtering, and detailed logging. Licensed under GPL 3.0 with no commercial restrictions, it supports Docker deployment and automatic database migration.
@@ -1166,7 +1166,7 @@
 ## ZHangZHengEric/Sage
 
 > [!info]
-> ⭐ 1,220 · Python · 2026-08-10T06:37:16Z  
+> ⭐ 1,209 · Python · 2026-08-10T17:42:35Z  
 > [GitHub](https://github.com/ZHangZHengEric/Sage) · [Website](https://zhangzhengeric.github.io/Sage/)  
 > `#AI Agents` `#Multi-Agent System` `#Task Orchestration` `#agents` `#ai` `#llm` `#manus` `#muilt-agents` `#workflow` 
 > Sage is a production-ready multi-agent framework enabling complex task orchestration, model capability maximization, and secure sandbox execution. It features a visual workbench, OpenTelemetry tracing, MCP protocol support, and cross-platform desktop apps for intelligent collaboration and automation.
@@ -1264,7 +1264,7 @@
 ## Kylsky/pandora-helper-with-linux-do-oauth
 
 > [!info]
-> ⭐ 646 · Java · 2026-08-04T09:17:19Z  
+> ⭐ 645 · Java · 2026-08-10T13:07:13Z  
 > [GitHub](https://github.com/Kylsky/pandora-helper-with-linux-do-oauth) · [Website](https://wiki.yeelovo.com)  
 > `#AI 智能体` `#Linux DO` `#Shared Platform` 
 > Pandora Helper is an open-source shared platform built on Linux DO OAuth2, supporting unified management of multiple accounts for ChatGPT, Claude, Midjourney, and API services. It features secure OAuth authentication, automatic token refresh, user-isolated image generation, email notifications, and Docker deployment, ideal for enterprise AI applications and service distribution.
@@ -1294,7 +1294,7 @@
 ## kadidalax/cf-vps-monitor
 
 > [!info]
-> ⭐ 863 · TypeScript · 2026-08-07T13:02:01Z  
+> ⭐ 862 · TypeScript · 2026-08-10T14:51:56Z  
 > [GitHub](https://github.com/kadidalax/cf-vps-monitor)  
 > `#Cloudflare Worker` `#DevOps Automation` `#Server Monitoring` 
 > A lightweight VPS probe and website monitoring panel built on Cloudflare Workers and D1 database, deployable without a dedicated server. It enables real-time server status collection, website uptime checks, responsive UI, admin dashboard, Telegram alerts, and customizable themes.
@@ -1334,7 +1334,7 @@
 ## wendell0218/Awesome-RL-for-Video-Generation
 
 > [!info]
-> ⭐ 581 · N/A · 2026-08-10T05:25:58Z  
+> ⭐ 584 · N/A · 2026-08-10T16:22:53Z  
 > [GitHub](https://github.com/wendell0218/Awesome-RL-for-Video-Generation)  
 > `#AI 智能体` `#Reinforcement Learning` `#Video Generation` `#dpo` `#grpo` `#ppo` `#reinforcement-learning` `#reward-model` `#video-generation` 
 > This repository curates cutting-edge research on reinforcement learning for video generation, featuring automated paper tracking (daily updates), RL-Video-Gen framework using GRPO strategy, and benchmarking tools like VideoGenBench. It bridges theoretical advances with practical applications through structured analysis of methods, datasets, and evaluation metrics.
@@ -1374,7 +1374,7 @@
 ## tbphp/gpt-load
 
 > [!info]
-> ⭐ 6,271 · Go · 2026-08-10T07:16:01Z  
+> ⭐ 6,272 · Go · 2026-08-11T05:41:07Z  
 > [GitHub](https://github.com/tbphp/gpt-load) · [Website](https://www.gpt-load.com)  
 > `#AI Proxy` `#API Gateway` `#Key Management` `#Load Balancing` `#anthropic` `#claude` `#gemini` `#gin` `#go` `#golang` `#openai` 
 > GPT-Load is a high-performance, enterprise-grade transparent proxy service for AI APIs, designed for developers and enterprises integrating multiple AI services. Built with Go, it features intelligent key rotation, load balancing, automatic failure recovery, hot-reload configuration, and comprehensive monitoring. Supports OpenAI, Google Gemini, and Anthropic Claude APIs with a Vue 3 management interface.
@@ -1553,7 +1553,7 @@
 ## drl990114/MarkFlowy
 
 > [!info]
-> ⭐ 2,350 · TypeScript · 2026-08-09T21:37:24Z  
+> ⭐ 2,351 · TypeScript · 2026-08-11T00:55:51Z  
 > [GitHub](https://github.com/drl990114/MarkFlowy) · [Website](https://www.markflowy.cc)  
 > `#AI 智能体` `#Markdown Editor` `#桌面应用` `#ai` `#chatgpt` `#deepseek` `#editor` `#linux-app` `#macos-app` `#markdown` `#markdowneditor` `#notes-app` `#prosemirror` `#reactjs` `#rust-lang` `#tauri` `#typescript` `#windows-app` 
 > MarkFlowy is a modern, intelligent Markdown editor built with Tauri for lightweight performance (<20MB). It features integrated AI (Copilot, translation, summarization), multi-mode editing (source/WYSIWYG), Prosemirror core, custom themes, and cross-platform support. Designed for efficient writing, document management, and content creation.
@@ -1629,7 +1629,7 @@
 ## ling-drag0n/CloudPaste
 
 > [!info]
-> ⭐ 2,591 · JavaScript · 2026-08-10T05:01:00Z  
+> ⭐ 2,592 · JavaScript · 2026-08-11T00:29:00Z  
 > [GitHub](https://github.com/ling-drag0n/CloudPaste) · [Website](https://doc.cloudpaste.qzz.io)  
 > `#File Management` `#Multi-Storage Integration` `#Serverless Architecture` `#cloudflare` `#cloudflare-workers` `#docker` `#file-browser` `#huggingface` `#markdown` `#onedrive` `#s3` `#telegram` `#telegrambot` `#webdav` 
 > CloudPaste is a serverless file management and text sharing tool built on Cloudflare Workers, supporting multi-storage aggregation (S3, WebDAV, OneDrive, Google Drive, etc.), online preview for 30+ file formats, and WebDAV mounting. It features an integrated Markdown editor with real-time preview and export to PDF/HTML, deployable via Docker or Cloudflare Workers.
@@ -1793,7 +1793,7 @@
 ## Dainoar/SuperAutoStudy
 
 > [!info]
-> ⭐ 623 · Java · 2026-08-06T12:10:47Z  
+> ⭐ 625 · Java · 2026-08-10T14:42:19Z  
 > [GitHub](https://github.com/Dainoar/SuperAutoStudy)  
 > `#AI-Powered Q&A` `#Education Automation` `#SpringBoot Microservices` `#java` `#llm` `#springboot` 
 > SuperAutoStudy is an open-source, self-deployable automation platform for Chaoxing Learning Platform, built on Spring Boot + Dubbo + RabbitMQ. It supports multi-speed video playback, auto-answering via a million-level Super Q&A database and AI models, with distributed task scheduling and Redis caching. Features Docker Compose deployment for ARM/x86.
