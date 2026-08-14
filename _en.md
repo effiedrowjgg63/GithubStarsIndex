@@ -1,6 +1,6 @@
 # ⭐ GitHub Stars Index
 
-> Updated: 2026-08-13 09:18 UTC · Total: 179
+> Updated: 2026-08-14 09:12 UTC · Total: 179
 
 ---
 
@@ -200,7 +200,7 @@
 ## MayDay-wpf/snow-cli
 
 > [!info]
-> ⭐ 1,086 · TypeScript · 2026-08-12T08:39:38Z  
+> ⭐ 1,086 · TypeScript · 2026-08-14T08:21:53Z  
 > [GitHub](https://github.com/MayDay-wpf/snow-cli)  
 > `#AI 智能体` `#Code Automation` `#Terminal Tool` `#ai` `#ai-agents` `#ai-coding` 
 > Snow AI CLI is an agentic coding tool for the terminal, enabling intelligent code generation, vulnerability scanning, and async task management. With command injection, sub-agent configuration, and hook automation, it offers a customizable AI-driven development workflow for building, reviewing, and optimizing code efficiently.
@@ -298,7 +298,7 @@
 ## Haohao-end/openagent
 
 > [!info]
-> ⭐ 781 · Python · 2026-08-12T00:15:56Z  
+> ⭐ 782 · Python · 2026-08-13T16:14:02Z  
 > [GitHub](https://github.com/Haohao-end/openagent) · [Website](https://openllm.cloud)  
 > `#AI Agents` `#Docker Deployment` `#LangChain 框架` `#agent` `#ai` `#celery` `#deepagents` `#deepresearch` `#deepseek` `#docker` `#faiss-vector-database` `#flask` `#harness-engineering` `#langchain` `#langgraph` `#llmops` `#mcp` `#nginx` `#postgresql` `#skills` `#tailwindcss` `#vue` `#weaviate` 
 > OpenAgent is an end-to-end AI agent development platform supporting multi-provider LLMs (OpenAI/DeepSeek/Wenxin/Tongyi), featuring knowledge base management, workflow automation, conversation search, and enterprise-grade security. Built with Flask + Vue3 + LangChain, it offers one-click Docker deployment with real-time notifications and vector-based retrieval.
@@ -318,7 +318,7 @@
 ## MGdaasLab/WHartTest
 
 > [!info]
-> ⭐ 990 · Python · 2026-08-13T08:42:20Z  
+> ⭐ 994 · Python · 2026-08-14T08:47:36Z  
 > [GitHub](https://github.com/MGdaasLab/WHartTest) · [Website](https://docs.wharttest.mgdaas.com/)  
 > `#AI 智能体` `#Django` `#Test Automation` `#ai-test-platform` `#ai-testing` `#automated-testing` `#browser-automation` `#intelligent-testing` `#test-case-generation` 
 > WHartTest is an AI-driven test automation platform built on Django REST Framework and modern LLMs, integrating LangChain and MCP protocol. It enables automated generation of structured test cases from requirements via natural language understanding, semantic knowledge retrieval, and multi-model embedding support. Features include UI/APP automation, MCP tool integration, risk analysis, and full lifecycle test case management for enhanced efficiency and coverage.
@@ -348,7 +348,7 @@
 ## Chevey339/kelivo
 
 > [!info]
-> ⭐ 3,631 · Dart · 2026-08-13T08:02:15Z  
+> ⭐ 3,643 · Dart · 2026-08-14T09:04:58Z  
 > [GitHub](https://github.com/Chevey339/kelivo) · [Website](https://kelivo.psycheas.top)  
 > `#AI 智能体` `#Cross-Platform` `#Flutter` `#ai` `#android` `#chatbot` `#chatbox` `#flutter` `#flutter-apps` `#harmony` `#harmonyos` `#ios` `#llm` `#openharmony` 
 > Kelivo is a cross-platform LLM chat client built with Flutter, supporting mobile (Android/iOS/Harmony) and desktop (Windows/macOS/Linux). It features modern Material You design, multi-language support, integration with major AI providers, MCP tools, web search, TTS, Markdown rendering, and custom fonts for an intelligent conversational experience.
@@ -358,7 +358,7 @@
 ## DigitalPlatDev/FreeDomain
 
 > [!info]
-> ⭐ 192,502 · Markdown · 2026-08-13T09:16:46Z  
+> ⭐ 192,731 · Markdown · 2026-08-14T09:09:02Z  
 > [GitHub](https://github.com/DigitalPlatDev/FreeDomain) · [Website](https://domain.digitalplat.org)  
 > `#Digital Identity` `#Domain Service` `#Free Domain` `#digitalplat` `#dns` `#dns-tutorial` `#documentation` `#domain` `#domain-platform` `#domain-registration` `#domainname` `#domains` `#education` `#free` `#free-domain` `#freedomain` `#internet-infrastructure` `#nameserver` 
 > DigitalPlat FreeDomain offers free domain registration for individuals and organizations with exclusive extensions like .DPDNS.ORG and .US.KG. Built and maintained by Edward Hsing, founder of DigitalPlat Foundation, it integrates seamlessly with popular DNS providers such as Cloudflare. With over 400,000 domains registered, it empowers users to establish a digital presence at zero cost, promoting open access to the web.
@@ -388,7 +388,7 @@
 ## 4pwn/NXJS-ARCH
 
 > [!info]
-> ⭐ 370 · JavaScript · 2026-08-11T09:37:57Z  
+> ⭐ 371 · JavaScript · 2026-08-13T10:49:00Z  
 > [GitHub](https://github.com/4pwn/NXJS-ARCH)  
 > `#architecture` `#docs` `#next-auth` 
 > 暂无描述。
@@ -456,7 +456,7 @@
 ## AIR-hl/llm-interview-code
 
 > [!info]
-> ⭐ 554 · Jupyter Notebook · 2026-08-13T07:49:35Z  
+> ⭐ 555 · Jupyter Notebook · 2026-08-13T13:35:41Z  
 > [GitHub](https://github.com/AIR-hl/llm-interview-code)  
 > `#AI Large Models` `#Interview Preparation` `#深度学习` `#ai` `#interview` `#llm` `#lm` 
 > This repository provides a comprehensive collection of hand-written code implementations for common LLM interview topics, including attention mechanisms (MHA/GQA), model components (RoPE/LoRA), normalization layers, and advanced training losses (DPO/GRPO). Ideal for mastering core deep learning concepts and acing technical interviews in large language models.
@@ -582,7 +582,7 @@
 ## Moonrend/ZeroCat
 
 > [!info]
-> ⭐ 356 · JavaScript · 2026-08-11T01:29:39Z  
+> ⭐ 355 · JavaScript · 2026-08-13T11:06:06Z  
 > [GitHub](https://github.com/Moonrend/ZeroCat) · [Website](https://zerocat.dev)  
 > `#Node.js` `#Open Source Collaboration` `#Programming Community` `#code` `#community` `#scratch` 
 > ZeroCat is a next-generation, open-source programming community built with Node.js, aiming to create a fully open collaborative coding environment. Initiated by Sunwuyuan, it emphasizes community contribution and follows the Contributor Covenant code of conduct under AGPLv3 licensing, encouraging participation via GitHub issues or pull requests.
@@ -719,7 +719,7 @@
 ## hangwin/mcp-chrome
 
 > [!info]
-> ⭐ 12,294 · TypeScript · 2026-08-13T08:13:13Z  
+> ⭐ 12,303 · TypeScript · 2026-08-14T08:35:36Z  
 > [GitHub](https://github.com/hangwin/mcp-chrome)  
 > `#AI 智能体` `#Browser Automation` `#Semantic Search` 
 > Chrome MCP Server is a Chrome extension-based Model Context Protocol (MCP) server that exposes browser functionality to AI assistants like Claude, enabling complex automation, content analysis, and semantic search. It leverages your existing Chrome browser with preserved login states and settings, supports 20+ tools, offers local streamable HTTP communication, and features SIMD-accelerated vector database for intelligent tab content discovery.
@@ -739,7 +739,7 @@
 ## talex-touch/tuff
 
 > [!info]
-> ⭐ 283 · TypeScript · 2026-08-13T09:14:29Z  
+> ⭐ 283 · TypeScript · 2026-08-14T07:34:54Z  
 > [GitHub](https://github.com/talex-touch/tuff) · [Website](https://tuff.tagzxia.com)  
 > `#AI Large Model` `#Command Center` `#Plugin System` `#桌面应用` `#bar` `#command` `#electron` `#launcher` `#raycast` `#tools` `#typescript` `#utools` `#vite` `#vue` 
 > Tuff is a local-first, AI-native desktop command center built on a sandboxed architecture. It enables fast app/file search, plugin extensibility, clipboard management, and direct preview calculations. Supports BYO LLM for privacy and offers a unified download center with progress tracking.
@@ -807,7 +807,7 @@
 ## IonRh/Cloudflare-BestIP
 
 > [!info]
-> ⭐ 468 · JavaScript · 2026-08-12T03:55:57Z  
+> ⭐ 469 · JavaScript · 2026-08-13T13:42:51Z  
 > [GitHub](https://github.com/IonRh/Cloudflare-BestIP)  
 > `#DNS Automation` `#IP Selection` `#Network Optimization` 
 > Cloudflare BestIP is a high-performance IP optimization automation tool built with Go, integrating the XIU2/CloudflareSpeedTest speed test engine. It supports dual-stack IPv4/IPv6 selection and automatic DNS updates across major providers (Cloudflare, Aliyun, DNSPod, HUAWEI Cloud), featuring health monitoring, web dashboard via Cloudflare Workers KV, and Telegram notifications.
@@ -844,7 +844,7 @@
 ## JiayuXu0/FastAPI-Template
 
 > [!info]
-> ⭐ 504 · Python · 2026-08-13T08:02:43Z  
+> ⭐ 505 · Python · 2026-08-14T03:31:59Z  
 > [GitHub](https://github.com/JiayuXu0/FastAPI-Template) · [Website](https://jiayuxu0.github.io/FastAPI-Template/)  
 > `#Backend Development` `#Enterprise Application` `#FastAPI` `#api` `#async` `#authentication` `#boilerplate` `#database` `#fastapi` `#openapi` `#pydantic` `#python` `#starlette` `#swagger` `#template` `#uvicorn` 
 > Production-ready FastAPI backend template featuring clean three-layer architecture with JWT authentication, RBAC authorization, Redis caching, and async database operations. Includes complete modules for user management, file handling, department organization, Docker deployment, and automated database migrations - ready for team development.
@@ -923,7 +923,7 @@
 ## zhugezifang/Awesome-xiaohongshu-download-Tools
 
 > [!info]
-> ⭐ 278 · N/A · 2026-08-12T17:38:13Z  
+> ⭐ 278 · N/A · 2026-08-14T02:19:58Z  
 > [GitHub](https://github.com/zhugezifang/Awesome-xiaohongshu-download-Tools) · [Website](https://www.xhs-download.online/)  
 > `#Social Media Tools` `#Watermark Removal` `#网页爬虫` `#xiaohongshu` `#xiaohongshu-api` `#xiaohongshu-crawler` `#xiaohongshu-downloader` `#xiaohongshu-scraper` 
 > This guide presents 6 free tools for downloading watermark-free images and videos from Xiaohongshu (RedNote) in 2026. All are web-based, supporting direct extraction from shared links with no app installation required. Emphasis is placed on ease of use, high-quality output, and compliance with platform policies.
@@ -1157,7 +1157,7 @@
 ## Veloera/Veloera
 
 > [!info]
-> ⭐ 1,626 · Go · 2026-08-11T12:33:35Z  
+> ⭐ 1,627 · Go · 2026-08-14T08:46:23Z  
 > [GitHub](https://github.com/Veloera/Veloera)  
 > `#AI Large Model` `#API Gateway` `#Open Source` 
 > Veloera is an AI API gateway system no longer under active maintenance, forked from new-api with native /hf/v1 support, multi-key distribution, regex content filtering, and detailed logging. Licensed under GPL 3.0 with no commercial restrictions, it supports Docker deployment and automatic database migration.
@@ -1294,7 +1294,7 @@
 ## kadidalax/cf-vps-monitor
 
 > [!info]
-> ⭐ 865 · TypeScript · 2026-08-13T03:28:46Z  
+> ⭐ 866 · TypeScript · 2026-08-14T03:16:19Z  
 > [GitHub](https://github.com/kadidalax/cf-vps-monitor)  
 > `#Cloudflare Worker` `#DevOps Automation` `#Server Monitoring` 
 > A lightweight VPS probe and website monitoring panel built on Cloudflare Workers and D1 database, deployable without a dedicated server. It enables real-time server status collection, website uptime checks, responsive UI, admin dashboard, Telegram alerts, and customizable themes.
@@ -1374,7 +1374,7 @@
 ## tbphp/gpt-load
 
 > [!info]
-> ⭐ 6,275 · Go · 2026-08-13T09:15:58Z  
+> ⭐ 6,278 · Go · 2026-08-14T05:04:16Z  
 > [GitHub](https://github.com/tbphp/gpt-load) · [Website](https://www.gpt-load.com)  
 > `#AI Proxy` `#API Gateway` `#Key Management` `#Load Balancing` `#anthropic` `#claude` `#gemini` `#gin` `#go` `#golang` `#openai` 
 > GPT-Load is a high-performance, enterprise-grade transparent proxy service for AI APIs, designed for developers and enterprises integrating multiple AI services. Built with Go, it features intelligent key rotation, load balancing, automatic failure recovery, hot-reload configuration, and comprehensive monitoring. Supports OpenAI, Google Gemini, and Anthropic Claude APIs with a Vue 3 management interface.
@@ -1484,7 +1484,7 @@
 ## pixelsdb/pixels
 
 > [!info]
-> ⭐ 909 · Java · 2026-08-13T07:32:56Z  
+> ⭐ 909 · Java · 2026-08-14T02:57:25Z  
 > [GitHub](https://github.com/pixelsdb/pixels)  
 > `#Analytics Engine` `#Columnar Format` `#Data Storage` `#cloud-database` `#column-store` `#data-lake` `#data-warehouse` `#database` `#olap` 
 > Pixels is a columnar storage engine optimized for data lakes and warehouses, supporting S3, GCS, HDFS, and other cloud-native or on-premises storage systems. It outperforms Parquet by up to two orders of magnitude and integrates with DuckDB, Trino, StarRocks, and Hive. Pixels-Turbo, its MPP query engine, leverages autoscaling clusters and serverless functions (e.g., AWS Lambda) for high performance and cost-efficiency in continuous and bursty workloads.
@@ -1543,7 +1543,7 @@
 ## wb-hwang/AINovelLab
 
 > [!info]
-> ⭐ 136 · Python · 2026-07-24T12:02:21Z  
+> ⭐ 135 · Python · 2026-08-14T08:47:32Z  
 > [GitHub](https://github.com/wb-hwang/AINovelLab)  
 > `#AI 智能体` `#Automation Tool` `#Python` 
 > AINovelLab is an AI-powered novel processing toolkit that supports EPUB splitting, intelligent content dehydration (reducing to 30%-50% of original), and TXT-to-EPUB conversion. It integrates Gemini and OpenAI-compatible APIs with parallel processing, batch handling, and robust API failover for efficient novel reading and summarization.
@@ -1629,7 +1629,7 @@
 ## ling-drag0n/CloudPaste
 
 > [!info]
-> ⭐ 2,599 · JavaScript · 2026-08-13T03:22:56Z  
+> ⭐ 2,602 · JavaScript · 2026-08-14T07:16:03Z  
 > [GitHub](https://github.com/ling-drag0n/CloudPaste) · [Website](https://doc.cloudpaste.qzz.io)  
 > `#File Management` `#Multi-Storage Integration` `#Serverless Architecture` `#cloudflare` `#cloudflare-workers` `#docker` `#file-browser` `#huggingface` `#markdown` `#onedrive` `#s3` `#telegram` `#telegrambot` `#webdav` 
 > CloudPaste is a serverless file management and text sharing tool built on Cloudflare Workers, supporting multi-storage aggregation (S3, WebDAV, OneDrive, Google Drive, etc.), online preview for 30+ file formats, and WebDAV mounting. It features an integrated Markdown editor with real-time preview and export to PDF/HTML, deployable via Docker or Cloudflare Workers.
@@ -1881,7 +1881,7 @@
 ## juejin-wuyang/memberclub
 
 > [!info]
-> ⭐ 590 · Java · 2026-08-13T08:59:01Z  
+> ⭐ 591 · Java · 2026-08-13T16:07:37Z  
 > [GitHub](https://github.com/juejin-wuyang/memberclub)  
 > `#Domain Capabilities` `#E-commerce Mid-Platform` `#SDK Development` `#Spring Boot` `#java` `#springboot` 
 > MemberClub is an open-source e-commerce transaction toolkit that provides core capabilities (order placement, fulfillment, after-sales, settlement) via SDK, enabling developers to rapidly build new e-commerce systems like assembling blocks. Built on SpringBoot with integrated components, it uses a workflow engine and extension point engine for flexible orchestration, solving issues of feature bloat, tight coupling, and inflexibility in traditional mall systems. Ideal for learning e-commerce mid-platform architecture and DDD.
@@ -1921,7 +1921,7 @@
 ## Yoan98/Ncurator
 
 > [!info]
-> ⭐ 136 · HTML · 2026-08-12T12:38:44Z  
+> ⭐ 137 · HTML · 2026-08-13T15:34:01Z  
 > [GitHub](https://github.com/Yoan98/Ncurator)  
 > `#AI 智能体` `#Local Knowledge Base` `#Privacy Protection` `#浏览器插件` 
 > Ncurator (馆长) is a privacy-focused local knowledge base AI assistant running as a browser extension. It supports importing PDFs, web pages, and bookmarks to build personal knowledge bases, enabling intelligent Q&A and semantic search via local LLMs. All data is stored locally for enhanced privacy, with full offline functionality and zero cost.
