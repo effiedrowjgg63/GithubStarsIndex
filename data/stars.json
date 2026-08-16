@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-15 08:36 UTC",
+  "last_updated": "2026-08-16 08:36 UTC",
   "repos": {
     "waoowaooAI/waoowaoo": {
       "metadata": {
@@ -3097,7 +3097,7 @@
         "name": "gpt-load",
         "owner": "tbphp",
         "description": "Multi-channel AI proxy with intelligent key rotation. 智能密钥轮询的多渠道 AI 代理。",
-        "stars": 6278,
+        "stars": 6281,
         "language": "Go",
         "url": "https://github.com/tbphp/gpt-load",
         "homepage": "https://www.gpt-load.com",
@@ -3110,8 +3110,8 @@
           "golang",
           "openai"
         ],
-        "pushed_at": "2026-08-15T08:30:14Z",
-        "updated_at": "2026-08-14T05:04:16Z",
+        "pushed_at": "2026-08-16T05:41:11Z",
+        "updated_at": "2026-08-16T05:25:10Z",
         "starred_at": "2025-06-18T04:14:43Z"
       },
       "summary": {
@@ -4427,7 +4427,7 @@
         "homepage": "",
         "topics": [],
         "pushed_at": "2026-01-06T13:05:39Z",
-        "updated_at": "2026-08-14T18:07:48Z",
+        "updated_at": "2026-08-16T04:53:02Z",
         "starred_at": "2025-08-25T14:40:10Z"
       },
       "summary": {
@@ -31316,7 +31316,7 @@
         "name": "snow-cli",
         "owner": "MayDay-wpf",
         "description": "Agentic coding in your terminal,Simultaneously compatible with OpenAI, Gemini, and Claude.运行在终端的 AI 编程智能体，同时兼容 Deepseek、OpenAI、Gemini和Claude。",
-        "stars": 1086,
+        "stars": 1062,
         "language": "TypeScript",
         "url": "https://github.com/MayDay-wpf/snow-cli",
         "homepage": "",
@@ -31325,8 +31325,8 @@
           "ai-agents",
           "ai-coding"
         ],
-        "pushed_at": "2026-08-13T14:10:39Z",
-        "updated_at": "2026-08-14T08:21:53Z",
+        "pushed_at": "2026-08-16T08:12:14Z",
+        "updated_at": "2026-08-16T08:12:14Z",
         "starred_at": "2025-11-23T10:29:17Z"
       },
       "summary": {
@@ -31789,7 +31789,7 @@
         "name": "kelivo",
         "owner": "Chevey339",
         "description": "A Flutter LLM Chat Client. Support Mobile & Desktop.",
-        "stars": 3651,
+        "stars": 3656,
         "language": "Dart",
         "url": "https://github.com/Chevey339/kelivo",
         "homepage": "https://kelivo.psycheas.top",
@@ -31806,8 +31806,8 @@
           "llm",
           "openharmony"
         ],
-        "pushed_at": "2026-08-14T16:13:58Z",
-        "updated_at": "2026-08-15T06:57:19Z",
+        "pushed_at": "2026-08-16T08:34:14Z",
+        "updated_at": "2026-08-16T06:55:42Z",
         "starred_at": "2025-10-28T08:02:47Z"
       },
       "summary": {
@@ -31833,7 +31833,7 @@
         "name": "FreeDomain",
         "owner": "DigitalPlatDev",
         "description": "Free domain registration and practical DNS learning resources for everyone.",
-        "stars": 193005,
+        "stars": 193455,
         "language": "Markdown",
         "url": "https://github.com/DigitalPlatDev/FreeDomain",
         "homepage": "https://domain.digitalplat.org",
@@ -31855,7 +31855,7 @@
           "nameserver"
         ],
         "pushed_at": "2026-08-12T10:36:46Z",
-        "updated_at": "2026-08-15T08:35:23Z",
+        "updated_at": "2026-08-16T08:36:23Z",
         "starred_at": "2025-10-26T08:03:55Z"
       },
       "summary": {
@@ -32141,7 +32141,7 @@
         "name": "llm-interview-code",
         "owner": "AIR-hl",
         "description": "LLM面试常见手撕合集",
-        "stars": 556,
+        "stars": 557,
         "language": "Jupyter Notebook",
         "url": "https://github.com/AIR-hl/llm-interview-code",
         "homepage": "",
@@ -32152,7 +32152,7 @@
           "lm"
         ],
         "pushed_at": "2026-06-19T14:22:10Z",
-        "updated_at": "2026-08-15T02:59:19Z",
+        "updated_at": "2026-08-15T12:46:49Z",
         "starred_at": "2025-10-02T04:30:36Z"
       },
       "summary": {
@@ -32353,7 +32353,7 @@
         "name": "c2sagent",
         "owner": "C2SAgent",
         "description": "C2S Agent is an lightweight AI Agent construction platform that provides configurable online Agents and MCP services, You can configure any HTTP request interface as an MCP tool. C2S Agent 是一个轻量级的AI Agent构建平台，提供在线可配置的Agent，MCP，您可以一个HTTP请求的接口配置成为一个MCP工具，Agent之间可以进行自交流。并提供了单端口多A2A服务，MCP服务的解决方案",
-        "stars": 289,
+        "stars": 290,
         "language": "Python",
         "url": "https://github.com/C2SAgent/c2sagent",
         "homepage": "https://www.c2sagent.com",
@@ -32365,7 +32365,7 @@
           "multi-agent"
         ],
         "pushed_at": "2026-05-01T14:26:26Z",
-        "updated_at": "2026-08-08T14:03:20Z",
+        "updated_at": "2026-08-16T08:06:55Z",
         "starred_at": "2025-09-26T01:38:12Z"
       },
       "summary": {
@@ -32460,13 +32460,13 @@
         "name": "SWIFT",
         "owner": "William-Liwei",
         "description": "This is an official implementation of \"SWIFT: State-space Wavelet Integrated Forecasting Technology for Enhanced Time Series Prediction\".",
-        "stars": 291,
+        "stars": 292,
         "language": "Python",
         "url": "https://github.com/William-Liwei/SWIFT",
         "homepage": "",
         "topics": [],
         "pushed_at": "2025-06-25T11:06:51Z",
-        "updated_at": "2026-08-15T06:05:50Z",
+        "updated_at": "2026-08-15T12:06:28Z",
         "starred_at": "2025-09-25T17:22:02Z"
       },
       "summary": {
@@ -32889,13 +32889,13 @@
         "name": "NewsFocus",
         "owner": "benjiann",
         "description": "a web news focus",
-        "stars": 287,
+        "stars": 288,
         "language": "JavaScript",
         "url": "https://github.com/benjiann/NewsFocus",
         "homepage": "",
         "topics": [],
         "pushed_at": "2025-12-04T14:15:00Z",
-        "updated_at": "2026-08-04T18:41:20Z",
+        "updated_at": "2026-08-15T10:43:28Z",
         "starred_at": "2025-09-17T23:59:23Z"
       },
       "summary": {
@@ -33257,8 +33257,8 @@
           "vite",
           "vue"
         ],
-        "pushed_at": "2026-08-14T07:34:49Z",
-        "updated_at": "2026-08-14T07:34:54Z",
+        "pushed_at": "2026-08-16T08:32:11Z",
+        "updated_at": "2026-08-16T08:32:27Z",
         "starred_at": "2025-08-25T03:56:43Z"
       },
       "summary": {
@@ -33720,7 +33720,7 @@
         "name": "Milo-discord-fun-bot",
         "owner": "msgaxzzz",
         "description": "Open-source Discord bot for community operations, support, and lightweight moderation.",
-        "stars": 318,
+        "stars": 319,
         "language": "Python",
         "url": "https://github.com/msgaxzzz/Milo-discord-fun-bot",
         "homepage": "https://milo-discord-bot.menice.dev",
@@ -33731,7 +33731,7 @@
           "python"
         ],
         "pushed_at": "2026-03-20T20:56:10Z",
-        "updated_at": "2026-08-11T11:31:47Z",
+        "updated_at": "2026-08-15T08:55:12Z",
         "starred_at": "2025-07-23T11:52:10Z"
       },
       "summary": {
@@ -34768,7 +34768,7 @@
         "name": "Sage",
         "owner": "ZHangZHengEric",
         "description": "Multi-Agent System Framework For Complex Tasks",
-        "stars": 1212,
+        "stars": 1202,
         "language": "Python",
         "url": "https://github.com/ZHangZHengEric/Sage",
         "homepage": "https://zhangzhengeric.github.io/Sage/",
@@ -34781,7 +34781,7 @@
           "workflow"
         ],
         "pushed_at": "2026-08-14T10:17:14Z",
-        "updated_at": "2026-08-14T12:14:36Z",
+        "updated_at": "2026-08-15T23:47:09Z",
         "starred_at": "2025-06-20T12:41:29Z"
       },
       "summary": {
@@ -34807,13 +34807,13 @@
         "name": "Veloera",
         "owner": "Veloera",
         "description": "",
-        "stars": 1627,
+        "stars": 1626,
         "language": "Go",
         "url": "https://github.com/Veloera/Veloera",
         "homepage": "",
         "topics": [],
         "pushed_at": "2026-02-11T09:14:23Z",
-        "updated_at": "2026-08-14T08:46:23Z",
+        "updated_at": "2026-08-15T15:20:53Z",
         "starred_at": "2025-06-20T18:29:10Z"
       },
       "summary": {
@@ -35039,13 +35039,13 @@
         "name": "Hax_Woiden_Expiration_Monitor",
         "owner": "lbjxr",
         "description": "这是一个用于 Telegram Bot 管理和 HAX.CO.ID 数据中心监控的组合型项目，支持 **Docker 部署** 和 **服务器后台运行** 两种模式。",
-        "stars": 294,
+        "stars": 295,
         "language": "Python",
         "url": "https://github.com/lbjxr/Hax_Woiden_Expiration_Monitor",
         "homepage": "",
         "topics": [],
         "pushed_at": "2025-11-27T07:05:07Z",
-        "updated_at": "2026-08-14T14:17:41Z",
+        "updated_at": "2026-08-15T09:25:19Z",
         "starred_at": "2025-06-19T17:54:48Z"
       },
       "summary": {
@@ -35243,8 +35243,8 @@
         "url": "https://github.com/pixelsdb/pixels-sink",
         "homepage": "",
         "topics": [],
-        "pushed_at": "2026-08-05T01:03:59Z",
-        "updated_at": "2026-08-05T01:04:05Z",
+        "pushed_at": "2026-08-15T16:47:37Z",
+        "updated_at": "2026-08-15T16:47:53Z",
         "starred_at": "2025-06-18T15:55:50Z"
       },
       "summary": {
@@ -35302,13 +35302,13 @@
         "name": "cf-vps-monitor",
         "owner": "kadidalax",
         "description": "用cloudflare worker搭建的vps探针+网站检测 面板，部署简单，不需要服务器。",
-        "stars": 879,
+        "stars": 886,
         "language": "TypeScript",
         "url": "https://github.com/kadidalax/cf-vps-monitor",
         "homepage": "",
         "topics": [],
         "pushed_at": "2026-08-12T12:45:33Z",
-        "updated_at": "2026-08-15T07:17:29Z",
+        "updated_at": "2026-08-16T07:13:33Z",
         "starred_at": "2025-06-18T16:04:51Z"
       },
       "summary": {
@@ -35334,13 +35334,13 @@
         "name": "pixels-spike",
         "owner": "pixelsdb",
         "description": "A cloud-native computing framework for serverless query processing.",
-        "stars": 255,
+        "stars": 256,
         "language": "Go",
         "url": "https://github.com/pixelsdb/pixels-spike",
         "homepage": "",
         "topics": [],
         "pushed_at": "2025-07-08T12:41:44Z",
-        "updated_at": "2026-08-14T22:56:12Z",
+        "updated_at": "2026-08-16T05:25:42Z",
         "starred_at": "2025-06-18T14:05:57Z"
       },
       "summary": {
@@ -35896,8 +35896,8 @@
           "database",
           "olap"
         ],
-        "pushed_at": "2026-08-14T03:35:20Z",
-        "updated_at": "2026-08-14T02:57:25Z",
+        "pushed_at": "2026-08-16T02:39:48Z",
+        "updated_at": "2026-08-15T16:34:50Z",
         "starred_at": "2025-06-12T18:48:23Z"
       },
       "summary": {
@@ -36115,7 +36115,7 @@
         "name": "MarkFlowy",
         "owner": "drl990114",
         "description": "AI-powered cross-platform editor for WYSIWYG Markdown and general-purpose text editing.",
-        "stars": 2354,
+        "stars": 2356,
         "language": "TypeScript",
         "url": "https://github.com/drl990114/MarkFlowy",
         "homepage": "https://www.markflowy.cc",
@@ -36136,8 +36136,8 @@
           "typescript",
           "windows-app"
         ],
-        "pushed_at": "2026-08-15T05:10:04Z",
-        "updated_at": "2026-08-15T06:17:39Z",
+        "pushed_at": "2026-08-16T08:35:18Z",
+        "updated_at": "2026-08-16T08:35:27Z",
         "starred_at": "2025-06-10T21:09:44Z"
       },
       "summary": {
@@ -36463,7 +36463,7 @@
         "name": "CloudPaste",
         "owner": "ling-drag0n",
         "description": "🌩️ Serverless 自托管的文件管理与文本分享工具/网盘，支持多存储聚合管理和WebDAV 服务挂载。兼容 S3、WebDAV、OneDrive、Google Drive、Telegram、HF、GitHub 等。内置   Markdown 编辑器、30+文件格式预览。支持 Cloudflare Workers 或 Docker 部署。",
-        "stars": 2604,
+        "stars": 2607,
         "language": "JavaScript",
         "url": "https://github.com/ling-drag0n/CloudPaste",
         "homepage": "https://doc.cloudpaste.qzz.io",
@@ -36481,7 +36481,7 @@
           "webdav"
         ],
         "pushed_at": "2026-01-23T08:12:18Z",
-        "updated_at": "2026-08-14T17:25:06Z",
+        "updated_at": "2026-08-15T13:34:55Z",
         "starred_at": "2025-06-10T02:20:49Z"
       },
       "summary": {
@@ -37628,7 +37628,7 @@
         "name": "openagent",
         "owner": "Haohao-end",
         "description": "What if OpenAI Deep Research and Dify were one platform? OpenAgent — harness architecture for rapidly building vertical AI agents, with deep reasoning loops, visual workflows, RAG, and A2A delegation. ",
-        "stars": 785,
+        "stars": 788,
         "language": "Python",
         "url": "https://github.com/Haohao-end/openagent",
         "homepage": "https://openllm.cloud",
@@ -37655,7 +37655,7 @@
           "weaviate"
         ],
         "pushed_at": "2026-07-17T13:36:09Z",
-        "updated_at": "2026-08-15T02:09:19Z",
+        "updated_at": "2026-08-15T21:26:54Z",
         "starred_at": "2025-11-09T06:43:19Z"
       },
       "summary": {
@@ -38050,7 +38050,7 @@
         "tags_en": []
       },
       "pushed_at": "2026-06-16T15:48:58Z",
-      "updated_at": "2026-08-15"
+      "updated_at": "2026-08-16"
     },
     "flechazo-crushed/webmeta-cli": {
       "metadata": {
@@ -38074,7 +38074,7 @@
         "tags_en": []
       },
       "pushed_at": "2026-05-05T02:47:54Z",
-      "updated_at": "2026-08-15"
+      "updated_at": "2026-08-16"
     },
     "fastbyte19/terraform-docker-postgresql": {
       "metadata": {
@@ -38098,7 +38098,7 @@
         "tags_en": []
       },
       "pushed_at": "2026-07-27T10:33:47Z",
-      "updated_at": "2026-08-15"
+      "updated_at": "2026-08-16"
     },
     "fastbyte19/Solana-NFT-Marketplace-by-CandyMachine": {
       "metadata": {
@@ -38141,7 +38141,7 @@
         "tags_en": []
       },
       "pushed_at": "2025-11-21T01:15:31Z",
-      "updated_at": "2026-08-15"
+      "updated_at": "2026-08-16"
     },
     "fastbyte18/terraform-docker-postgresql": {
       "metadata": {
@@ -38237,7 +38237,7 @@
         "tags_en": []
       },
       "pushed_at": "2026-08-11T07:51:54Z",
-      "updated_at": "2026-08-15"
+      "updated_at": "2026-08-16"
     },
     "4pwn/NXJS-ARCH": {
       "metadata": {
@@ -38255,7 +38255,7 @@
           "next-auth"
         ],
         "pushed_at": "2026-08-11T07:53:06Z",
-        "updated_at": "2026-08-15T02:49:04Z",
+        "updated_at": "2026-08-16T03:55:50Z",
         "starred_at": "2025-10-23T21:08:06Z"
       },
       "summary": {
