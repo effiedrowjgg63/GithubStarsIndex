@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-20 08:48 UTC",
+  "last_updated": "2026-08-21 08:49 UTC",
   "repos": {
     "waoowaooAI/waoowaoo": {
       "metadata": {
@@ -3097,7 +3097,7 @@
         "name": "gpt-load",
         "owner": "tbphp",
         "description": "Multi-channel AI proxy with intelligent key rotation. 智能密钥轮询的多渠道 AI 代理。",
-        "stars": 6286,
+        "stars": 6285,
         "language": "Go",
         "url": "https://github.com/tbphp/gpt-load",
         "homepage": "https://www.gpt-load.com",
@@ -3110,8 +3110,8 @@
           "golang",
           "openai"
         ],
-        "pushed_at": "2026-08-20T08:43:05Z",
-        "updated_at": "2026-08-20T07:51:13Z",
+        "pushed_at": "2026-08-21T08:28:45Z",
+        "updated_at": "2026-08-21T07:06:52Z",
         "starred_at": "2025-06-18T04:14:43Z"
       },
       "summary": {
@@ -4421,13 +4421,13 @@
         "name": "mcp-chrome",
         "owner": "hangwin",
         "description": "Chrome MCP Server is a Chrome extension-based Model Context Protocol (MCP) server that exposes your Chrome browser functionality to AI assistants like Claude, enabling complex browser automation, content analysis, and semantic search.",
-        "stars": 12322,
+        "stars": 12325,
         "language": "TypeScript",
         "url": "https://github.com/hangwin/mcp-chrome",
         "homepage": "",
         "topics": [],
         "pushed_at": "2026-01-06T13:05:39Z",
-        "updated_at": "2026-08-20T07:50:16Z",
+        "updated_at": "2026-08-21T08:28:20Z",
         "starred_at": "2025-08-25T14:40:10Z"
       },
       "summary": {
@@ -31284,13 +31284,13 @@
         "name": "SeqGrowGraph",
         "owner": "MIV-XJTU",
         "description": "[ICCV 2025] Official implementation for \"SeqGrowGraph: Learning Lane Topology as a Chain of Graph Expansions\"",
-        "stars": 135,
+        "stars": 136,
         "language": "Python",
         "url": "https://github.com/MIV-XJTU/SeqGrowGraph",
         "homepage": "",
         "topics": [],
         "pushed_at": "2025-11-14T04:23:05Z",
-        "updated_at": "2026-08-17T13:28:46Z",
+        "updated_at": "2026-08-21T02:19:25Z",
         "starred_at": "2025-11-22T19:07:55Z"
       },
       "summary": {
@@ -31316,7 +31316,7 @@
         "name": "snow-cli",
         "owner": "MayDay-wpf",
         "description": "Agentic coding in your terminal,Simultaneously compatible with OpenAI, Gemini, and Claude.运行在终端的 AI 编程智能体，同时兼容 Deepseek、OpenAI、Gemini和Claude。",
-        "stars": 1061,
+        "stars": 1062,
         "language": "TypeScript",
         "url": "https://github.com/MayDay-wpf/snow-cli",
         "homepage": "",
@@ -31325,8 +31325,8 @@
           "ai-agents",
           "ai-coding"
         ],
-        "pushed_at": "2026-08-20T06:14:58Z",
-        "updated_at": "2026-08-20T06:15:40Z",
+        "pushed_at": "2026-08-20T13:07:01Z",
+        "updated_at": "2026-08-21T01:27:33Z",
         "starred_at": "2025-11-23T10:29:17Z"
       },
       "summary": {
@@ -31416,7 +31416,7 @@
         "name": "SmartStashDB",
         "owner": "Johonsoy",
         "description": "A High-Performance Key-Value Store",
-        "stars": 333,
+        "stars": 334,
         "language": "Go",
         "url": "https://github.com/Johonsoy/SmartStashDB",
         "homepage": "",
@@ -31427,7 +31427,7 @@
           "write-ahead-logging"
         ],
         "pushed_at": "2025-05-22T13:38:05Z",
-        "updated_at": "2026-08-19T09:05:37Z",
+        "updated_at": "2026-08-20T09:51:56Z",
         "starred_at": "2025-11-21T20:03:42Z"
       },
       "summary": {
@@ -31520,7 +31520,7 @@
         "name": "Gung",
         "owner": "Poseidon-fan",
         "description": "An embedded intranet penetration tool, support extensive protocol stack and python plugin",
-        "stars": 359,
+        "stars": 360,
         "language": "Rust",
         "url": "https://github.com/Poseidon-fan/Gung",
         "homepage": "",
@@ -31533,7 +31533,7 @@
           "tokio"
         ],
         "pushed_at": "2026-07-20T11:44:18Z",
-        "updated_at": "2026-08-18T20:46:54Z",
+        "updated_at": "2026-08-20T13:06:24Z",
         "starred_at": "2025-11-09T11:17:28Z"
       },
       "summary": {
@@ -31559,7 +31559,7 @@
         "name": "freephdlabor",
         "owner": "ltjed",
         "description": "freephdlabor: customizing personalized multiagent systems that researchs 24/7 on your own scientific problem",
-        "stars": 615,
+        "stars": 616,
         "language": "Python",
         "url": "https://github.com/ltjed/freephdlabor",
         "homepage": "https://freephdlabor.github.io/",
@@ -31571,7 +31571,7 @@
           "research-automation"
         ],
         "pushed_at": "2026-05-14T22:20:32Z",
-        "updated_at": "2026-08-17T09:02:20Z",
+        "updated_at": "2026-08-20T15:25:54Z",
         "starred_at": "2025-11-09T08:28:04Z"
       },
       "summary": {
@@ -31648,7 +31648,7 @@
         "name": "WHartTest",
         "owner": "MGdaasLab",
         "description": "WHartTest 是一款AI驱动的测试自动化平台，实现从需求到可执行测试用例的自动化生成与管理，帮助测试团队提升效率与覆盖率。 (WHartTest is an AI-driven test automation platform that automates the generation and management of executable test cases from requirements, helping testing teams improve efficiency and coverage.)",
-        "stars": 1003,
+        "stars": 1009,
         "language": "Python",
         "url": "https://github.com/MGdaasLab/WHartTest",
         "homepage": "https://wharttest.mgdaas.com/",
@@ -31660,8 +31660,8 @@
           "intelligent-testing",
           "test-case-generation"
         ],
-        "pushed_at": "2026-08-20T04:02:33Z",
-        "updated_at": "2026-08-20T08:45:46Z",
+        "pushed_at": "2026-08-21T02:24:40Z",
+        "updated_at": "2026-08-21T08:34:16Z",
         "starred_at": "2025-11-09T01:37:27Z"
       },
       "summary": {
@@ -31789,7 +31789,7 @@
         "name": "kelivo",
         "owner": "Chevey339",
         "description": "A Flutter LLM Chat Client. Support Mobile & Desktop.",
-        "stars": 3702,
+        "stars": 3711,
         "language": "Dart",
         "url": "https://github.com/Chevey339/kelivo",
         "homepage": "https://kelivo.psycheas.top",
@@ -31806,8 +31806,8 @@
           "llm",
           "openharmony"
         ],
-        "pushed_at": "2026-08-20T06:07:42Z",
-        "updated_at": "2026-08-20T08:27:13Z",
+        "pushed_at": "2026-08-20T12:40:01Z",
+        "updated_at": "2026-08-21T07:58:20Z",
         "starred_at": "2025-10-28T08:02:47Z"
       },
       "summary": {
@@ -31833,7 +31833,7 @@
         "name": "FreeDomain",
         "owner": "DigitalPlatDev",
         "description": "Free domain registration and practical DNS learning resources for everyone.",
-        "stars": 194418,
+        "stars": 194641,
         "language": "Markdown",
         "url": "https://github.com/DigitalPlatDev/FreeDomain",
         "homepage": "https://domain.digitalplat.org",
@@ -31855,7 +31855,7 @@
           "nameserver"
         ],
         "pushed_at": "2026-08-12T10:36:46Z",
-        "updated_at": "2026-08-20T08:46:35Z",
+        "updated_at": "2026-08-21T08:48:20Z",
         "starred_at": "2025-10-26T08:03:55Z"
       },
       "summary": {
@@ -32057,7 +32057,7 @@
         "name": "Sora-FullStack",
         "owner": "TornadoInsight",
         "description": " OpenAi-Sora (SoraFlows) is an open-source, cross-platform web application for AI-powered video creation and editing using the latest OpenAI Sora model. Effortlessly generate, edit, and share videos from text or images, with integrated support for voice-to-text, text-to-speech, voice cloning, and multi-language interfaces . ",
-        "stars": 110,
+        "stars": 109,
         "language": "TypeScript",
         "url": "https://github.com/TornadoInsight/Sora-FullStack",
         "homepage": "",
@@ -32083,7 +32083,7 @@
           "whisper"
         ],
         "pushed_at": "2025-09-27T01:47:38Z",
-        "updated_at": "2026-08-15T08:12:22Z",
+        "updated_at": "2026-08-20T11:22:58Z",
         "starred_at": "2025-10-02T06:51:45Z"
       },
       "summary": {
@@ -32141,7 +32141,7 @@
         "name": "llm-interview-code",
         "owner": "AIR-hl",
         "description": "LLM面试常见手撕合集",
-        "stars": 565,
+        "stars": 567,
         "language": "Jupyter Notebook",
         "url": "https://github.com/AIR-hl/llm-interview-code",
         "homepage": "",
@@ -32152,7 +32152,7 @@
           "lm"
         ],
         "pushed_at": "2026-06-19T14:22:10Z",
-        "updated_at": "2026-08-19T20:25:21Z",
+        "updated_at": "2026-08-21T08:48:14Z",
         "starred_at": "2025-10-02T04:30:36Z"
       },
       "summary": {
@@ -32353,7 +32353,7 @@
         "name": "c2sagent",
         "owner": "C2SAgent",
         "description": "C2S Agent is an lightweight AI Agent construction platform that provides configurable online Agents and MCP services, You can configure any HTTP request interface as an MCP tool. C2S Agent 是一个轻量级的AI Agent构建平台，提供在线可配置的Agent，MCP，您可以一个HTTP请求的接口配置成为一个MCP工具，Agent之间可以进行自交流。并提供了单端口多A2A服务，MCP服务的解决方案",
-        "stars": 290,
+        "stars": 291,
         "language": "Python",
         "url": "https://github.com/C2SAgent/c2sagent",
         "homepage": "https://www.c2sagent.com",
@@ -32365,7 +32365,7 @@
           "multi-agent"
         ],
         "pushed_at": "2026-05-01T14:26:26Z",
-        "updated_at": "2026-08-16T08:06:55Z",
+        "updated_at": "2026-08-21T04:51:24Z",
         "starred_at": "2025-09-26T01:38:12Z"
       },
       "summary": {
@@ -32391,7 +32391,7 @@
         "name": "p6s",
         "owner": "XiangyuFan17",
         "description": "🐘easily access PostgreSQL deployed in any environment, especially within Kubernetes (k8s).",
-        "stars": 247,
+        "stars": 248,
         "language": "Go",
         "url": "https://github.com/XiangyuFan17/p6s",
         "homepage": "",
@@ -32402,7 +32402,7 @@
           "terminal"
         ],
         "pushed_at": "2025-07-24T07:08:28Z",
-        "updated_at": "2026-08-05T13:40:42Z",
+        "updated_at": "2026-08-20T21:06:55Z",
         "starred_at": "2025-09-26T10:51:34Z"
       },
       "summary": {
@@ -32759,8 +32759,8 @@
           "sbt",
           "scala"
         ],
-        "pushed_at": "2026-08-15T01:37:15Z",
-        "updated_at": "2026-08-15T01:37:20Z",
+        "pushed_at": "2026-08-21T01:44:05Z",
+        "updated_at": "2026-08-21T01:44:35Z",
         "starred_at": "2025-09-18T00:10:14Z"
       },
       "summary": {
@@ -33257,8 +33257,8 @@
           "vite",
           "vue"
         ],
-        "pushed_at": "2026-08-20T07:19:15Z",
-        "updated_at": "2026-08-20T07:19:20Z",
+        "pushed_at": "2026-08-21T07:18:55Z",
+        "updated_at": "2026-08-21T07:18:59Z",
         "starred_at": "2025-08-25T03:56:43Z"
       },
       "summary": {
@@ -33615,7 +33615,7 @@
           "vscode",
           "vscode-extensions"
         ],
-        "pushed_at": "2026-08-19T22:15:11Z",
+        "pushed_at": "2026-08-21T06:59:19Z",
         "updated_at": "2026-08-19T10:23:54Z",
         "starred_at": "2025-07-26T17:07:22Z"
       },
@@ -33642,7 +33642,7 @@
         "name": "FastAPI-Template",
         "owner": "JiayuXu0",
         "description": "A production-ready FastAPI backend template with clean architecture. 一个功能完整、架构清晰的企业级FastAPI后端模板，专为团队开发设计，开箱即用。",
-        "stars": 511,
+        "stars": 512,
         "language": "Python",
         "url": "https://github.com/JiayuXu0/FastAPI-Template",
         "homepage": "https://jiayuxu0.github.io/FastAPI-Template/",
@@ -33662,7 +33662,7 @@
           "uvicorn"
         ],
         "pushed_at": "2026-05-07T02:38:00Z",
-        "updated_at": "2026-08-19T14:09:57Z",
+        "updated_at": "2026-08-21T07:11:34Z",
         "starred_at": "2025-07-26T21:54:51Z"
       },
       "summary": {
@@ -33903,8 +33903,8 @@
           "xiaohongshu-downloader",
           "xiaohongshu-scraper"
         ],
-        "pushed_at": "2026-08-14T02:19:54Z",
-        "updated_at": "2026-08-17T12:08:44Z",
+        "pushed_at": "2026-08-21T06:51:43Z",
+        "updated_at": "2026-08-21T06:52:46Z",
         "starred_at": "2025-07-23T07:04:15Z"
       },
       "summary": {
@@ -34430,13 +34430,13 @@
         "name": "2048--",
         "owner": "sz30",
         "description": "2048++:An enhanced version based on the classic sudoku game 2048, adding interesting recall and cheat features!!",
-        "stars": 520,
+        "stars": 521,
         "language": "HTML",
         "url": "https://github.com/sz30/2048--",
         "homepage": "",
         "topics": [],
         "pushed_at": "2026-04-26T09:08:59Z",
-        "updated_at": "2026-08-05T12:54:22Z",
+        "updated_at": "2026-08-20T19:42:57Z",
         "starred_at": "2025-07-20T09:29:03Z"
       },
       "summary": {
@@ -34780,8 +34780,8 @@
           "muilt-agents",
           "workflow"
         ],
-        "pushed_at": "2026-08-20T07:40:09Z",
-        "updated_at": "2026-08-20T07:41:25Z",
+        "pushed_at": "2026-08-21T04:18:15Z",
+        "updated_at": "2026-08-21T04:18:25Z",
         "starred_at": "2025-06-20T12:41:29Z"
       },
       "summary": {
@@ -35302,13 +35302,13 @@
         "name": "cf-vps-monitor",
         "owner": "kadidalax",
         "description": "用cloudflare worker搭建的vps探针+网站检测 面板，部署简单，不需要服务器。",
-        "stars": 898,
+        "stars": 900,
         "language": "TypeScript",
         "url": "https://github.com/kadidalax/cf-vps-monitor",
         "homepage": "",
         "topics": [],
         "pushed_at": "2026-08-12T12:45:33Z",
-        "updated_at": "2026-08-20T06:19:06Z",
+        "updated_at": "2026-08-21T08:48:49Z",
         "starred_at": "2025-06-18T16:04:51Z"
       },
       "summary": {
@@ -35405,7 +35405,7 @@
         "name": "Tigo",
         "owner": "karldoenitz",
         "description": "Tigo is an HTTP web framework written in Go (Golang).It features a Tornado-like API with better performance.  Tigo是一款用Go语言开发的web应用框架，API特性类似于Tornado并且拥有比Tornado更好的性能。",
-        "stars": 2201,
+        "stars": 2202,
         "language": "Go",
         "url": "https://github.com/karldoenitz/Tigo",
         "homepage": "https://karldoenitz.github.io/Tigo/",
@@ -35419,7 +35419,7 @@
           "web"
         ],
         "pushed_at": "2026-06-05T10:03:21Z",
-        "updated_at": "2026-08-17T10:54:14Z",
+        "updated_at": "2026-08-20T11:32:27Z",
         "starred_at": "2025-06-18T07:51:29Z"
       },
       "summary": {
@@ -35884,7 +35884,7 @@
         "name": "pixels",
         "owner": "pixelsdb",
         "description": "An efficient storage and compute engine for both on-prem and cloud-native data analytics.",
-        "stars": 909,
+        "stars": 910,
         "language": "Java",
         "url": "https://github.com/pixelsdb/pixels",
         "homepage": "",
@@ -35896,8 +35896,8 @@
           "database",
           "olap"
         ],
-        "pushed_at": "2026-08-20T02:35:32Z",
-        "updated_at": "2026-08-19T18:12:40Z",
+        "pushed_at": "2026-08-21T02:42:16Z",
+        "updated_at": "2026-08-21T08:39:29Z",
         "starred_at": "2025-06-12T18:48:23Z"
       },
       "summary": {
@@ -36137,7 +36137,7 @@
           "windows-app"
         ],
         "pushed_at": "2026-08-19T14:26:49Z",
-        "updated_at": "2026-08-19T14:43:39Z",
+        "updated_at": "2026-08-20T14:51:38Z",
         "starred_at": "2025-06-10T21:09:44Z"
       },
       "summary": {
@@ -36463,7 +36463,7 @@
         "name": "CloudPaste",
         "owner": "ling-drag0n",
         "description": "🌩️ Serverless 自托管的文件管理与文本分享工具/网盘，支持多存储聚合管理和WebDAV 服务挂载。兼容 S3、WebDAV、OneDrive、Google Drive、Telegram、HF、GitHub 等。内置   Markdown 编辑器、30+文件格式预览。支持 Cloudflare Workers 或 Docker 部署。",
-        "stars": 2608,
+        "stars": 2612,
         "language": "JavaScript",
         "url": "https://github.com/ling-drag0n/CloudPaste",
         "homepage": "https://doc.cloudpaste.qzz.io",
@@ -36481,7 +36481,7 @@
           "webdav"
         ],
         "pushed_at": "2026-01-23T08:12:18Z",
-        "updated_at": "2026-08-20T01:02:31Z",
+        "updated_at": "2026-08-21T03:07:58Z",
         "starred_at": "2025-06-10T02:20:49Z"
       },
       "summary": {
@@ -37027,7 +37027,7 @@
         "name": "SuperAutoStudy",
         "owner": "Dainoar",
         "description": "超星学习通/学习通/泛雅学习通自动云端刷课的Springboot项目,支持多级倍速播放和自动答题，已接入Super题库+大模型答题。",
-        "stars": 627,
+        "stars": 626,
         "language": "Java",
         "url": "https://github.com/Dainoar/SuperAutoStudy",
         "homepage": "",
@@ -37037,7 +37037,7 @@
           "springboot"
         ],
         "pushed_at": "2026-07-14T04:15:38Z",
-        "updated_at": "2026-08-19T22:50:06Z",
+        "updated_at": "2026-08-20T09:49:45Z",
         "starred_at": "2025-06-07T17:41:38Z"
       },
       "summary": {
@@ -37166,13 +37166,13 @@
         "name": "pycharm-portable-rev",
         "owner": "zjyz20240101",
         "description": "Portable PyCharm",
-        "stars": 436,
+        "stars": 437,
         "language": "Go",
         "url": "https://github.com/zjyz20240101/pycharm-portable-rev",
         "homepage": "",
         "topics": [],
         "pushed_at": "2025-06-06T06:05:13Z",
-        "updated_at": "2026-08-05T12:54:50Z",
+        "updated_at": "2026-08-20T17:21:07Z",
         "starred_at": "2025-06-07T10:39:02Z"
       },
       "summary": {
@@ -37559,7 +37559,7 @@
         "name": "orange",
         "owner": "yluiop123",
         "description": "Orange is a Shadcn Admin UI built with Shadcn, Vite, React, Zustand, and React Router.",
-        "stars": 507,
+        "stars": 508,
         "language": "TypeScript",
         "url": "https://github.com/yluiop123/orange",
         "homepage": "https://yluiop123.github.io/orange/",
@@ -37570,7 +37570,7 @@
           "vite"
         ],
         "pushed_at": "2026-03-29T13:54:59Z",
-        "updated_at": "2026-08-18T00:41:05Z",
+        "updated_at": "2026-08-21T04:54:58Z",
         "starred_at": "2025-07-30T20:40:02Z"
       },
       "summary": {
@@ -37628,7 +37628,7 @@
         "name": "openagent",
         "owner": "Haohao-end",
         "description": "What if OpenAI Deep Research and Dify were one platform? OpenAgent — harness architecture for rapidly building vertical AI agents, with deep reasoning loops, visual workflows, RAG, and A2A delegation. ",
-        "stars": 793,
+        "stars": 795,
         "language": "Python",
         "url": "https://github.com/Haohao-end/openagent",
         "homepage": "https://openllm.cloud",
@@ -37655,7 +37655,7 @@
           "weaviate"
         ],
         "pushed_at": "2026-07-17T13:36:09Z",
-        "updated_at": "2026-08-20T07:05:35Z",
+        "updated_at": "2026-08-21T02:02:03Z",
         "starred_at": "2025-11-09T06:43:19Z"
       },
       "summary": {
@@ -38050,7 +38050,7 @@
         "tags_en": []
       },
       "pushed_at": "2026-06-16T15:48:58Z",
-      "updated_at": "2026-08-20"
+      "updated_at": "2026-08-21"
     },
     "flechazo-crushed/webmeta-cli": {
       "metadata": {
@@ -38058,13 +38058,13 @@
         "name": "webmeta-cli",
         "owner": "flechazo-crushed",
         "description": "",
-        "stars": 201,
+        "stars": 202,
         "language": "Python",
         "url": "https://github.com/flechazo-crushed/webmeta-cli",
         "homepage": "",
         "topics": [],
         "pushed_at": "2026-05-05T02:47:54Z",
-        "updated_at": "2026-08-13T00:13:30Z",
+        "updated_at": "2026-08-21T07:21:59Z",
         "starred_at": "2025-11-22T13:40:14Z"
       },
       "summary": {
@@ -38074,7 +38074,7 @@
         "tags_en": []
       },
       "pushed_at": "2026-05-05T02:47:54Z",
-      "updated_at": "2026-08-20"
+      "updated_at": "2026-08-21"
     },
     "fastbyte19/terraform-docker-postgresql": {
       "metadata": {
@@ -38098,7 +38098,7 @@
         "tags_en": []
       },
       "pushed_at": "2026-07-27T10:33:47Z",
-      "updated_at": "2026-08-20"
+      "updated_at": "2026-08-21"
     },
     "fastbyte19/Solana-NFT-Marketplace-by-CandyMachine": {
       "metadata": {
@@ -38141,7 +38141,7 @@
         "tags_en": []
       },
       "pushed_at": "2025-11-21T01:15:31Z",
-      "updated_at": "2026-08-20"
+      "updated_at": "2026-08-21"
     },
     "fastbyte18/terraform-docker-postgresql": {
       "metadata": {
@@ -38237,7 +38237,7 @@
         "tags_en": []
       },
       "pushed_at": "2026-08-11T07:51:54Z",
-      "updated_at": "2026-08-20"
+      "updated_at": "2026-08-21"
     },
     "4pwn/NXJS-ARCH": {
       "metadata": {
@@ -38245,7 +38245,7 @@
         "name": "NXJS-ARCH",
         "owner": "4pwn",
         "description": "",
-        "stars": 379,
+        "stars": 380,
         "language": "JavaScript",
         "url": "https://github.com/4pwn/NXJS-ARCH",
         "homepage": "",
@@ -38255,7 +38255,7 @@
           "next-auth"
         ],
         "pushed_at": "2026-08-11T07:53:06Z",
-        "updated_at": "2026-08-19T21:27:00Z",
+        "updated_at": "2026-08-21T03:48:42Z",
         "starred_at": "2025-10-23T21:08:06Z"
       },
       "summary": {
