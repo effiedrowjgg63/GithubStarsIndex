@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-21 08:49 UTC",
+  "last_updated": "2026-08-22 08:37 UTC",
   "repos": {
     "waoowaooAI/waoowaoo": {
       "metadata": {
@@ -3110,8 +3110,8 @@
           "golang",
           "openai"
         ],
-        "pushed_at": "2026-08-21T08:28:45Z",
-        "updated_at": "2026-08-21T07:06:52Z",
+        "pushed_at": "2026-08-22T07:52:06Z",
+        "updated_at": "2026-08-22T06:17:31Z",
         "starred_at": "2025-06-18T04:14:43Z"
       },
       "summary": {
@@ -4421,13 +4421,13 @@
         "name": "mcp-chrome",
         "owner": "hangwin",
         "description": "Chrome MCP Server is a Chrome extension-based Model Context Protocol (MCP) server that exposes your Chrome browser functionality to AI assistants like Claude, enabling complex browser automation, content analysis, and semantic search.",
-        "stars": 12325,
+        "stars": 12331,
         "language": "TypeScript",
         "url": "https://github.com/hangwin/mcp-chrome",
         "homepage": "",
         "topics": [],
         "pushed_at": "2026-01-06T13:05:39Z",
-        "updated_at": "2026-08-21T08:28:20Z",
+        "updated_at": "2026-08-22T08:10:39Z",
         "starred_at": "2025-08-25T14:40:10Z"
       },
       "summary": {
@@ -31316,7 +31316,7 @@
         "name": "snow-cli",
         "owner": "MayDay-wpf",
         "description": "Agentic coding in your terminal,Simultaneously compatible with OpenAI, Gemini, and Claude.运行在终端的 AI 编程智能体，同时兼容 Deepseek、OpenAI、Gemini和Claude。",
-        "stars": 1062,
+        "stars": 1061,
         "language": "TypeScript",
         "url": "https://github.com/MayDay-wpf/snow-cli",
         "homepage": "",
@@ -31326,7 +31326,7 @@
           "ai-coding"
         ],
         "pushed_at": "2026-08-20T13:07:01Z",
-        "updated_at": "2026-08-21T01:27:33Z",
+        "updated_at": "2026-08-21T13:38:40Z",
         "starred_at": "2025-11-23T10:29:17Z"
       },
       "summary": {
@@ -31648,7 +31648,7 @@
         "name": "WHartTest",
         "owner": "MGdaasLab",
         "description": "WHartTest 是一款AI驱动的测试自动化平台，实现从需求到可执行测试用例的自动化生成与管理，帮助测试团队提升效率与覆盖率。 (WHartTest is an AI-driven test automation platform that automates the generation and management of executable test cases from requirements, helping testing teams improve efficiency and coverage.)",
-        "stars": 1009,
+        "stars": 1008,
         "language": "Python",
         "url": "https://github.com/MGdaasLab/WHartTest",
         "homepage": "https://wharttest.mgdaas.com/",
@@ -31661,7 +31661,7 @@
           "test-case-generation"
         ],
         "pushed_at": "2026-08-21T02:24:40Z",
-        "updated_at": "2026-08-21T08:34:16Z",
+        "updated_at": "2026-08-21T15:03:52Z",
         "starred_at": "2025-11-09T01:37:27Z"
       },
       "summary": {
@@ -31789,7 +31789,7 @@
         "name": "kelivo",
         "owner": "Chevey339",
         "description": "A Flutter LLM Chat Client. Support Mobile & Desktop.",
-        "stars": 3711,
+        "stars": 3721,
         "language": "Dart",
         "url": "https://github.com/Chevey339/kelivo",
         "homepage": "https://kelivo.psycheas.top",
@@ -31807,7 +31807,7 @@
           "openharmony"
         ],
         "pushed_at": "2026-08-20T12:40:01Z",
-        "updated_at": "2026-08-21T07:58:20Z",
+        "updated_at": "2026-08-22T07:55:51Z",
         "starred_at": "2025-10-28T08:02:47Z"
       },
       "summary": {
@@ -31833,7 +31833,7 @@
         "name": "FreeDomain",
         "owner": "DigitalPlatDev",
         "description": "Free domain registration and practical DNS learning resources for everyone.",
-        "stars": 194641,
+        "stars": 194862,
         "language": "Markdown",
         "url": "https://github.com/DigitalPlatDev/FreeDomain",
         "homepage": "https://domain.digitalplat.org",
@@ -31855,7 +31855,7 @@
           "nameserver"
         ],
         "pushed_at": "2026-08-12T10:36:46Z",
-        "updated_at": "2026-08-21T08:48:20Z",
+        "updated_at": "2026-08-22T08:35:47Z",
         "starred_at": "2025-10-26T08:03:55Z"
       },
       "summary": {
@@ -32141,7 +32141,7 @@
         "name": "llm-interview-code",
         "owner": "AIR-hl",
         "description": "LLM面试常见手撕合集",
-        "stars": 567,
+        "stars": 568,
         "language": "Jupyter Notebook",
         "url": "https://github.com/AIR-hl/llm-interview-code",
         "homepage": "",
@@ -32152,7 +32152,7 @@
           "lm"
         ],
         "pushed_at": "2026-06-19T14:22:10Z",
-        "updated_at": "2026-08-21T08:48:14Z",
+        "updated_at": "2026-08-22T04:00:43Z",
         "starred_at": "2025-10-02T04:30:36Z"
       },
       "summary": {
@@ -32531,8 +32531,8 @@
         "url": "https://github.com/pixelsdb/pixels-trino",
         "homepage": "",
         "topics": [],
-        "pushed_at": "2026-08-05T00:41:05Z",
-        "updated_at": "2026-08-06T07:15:24Z",
+        "pushed_at": "2026-08-22T07:14:56Z",
+        "updated_at": "2026-08-22T07:15:17Z",
         "starred_at": "2025-09-25T04:54:37Z"
       },
       "summary": {
@@ -32759,7 +32759,7 @@
           "sbt",
           "scala"
         ],
-        "pushed_at": "2026-08-21T01:44:05Z",
+        "pushed_at": "2026-08-22T01:29:14Z",
         "updated_at": "2026-08-21T01:44:35Z",
         "starred_at": "2025-09-18T00:10:14Z"
       },
@@ -33257,8 +33257,8 @@
           "vite",
           "vue"
         ],
-        "pushed_at": "2026-08-21T07:18:55Z",
-        "updated_at": "2026-08-21T07:18:59Z",
+        "pushed_at": "2026-08-22T07:33:49Z",
+        "updated_at": "2026-08-22T07:35:01Z",
         "starred_at": "2025-08-25T03:56:43Z"
       },
       "summary": {
@@ -33451,13 +33451,13 @@
         "name": "Cloudflare-BestIP",
         "owner": "IonRh",
         "description": "将优选IP推送到CF、阿里云、DNSpod、华为云DNS进行DNS解析，定期延时检测，web页面展示等",
-        "stars": 475,
+        "stars": 476,
         "language": "JavaScript",
         "url": "https://github.com/IonRh/Cloudflare-BestIP",
         "homepage": "",
         "topics": [],
         "pushed_at": "2026-08-05T01:14:48Z",
-        "updated_at": "2026-08-20T06:18:04Z",
+        "updated_at": "2026-08-22T02:53:22Z",
         "starred_at": "2025-07-29T22:25:25Z"
       },
       "summary": {
@@ -33569,13 +33569,13 @@
         "name": "japanese-analyzer",
         "owner": "cokice",
         "description": "",
-        "stars": 787,
+        "stars": 788,
         "language": "TypeScript",
         "url": "https://github.com/cokice/japanese-analyzer",
         "homepage": "https://nihongodemo.howen.ink/",
         "topics": [],
-        "pushed_at": "2026-08-02T13:19:54Z",
-        "updated_at": "2026-08-18T02:38:39Z",
+        "pushed_at": "2026-08-21T15:50:45Z",
+        "updated_at": "2026-08-22T05:27:06Z",
         "starred_at": "2025-07-27T04:01:34Z"
       },
       "summary": {
@@ -33615,7 +33615,7 @@
           "vscode",
           "vscode-extensions"
         ],
-        "pushed_at": "2026-08-21T06:59:19Z",
+        "pushed_at": "2026-08-21T17:57:53Z",
         "updated_at": "2026-08-19T10:23:54Z",
         "starred_at": "2025-07-26T17:07:22Z"
       },
@@ -33642,7 +33642,7 @@
         "name": "FastAPI-Template",
         "owner": "JiayuXu0",
         "description": "A production-ready FastAPI backend template with clean architecture. 一个功能完整、架构清晰的企业级FastAPI后端模板，专为团队开发设计，开箱即用。",
-        "stars": 512,
+        "stars": 513,
         "language": "Python",
         "url": "https://github.com/JiayuXu0/FastAPI-Template",
         "homepage": "https://jiayuxu0.github.io/FastAPI-Template/",
@@ -33662,7 +33662,7 @@
           "uvicorn"
         ],
         "pushed_at": "2026-05-07T02:38:00Z",
-        "updated_at": "2026-08-21T07:11:34Z",
+        "updated_at": "2026-08-22T05:48:08Z",
         "starred_at": "2025-07-26T21:54:51Z"
       },
       "summary": {
@@ -34065,13 +34065,13 @@
         "name": "aibotgo",
         "owner": "shengdingbox",
         "description": "🚀 AI 长文本大模型逆向API白嫖测试【特长：长文本解读整理】，支持高速流式输出、智能体对话、联网搜索、长文档解读、图像OCR、多轮对话，零配置部署，多路token支持，自动清理会话痕迹。",
-        "stars": 437,
+        "stars": 438,
         "language": "Java",
         "url": "https://github.com/shengdingbox/aibotgo",
         "homepage": "https://aibotgo.vercel.app",
         "topics": [],
         "pushed_at": "2025-12-05T03:26:43Z",
-        "updated_at": "2026-08-19T10:18:57Z",
+        "updated_at": "2026-08-21T11:45:35Z",
         "starred_at": "2025-07-22T12:37:43Z"
       },
       "summary": {
@@ -34233,13 +34233,13 @@
         "name": "platform-frontend",
         "owner": "hedwa",
         "description": "",
-        "stars": 279,
+        "stars": 280,
         "language": "Vue",
         "url": "https://github.com/hedwa/platform-frontend",
         "homepage": "",
         "topics": [],
         "pushed_at": "2025-06-19T13:20:59Z",
-        "updated_at": "2026-08-05T12:56:12Z",
+        "updated_at": "2026-08-21T20:29:41Z",
         "starred_at": "2025-07-21T21:30:06Z"
       },
       "summary": {
@@ -34462,13 +34462,13 @@
         "name": "Dream",
         "owner": "jiayihello",
         "description": "",
-        "stars": 240,
+        "stars": 241,
         "language": "JavaScript",
         "url": "https://github.com/jiayihello/Dream",
         "homepage": "",
         "topics": [],
         "pushed_at": "2023-10-08T02:33:13Z",
-        "updated_at": "2026-08-19T02:06:34Z",
+        "updated_at": "2026-08-22T02:53:50Z",
         "starred_at": "2025-07-20T07:50:28Z"
       },
       "summary": {
@@ -34780,8 +34780,8 @@
           "muilt-agents",
           "workflow"
         ],
-        "pushed_at": "2026-08-21T04:18:15Z",
-        "updated_at": "2026-08-21T04:18:25Z",
+        "pushed_at": "2026-08-21T10:22:29Z",
+        "updated_at": "2026-08-21T10:22:51Z",
         "starred_at": "2025-06-20T12:41:29Z"
       },
       "summary": {
@@ -35243,8 +35243,8 @@
         "url": "https://github.com/pixelsdb/pixels-sink",
         "homepage": "",
         "topics": [],
-        "pushed_at": "2026-08-15T16:47:37Z",
-        "updated_at": "2026-08-15T16:47:53Z",
+        "pushed_at": "2026-08-22T07:17:46Z",
+        "updated_at": "2026-08-22T07:18:07Z",
         "starred_at": "2025-06-18T15:55:50Z"
       },
       "summary": {
@@ -35302,13 +35302,13 @@
         "name": "cf-vps-monitor",
         "owner": "kadidalax",
         "description": "用cloudflare worker搭建的vps探针+网站检测 面板，部署简单，不需要服务器。",
-        "stars": 900,
+        "stars": 901,
         "language": "TypeScript",
         "url": "https://github.com/kadidalax/cf-vps-monitor",
         "homepage": "",
         "topics": [],
         "pushed_at": "2026-08-12T12:45:33Z",
-        "updated_at": "2026-08-21T08:48:49Z",
+        "updated_at": "2026-08-21T18:24:58Z",
         "starred_at": "2025-06-18T16:04:51Z"
       },
       "summary": {
@@ -35896,8 +35896,8 @@
           "database",
           "olap"
         ],
-        "pushed_at": "2026-08-21T02:42:16Z",
-        "updated_at": "2026-08-21T08:39:29Z",
+        "pushed_at": "2026-08-22T06:59:29Z",
+        "updated_at": "2026-08-22T06:59:59Z",
         "starred_at": "2025-06-12T18:48:23Z"
       },
       "summary": {
@@ -36136,8 +36136,8 @@
           "typescript",
           "windows-app"
         ],
-        "pushed_at": "2026-08-19T14:26:49Z",
-        "updated_at": "2026-08-20T14:51:38Z",
+        "pushed_at": "2026-08-22T08:37:00Z",
+        "updated_at": "2026-08-22T08:37:05Z",
         "starred_at": "2025-06-10T21:09:44Z"
       },
       "summary": {
@@ -37027,7 +37027,7 @@
         "name": "SuperAutoStudy",
         "owner": "Dainoar",
         "description": "超星学习通/学习通/泛雅学习通自动云端刷课的Springboot项目,支持多级倍速播放和自动答题，已接入Super题库+大模型答题。",
-        "stars": 626,
+        "stars": 627,
         "language": "Java",
         "url": "https://github.com/Dainoar/SuperAutoStudy",
         "homepage": "",
@@ -37037,7 +37037,7 @@
           "springboot"
         ],
         "pushed_at": "2026-07-14T04:15:38Z",
-        "updated_at": "2026-08-20T09:49:45Z",
+        "updated_at": "2026-08-21T17:16:34Z",
         "starred_at": "2025-06-07T17:41:38Z"
       },
       "summary": {
@@ -38050,7 +38050,7 @@
         "tags_en": []
       },
       "pushed_at": "2026-06-16T15:48:58Z",
-      "updated_at": "2026-08-21"
+      "updated_at": "2026-08-22"
     },
     "flechazo-crushed/webmeta-cli": {
       "metadata": {
@@ -38074,7 +38074,7 @@
         "tags_en": []
       },
       "pushed_at": "2026-05-05T02:47:54Z",
-      "updated_at": "2026-08-21"
+      "updated_at": "2026-08-22"
     },
     "fastbyte19/terraform-docker-postgresql": {
       "metadata": {
@@ -38098,7 +38098,7 @@
         "tags_en": []
       },
       "pushed_at": "2026-07-27T10:33:47Z",
-      "updated_at": "2026-08-21"
+      "updated_at": "2026-08-22"
     },
     "fastbyte19/Solana-NFT-Marketplace-by-CandyMachine": {
       "metadata": {
@@ -38141,7 +38141,7 @@
         "tags_en": []
       },
       "pushed_at": "2025-11-21T01:15:31Z",
-      "updated_at": "2026-08-21"
+      "updated_at": "2026-08-22"
     },
     "fastbyte18/terraform-docker-postgresql": {
       "metadata": {
@@ -38237,7 +38237,7 @@
         "tags_en": []
       },
       "pushed_at": "2026-08-11T07:51:54Z",
-      "updated_at": "2026-08-21"
+      "updated_at": "2026-08-22"
     },
     "4pwn/NXJS-ARCH": {
       "metadata": {
