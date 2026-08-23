@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-22 08:37 UTC",
+  "last_updated": "2026-08-23 08:37 UTC",
   "repos": {
     "waoowaooAI/waoowaoo": {
       "metadata": {
@@ -3097,7 +3097,7 @@
         "name": "gpt-load",
         "owner": "tbphp",
         "description": "Multi-channel AI proxy with intelligent key rotation. 智能密钥轮询的多渠道 AI 代理。",
-        "stars": 6285,
+        "stars": 6286,
         "language": "Go",
         "url": "https://github.com/tbphp/gpt-load",
         "homepage": "https://www.gpt-load.com",
@@ -3110,8 +3110,8 @@
           "golang",
           "openai"
         ],
-        "pushed_at": "2026-08-22T07:52:06Z",
-        "updated_at": "2026-08-22T06:17:31Z",
+        "pushed_at": "2026-08-23T05:21:13Z",
+        "updated_at": "2026-08-23T03:21:31Z",
         "starred_at": "2025-06-18T04:14:43Z"
       },
       "summary": {
@@ -4421,13 +4421,13 @@
         "name": "mcp-chrome",
         "owner": "hangwin",
         "description": "Chrome MCP Server is a Chrome extension-based Model Context Protocol (MCP) server that exposes your Chrome browser functionality to AI assistants like Claude, enabling complex browser automation, content analysis, and semantic search.",
-        "stars": 12331,
+        "stars": 12336,
         "language": "TypeScript",
         "url": "https://github.com/hangwin/mcp-chrome",
         "homepage": "",
         "topics": [],
         "pushed_at": "2026-01-06T13:05:39Z",
-        "updated_at": "2026-08-22T08:10:39Z",
+        "updated_at": "2026-08-23T02:47:32Z",
         "starred_at": "2025-08-25T14:40:10Z"
       },
       "summary": {
@@ -31325,8 +31325,8 @@
           "ai-agents",
           "ai-coding"
         ],
-        "pushed_at": "2026-08-20T13:07:01Z",
-        "updated_at": "2026-08-21T13:38:40Z",
+        "pushed_at": "2026-08-23T06:23:50Z",
+        "updated_at": "2026-08-23T06:24:02Z",
         "starred_at": "2025-11-23T10:29:17Z"
       },
       "summary": {
@@ -31789,7 +31789,7 @@
         "name": "kelivo",
         "owner": "Chevey339",
         "description": "A Flutter LLM Chat Client. Support Mobile & Desktop.",
-        "stars": 3721,
+        "stars": 3733,
         "language": "Dart",
         "url": "https://github.com/Chevey339/kelivo",
         "homepage": "https://kelivo.psycheas.top",
@@ -31806,8 +31806,8 @@
           "llm",
           "openharmony"
         ],
-        "pushed_at": "2026-08-20T12:40:01Z",
-        "updated_at": "2026-08-22T07:55:51Z",
+        "pushed_at": "2026-08-23T07:50:54Z",
+        "updated_at": "2026-08-23T08:13:30Z",
         "starred_at": "2025-10-28T08:02:47Z"
       },
       "summary": {
@@ -31833,7 +31833,7 @@
         "name": "FreeDomain",
         "owner": "DigitalPlatDev",
         "description": "Free domain registration and practical DNS learning resources for everyone.",
-        "stars": 194862,
+        "stars": 195119,
         "language": "Markdown",
         "url": "https://github.com/DigitalPlatDev/FreeDomain",
         "homepage": "https://domain.digitalplat.org",
@@ -31855,7 +31855,7 @@
           "nameserver"
         ],
         "pushed_at": "2026-08-12T10:36:46Z",
-        "updated_at": "2026-08-22T08:35:47Z",
+        "updated_at": "2026-08-23T08:27:32Z",
         "starred_at": "2025-10-26T08:03:55Z"
       },
       "summary": {
@@ -32141,7 +32141,7 @@
         "name": "llm-interview-code",
         "owner": "AIR-hl",
         "description": "LLM面试常见手撕合集",
-        "stars": 568,
+        "stars": 571,
         "language": "Jupyter Notebook",
         "url": "https://github.com/AIR-hl/llm-interview-code",
         "homepage": "",
@@ -32152,7 +32152,7 @@
           "lm"
         ],
         "pushed_at": "2026-06-19T14:22:10Z",
-        "updated_at": "2026-08-22T04:00:43Z",
+        "updated_at": "2026-08-22T15:52:14Z",
         "starred_at": "2025-10-02T04:30:36Z"
       },
       "summary": {
@@ -32492,13 +32492,13 @@
         "name": "markdown-to-image-serve",
         "owner": "wxingheng",
         "description": "一个基于 Next.js 和 Puppeteer 的 Markdown 转图片服务，支持 Docker 部署和 API 集成。A Markdown to Image Service based on Next.js and Puppeteer, supporting Vercel deployment and API integration.",
-        "stars": 271,
+        "stars": 270,
         "language": "TypeScript",
         "url": "https://github.com/wxingheng/markdown-to-image-serve",
         "homepage": "https://markdown-to-image-plus.vercel.app",
         "topics": [],
         "pushed_at": "2026-03-01T12:02:02Z",
-        "updated_at": "2026-07-27T22:18:42Z",
+        "updated_at": "2026-08-22T10:28:01Z",
         "starred_at": "2025-09-25T17:15:14Z"
       },
       "summary": {
@@ -33257,8 +33257,8 @@
           "vite",
           "vue"
         ],
-        "pushed_at": "2026-08-22T07:33:49Z",
-        "updated_at": "2026-08-22T07:35:01Z",
+        "pushed_at": "2026-08-22T14:26:59Z",
+        "updated_at": "2026-08-22T14:27:03Z",
         "starred_at": "2025-08-25T03:56:43Z"
       },
       "summary": {
@@ -33457,7 +33457,7 @@
         "homepage": "",
         "topics": [],
         "pushed_at": "2026-08-05T01:14:48Z",
-        "updated_at": "2026-08-22T02:53:22Z",
+        "updated_at": "2026-08-22T16:58:46Z",
         "starred_at": "2025-07-29T22:25:25Z"
       },
       "summary": {
@@ -34768,7 +34768,7 @@
         "name": "Sage",
         "owner": "ZHangZHengEric",
         "description": "Multi-Agent System Framework For Complex Tasks",
-        "stars": 1205,
+        "stars": 1206,
         "language": "Python",
         "url": "https://github.com/ZHangZHengEric/Sage",
         "homepage": "https://zhangzhengeric.github.io/Sage/",
@@ -34781,7 +34781,7 @@
           "workflow"
         ],
         "pushed_at": "2026-08-21T10:22:29Z",
-        "updated_at": "2026-08-21T10:22:51Z",
+        "updated_at": "2026-08-23T05:31:04Z",
         "starred_at": "2025-06-20T12:41:29Z"
       },
       "summary": {
@@ -35302,13 +35302,13 @@
         "name": "cf-vps-monitor",
         "owner": "kadidalax",
         "description": "用cloudflare worker搭建的vps探针+网站检测 面板，部署简单，不需要服务器。",
-        "stars": 901,
+        "stars": 902,
         "language": "TypeScript",
         "url": "https://github.com/kadidalax/cf-vps-monitor",
         "homepage": "",
         "topics": [],
         "pushed_at": "2026-08-12T12:45:33Z",
-        "updated_at": "2026-08-21T18:24:58Z",
+        "updated_at": "2026-08-23T04:26:27Z",
         "starred_at": "2025-06-18T16:04:51Z"
       },
       "summary": {
@@ -35896,7 +35896,7 @@
           "database",
           "olap"
         ],
-        "pushed_at": "2026-08-22T06:59:29Z",
+        "pushed_at": "2026-08-23T02:42:22Z",
         "updated_at": "2026-08-22T06:59:59Z",
         "starred_at": "2025-06-12T18:48:23Z"
       },
@@ -36115,7 +36115,7 @@
         "name": "MarkFlowy",
         "owner": "drl990114",
         "description": "AI-powered cross-platform editor for WYSIWYG Markdown and general-purpose text editing.",
-        "stars": 2359,
+        "stars": 2360,
         "language": "TypeScript",
         "url": "https://github.com/drl990114/MarkFlowy",
         "homepage": "https://www.markflowy.cc",
@@ -36136,8 +36136,8 @@
           "typescript",
           "windows-app"
         ],
-        "pushed_at": "2026-08-22T08:37:00Z",
-        "updated_at": "2026-08-22T08:37:05Z",
+        "pushed_at": "2026-08-23T08:27:27Z",
+        "updated_at": "2026-08-23T08:28:15Z",
         "starred_at": "2025-06-10T21:09:44Z"
       },
       "summary": {
@@ -36463,7 +36463,7 @@
         "name": "CloudPaste",
         "owner": "ling-drag0n",
         "description": "🌩️ Serverless 自托管的文件管理与文本分享工具/网盘，支持多存储聚合管理和WebDAV 服务挂载。兼容 S3、WebDAV、OneDrive、Google Drive、Telegram、HF、GitHub 等。内置   Markdown 编辑器、30+文件格式预览。支持 Cloudflare Workers 或 Docker 部署。",
-        "stars": 2612,
+        "stars": 2614,
         "language": "JavaScript",
         "url": "https://github.com/ling-drag0n/CloudPaste",
         "homepage": "https://doc.cloudpaste.qzz.io",
@@ -36481,7 +36481,7 @@
           "webdav"
         ],
         "pushed_at": "2026-01-23T08:12:18Z",
-        "updated_at": "2026-08-21T03:07:58Z",
+        "updated_at": "2026-08-23T06:39:42Z",
         "starred_at": "2025-06-10T02:20:49Z"
       },
       "summary": {
@@ -38050,7 +38050,7 @@
         "tags_en": []
       },
       "pushed_at": "2026-06-16T15:48:58Z",
-      "updated_at": "2026-08-22"
+      "updated_at": "2026-08-23"
     },
     "flechazo-crushed/webmeta-cli": {
       "metadata": {
@@ -38074,7 +38074,7 @@
         "tags_en": []
       },
       "pushed_at": "2026-05-05T02:47:54Z",
-      "updated_at": "2026-08-22"
+      "updated_at": "2026-08-23"
     },
     "fastbyte19/terraform-docker-postgresql": {
       "metadata": {
@@ -38098,7 +38098,7 @@
         "tags_en": []
       },
       "pushed_at": "2026-07-27T10:33:47Z",
-      "updated_at": "2026-08-22"
+      "updated_at": "2026-08-23"
     },
     "fastbyte19/Solana-NFT-Marketplace-by-CandyMachine": {
       "metadata": {
@@ -38141,7 +38141,7 @@
         "tags_en": []
       },
       "pushed_at": "2025-11-21T01:15:31Z",
-      "updated_at": "2026-08-22"
+      "updated_at": "2026-08-23"
     },
     "fastbyte18/terraform-docker-postgresql": {
       "metadata": {
@@ -38237,7 +38237,7 @@
         "tags_en": []
       },
       "pushed_at": "2026-08-11T07:51:54Z",
-      "updated_at": "2026-08-22"
+      "updated_at": "2026-08-23"
     },
     "4pwn/NXJS-ARCH": {
       "metadata": {
