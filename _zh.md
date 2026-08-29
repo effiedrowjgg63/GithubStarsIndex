@@ -1,6 +1,6 @@
 # ⭐ GitHub Stars Index
 
-> Updated: 2026-08-28 20:08 UTC · Total: 179
+> Updated: 2026-08-29 13:46 UTC · Total: 179
 
 ---
 
@@ -288,7 +288,7 @@
 ## ltjed/freephdlabor
 
 > [!info]
-> ⭐ 620 · Python · 2026-08-28T07:36:03Z  
+> ⭐ 623 · Python · 2026-08-29T13:15:44Z  
 > [GitHub](https://github.com/ltjed/freephdlabor) · [Website](https://freephdlabor.github.io/)  
 > `#AI智能体` `#多智能体系统` `#科学研究` `#自动化研究` `#ai-agents` `#ai4science` `#autonomous-agents` `#multiagent-systems` `#research-automation` 
 > freephdlabor 是一个开源多智能体框架，可自动化科学研究的完整生命周期，从假设生成到实验验证再到论文撰写。支持开箱即用和领域定制，具备动态工作流、人类协同干预及持续研究能力，适用于材料科学、生物学等跨学科研究场景。
@@ -348,7 +348,7 @@
 ## Chevey339/kelivo
 
 > [!info]
-> ⭐ 3,785 · Dart · 2026-08-28T19:48:09Z  
+> ⭐ 3,798 · Dart · 2026-08-29T13:09:01Z  
 > [GitHub](https://github.com/Chevey339/kelivo) · [Website](https://kelivo.psycheas.top)  
 > `#AI智能体` `#Flutter` `#跨平台` `#ai` `#android` `#chatbot` `#chatbox` `#flutter` `#flutter-apps` `#harmony` `#harmonyos` `#ios` `#llm` `#openharmony` 
 > Kelivo 是一款基于 Flutter 开发的跨平台 LLM 聊天客户端，支持移动端（Android/iOS/Harmony）和桌面端（Windows/macOS/Linux）。具备现代化 Material You 设计、多语言支持、多 AI 服务商接入、MCP 工具集成、网页搜索、语音合成、Markdown 渲染及自定义字体等功能，提供高效智能对话体验。
@@ -358,7 +358,7 @@
 ## DigitalPlatDev/FreeDomain
 
 > [!info]
-> ⭐ 196,193 · Markdown · 2026-08-28T19:54:39Z  
+> ⭐ 196,315 · Markdown · 2026-08-29T13:44:58Z  
 > [GitHub](https://github.com/DigitalPlatDev/FreeDomain) · [Website](https://domain.digitalplat.org)  
 > `#免费域名` `#域名服务` `#数字身份` `#digitalplat` `#dns` `#dns-tutorial` `#documentation` `#domain` `#domain-platform` `#domain-registration` `#domainname` `#domains` `#education` `#free` `#free-domain` `#freedomain` `#internet-infrastructure` `#nameserver` 
 > DigitalPlat FreeDomain 是一个面向个人和组织的免费域名注册平台，提供 .DPDNS.ORG、.US.KG 等专属后缀域名，支持与主流 DNS 服务商（如 Cloudflare）无缝集成。项目由 DigitalPlat Foundation 创始人 Edward Hsing 独立开发维护，已服务超 40 万用户，致力于降低网络接入门槛，推动互联网开放包容。
@@ -388,7 +388,7 @@
 ## 4pwn/NXJS-ARCH
 
 > [!info]
-> ⭐ 383 · JavaScript · 2026-08-28T04:03:36Z  
+> ⭐ 382 · JavaScript · 2026-08-29T07:17:12Z  
 > [GitHub](https://github.com/4pwn/NXJS-ARCH)  
 > `#architecture` `#docs` `#next-auth` 
 > 暂无描述。
@@ -456,7 +456,7 @@
 ## AIR-hl/llm-interview-code
 
 > [!info]
-> ⭐ 582 · Jupyter Notebook · 2026-08-28T19:51:38Z  
+> ⭐ 584 · Jupyter Notebook · 2026-08-29T11:28:47Z  
 > [GitHub](https://github.com/AIR-hl/llm-interview-code)  
 > `#AI大模型` `#深度学习` `#面试题库` `#ai` `#interview` `#llm` `#lm` 
 > LLM面试常见手撕代码合集，涵盖注意力机制、模型组件、归一化、损失函数等核心模块实现。提供MHA/GQA、RoPE、LoRA、DPO/GRPO等高频考点完整代码示例，适合深度学习工程师系统掌握大模型底层原理与面试实战。
@@ -719,7 +719,7 @@
 ## hangwin/mcp-chrome
 
 > [!info]
-> ⭐ 12,357 · TypeScript · 2026-08-28T14:06:07Z  
+> ⭐ 12,359 · TypeScript · 2026-08-29T10:47:03Z  
 > [GitHub](https://github.com/hangwin/mcp-chrome)  
 > `#AI智能体` `#浏览器自动化` `#语义搜索` 
 > Chrome MCP Server 是一款基于 Chrome 扩展的 Model Context Protocol (MCP) 服务器，将浏览器功能暴露给 Claude 等 AI 助手，实现复杂浏览器自动化、内容分析与语义搜索。它直接利用用户现有 Chrome 环境，保留登录状态与配置，支持 20+ 工具，提供本地流式 HTTP 通信，并集成 SIMD 加速的向量数据库，实现智能跨标签页语义检索。
@@ -749,7 +749,7 @@
 ## MoezBenHassen/Elkindy-Frontend-ENIGMA
 
 > [!info]
-> ⭐ 309 · N/A · 2026-08-26T09:47:26Z  
+> ⭐ 310 · N/A · 2026-08-29T08:53:46Z  
 > [GitHub](https://github.com/MoezBenHassen/Elkindy-Frontend-ENIGMA)  
 > `#AI集成` `#全栈开发` `#教育科技` 
 > El Kindy 是一个全栈 JavaScript 项目，采用 Next.js、Express.js 和 MongoDB 构建，集成 Flask、PyTorch 等 AI/ML 技术栈，支持 Azure 云部署与 Jenkins CI/CD。项目聚焦教育科技领域，提供现代化前端界面与后端智能服务，适用于在线学习平台开发。
@@ -807,7 +807,7 @@
 ## IonRh/Cloudflare-BestIP
 
 > [!info]
-> ⭐ 480 · JavaScript · 2026-08-26T12:37:00Z  
+> ⭐ 481 · JavaScript · 2026-08-29T11:33:27Z  
 > [GitHub](https://github.com/IonRh/Cloudflare-BestIP)  
 > `#DNS自动化` `#IP优选` `#网络优化` 
 > Cloudflare BestIP 是一款基于 Go 语言开发的高性能 IP 优选自动化工具，集成 XIU2/CloudflareSpeedTest 测速引擎，支持 IPv4/IPv6 双栈优选及多平台 DNS 自动更新（Cloudflare、阿里云、DNSPod、华为云），具备定时健康检测、Web 可视化展示和 Telegram 推送功能。
@@ -844,7 +844,7 @@
 ## JiayuXu0/FastAPI-Template
 
 > [!info]
-> ⭐ 517 · Python · 2026-08-28T06:47:53Z  
+> ⭐ 518 · Python · 2026-08-29T02:44:43Z  
 > [GitHub](https://github.com/JiayuXu0/FastAPI-Template) · [Website](https://jiayuxu0.github.io/FastAPI-Template/)  
 > `#FastAPI` `#企业应用` `#后端开发` `#api` `#async` `#authentication` `#boilerplate` `#database` `#fastapi` `#openapi` `#pydantic` `#python` `#starlette` `#swagger` `#template` `#uvicorn` 
 > 企业级FastAPI后端模板，采用三层架构设计，集成JWT认证、RBAC权限控制、Redis缓存和异步数据库操作。提供用户管理、文件上传、部门管理等完整功能模块，支持Docker部署和自动化数据库迁移，开箱即用，专为团队协作开发设计。
@@ -923,7 +923,7 @@
 ## zhugezifang/Awesome-xiaohongshu-download-Tools
 
 > [!info]
-> ⭐ 282 · N/A · 2026-08-25T16:40:39Z  
+> ⭐ 283 · N/A · 2026-08-29T02:16:02Z  
 > [GitHub](https://github.com/zhugezifang/Awesome-xiaohongshu-download-Tools) · [Website](https://www.xhs-download.org/zh)  
 > `#无水印下载` `#社交媒体工具` `#网页爬虫` `#xiaohongshu` `#xiaohongshu-api` `#xiaohongshu-crawler` `#xiaohongshu-downloader` `#xiaohongshu-scraper` 
 > 本文推荐6款2026年免费的小红书无水印下载工具，涵盖在线网页服务与批量管理工具。支持图片、视频一键去水印下载，无需安装客户端，注重用户体验与版权合规性，适用于内容创作者与数据抓取需求。
@@ -1011,7 +1011,7 @@
 ## hedwa/platform-frontend
 
 > [!info]
-> ⭐ 280 · Vue · 2026-08-21T20:29:41Z  
+> ⭐ 281 · Vue · 2026-08-29T03:16:47Z  
 > [GitHub](https://github.com/hedwa/platform-frontend)  
 > `#React + TypeScript` `#SaaS前端架构` `#企业管理平台` 
 > Goopper 前端是基于 React 的现代化管理平台，提供用户认证、数据可视化与自动化工具集成。采用 TypeScript + Vite 技术栈，支持响应式设计与模块化开发，适用于企业级 SaaS 应用的前端解决方案。
@@ -1039,7 +1039,7 @@
 ## AkkoSpace/eat-what
 
 > [!info]
-> ⭐ 309 · TypeScript · 2026-08-26T05:04:54Z  
+> ⭐ 310 · TypeScript · 2026-08-29T02:11:39Z  
 > [GitHub](https://github.com/AkkoSpace/eat-what)  
 > `#Next.js` `#美食推荐` `#选择困难症解决方案` 
 > 基于Next.js的智能美食推荐应用，通过随机推荐和CS风格开箱动画解决用户'吃什么'的选择困难症。支持菜品饮品推荐、黑名单管理、用户评分及游客模式，集成Prisma数据库与Cloudflare部署方案，提供管理员审核与数据统计功能。
@@ -1176,7 +1176,7 @@
 ## streetartist/scrawl
 
 > [!info]
-> ⭐ 312 · Python · 2026-08-27T16:31:25Z  
+> ⭐ 313 · Python · 2026-08-29T13:44:46Z  
 > [GitHub](https://github.com/streetartist/scrawl)  
 > `#Python` `#可视化编程` `#游戏引擎` 
 > Scrawl 是一个基于 Pygame 的类 Scratch 游戏引擎，提供可视化 IDE 和 AI 编程助手，支持拖拽式开发、物理引擎、广播通信及协程任务系统，适合快速原型开发和教育场景。
@@ -1374,7 +1374,7 @@
 ## tbphp/gpt-load
 
 > [!info]
-> ⭐ 6,289 · Go · 2026-08-28T11:54:19Z  
+> ⭐ 6,287 · Go · 2026-08-29T12:15:14Z  
 > [GitHub](https://github.com/tbphp/gpt-load) · [Website](https://www.gpt-load.com)  
 > `#AI智能代理` `#API网关` `#密钥管理` `#负载均衡` `#anthropic` `#claude` `#gemini` `#gin` `#go` `#golang` `#openai` 
 > GPT-Load 是一个高性能企业级 AI API 透明代理服务，专为需要集成多 AI 服务的开发者和企业设计。基于 Go 构建，具备智能密钥轮询、负载均衡、故障自动恢复、动态配置热重载等特性，支持 OpenAI、Google Gemini、Anthropic Claude 等多种 AI 服务格式，提供完整的监控和管理界面。
@@ -1474,7 +1474,7 @@
 ## FLC-ytfl/Traffic_sign_object_detection--Using-the-Huawei-Ascend--
 
 > [!info]
-> ⭐ 70 · Python · 2026-08-04T15:20:53Z  
+> ⭐ 69 · Python · 2026-08-29T02:19:54Z  
 > [GitHub](https://github.com/FLC-ytfl/Traffic_sign_object_detection--Using-the-Huawei-Ascend--)  
 > `#AI大模型` `#YOLOv8` `#昇腾NPU部署` 
 > 本项目基于改进版 YOLOv8，集成自研注意力机制与特征融合模块（如 DCCAttention、LGAFB），显著提升交通标志检测精度。支持华为昇腾 Ascend 310/310B4 NPU 部署，提供完整 PyTorch→ONNX→OM 模型转换流程，并配备多通道低照度数据增强技术，增强模型在复杂环境下的鲁棒性。
@@ -1629,7 +1629,7 @@
 ## ling-drag0n/CloudPaste
 
 > [!info]
-> ⭐ 2,623 · JavaScript · 2026-08-28T14:00:53Z  
+> ⭐ 2,623 · JavaScript · 2026-08-29T09:30:58Z  
 > [GitHub](https://github.com/ling-drag0n/CloudPaste) · [Website](https://doc.cloudpaste.qzz.io)  
 > `#多存储聚合` `#文件管理` `#无服务器架构` `#cloudflare` `#cloudflare-workers` `#docker` `#file-browser` `#huggingface` `#markdown` `#onedrive` `#s3` `#telegram` `#telegrambot` `#webdav` 
 > CloudPaste 是一个基于 Cloudflare Workers 的无服务器文件管理与文本分享工具，支持多存储聚合（S3、WebDAV、OneDrive、Google Drive 等），提供 30+ 文件格式在线预览及 WebDAV 挂载功能。内置 Markdown 编辑器，支持实时预览与导出，兼容 Docker 部署，适用于个人或企业轻量化云盘场景。
@@ -1639,7 +1639,7 @@
 ## lbjxr/domain-check-new
 
 > [!info]
-> ⭐ 399 · JavaScript · 2026-08-27T03:56:29Z  
+> ⭐ 400 · JavaScript · 2026-08-29T05:44:26Z  
 > [GitHub](https://github.com/lbjxr/domain-check-new)  
 > `#Cloudflare Workers` `#域名管理` `#自动化通知` 
 > 基于Cloudflare Workers构建的域名可视化监控面板，支持域名状态、注册商、到期时间等信息的直观展示，集成TG机器人推送提醒功能。通过KV存储实现密码登录与数据持久化，新增排序、备注字段及Bing每日背景图优化，提供安全的个人域名管理工具。
@@ -1793,7 +1793,7 @@
 ## Dainoar/SuperAutoStudy
 
 > [!info]
-> ⭐ 636 · Java · 2026-08-28T15:52:35Z  
+> ⭐ 637 · Java · 2026-08-29T03:38:02Z  
 > [GitHub](https://github.com/Dainoar/SuperAutoStudy)  
 > `#AI智能答题` `#SpringBoot微服务` `#教育自动化` `#java` `#llm` `#springboot` 
 > SuperAutoStudy 是基于 Spring Boot + Dubbo + RabbitMQ 的分布式超星学习通自动化刷课平台，支持多级倍速播放、断点续学和智能答题。集成百万级 Super 题库与大模型技术，具备高并发任务调度能力，提供 Docker 一键部署方案，适用于个人自部署与二次开发。

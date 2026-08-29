@@ -1,6 +1,6 @@
 # ⭐ GitHub Stars Index
 
-> Updated: 2026-08-28 20:08 UTC · Total: 179
+> Updated: 2026-08-29 13:46 UTC · Total: 179
 
 ---
 
@@ -288,7 +288,7 @@
 ## ltjed/freephdlabor
 
 > [!info]
-> ⭐ 620 · Python · 2026-08-28T07:36:03Z  
+> ⭐ 623 · Python · 2026-08-29T13:15:44Z  
 > [GitHub](https://github.com/ltjed/freephdlabor) · [Website](https://freephdlabor.github.io/)  
 > `#AI Agents` `#Automated Research` `#Multiagent Systems` `#Scientific Research` `#ai-agents` `#ai4science` `#autonomous-agents` `#multiagent-systems` `#research-automation` 
 > freephdlabor is an open-source multiagent framework automating the full scientific research lifecycle—from hypothesis generation to experimentation and publication-ready manuscripts. It supports out-of-the-box use or domain-specific customization, featuring dynamic workflows, human-in-the-loop feedback, and continual research capabilities across fields like materials science and biology.
@@ -348,7 +348,7 @@
 ## Chevey339/kelivo
 
 > [!info]
-> ⭐ 3,785 · Dart · 2026-08-28T19:48:09Z  
+> ⭐ 3,798 · Dart · 2026-08-29T13:09:01Z  
 > [GitHub](https://github.com/Chevey339/kelivo) · [Website](https://kelivo.psycheas.top)  
 > `#AI 智能体` `#Cross-Platform` `#Flutter` `#ai` `#android` `#chatbot` `#chatbox` `#flutter` `#flutter-apps` `#harmony` `#harmonyos` `#ios` `#llm` `#openharmony` 
 > Kelivo is a cross-platform LLM chat client built with Flutter, supporting mobile (Android/iOS/Harmony) and desktop (Windows/macOS/Linux). It features modern Material You design, multi-language support, integration with major AI providers, MCP tools, web search, TTS, Markdown rendering, and custom fonts for an intelligent conversational experience.
@@ -358,7 +358,7 @@
 ## DigitalPlatDev/FreeDomain
 
 > [!info]
-> ⭐ 196,193 · Markdown · 2026-08-28T19:54:39Z  
+> ⭐ 196,315 · Markdown · 2026-08-29T13:44:58Z  
 > [GitHub](https://github.com/DigitalPlatDev/FreeDomain) · [Website](https://domain.digitalplat.org)  
 > `#Digital Identity` `#Domain Service` `#Free Domain` `#digitalplat` `#dns` `#dns-tutorial` `#documentation` `#domain` `#domain-platform` `#domain-registration` `#domainname` `#domains` `#education` `#free` `#free-domain` `#freedomain` `#internet-infrastructure` `#nameserver` 
 > DigitalPlat FreeDomain offers free domain registration for individuals and organizations with exclusive extensions like .DPDNS.ORG and .US.KG. Built and maintained by Edward Hsing, founder of DigitalPlat Foundation, it integrates seamlessly with popular DNS providers such as Cloudflare. With over 400,000 domains registered, it empowers users to establish a digital presence at zero cost, promoting open access to the web.
@@ -388,7 +388,7 @@
 ## 4pwn/NXJS-ARCH
 
 > [!info]
-> ⭐ 383 · JavaScript · 2026-08-28T04:03:36Z  
+> ⭐ 382 · JavaScript · 2026-08-29T07:17:12Z  
 > [GitHub](https://github.com/4pwn/NXJS-ARCH)  
 > `#architecture` `#docs` `#next-auth` 
 > 暂无描述。
@@ -456,7 +456,7 @@
 ## AIR-hl/llm-interview-code
 
 > [!info]
-> ⭐ 582 · Jupyter Notebook · 2026-08-28T19:51:38Z  
+> ⭐ 584 · Jupyter Notebook · 2026-08-29T11:28:47Z  
 > [GitHub](https://github.com/AIR-hl/llm-interview-code)  
 > `#AI Large Models` `#Interview Preparation` `#深度学习` `#ai` `#interview` `#llm` `#lm` 
 > This repository provides a comprehensive collection of hand-written code implementations for common LLM interview topics, including attention mechanisms (MHA/GQA), model components (RoPE/LoRA), normalization layers, and advanced training losses (DPO/GRPO). Ideal for mastering core deep learning concepts and acing technical interviews in large language models.
@@ -719,7 +719,7 @@
 ## hangwin/mcp-chrome
 
 > [!info]
-> ⭐ 12,357 · TypeScript · 2026-08-28T14:06:07Z  
+> ⭐ 12,359 · TypeScript · 2026-08-29T10:47:03Z  
 > [GitHub](https://github.com/hangwin/mcp-chrome)  
 > `#AI 智能体` `#Browser Automation` `#Semantic Search` 
 > Chrome MCP Server is a Chrome extension-based Model Context Protocol (MCP) server that exposes browser functionality to AI assistants like Claude, enabling complex automation, content analysis, and semantic search. It leverages your existing Chrome browser with preserved login states and settings, supports 20+ tools, offers local streamable HTTP communication, and features SIMD-accelerated vector database for intelligent tab content discovery.
@@ -749,7 +749,7 @@
 ## MoezBenHassen/Elkindy-Frontend-ENIGMA
 
 > [!info]
-> ⭐ 309 · N/A · 2026-08-26T09:47:26Z  
+> ⭐ 310 · N/A · 2026-08-29T08:53:46Z  
 > [GitHub](https://github.com/MoezBenHassen/Elkindy-Frontend-ENIGMA)  
 > `#AI Integration` `#EdTech` `#Fullstack Development` 
 > El Kindy is a fullstack JavaScript project built with Next.js, Express.js, and MongoDB, integrating AI/ML technologies like PyTorch and Flask. It supports cloud deployment on Azure and CI/CD via Jenkins, targeting educational technology solutions with modern frontend and intelligent backend services.
@@ -807,7 +807,7 @@
 ## IonRh/Cloudflare-BestIP
 
 > [!info]
-> ⭐ 480 · JavaScript · 2026-08-26T12:37:00Z  
+> ⭐ 481 · JavaScript · 2026-08-29T11:33:27Z  
 > [GitHub](https://github.com/IonRh/Cloudflare-BestIP)  
 > `#DNS Automation` `#IP Selection` `#Network Optimization` 
 > Cloudflare BestIP is a high-performance IP optimization automation tool built with Go, integrating the XIU2/CloudflareSpeedTest speed test engine. It supports dual-stack IPv4/IPv6 selection and automatic DNS updates across major providers (Cloudflare, Aliyun, DNSPod, HUAWEI Cloud), featuring health monitoring, web dashboard via Cloudflare Workers KV, and Telegram notifications.
@@ -844,7 +844,7 @@
 ## JiayuXu0/FastAPI-Template
 
 > [!info]
-> ⭐ 517 · Python · 2026-08-28T06:47:53Z  
+> ⭐ 518 · Python · 2026-08-29T02:44:43Z  
 > [GitHub](https://github.com/JiayuXu0/FastAPI-Template) · [Website](https://jiayuxu0.github.io/FastAPI-Template/)  
 > `#Backend Development` `#Enterprise Application` `#FastAPI` `#api` `#async` `#authentication` `#boilerplate` `#database` `#fastapi` `#openapi` `#pydantic` `#python` `#starlette` `#swagger` `#template` `#uvicorn` 
 > Production-ready FastAPI backend template featuring clean three-layer architecture with JWT authentication, RBAC authorization, Redis caching, and async database operations. Includes complete modules for user management, file handling, department organization, Docker deployment, and automated database migrations - ready for team development.
@@ -923,7 +923,7 @@
 ## zhugezifang/Awesome-xiaohongshu-download-Tools
 
 > [!info]
-> ⭐ 282 · N/A · 2026-08-25T16:40:39Z  
+> ⭐ 283 · N/A · 2026-08-29T02:16:02Z  
 > [GitHub](https://github.com/zhugezifang/Awesome-xiaohongshu-download-Tools) · [Website](https://www.xhs-download.org/zh)  
 > `#Social Media Tools` `#Watermark Removal` `#网页爬虫` `#xiaohongshu` `#xiaohongshu-api` `#xiaohongshu-crawler` `#xiaohongshu-downloader` `#xiaohongshu-scraper` 
 > This guide presents 6 free tools for downloading watermark-free images and videos from Xiaohongshu (RedNote) in 2026. All are web-based, supporting direct extraction from shared links with no app installation required. Emphasis is placed on ease of use, high-quality output, and compliance with platform policies.
@@ -1011,7 +1011,7 @@
 ## hedwa/platform-frontend
 
 > [!info]
-> ⭐ 280 · Vue · 2026-08-21T20:29:41Z  
+> ⭐ 281 · Vue · 2026-08-29T03:16:47Z  
 > [GitHub](https://github.com/hedwa/platform-frontend)  
 > `#Enterprise Management` `#React TypeScript` `#SaaS Frontend` 
 > Goopper Frontend is a modern management platform built with React, featuring user authentication, data visualization, and automation tool integration. Powered by TypeScript and Vite, it offers responsive design and modular architecture for enterprise SaaS applications.
@@ -1039,7 +1039,7 @@
 ## AkkoSpace/eat-what
 
 > [!info]
-> ⭐ 309 · TypeScript · 2026-08-26T05:04:54Z  
+> ⭐ 310 · TypeScript · 2026-08-29T02:11:39Z  
 > [GitHub](https://github.com/AkkoSpace/eat-what)  
 > `#Decision-Making Tool` `#Food Recommendation` `#Next.js` 
 > A Next.js-based food recommendation app that solves the 'what to eat' dilemma with random suggestions and CS-style unboxing animations. Features dish/drink recommendations, blacklist management, user ratings, and guest mode, using Prisma ORM and Cloudflare deployment with admin moderation and analytics.
@@ -1176,7 +1176,7 @@
 ## streetartist/scrawl
 
 > [!info]
-> ⭐ 312 · Python · 2026-08-27T16:31:25Z  
+> ⭐ 313 · Python · 2026-08-29T13:44:46Z  
 > [GitHub](https://github.com/streetartist/scrawl)  
 > `#Game Engine` `#Python` `#Visual Programming` 
 > Scrawl is a Pygame-based game engine inspired by Scratch, featuring a visual IDE with drag-and-drop editing, AI programming assistant, physics integration, broadcast messaging, and coroutine tasks for intuitive game development.
@@ -1374,7 +1374,7 @@
 ## tbphp/gpt-load
 
 > [!info]
-> ⭐ 6,289 · Go · 2026-08-28T11:54:19Z  
+> ⭐ 6,287 · Go · 2026-08-29T12:15:14Z  
 > [GitHub](https://github.com/tbphp/gpt-load) · [Website](https://www.gpt-load.com)  
 > `#AI Proxy` `#API Gateway` `#Key Management` `#Load Balancing` `#anthropic` `#claude` `#gemini` `#gin` `#go` `#golang` `#openai` 
 > GPT-Load is a high-performance, enterprise-grade transparent proxy service for AI APIs, designed for developers and enterprises integrating multiple AI services. Built with Go, it features intelligent key rotation, load balancing, automatic failure recovery, hot-reload configuration, and comprehensive monitoring. Supports OpenAI, Google Gemini, and Anthropic Claude APIs with a Vue 3 management interface.
@@ -1474,7 +1474,7 @@
 ## FLC-ytfl/Traffic_sign_object_detection--Using-the-Huawei-Ascend--
 
 > [!info]
-> ⭐ 70 · Python · 2026-08-04T15:20:53Z  
+> ⭐ 69 · Python · 2026-08-29T02:19:54Z  
 > [GitHub](https://github.com/FLC-ytfl/Traffic_sign_object_detection--Using-the-Huawei-Ascend--)  
 > `#AI Large Model` `#Ascend NPU Deployment` `#YOLOv8` 
 > This project implements traffic sign object detection using an enhanced YOLOv8 model with custom modules like DCCAttention and LGAFB for improved accuracy. It supports efficient deployment on Huawei Ascend 310/310B4 NPU via a full PyTorch→ONNX→OM conversion pipeline, alongside advanced data augmentation techniques including low-light simulation and noise injection to boost robustness in challenging environments.
@@ -1629,7 +1629,7 @@
 ## ling-drag0n/CloudPaste
 
 > [!info]
-> ⭐ 2,623 · JavaScript · 2026-08-28T14:00:53Z  
+> ⭐ 2,623 · JavaScript · 2026-08-29T09:30:58Z  
 > [GitHub](https://github.com/ling-drag0n/CloudPaste) · [Website](https://doc.cloudpaste.qzz.io)  
 > `#File Management` `#Multi-Storage Integration` `#Serverless Architecture` `#cloudflare` `#cloudflare-workers` `#docker` `#file-browser` `#huggingface` `#markdown` `#onedrive` `#s3` `#telegram` `#telegrambot` `#webdav` 
 > CloudPaste is a serverless file management and text sharing tool built on Cloudflare Workers, supporting multi-storage aggregation (S3, WebDAV, OneDrive, Google Drive, etc.), online preview for 30+ file formats, and WebDAV mounting. It features an integrated Markdown editor with real-time preview and export to PDF/HTML, deployable via Docker or Cloudflare Workers.
@@ -1639,7 +1639,7 @@
 ## lbjxr/domain-check-new
 
 > [!info]
-> ⭐ 399 · JavaScript · 2026-08-27T03:56:29Z  
+> ⭐ 400 · JavaScript · 2026-08-29T05:44:26Z  
 > [GitHub](https://github.com/lbjxr/domain-check-new)  
 > `#Automated Notifications` `#Cloudflare Workers` `#Domain Management` 
 > A concise and efficient domain monitoring dashboard built on Cloudflare Workers, offering an intuitive interface to view domain status, registrar, registration/expiration dates, and usage progress. Features TG bot notifications, password-protected access via KV storage, sorting, notes, and Bing daily backgrounds for secure personal domain management.
@@ -1793,7 +1793,7 @@
 ## Dainoar/SuperAutoStudy
 
 > [!info]
-> ⭐ 636 · Java · 2026-08-28T15:52:35Z  
+> ⭐ 637 · Java · 2026-08-29T03:38:02Z  
 > [GitHub](https://github.com/Dainoar/SuperAutoStudy)  
 > `#AI-Powered Q&A` `#Education Automation` `#SpringBoot Microservices` `#java` `#llm` `#springboot` 
 > SuperAutoStudy is an open-source, self-deployable automation platform for Chaoxing Learning Platform, built on Spring Boot + Dubbo + RabbitMQ. It supports multi-speed video playback, auto-answering via a million-level Super Q&A database and AI models, with distributed task scheduling and Redis caching. Features Docker Compose deployment for ARM/x86.
