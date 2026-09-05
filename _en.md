@@ -1,6 +1,6 @@
 # ⭐ GitHub Stars Index
 
-> Updated: 2026-09-04 12:38 UTC · Total: 177
+> Updated: 2026-09-05 11:46 UTC · Total: 178
 
 ---
 
@@ -139,6 +139,7 @@
 - [[#pixelsdb/pixels|pixelsdb/pixels]]
 - [[#wff0325/Domain-Manager|wff0325/Domain-Manager]]
 - [[#caidesi/clone-voice|caidesi/clone-voice]]
+- [[#superorange0707/Fuzzy_Diabetes|superorange0707/Fuzzy_Diabetes]]
 - [[#lsk90/sing-box-yg|lsk90/sing-box-yg]]
 - [[#William-Liwei/EnergyPatchTST|William-Liwei/EnergyPatchTST]]
 - [[#wb-hwang/AINovelLab|wb-hwang/AINovelLab]]
@@ -286,7 +287,7 @@
 ## ltjed/freephdlabor
 
 > [!info]
-> ⭐ 713 · Python · 2026-09-03T18:29:05Z  
+> ⭐ 715 · Python · 2026-09-05T01:55:32Z  
 > [GitHub](https://github.com/ltjed/freephdlabor) · [Website](https://freephdlabor.github.io/)  
 > `#AI Agents` `#Automated Research` `#Multiagent Systems` `#Scientific Research` `#ai-agents` `#ai4science` `#autonomous-agents` `#multiagent-systems` `#research-automation` 
 > freephdlabor is an open-source multiagent framework automating the full scientific research lifecycle—from hypothesis generation to experimentation and publication-ready manuscripts. It supports out-of-the-box use or domain-specific customization, featuring dynamic workflows, human-in-the-loop feedback, and continual research capabilities across fields like materials science and biology.
@@ -346,7 +347,7 @@
 ## Chevey339/kelivo
 
 > [!info]
-> ⭐ 3,852 · Dart · 2026-09-04T12:34:27Z  
+> ⭐ 3,855 · Dart · 2026-09-05T11:41:59Z  
 > [GitHub](https://github.com/Chevey339/kelivo) · [Website](https://kelivo.psycheas.top)  
 > `#AI 智能体` `#Cross-Platform` `#Flutter` `#ai` `#android` `#chatbot` `#chatbox` `#flutter` `#flutter-apps` `#harmony` `#harmonyos` `#ios` `#llm` `#openharmony` 
 > Kelivo is a cross-platform LLM chat client built with Flutter, supporting mobile (Android/iOS/Harmony) and desktop (Windows/macOS/Linux). It features modern Material You design, multi-language support, integration with major AI providers, MCP tools, web search, TTS, Markdown rendering, and custom fonts for an intelligent conversational experience.
@@ -356,7 +357,7 @@
 ## DigitalPlatDev/FreeDomain
 
 > [!info]
-> ⭐ 197,522 · Markdown · 2026-09-04T12:38:20Z  
+> ⭐ 197,669 · Markdown · 2026-09-05T11:46:07Z  
 > [GitHub](https://github.com/DigitalPlatDev/FreeDomain) · [Website](https://domain.digitalplat.org)  
 > `#Digital Identity` `#Domain Service` `#Free Domain` `#digitalplat` `#dns` `#dns-tutorial` `#documentation` `#domain` `#domain-platform` `#domain-registration` `#domainname` `#domains` `#education` `#free` `#free-domain` `#freedomain` `#internet-infrastructure` `#nameserver` 
 > DigitalPlat FreeDomain offers free domain registration for individuals and organizations with exclusive extensions like .DPDNS.ORG and .US.KG. Built and maintained by Edward Hsing, founder of DigitalPlat Foundation, it integrates seamlessly with popular DNS providers such as Cloudflare. With over 400,000 domains registered, it empowers users to establish a digital presence at zero cost, promoting open access to the web.
@@ -454,7 +455,7 @@
 ## AIR-hl/llm-interview-code
 
 > [!info]
-> ⭐ 596 · Jupyter Notebook · 2026-09-04T11:43:28Z  
+> ⭐ 602 · Jupyter Notebook · 2026-09-05T10:23:02Z  
 > [GitHub](https://github.com/AIR-hl/llm-interview-code)  
 > `#AI Large Models` `#Interview Preparation` `#深度学习` `#ai` `#interview` `#llm` `#lm` 
 > This repository provides a comprehensive collection of hand-written code implementations for common LLM interview topics, including attention mechanisms (MHA/GQA), model components (RoPE/LoRA), normalization layers, and advanced training losses (DPO/GRPO). Ideal for mastering core deep learning concepts and acing technical interviews in large language models.
@@ -502,7 +503,7 @@
 ## XiangyuFan17/p6s
 
 > [!info]
-> ⭐ 256 · Go · 2026-09-03T19:40:33Z  
+> ⭐ 257 · Go · 2026-09-04T16:41:11Z  
 > [GitHub](https://github.com/XiangyuFan17/p6s)  
 > `#Database Operations` `#Kubernetes Integration` `#Terminal Tool` `#golang` `#kubernetes` `#postgresql` `#terminal` 
 > p6s is a terminal-based PostgreSQL management tool built in Go, featuring an intuitive TUI for managing and monitoring PostgreSQL instances. It enables seamless access to databases deployed anywhere—especially in Kubernetes clusters—with auto-discovery, secret integration, connection filtering, and direct SQL execution capabilities.
@@ -717,7 +718,7 @@
 ## hangwin/mcp-chrome
 
 > [!info]
-> ⭐ 12,385 · TypeScript · 2026-09-04T12:10:38Z  
+> ⭐ 12,388 · TypeScript · 2026-09-05T09:50:16Z  
 > [GitHub](https://github.com/hangwin/mcp-chrome)  
 > `#AI 智能体` `#Browser Automation` `#Semantic Search` 
 > Chrome MCP Server is a Chrome extension-based Model Context Protocol (MCP) server that exposes browser functionality to AI assistants like Claude, enabling complex automation, content analysis, and semantic search. It leverages your existing Chrome browser with preserved login states and settings, supports 20+ tools, offers local streamable HTTP communication, and features SIMD-accelerated vector database for intelligent tab content discovery.
@@ -737,7 +738,7 @@
 ## talex-touch/tuff
 
 > [!info]
-> ⭐ 284 · TypeScript · 2026-09-04T10:20:57Z  
+> ⭐ 284 · TypeScript · 2026-09-05T11:12:12Z  
 > [GitHub](https://github.com/talex-touch/tuff) · [Website](https://tuff.tagzxia.com)  
 > `#AI Large Model` `#Command Center` `#Plugin System` `#桌面应用` `#bar` `#command` `#electron` `#launcher` `#raycast` `#tools` `#typescript` `#utools` `#vite` `#vue` 
 > Tuff is a local-first, AI-native desktop command center built on a sandboxed architecture. It enables fast app/file search, plugin extensibility, clipboard management, and direct preview calculations. Supports BYO LLM for privacy and offers a unified download center with progress tracking.
@@ -833,7 +834,7 @@
 ## cokice/japanese-analyzer
 
 > [!info]
-> ⭐ 797 · TypeScript · 2026-09-03T17:43:49Z  
+> ⭐ 798 · TypeScript · 2026-09-04T14:34:53Z  
 > [GitHub](https://github.com/cokice/japanese-analyzer) · [Website](https://nihongodemo.howen.ink/)  
 > `#AI LLM` `#Japanese Learning` `#Web Application` 
 > AI-powered Japanese sentence analyzer using Gemini Flash model, designed for Chinese learners. Features intelligent syntax parsing, OCR text extraction, TTS pronunciation, bilingual translation, dark mode, and customizable API key deployment with password protection.
@@ -852,7 +853,7 @@
 ## ohosvscode/arkTS
 
 > [!info]
-> ⭐ 873 · TypeScript · 2026-09-03T05:35:57Z  
+> ⭐ 874 · TypeScript · 2026-09-05T01:15:02Z  
 > [GitHub](https://github.com/ohosvscode/arkTS) · [Website](https://marketplace.visualstudio.com/items?itemName=NailyZero.vscode-naily-ets)  
 > `#ArkTS Language` `#HarmonyOS Development` `#VSCode Extension` `#arkts` `#development-tools` `#harmony` `#harmonyos` `#harmonyos-next` `#huawei` `#vscode` `#vscode-extensions` 
 > Naily's ArkTS Support is a VSCode extension for HarmonyOS ArkTS development, offering syntax highlighting, intelligent completion, navigation, diagnostics, code formatting (via Rust-based oxk toolchain), OpenHarmony SDK management, DevEco Studio emulator integration, hvigor task execution, and ArkTS-specific snippets to enhance development efficiency.
@@ -882,7 +883,7 @@
 ## msgaxzzz/Milo-discord-fun-bot
 
 > [!info]
-> ⭐ 328 · Python · 2026-09-04T04:09:30Z  
+> ⭐ 329 · Python · 2026-09-04T20:40:17Z  
 > [GitHub](https://github.com/msgaxzzz/Milo-discord-fun-bot) · [Website](https://milo-discord-bot.menice.dev)  
 > `#AI LLM` `#Community Management` `#Discord Bot` `#Self-Hosted` `#discord-bot` `#discord-fun-bot` `#mit-license` `#python` 
 > Milo is an open-source Discord bot built with discord.py, offering AI-assisted community support, lightweight moderation, reminders, and economy systems. It supports per-guild data isolation, customizable chat models, web search integration, and self-hosted deployment for small online communities.
@@ -950,7 +951,7 @@
 ## X1lyS/DeepX
 
 > [!info]
-> ⭐ 105 · Python · 2026-08-05T13:00:10Z  
+> ⭐ 106 · Python · 2026-09-04T15:46:05Z  
 > [GitHub](https://github.com/X1lyS/DeepX)  
 > `#Asset Discovery` `#Red Team Security` `#Subdomain Enumeration` 
 > DeepX is a specialized subdomain discovery tool for SRC and red team scenarios, integrating multiple data sources like OTX, Crt.sh, and Archive.org. It combines FOFA API queries with dictionary brute-force attacks to identify hidden subdomains by comparing results across sources. Features include asynchronous processing, caching, alive detection, and modular design for easy extension, significantly enhancing asset mapping efficiency.
@@ -1154,7 +1155,7 @@
 ## ZHangZHengEric/Sage
 
 > [!info]
-> ⭐ 1,214 · Python · 2026-09-04T11:01:00Z  
+> ⭐ 1,214 · Python · 2026-09-05T04:14:18Z  
 > [GitHub](https://github.com/ZHangZHengEric/Sage) · [Website](https://zhangzhengeric.github.io/Sage/)  
 > `#AI Agents` `#Multi-Agent System` `#Task Orchestration` `#agents` `#ai` `#llm` `#manus` `#muilt-agents` `#workflow` 
 > Sage is a production-ready multi-agent framework enabling complex task orchestration, model capability maximization, and secure sandbox execution. It features a visual workbench, OpenTelemetry tracing, MCP protocol support, and cross-platform desktop apps for intelligent collaboration and automation.
@@ -1252,7 +1253,7 @@
 ## Kylsky/pandora-helper-with-linux-do-oauth
 
 > [!info]
-> ⭐ 644 · Java · 2026-08-28T04:43:51Z  
+> ⭐ 643 · Java · 2026-09-05T10:37:37Z  
 > [GitHub](https://github.com/Kylsky/pandora-helper-with-linux-do-oauth) · [Website](https://wiki.yeelovo.com)  
 > `#AI 智能体` `#Linux DO` `#Shared Platform` 
 > Pandora Helper is an open-source shared platform built on Linux DO OAuth2, supporting unified management of multiple accounts for ChatGPT, Claude, Midjourney, and API services. It features secure OAuth authentication, automatic token refresh, user-isolated image generation, email notifications, and Docker deployment, ideal for enterprise AI applications and service distribution.
@@ -1282,7 +1283,7 @@
 ## kadidalax/cf-vps-monitor
 
 > [!info]
-> ⭐ 913 · TypeScript · 2026-09-04T10:51:16Z  
+> ⭐ 914 · TypeScript · 2026-09-05T09:11:18Z  
 > [GitHub](https://github.com/kadidalax/cf-vps-monitor)  
 > `#Cloudflare Worker` `#DevOps Automation` `#Server Monitoring` 
 > A lightweight VPS probe and website monitoring panel built on Cloudflare Workers and D1 database, deployable without a dedicated server. It enables real-time server status collection, website uptime checks, responsive UI, admin dashboard, Telegram alerts, and customizable themes.
@@ -1352,7 +1353,7 @@
 ## fish2018/GoComicMosaic
 
 > [!info]
-> ⭐ 492 · Vue · 2026-08-16T11:16:16Z  
+> ⭐ 493 · Vue · 2026-09-04T13:19:13Z  
 > [GitHub](https://github.com/fish2018/GoComicMosaic)  
 > `#Cloud Drive Search` `#Community Collaboration` `#Streaming Platform` 
 > GoComicMosaic is an open-source collaborative platform for building and sharing anime/movie resources. It enables users to submit content, integrates cloud drive search, episode management, online streaming with custom crawler support, and offers one-click Docker deployment. Admins can approve submissions and manage metadata via a built-in backend with TMDB integration.
@@ -1362,7 +1363,7 @@
 ## tbphp/gpt-load
 
 > [!info]
-> ⭐ 6,546 · Go · 2026-09-04T12:09:45Z  
+> ⭐ 6,551 · Go · 2026-09-05T10:32:05Z  
 > [GitHub](https://github.com/tbphp/gpt-load) · [Website](https://www.gpt-load.com)  
 > `#AI Proxy` `#API Gateway` `#Key Management` `#Load Balancing` `#ai-gateway` `#anthropic` `#api-gateway` `#claude` `#claude-code` `#codex` `#gemini` `#gin` `#go` `#golang` `#llm` `#llm-gateway` `#load-balancer` `#openai` `#self-hosted` 
 > GPT-Load is a high-performance, enterprise-grade transparent proxy service for AI APIs, designed for developers and enterprises integrating multiple AI services. Built with Go, it features intelligent key rotation, load balancing, automatic failure recovery, hot-reload configuration, and comprehensive monitoring. Supports OpenAI, Google Gemini, and Anthropic Claude APIs with a Vue 3 management interface.
@@ -1382,7 +1383,7 @@
 ## Shengxiang-Lin/COMPSCI-168
 
 > [!info]
-> ⭐ 40 · Python · 2026-01-30T09:02:35Z  
+> ⭐ 40 · Python · 2026-09-05T08:49:08Z  
 > [GitHub](https://github.com/Shengxiang-Lin/COMPSCI-168) · [Website](https://fa24.cs168.io/)  
 > `#Computer Networks` `#Internet Architecture` `#Protocol Design` `#computer-network` 
 > This repository contains course materials for UCB CS 168 'Introduction to the Internet: Architecture and Protocols', covering core topics like network fundamentals, routing algorithms, transport protocols, and security. It includes lecture notes, programming assignments, and lab guides for comprehensive learning of modern internet technologies.
@@ -1392,7 +1393,7 @@
 ## Shengxiang-Lin/COMPSCI-61C
 
 > [!info]
-> ⭐ 55 · Roff · 2026-05-22T11:47:33Z  
+> ⭐ 55 · Roff · 2026-09-05T08:49:05Z  
 > [GitHub](https://github.com/Shengxiang-Lin/COMPSCI-61C) · [Website](https://inst.eecs.berkeley.edu/~cs61c/fa24/)  
 > `#Computer Architecture` `#MIPS Assembly` `#Systems Programming` `#computer-architecture` 
 > Repository for UCB's COMPSCI-61C, covering core concepts of computer architecture and machine structures. Includes MIPS assembly, pipelining, caching, memory hierarchy, with labs and lectures for deep understanding of low-level system design.
@@ -1452,7 +1453,7 @@
 ## Shengxiang-Lin/ParticleFlow-Lite
 
 > [!info]
-> ⭐ 16 · C++ · 2026-02-25T12:27:06Z  
+> ⭐ 16 · C++ · 2026-09-05T08:49:07Z  
 > [GitHub](https://github.com/Shengxiang-Lin/ParticleFlow-Lite) · [Website](https://arxiv.org/abs/2410.07250)  
 > `#Image Processing` `#Particle Tracking` `#深度学习` `#deep-learning` `#particle-physics` 
 > This repository contains the official implementation of ParticleFlow-Lite, a lightweight deep learning framework designed for accurate particle flow analysis. It focuses on image-based particle tracking and motion analysis using deep learning to enhance detection accuracy and efficiency, suitable for scientific computing and biomedical imaging applications.
@@ -1472,7 +1473,7 @@
 ## pixelsdb/pixels
 
 > [!info]
-> ⭐ 919 · Java · 2026-09-04T09:57:35Z  
+> ⭐ 919 · Java · 2026-09-04T14:31:23Z  
 > [GitHub](https://github.com/pixelsdb/pixels)  
 > `#Analytics Engine` `#Columnar Format` `#Data Storage` `#cloud-database` `#column-store` `#data-lake` `#data-warehouse` `#database` `#olap` 
 > Pixels is a columnar storage engine optimized for data lakes and warehouses, supporting S3, GCS, HDFS, and other cloud-native or on-premises storage systems. It outperforms Parquet by up to two orders of magnitude and integrates with DuckDB, Trino, StarRocks, and Hive. Pixels-Turbo, its MPP query engine, leverages autoscaling clusters and serverless functions (e.g., AWS Lambda) for high performance and cost-efficiency in continuous and bursty workloads.
@@ -1496,6 +1497,16 @@
 > `#AI Large Model` `#TTS Synthesis` `#Web Application` 
 > CV Voice Cloning Tool is a web-based voice cloning application built on Coqui TTS models. It enables users to clone voices using recordings of 5-20 seconds in 16 languages (Chinese, English, Japanese, Korean, French, German, Italian, etc.). The precompiled version runs instantly via app.exe with no GPU required, while source deployment requires global proxy access for model downloads from Hugging Face. CUDA acceleration is supported for NVIDIA GPUs to enhance performance.
 > <sub>一个带web界面的声音克隆工具，使用你的音色或任意声音来录制音频</sub>
+
+---
+## superorange0707/Fuzzy_Diabetes
+
+> [!info]
+> ⭐ 110 · Jupyter Notebook · 2026-09-04T16:57:23Z  
+> [GitHub](https://github.com/superorange0707/Fuzzy_Diabetes)  
+> `#AI 智能体` `#Health Prediction` `#机器学习` 
+> Fuzzy Diabetes is an intelligent diabetes risk prediction tool based on fuzzy logic, integrating KNN, SVM, Random Forest, and ANFIS models. It takes four key health metrics from users to deliver real-time risk assessment with interactive visualizations, batch processing, and CSV export, serving as a research-backed medical decision support system.
+> <sub>End-to-end diabetes risk prediction with KNN, SVM, RF, and ANFIS. Full pipeline, model export, visual reports, and an AI-powered risk assessment tool.</sub>
 
 ---
 ## lsk90/sing-box-yg
@@ -1531,7 +1542,7 @@
 ## drl990114/MarkFlowy
 
 > [!info]
-> ⭐ 2,374 · TypeScript · 2026-09-04T10:41:59Z  
+> ⭐ 2,376 · TypeScript · 2026-09-05T02:34:10Z  
 > [GitHub](https://github.com/drl990114/MarkFlowy) · [Website](https://www.markflowy.cc)  
 > `#AI 智能体` `#Markdown Editor` `#桌面应用` `#ai` `#chatgpt` `#deepseek` `#editor` `#linux-app` `#macos-app` `#markdown` `#markdowneditor` `#notes-app` `#prosemirror` `#reactjs` `#rust-lang` `#tauri` `#typescript` `#windows-app` 
 > MarkFlowy is a modern, intelligent Markdown editor built with Tauri for lightweight performance (<20MB). It features integrated AI (Copilot, translation, summarization), multi-mode editing (source/WYSIWYG), Prosemirror core, custom themes, and cross-platform support. Designed for efficient writing, document management, and content creation.
@@ -1570,7 +1581,7 @@
 ## Leelokhan/Simple-personal-static-web-page
 
 > [!info]
-> ⭐ 355 · JavaScript · 2026-08-30T21:11:40Z  
+> ⭐ 356 · JavaScript · 2026-09-04T16:36:44Z  
 > [GitHub](https://github.com/Leelokhan/Simple-personal-static-web-page) · [Website](https://simple-personal-static-web-page.vercel.app)  
 > `#AI Application` `#Frontend Development` `#Personal Website` 
 > This is a personal static web page built with AI, featuring Live2D virtual characters, music/video players, image viewer with WASD controls, and custom mouse effects. It enables easy deployment for personalized homepages, ideal for frontend development practice and exploring AI-powered web interactions.
@@ -1771,7 +1782,7 @@
 ## Dainoar/SuperAutoStudy
 
 > [!info]
-> ⭐ 646 · Java · 2026-09-04T11:32:54Z  
+> ⭐ 648 · Java · 2026-09-05T07:35:44Z  
 > [GitHub](https://github.com/Dainoar/SuperAutoStudy)  
 > `#AI-Powered Q&A` `#Education Automation` `#SpringBoot Microservices` `#java` `#llm` `#springboot` 
 > SuperAutoStudy is an open-source, self-deployable automation platform for Chaoxing Learning Platform, built on Spring Boot + Dubbo + RabbitMQ. It supports multi-speed video playback, auto-answering via a million-level Super Q&A database and AI models, with distributed task scheduling and Redis caching. Features Docker Compose deployment for ARM/x86.

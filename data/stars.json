@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-04 12:38 UTC",
+  "last_updated": "2026-09-05 11:46 UTC",
   "repos": {
     "waoowaooAI/waoowaoo": {
       "metadata": {
@@ -3097,7 +3097,7 @@
         "name": "gpt-load",
         "owner": "tbphp",
         "description": "Self-hosted AI gateway for multi-channel, multi-credential setups — API keys and subscription accounts, scheduling, failover, request logs and usage. 自托管 AI 网关：多渠道多凭据统一接入，含密钥与订阅账号、调度容错、日志与用量。",
-        "stars": 6546,
+        "stars": 6551,
         "language": "Go",
         "url": "https://github.com/tbphp/gpt-load",
         "homepage": "https://www.gpt-load.com",
@@ -3118,8 +3118,8 @@
           "openai",
           "self-hosted"
         ],
-        "pushed_at": "2026-09-04T11:51:03Z",
-        "updated_at": "2026-09-04T12:09:45Z",
+        "pushed_at": "2026-09-05T10:58:25Z",
+        "updated_at": "2026-09-05T10:32:05Z",
         "starred_at": "2025-06-18T04:14:43Z"
       },
       "summary": {
@@ -4429,13 +4429,13 @@
         "name": "mcp-chrome",
         "owner": "hangwin",
         "description": "Chrome MCP Server is a Chrome extension-based Model Context Protocol (MCP) server that exposes your Chrome browser functionality to AI assistants like Claude, enabling complex browser automation, content analysis, and semantic search.",
-        "stars": 12385,
+        "stars": 12388,
         "language": "TypeScript",
         "url": "https://github.com/hangwin/mcp-chrome",
         "homepage": "",
         "topics": [],
         "pushed_at": "2026-01-06T13:05:39Z",
-        "updated_at": "2026-09-04T12:10:38Z",
+        "updated_at": "2026-09-05T09:50:16Z",
         "starred_at": "2025-08-25T14:40:10Z"
       },
       "summary": {
@@ -31567,7 +31567,7 @@
         "name": "freephdlabor",
         "owner": "ltjed",
         "description": "freephdlabor: customizing personalized multiagent systems that researchs 24/7 on your own scientific problem",
-        "stars": 713,
+        "stars": 715,
         "language": "Python",
         "url": "https://github.com/ltjed/freephdlabor",
         "homepage": "https://freephdlabor.github.io/",
@@ -31579,7 +31579,7 @@
           "research-automation"
         ],
         "pushed_at": "2026-09-03T18:28:58Z",
-        "updated_at": "2026-09-03T18:29:05Z",
+        "updated_at": "2026-09-05T01:55:32Z",
         "starred_at": "2025-11-09T08:28:04Z"
       },
       "summary": {
@@ -31797,7 +31797,7 @@
         "name": "kelivo",
         "owner": "Chevey339",
         "description": "A Flutter LLM Chat Client. Support Mobile & Desktop.",
-        "stars": 3852,
+        "stars": 3855,
         "language": "Dart",
         "url": "https://github.com/Chevey339/kelivo",
         "homepage": "https://kelivo.psycheas.top",
@@ -31815,7 +31815,7 @@
           "openharmony"
         ],
         "pushed_at": "2026-09-04T07:57:13Z",
-        "updated_at": "2026-09-04T12:34:27Z",
+        "updated_at": "2026-09-05T11:41:59Z",
         "starred_at": "2025-10-28T08:02:47Z"
       },
       "summary": {
@@ -31841,7 +31841,7 @@
         "name": "FreeDomain",
         "owner": "DigitalPlatDev",
         "description": "Free domain registration and practical DNS learning resources for everyone.",
-        "stars": 197522,
+        "stars": 197669,
         "language": "Markdown",
         "url": "https://github.com/DigitalPlatDev/FreeDomain",
         "homepage": "https://domain.digitalplat.org",
@@ -31863,7 +31863,7 @@
           "nameserver"
         ],
         "pushed_at": "2026-08-12T10:36:46Z",
-        "updated_at": "2026-09-04T12:38:20Z",
+        "updated_at": "2026-09-05T11:46:07Z",
         "starred_at": "2025-10-26T08:03:55Z"
       },
       "summary": {
@@ -32149,7 +32149,7 @@
         "name": "llm-interview-code",
         "owner": "AIR-hl",
         "description": "LLM面试常见手撕合集",
-        "stars": 596,
+        "stars": 602,
         "language": "Jupyter Notebook",
         "url": "https://github.com/AIR-hl/llm-interview-code",
         "homepage": "",
@@ -32160,7 +32160,7 @@
           "lm"
         ],
         "pushed_at": "2026-06-19T14:22:10Z",
-        "updated_at": "2026-09-04T11:43:28Z",
+        "updated_at": "2026-09-05T10:23:02Z",
         "starred_at": "2025-10-02T04:30:36Z"
       },
       "summary": {
@@ -32399,7 +32399,7 @@
         "name": "p6s",
         "owner": "XiangyuFan17",
         "description": "🐘easily access PostgreSQL deployed in any environment, especially within Kubernetes (k8s).",
-        "stars": 256,
+        "stars": 257,
         "language": "Go",
         "url": "https://github.com/XiangyuFan17/p6s",
         "homepage": "",
@@ -32410,7 +32410,7 @@
           "terminal"
         ],
         "pushed_at": "2025-07-24T07:08:28Z",
-        "updated_at": "2026-09-03T19:40:33Z",
+        "updated_at": "2026-09-04T16:41:11Z",
         "starred_at": "2025-09-26T10:51:34Z"
       },
       "summary": {
@@ -33265,8 +33265,8 @@
           "vite",
           "vue"
         ],
-        "pushed_at": "2026-09-04T10:28:43Z",
-        "updated_at": "2026-09-04T10:20:57Z",
+        "pushed_at": "2026-09-05T11:46:11Z",
+        "updated_at": "2026-09-05T11:12:12Z",
         "starred_at": "2025-08-25T03:56:43Z"
       },
       "summary": {
@@ -33577,13 +33577,13 @@
         "name": "japanese-analyzer",
         "owner": "cokice",
         "description": "",
-        "stars": 797,
+        "stars": 798,
         "language": "TypeScript",
         "url": "https://github.com/cokice/japanese-analyzer",
         "homepage": "https://nihongodemo.howen.ink/",
         "topics": [],
         "pushed_at": "2026-09-01T14:39:39Z",
-        "updated_at": "2026-09-03T17:43:49Z",
+        "updated_at": "2026-09-04T14:34:53Z",
         "starred_at": "2025-07-27T04:01:34Z"
       },
       "summary": {
@@ -33609,7 +33609,7 @@
         "name": "arkTS",
         "owner": "ohosvscode",
         "description": "🧩 VSCode鸿蒙ArkTS插件 ✨✍️ 支持各种补全/跳转 ⛺️ 支持codelinter检测代码错误 🎵 VSCode HarmonyOS ArkTS plugin for personal use ✨✍️ supports source code navigation and completion  ⛺️ supports codelinter to detect errors",
-        "stars": 873,
+        "stars": 874,
         "language": "TypeScript",
         "url": "https://github.com/ohosvscode/arkTS",
         "homepage": "https://marketplace.visualstudio.com/items?itemName=NailyZero.vscode-naily-ets",
@@ -33623,8 +33623,8 @@
           "vscode",
           "vscode-extensions"
         ],
-        "pushed_at": "2026-09-04T10:52:08Z",
-        "updated_at": "2026-09-03T05:35:57Z",
+        "pushed_at": "2026-09-04T15:37:28Z",
+        "updated_at": "2026-09-05T01:15:02Z",
         "starred_at": "2025-07-26T17:07:22Z"
       },
       "summary": {
@@ -33728,7 +33728,7 @@
         "name": "Milo-discord-fun-bot",
         "owner": "msgaxzzz",
         "description": "Open-source Discord bot for community operations, support, and lightweight moderation.",
-        "stars": 328,
+        "stars": 329,
         "language": "Python",
         "url": "https://github.com/msgaxzzz/Milo-discord-fun-bot",
         "homepage": "https://milo-discord-bot.menice.dev",
@@ -33739,7 +33739,7 @@
           "python"
         ],
         "pushed_at": "2026-03-20T20:56:10Z",
-        "updated_at": "2026-09-04T04:09:30Z",
+        "updated_at": "2026-09-04T20:40:17Z",
         "starred_at": "2025-07-23T11:52:10Z"
       },
       "summary": {
@@ -34041,13 +34041,13 @@
         "name": "DeepX",
         "owner": "X1lyS",
         "description": "一款SRC、红队场景下，寻找隐藏资产的神器！",
-        "stars": 105,
+        "stars": 106,
         "language": "Python",
         "url": "https://github.com/X1lyS/DeepX",
         "homepage": "",
         "topics": [],
         "pushed_at": "2025-06-20T04:31:12Z",
-        "updated_at": "2026-08-05T13:00:10Z",
+        "updated_at": "2026-09-04T15:46:05Z",
         "starred_at": "2025-07-22T12:44:25Z"
       },
       "summary": {
@@ -34788,8 +34788,8 @@
           "muilt-agents",
           "workflow"
         ],
-        "pushed_at": "2026-09-04T11:00:43Z",
-        "updated_at": "2026-09-04T11:01:00Z",
+        "pushed_at": "2026-09-05T04:14:11Z",
+        "updated_at": "2026-09-05T04:14:18Z",
         "starred_at": "2025-06-20T12:41:29Z"
       },
       "summary": {
@@ -35214,13 +35214,13 @@
         "name": "pandora-helper-with-linux-do-oauth",
         "owner": "Kylsky",
         "description": "支持Linux DO的ChatGPT/Claude/Midjourney/API/Grok 共享平台-后端项目",
-        "stars": 644,
+        "stars": 643,
         "language": "Java",
         "url": "https://github.com/Kylsky/pandora-helper-with-linux-do-oauth",
         "homepage": "https://wiki.yeelovo.com",
         "topics": [],
         "pushed_at": "2025-06-11T07:17:37Z",
-        "updated_at": "2026-08-28T04:43:51Z",
+        "updated_at": "2026-09-05T10:37:37Z",
         "starred_at": "2025-06-19T11:11:22Z"
       },
       "summary": {
@@ -35310,13 +35310,13 @@
         "name": "cf-vps-monitor",
         "owner": "kadidalax",
         "description": "用cloudflare worker搭建的vps探针+网站检测 面板，部署简单，不需要服务器。",
-        "stars": 913,
+        "stars": 914,
         "language": "TypeScript",
         "url": "https://github.com/kadidalax/cf-vps-monitor",
         "homepage": "",
         "topics": [],
         "pushed_at": "2026-08-12T12:45:33Z",
-        "updated_at": "2026-09-04T10:51:16Z",
+        "updated_at": "2026-09-05T09:11:18Z",
         "starred_at": "2025-06-18T16:04:51Z"
       },
       "summary": {
@@ -35489,13 +35489,13 @@
         "name": "GoComicMosaic",
         "owner": "fish2018",
         "description": "一款开源影视资源共建平台，集成网盘搜索、分季分集剧集信息查看、在线点播(支持采集解析和自定义爬虫)等功能。支持Docker一键部署。https://dm.xueximeng.com/ ",
-        "stars": 492,
+        "stars": 493,
         "language": "Vue",
         "url": "https://github.com/fish2018/GoComicMosaic",
         "homepage": "",
         "topics": [],
         "pushed_at": "2025-10-22T11:54:12Z",
-        "updated_at": "2026-08-16T11:16:16Z",
+        "updated_at": "2026-09-04T13:19:13Z",
         "starred_at": "2025-06-18T05:45:05Z"
       },
       "summary": {
@@ -35563,7 +35563,7 @@
           "computer-network"
         ],
         "pushed_at": "2025-02-22T16:06:35Z",
-        "updated_at": "2026-01-30T09:02:35Z",
+        "updated_at": "2026-09-05T08:49:08Z",
         "starred_at": "2025-06-17T21:34:41Z"
       },
       "summary": {
@@ -35597,7 +35597,7 @@
           "computer-architecture"
         ],
         "pushed_at": "2025-02-22T16:17:10Z",
-        "updated_at": "2026-05-22T11:47:33Z",
+        "updated_at": "2026-09-05T08:49:05Z",
         "starred_at": "2025-06-17T15:40:59Z"
       },
       "summary": {
@@ -35764,7 +35764,7 @@
           "particle-physics"
         ],
         "pushed_at": "2025-09-08T05:36:45Z",
-        "updated_at": "2026-02-25T12:27:06Z",
+        "updated_at": "2026-09-05T08:49:07Z",
         "starred_at": "2025-06-14T08:26:56Z"
       },
       "summary": {
@@ -35904,8 +35904,8 @@
           "database",
           "olap"
         ],
-        "pushed_at": "2026-09-04T09:56:32Z",
-        "updated_at": "2026-09-04T09:57:35Z",
+        "pushed_at": "2026-09-05T05:56:56Z",
+        "updated_at": "2026-09-04T14:31:23Z",
         "starred_at": "2025-06-12T18:48:23Z"
       },
       "summary": {
@@ -36033,7 +36033,7 @@
         "homepage": "",
         "topics": [],
         "pushed_at": "2025-05-19T22:32:39Z",
-        "updated_at": "2026-08-16T15:15:48Z",
+        "updated_at": "2026-09-04T16:57:23Z",
         "starred_at": "2025-06-11T07:49:39Z"
       },
       "summary": {
@@ -36123,7 +36123,7 @@
         "name": "MarkFlowy",
         "owner": "drl990114",
         "description": "AI-powered cross-platform editor for WYSIWYG Markdown and general-purpose text editing.",
-        "stars": 2374,
+        "stars": 2376,
         "language": "TypeScript",
         "url": "https://github.com/drl990114/MarkFlowy",
         "homepage": "https://www.markflowy.cc",
@@ -36145,7 +36145,7 @@
           "windows-app"
         ],
         "pushed_at": "2026-08-26T14:32:29Z",
-        "updated_at": "2026-09-04T10:41:59Z",
+        "updated_at": "2026-09-05T02:34:10Z",
         "starred_at": "2025-06-10T21:09:44Z"
       },
       "summary": {
@@ -36272,13 +36272,13 @@
         "name": "Simple-personal-static-web-page",
         "owner": "Leelokhan",
         "description": "",
-        "stars": 355,
+        "stars": 356,
         "language": "JavaScript",
         "url": "https://github.com/Leelokhan/Simple-personal-static-web-page",
         "homepage": "https://simple-personal-static-web-page.vercel.app",
         "topics": [],
         "pushed_at": "2026-05-15T10:34:08Z",
-        "updated_at": "2026-08-30T21:11:40Z",
+        "updated_at": "2026-09-04T16:36:44Z",
         "starred_at": "2025-06-10T11:25:05Z"
       },
       "summary": {
@@ -37035,7 +37035,7 @@
         "name": "SuperAutoStudy",
         "owner": "Dainoar",
         "description": "超星学习通/学习通/泛雅学习通自动云端刷课的Springboot项目,支持多级倍速播放和自动答题，已接入Super题库+大模型答题。",
-        "stars": 646,
+        "stars": 648,
         "language": "Java",
         "url": "https://github.com/Dainoar/SuperAutoStudy",
         "homepage": "",
@@ -37045,7 +37045,7 @@
           "springboot"
         ],
         "pushed_at": "2026-07-14T04:15:38Z",
-        "updated_at": "2026-09-04T11:32:54Z",
+        "updated_at": "2026-09-05T07:35:44Z",
         "starred_at": "2025-06-07T17:41:38Z"
       },
       "summary": {
@@ -38058,7 +38058,7 @@
         "tags_en": []
       },
       "pushed_at": "2026-06-16T15:48:58Z",
-      "updated_at": "2026-09-04"
+      "updated_at": "2026-09-05"
     },
     "flechazo-crushed/webmeta-cli": {
       "metadata": {
@@ -38082,7 +38082,7 @@
         "tags_en": []
       },
       "pushed_at": "2026-05-05T02:47:54Z",
-      "updated_at": "2026-09-04"
+      "updated_at": "2026-09-05"
     },
     "fastbyte19/terraform-docker-postgresql": {
       "metadata": {
@@ -38106,7 +38106,7 @@
         "tags_en": []
       },
       "pushed_at": "2026-07-27T10:33:47Z",
-      "updated_at": "2026-09-04"
+      "updated_at": "2026-09-05"
     },
     "fastbyte19/Solana-NFT-Marketplace-by-CandyMachine": {
       "metadata": {
@@ -38149,7 +38149,7 @@
         "tags_en": []
       },
       "pushed_at": "2025-11-21T01:15:31Z",
-      "updated_at": "2026-09-04"
+      "updated_at": "2026-09-05"
     },
     "fastbyte18/terraform-docker-postgresql": {
       "metadata": {
@@ -38245,7 +38245,7 @@
         "tags_en": []
       },
       "pushed_at": "2026-08-11T07:51:54Z",
-      "updated_at": "2026-09-04"
+      "updated_at": "2026-09-05"
     },
     "4pwn/NXJS-ARCH": {
       "metadata": {

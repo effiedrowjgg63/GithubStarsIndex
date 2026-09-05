@@ -1,6 +1,6 @@
 # ⭐ GitHub Stars Index
 
-> Updated: 2026-09-04 12:38 UTC · Total: 177
+> Updated: 2026-09-05 11:46 UTC · Total: 178
 
 ---
 
@@ -139,6 +139,7 @@
 - [[#pixelsdb/pixels|pixelsdb/pixels]]
 - [[#wff0325/Domain-Manager|wff0325/Domain-Manager]]
 - [[#caidesi/clone-voice|caidesi/clone-voice]]
+- [[#superorange0707/Fuzzy_Diabetes|superorange0707/Fuzzy_Diabetes]]
 - [[#lsk90/sing-box-yg|lsk90/sing-box-yg]]
 - [[#William-Liwei/EnergyPatchTST|William-Liwei/EnergyPatchTST]]
 - [[#wb-hwang/AINovelLab|wb-hwang/AINovelLab]]
@@ -286,7 +287,7 @@
 ## ltjed/freephdlabor
 
 > [!info]
-> ⭐ 713 · Python · 2026-09-03T18:29:05Z  
+> ⭐ 715 · Python · 2026-09-05T01:55:32Z  
 > [GitHub](https://github.com/ltjed/freephdlabor) · [Website](https://freephdlabor.github.io/)  
 > `#AI智能体` `#多智能体系统` `#科学研究` `#自动化研究` `#ai-agents` `#ai4science` `#autonomous-agents` `#multiagent-systems` `#research-automation` 
 > freephdlabor 是一个开源多智能体框架，可自动化科学研究的完整生命周期，从假设生成到实验验证再到论文撰写。支持开箱即用和领域定制，具备动态工作流、人类协同干预及持续研究能力，适用于材料科学、生物学等跨学科研究场景。
@@ -346,7 +347,7 @@
 ## Chevey339/kelivo
 
 > [!info]
-> ⭐ 3,852 · Dart · 2026-09-04T12:34:27Z  
+> ⭐ 3,855 · Dart · 2026-09-05T11:41:59Z  
 > [GitHub](https://github.com/Chevey339/kelivo) · [Website](https://kelivo.psycheas.top)  
 > `#AI智能体` `#Flutter` `#跨平台` `#ai` `#android` `#chatbot` `#chatbox` `#flutter` `#flutter-apps` `#harmony` `#harmonyos` `#ios` `#llm` `#openharmony` 
 > Kelivo 是一款基于 Flutter 开发的跨平台 LLM 聊天客户端，支持移动端（Android/iOS/Harmony）和桌面端（Windows/macOS/Linux）。具备现代化 Material You 设计、多语言支持、多 AI 服务商接入、MCP 工具集成、网页搜索、语音合成、Markdown 渲染及自定义字体等功能，提供高效智能对话体验。
@@ -356,7 +357,7 @@
 ## DigitalPlatDev/FreeDomain
 
 > [!info]
-> ⭐ 197,522 · Markdown · 2026-09-04T12:38:20Z  
+> ⭐ 197,669 · Markdown · 2026-09-05T11:46:07Z  
 > [GitHub](https://github.com/DigitalPlatDev/FreeDomain) · [Website](https://domain.digitalplat.org)  
 > `#免费域名` `#域名服务` `#数字身份` `#digitalplat` `#dns` `#dns-tutorial` `#documentation` `#domain` `#domain-platform` `#domain-registration` `#domainname` `#domains` `#education` `#free` `#free-domain` `#freedomain` `#internet-infrastructure` `#nameserver` 
 > DigitalPlat FreeDomain 是一个面向个人和组织的免费域名注册平台，提供 .DPDNS.ORG、.US.KG 等专属后缀域名，支持与主流 DNS 服务商（如 Cloudflare）无缝集成。项目由 DigitalPlat Foundation 创始人 Edward Hsing 独立开发维护，已服务超 40 万用户，致力于降低网络接入门槛，推动互联网开放包容。
@@ -454,7 +455,7 @@
 ## AIR-hl/llm-interview-code
 
 > [!info]
-> ⭐ 596 · Jupyter Notebook · 2026-09-04T11:43:28Z  
+> ⭐ 602 · Jupyter Notebook · 2026-09-05T10:23:02Z  
 > [GitHub](https://github.com/AIR-hl/llm-interview-code)  
 > `#AI大模型` `#深度学习` `#面试题库` `#ai` `#interview` `#llm` `#lm` 
 > LLM面试常见手撕代码合集，涵盖注意力机制、模型组件、归一化、损失函数等核心模块实现。提供MHA/GQA、RoPE、LoRA、DPO/GRPO等高频考点完整代码示例，适合深度学习工程师系统掌握大模型底层原理与面试实战。
@@ -502,7 +503,7 @@
 ## XiangyuFan17/p6s
 
 > [!info]
-> ⭐ 256 · Go · 2026-09-03T19:40:33Z  
+> ⭐ 257 · Go · 2026-09-04T16:41:11Z  
 > [GitHub](https://github.com/XiangyuFan17/p6s)  
 > `#Kubernetes集成` `#数据库运维` `#终端工具` `#golang` `#kubernetes` `#postgresql` `#terminal` 
 > p6s 是一款基于 Go 开发的 PostgreSQL 终端管理工具，提供直观的文本用户界面（TUI），专为 Kubernetes 环境中的数据库运维设计。支持自动发现集群内 PostgreSQL 实例、提取凭据、实时查看连接状态及执行 SQL 查询，无需额外客户端即可高效管理分布式数据库。
@@ -717,7 +718,7 @@
 ## hangwin/mcp-chrome
 
 > [!info]
-> ⭐ 12,385 · TypeScript · 2026-09-04T12:10:38Z  
+> ⭐ 12,388 · TypeScript · 2026-09-05T09:50:16Z  
 > [GitHub](https://github.com/hangwin/mcp-chrome)  
 > `#AI智能体` `#浏览器自动化` `#语义搜索` 
 > Chrome MCP Server 是一款基于 Chrome 扩展的 Model Context Protocol (MCP) 服务器，将浏览器功能暴露给 Claude 等 AI 助手，实现复杂浏览器自动化、内容分析与语义搜索。它直接利用用户现有 Chrome 环境，保留登录状态与配置，支持 20+ 工具，提供本地流式 HTTP 通信，并集成 SIMD 加速的向量数据库，实现智能跨标签页语义检索。
@@ -737,7 +738,7 @@
 ## talex-touch/tuff
 
 > [!info]
-> ⭐ 284 · TypeScript · 2026-09-04T10:20:57Z  
+> ⭐ 284 · TypeScript · 2026-09-05T11:12:12Z  
 > [GitHub](https://github.com/talex-touch/tuff) · [Website](https://tuff.tagzxia.com)  
 > `#AI大模型` `#命令中心` `#插件系统` `#桌面应用` `#bar` `#command` `#electron` `#launcher` `#raycast` `#tools` `#typescript` `#utools` `#vite` `#vue` 
 > Tuff 是一个基于沙箱架构的本地优先、AI原生桌面命令中心，提供快速应用与文件搜索、插件化扩展、多窗口管理等功能。支持自定义 LLM 接入，具备统一下载中心与上下文智能建议，旨在无缝集成用户工作流。
@@ -833,7 +834,7 @@
 ## cokice/japanese-analyzer
 
 > [!info]
-> ⭐ 797 · TypeScript · 2026-09-03T17:43:49Z  
+> ⭐ 798 · TypeScript · 2026-09-04T14:34:53Z  
 > [GitHub](https://github.com/cokice/japanese-analyzer) · [Website](https://nihongodemo.howen.ink/)  
 > `#AI大模型` `#日语学习` `#网页应用` 
 > 基于 Gemini Flash 大模型的日语句子深度解析工具，专为中文学习者设计。支持智能句法标注、OCR图像识别、TTS朗读、整句翻译等功能，提供词性标注、假名转换、罗马音与中文释义，界面支持暗黑模式与密码保护，可自定义API密钥实现私有化部署。
@@ -852,7 +853,7 @@
 ## ohosvscode/arkTS
 
 > [!info]
-> ⭐ 873 · TypeScript · 2026-09-03T05:35:57Z  
+> ⭐ 874 · TypeScript · 2026-09-05T01:15:02Z  
 > [GitHub](https://github.com/ohosvscode/arkTS) · [Website](https://marketplace.visualstudio.com/items?itemName=NailyZero.vscode-naily-ets)  
 > `#ArkTS语言` `#VSCode插件` `#鸿蒙开发` `#arkts` `#development-tools` `#harmony` `#harmonyos` `#harmonyos-next` `#huawei` `#vscode` `#vscode-extensions` 
 > Naily's ArkTS Support 是一款专为 VSCode 设计的鸿蒙 ArkTS 开发插件，提供语法高亮、智能补全、跳转、诊断、代码格式化（基于 Rust 编写的 oxk 工具链）、OpenHarmony SDK 管理、DevEco Studio 模拟器集成、hvigor 任务运行及 ArkTS 专属 Snippets 等功能，显著提升鸿蒙应用开发效率。
@@ -882,7 +883,7 @@
 ## msgaxzzz/Milo-discord-fun-bot
 
 > [!info]
-> ⭐ 328 · Python · 2026-09-04T04:09:30Z  
+> ⭐ 329 · Python · 2026-09-04T20:40:17Z  
 > [GitHub](https://github.com/msgaxzzz/Milo-discord-fun-bot) · [Website](https://milo-discord-bot.menice.dev)  
 > `#AI大模型` `#Discord机器人` `#社区管理工具` `#自托管` `#discord-bot` `#discord-fun-bot` `#mit-license` `#python` 
 > Milo 是一款基于 discord.py 的开源 Discord 机器人，专为小型社区提供 AI 辅助支持、轻量级 moderation、自动化提醒及经济系统等自托管工具。支持多模型 AI 对话、自定义规则过滤、持久化数据与跨平台部署，适合开源项目服务器和志愿者运营社区使用。
@@ -950,7 +951,7 @@
 ## X1lyS/DeepX
 
 > [!info]
-> ⭐ 105 · Python · 2026-08-05T13:00:10Z  
+> ⭐ 106 · Python · 2026-09-04T15:46:05Z  
 > [GitHub](https://github.com/X1lyS/DeepX)  
 > `#子域名枚举` `#红队安全` `#资产测绘` 
 > DeepX是一款专为SRC和红队场景设计的子域名资产发现工具，集成OTX、Crt.sh、Archive.org等多源数据接口，结合FOFA查询与字典爆破技术，通过对比分析识别隐藏子域名。支持异步处理、缓存优化及存活检测，具备模块化架构便于扩展，显著提升资产测绘效率。
@@ -1154,7 +1155,7 @@
 ## ZHangZHengEric/Sage
 
 > [!info]
-> ⭐ 1,214 · Python · 2026-09-04T11:01:00Z  
+> ⭐ 1,214 · Python · 2026-09-05T04:14:18Z  
 > [GitHub](https://github.com/ZHangZHengEric/Sage) · [Website](https://zhangzhengeric.github.io/Sage/)  
 > `#AI智能体` `#任务编排` `#多智能体系统` `#agents` `#ai` `#llm` `#manus` `#muilt-agents` `#workflow` 
 > Sage 是一个生产级多智能体框架，支持任务编排、模型能力最大化及安全沙箱执行。提供可视化工作台、OpenTelemetry 全链路追踪、MCP 协议集成和跨平台桌面应用，适用于复杂任务的智能协作与自动化处理。
@@ -1252,7 +1253,7 @@
 ## Kylsky/pandora-helper-with-linux-do-oauth
 
 > [!info]
-> ⭐ 644 · Java · 2026-08-28T04:43:51Z  
+> ⭐ 643 · Java · 2026-09-05T10:37:37Z  
 > [GitHub](https://github.com/Kylsky/pandora-helper-with-linux-do-oauth) · [Website](https://wiki.yeelovo.com)  
 > `#AI智能体` `#Linux DO` `#共享平台` 
 > Pandora Helper 是一个基于 Linux DO OAuth2 的开源共享平台，支持 ChatGPT、Claude、Midjourney 及 API 服务的多账号统一管理。具备 OAuth 安全认证、自动刷新 Token、用户隔离绘图、邮件通知等核心功能，提供 Docker 部署方案，适用于企业 AI 应用搭建与共享服务分发场景。
@@ -1282,7 +1283,7 @@
 ## kadidalax/cf-vps-monitor
 
 > [!info]
-> ⭐ 913 · TypeScript · 2026-09-04T10:51:16Z  
+> ⭐ 914 · TypeScript · 2026-09-05T09:11:18Z  
 > [GitHub](https://github.com/kadidalax/cf-vps-monitor)  
 > `#Cloudflare Worker` `#VPS监控` `#运维自动化` 
 > 基于 Cloudflare Worker 和 D1 数据库构建的轻量级 VPS 探针与网站监控面板，无需自建服务器即可部署。支持实时采集服务器状态、检测网站可用性，并提供响应式前端界面与后台管理功能，集成 Telegram 通知及自定义主题配置。
@@ -1352,7 +1353,7 @@
 ## fish2018/GoComicMosaic
 
 > [!info]
-> ⭐ 492 · Vue · 2026-08-16T11:16:16Z  
+> ⭐ 493 · Vue · 2026-09-04T13:19:13Z  
 > [GitHub](https://github.com/fish2018/GoComicMosaic)  
 > `#影视资源` `#社区共建` `#网盘搜索` 
 > GoComicMosaic 是一款开源影视资源共建平台，支持用户提交动漫资源信息并协作完善内容库。集成网盘搜索、分季分集管理、在线点播及自定义爬虫解析功能，提供 Docker 一键部署，内置 TMDB 数据源支持，管理员可审批资源并编辑详情页，适合构建社区驱动的影视资源聚合站点。
@@ -1362,7 +1363,7 @@
 ## tbphp/gpt-load
 
 > [!info]
-> ⭐ 6,546 · Go · 2026-09-04T12:09:45Z  
+> ⭐ 6,551 · Go · 2026-09-05T10:32:05Z  
 > [GitHub](https://github.com/tbphp/gpt-load) · [Website](https://www.gpt-load.com)  
 > `#AI智能代理` `#API网关` `#密钥管理` `#负载均衡` `#ai-gateway` `#anthropic` `#api-gateway` `#claude` `#claude-code` `#codex` `#gemini` `#gin` `#go` `#golang` `#llm` `#llm-gateway` `#load-balancer` `#openai` `#self-hosted` 
 > GPT-Load 是一个高性能企业级 AI API 透明代理服务，专为需要集成多 AI 服务的开发者和企业设计。基于 Go 构建，具备智能密钥轮询、负载均衡、故障自动恢复、动态配置热重载等特性，支持 OpenAI、Google Gemini、Anthropic Claude 等多种 AI 服务格式，提供完整的监控和管理界面。
@@ -1382,7 +1383,7 @@
 ## Shengxiang-Lin/COMPSCI-168
 
 > [!info]
-> ⭐ 40 · Python · 2026-01-30T09:02:35Z  
+> ⭐ 40 · Python · 2026-09-05T08:49:08Z  
 > [GitHub](https://github.com/Shengxiang-Lin/COMPSCI-168) · [Website](https://fa24.cs168.io/)  
 > `#互联网架构` `#协议设计` `#计算机网络` `#computer-network` 
 > UCB CS 168《互联网架构与协议导论》课程资源库，涵盖网络基础、路由算法、传输层协议及网络安全等核心内容，提供完整讲义、编程作业与实验指导，适合计算机专业学生系统学习现代互联网技术原理。
@@ -1392,7 +1393,7 @@
 ## Shengxiang-Lin/COMPSCI-61C
 
 > [!info]
-> ⭐ 55 · Roff · 2026-05-22T11:47:33Z  
+> ⭐ 55 · Roff · 2026-09-05T08:49:05Z  
 > [GitHub](https://github.com/Shengxiang-Lin/COMPSCI-61C) · [Website](https://inst.eecs.berkeley.edu/~cs61c/fa24/)  
 > `#MIPS汇编` `#系统编程` `#计算机体系结构` `#computer-architecture` 
 > UCB CS 61C 课程资源库，聚焦计算机体系结构核心思想与机器结构。涵盖 MIPS 汇编、流水线、缓存、内存层次等关键主题，提供实验代码与讲义，适合深入学习底层系统设计与性能优化。
@@ -1452,7 +1453,7 @@
 ## Shengxiang-Lin/ParticleFlow-Lite
 
 > [!info]
-> ⭐ 16 · C++ · 2026-02-25T12:27:06Z  
+> ⭐ 16 · C++ · 2026-09-05T08:49:07Z  
 > [GitHub](https://github.com/Shengxiang-Lin/ParticleFlow-Lite) · [Website](https://arxiv.org/abs/2410.07250)  
 > `#图像处理` `#深度学习` `#粒子追踪` `#deep-learning` `#particle-physics` 
 > 本仓库提供了轻量级深度学习框架 ParticleFlow-Lite 的官方实现，专注于高精度粒子流分析。该框架适用于图像处理的粒子追踪与运动分析任务，结合深度学习提升检测精度与效率，适用于科学计算、生物医学成像等领域。
@@ -1472,7 +1473,7 @@
 ## pixelsdb/pixels
 
 > [!info]
-> ⭐ 919 · Java · 2026-09-04T09:57:35Z  
+> ⭐ 919 · Java · 2026-09-04T14:31:23Z  
 > [GitHub](https://github.com/pixelsdb/pixels)  
 > `#列式存储` `#数据分析` `#数据存储` `#cloud-database` `#column-store` `#data-lake` `#data-warehouse` `#database` `#olap` 
 > Pixels是一个专为数据湖和数据仓库优化的列式存储引擎，支持S3、GCS、HDFS等多种云和本地存储系统。其性能较Parquet提升达两个数量级，已集成DuckDB、Trino、StarRocks等主流查询引擎，并自研了基于Trino的弹性MPP查询引擎Pixels-Turbo，结合Serverless架构实现高性能与成本效率的平衡。
@@ -1496,6 +1497,16 @@
 > `#AI大模型` `#TTS语音合成` `#Web应用` 
 > CV声音克隆工具基于Coqui TTS模型，提供Web界面实现音色克隆与语音合成，支持16种语言（中英日韩法等），可录制或上传5-20秒音频进行音色转换。无需N卡GPU即可运行，预编译版开箱即用；源码部署需全局代理下载模型。支持CUDA加速提升性能，适用于学术研究场景。
 > <sub>一个带web界面的声音克隆工具，使用你的音色或任意声音来录制音频</sub>
+
+---
+## superorange0707/Fuzzy_Diabetes
+
+> [!info]
+> ⭐ 110 · Jupyter Notebook · 2026-09-04T16:57:23Z  
+> [GitHub](https://github.com/superorange0707/Fuzzy_Diabetes)  
+> `#AI智能体` `#健康预测` `#机器学习` 
+> Fuzzy Diabetes 是一个基于模糊逻辑的智能糖尿病风险预测工具，集成KNN、SVM、随机森林和ANFIS四种模型。通过用户输入四项核心健康指标（妊娠次数、血糖、BMI、家族史），提供实时风险评估与可视化报告，支持批量处理和结果导出，适用于医疗辅助决策研究。
+> <sub>End-to-end diabetes risk prediction with KNN, SVM, RF, and ANFIS. Full pipeline, model export, visual reports, and an AI-powered risk assessment tool.</sub>
 
 ---
 ## lsk90/sing-box-yg
@@ -1531,7 +1542,7 @@
 ## drl990114/MarkFlowy
 
 > [!info]
-> ⭐ 2,374 · TypeScript · 2026-09-04T10:41:59Z  
+> ⭐ 2,376 · TypeScript · 2026-09-05T02:34:10Z  
 > [GitHub](https://github.com/drl990114/MarkFlowy) · [Website](https://www.markflowy.cc)  
 > `#AI智能体` `#Markdown编辑器` `#桌面应用` `#ai` `#chatgpt` `#deepseek` `#editor` `#linux-app` `#macos-app` `#markdown` `#markdowneditor` `#notes-app` `#prosemirror` `#reactjs` `#rust-lang` `#tauri` `#typescript` `#windows-app` 
 > MarkFlowy 是一款现代化智能 Markdown 编辑器，基于 Tauri 框架开发，体积小巧（<20MB）且性能优异。核心功能包括内置 AI 助手（支持 Copilot、翻译、摘要）、多模式编辑（源码/WYSIWYG）、Prosemirror 引擎、多语言支持及自定义主题。适用于高效写作、文档管理和跨平台内容创作。
@@ -1570,7 +1581,7 @@
 ## Leelokhan/Simple-personal-static-web-page
 
 > [!info]
-> ⭐ 355 · JavaScript · 2026-08-30T21:11:40Z  
+> ⭐ 356 · JavaScript · 2026-09-04T16:36:44Z  
 > [GitHub](https://github.com/Leelokhan/Simple-personal-static-web-page) · [Website](https://simple-personal-static-web-page.vercel.app)  
 > `#AI应用` `#个人网站` `#前端开发` 
 > 这是一个基于AI技术构建的个人静态网页项目，集成了Live2D虚拟角色、音乐/视频播放器、图片查看器及自定义鼠标特效等功能。通过简单部署即可创建个性化个人主页，支持键盘控制图片浏览与页面交互，适合技术爱好者练习前端开发与AI应用实践。
@@ -1771,7 +1782,7 @@
 ## Dainoar/SuperAutoStudy
 
 > [!info]
-> ⭐ 646 · Java · 2026-09-04T11:32:54Z  
+> ⭐ 648 · Java · 2026-09-05T07:35:44Z  
 > [GitHub](https://github.com/Dainoar/SuperAutoStudy)  
 > `#AI智能答题` `#SpringBoot微服务` `#教育自动化` `#java` `#llm` `#springboot` 
 > SuperAutoStudy 是基于 Spring Boot + Dubbo + RabbitMQ 的分布式超星学习通自动化刷课平台，支持多级倍速播放、断点续学和智能答题。集成百万级 Super 题库与大模型技术，具备高并发任务调度能力，提供 Docker 一键部署方案，适用于个人自部署与二次开发。
