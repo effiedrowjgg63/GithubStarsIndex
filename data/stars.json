@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-05 11:46 UTC",
+  "last_updated": "2026-09-06 12:04 UTC",
   "repos": {
     "waoowaooAI/waoowaoo": {
       "metadata": {
@@ -3097,7 +3097,7 @@
         "name": "gpt-load",
         "owner": "tbphp",
         "description": "Self-hosted AI gateway for multi-channel, multi-credential setups — API keys and subscription accounts, scheduling, failover, request logs and usage. 自托管 AI 网关：多渠道多凭据统一接入，含密钥与订阅账号、调度容错、日志与用量。",
-        "stars": 6551,
+        "stars": 6554,
         "language": "Go",
         "url": "https://github.com/tbphp/gpt-load",
         "homepage": "https://www.gpt-load.com",
@@ -3118,8 +3118,8 @@
           "openai",
           "self-hosted"
         ],
-        "pushed_at": "2026-09-05T10:58:25Z",
-        "updated_at": "2026-09-05T10:32:05Z",
+        "pushed_at": "2026-09-06T05:53:43Z",
+        "updated_at": "2026-09-06T08:35:38Z",
         "starred_at": "2025-06-18T04:14:43Z"
       },
       "summary": {
@@ -4429,13 +4429,13 @@
         "name": "mcp-chrome",
         "owner": "hangwin",
         "description": "Chrome MCP Server is a Chrome extension-based Model Context Protocol (MCP) server that exposes your Chrome browser functionality to AI assistants like Claude, enabling complex browser automation, content analysis, and semantic search.",
-        "stars": 12388,
+        "stars": 12386,
         "language": "TypeScript",
         "url": "https://github.com/hangwin/mcp-chrome",
         "homepage": "",
         "topics": [],
         "pushed_at": "2026-01-06T13:05:39Z",
-        "updated_at": "2026-09-05T09:50:16Z",
+        "updated_at": "2026-09-06T10:55:05Z",
         "starred_at": "2025-08-25T14:40:10Z"
       },
       "summary": {
@@ -31567,7 +31567,7 @@
         "name": "freephdlabor",
         "owner": "ltjed",
         "description": "freephdlabor: customizing personalized multiagent systems that researchs 24/7 on your own scientific problem",
-        "stars": 715,
+        "stars": 716,
         "language": "Python",
         "url": "https://github.com/ltjed/freephdlabor",
         "homepage": "https://freephdlabor.github.io/",
@@ -31579,7 +31579,7 @@
           "research-automation"
         ],
         "pushed_at": "2026-09-03T18:28:58Z",
-        "updated_at": "2026-09-05T01:55:32Z",
+        "updated_at": "2026-09-06T09:12:29Z",
         "starred_at": "2025-11-09T08:28:04Z"
       },
       "summary": {
@@ -31797,7 +31797,7 @@
         "name": "kelivo",
         "owner": "Chevey339",
         "description": "A Flutter LLM Chat Client. Support Mobile & Desktop.",
-        "stars": 3855,
+        "stars": 3858,
         "language": "Dart",
         "url": "https://github.com/Chevey339/kelivo",
         "homepage": "https://kelivo.psycheas.top",
@@ -31814,8 +31814,8 @@
           "llm",
           "openharmony"
         ],
-        "pushed_at": "2026-09-04T07:57:13Z",
-        "updated_at": "2026-09-05T11:41:59Z",
+        "pushed_at": "2026-09-06T01:54:41Z",
+        "updated_at": "2026-09-06T11:14:14Z",
         "starred_at": "2025-10-28T08:02:47Z"
       },
       "summary": {
@@ -31841,7 +31841,7 @@
         "name": "FreeDomain",
         "owner": "DigitalPlatDev",
         "description": "Free domain registration and practical DNS learning resources for everyone.",
-        "stars": 197669,
+        "stars": 197818,
         "language": "Markdown",
         "url": "https://github.com/DigitalPlatDev/FreeDomain",
         "homepage": "https://domain.digitalplat.org",
@@ -31863,7 +31863,7 @@
           "nameserver"
         ],
         "pushed_at": "2026-08-12T10:36:46Z",
-        "updated_at": "2026-09-05T11:46:07Z",
+        "updated_at": "2026-09-06T11:53:55Z",
         "starred_at": "2025-10-26T08:03:55Z"
       },
       "summary": {
@@ -32065,7 +32065,7 @@
         "name": "Sora-FullStack",
         "owner": "TornadoInsight",
         "description": " OpenAi-Sora (SoraFlows) is an open-source, cross-platform web application for AI-powered video creation and editing using the latest OpenAI Sora model. Effortlessly generate, edit, and share videos from text or images, with integrated support for voice-to-text, text-to-speech, voice cloning, and multi-language interfaces . ",
-        "stars": 110,
+        "stars": 111,
         "language": "TypeScript",
         "url": "https://github.com/TornadoInsight/Sora-FullStack",
         "homepage": "",
@@ -32091,7 +32091,7 @@
           "whisper"
         ],
         "pushed_at": "2025-09-27T01:47:38Z",
-        "updated_at": "2026-08-26T15:26:06Z",
+        "updated_at": "2026-09-06T03:46:56Z",
         "starred_at": "2025-10-02T06:51:45Z"
       },
       "summary": {
@@ -33265,8 +33265,8 @@
           "vite",
           "vue"
         ],
-        "pushed_at": "2026-09-05T11:46:11Z",
-        "updated_at": "2026-09-05T11:12:12Z",
+        "pushed_at": "2026-09-06T10:50:14Z",
+        "updated_at": "2026-09-05T13:05:34Z",
         "starred_at": "2025-08-25T03:56:43Z"
       },
       "summary": {
@@ -33577,13 +33577,13 @@
         "name": "japanese-analyzer",
         "owner": "cokice",
         "description": "",
-        "stars": 798,
+        "stars": 799,
         "language": "TypeScript",
         "url": "https://github.com/cokice/japanese-analyzer",
         "homepage": "https://nihongodemo.howen.ink/",
         "topics": [],
         "pushed_at": "2026-09-01T14:39:39Z",
-        "updated_at": "2026-09-04T14:34:53Z",
+        "updated_at": "2026-09-06T11:13:02Z",
         "starred_at": "2025-07-27T04:01:34Z"
       },
       "summary": {
@@ -33650,7 +33650,7 @@
         "name": "FastAPI-Template",
         "owner": "JiayuXu0",
         "description": "A production-ready FastAPI backend template with clean architecture. 一个功能完整、架构清晰的企业级FastAPI后端模板，专为团队开发设计，开箱即用。",
-        "stars": 520,
+        "stars": 521,
         "language": "Python",
         "url": "https://github.com/JiayuXu0/FastAPI-Template",
         "homepage": "https://jiayuxu0.github.io/FastAPI-Template/",
@@ -33670,7 +33670,7 @@
           "uvicorn"
         ],
         "pushed_at": "2026-05-07T02:38:00Z",
-        "updated_at": "2026-09-03T01:27:50Z",
+        "updated_at": "2026-09-05T12:45:03Z",
         "starred_at": "2025-07-26T21:54:51Z"
       },
       "summary": {
@@ -34073,13 +34073,13 @@
         "name": "aibotgo",
         "owner": "shengdingbox",
         "description": "🚀 AI 长文本大模型逆向API白嫖测试【特长：长文本解读整理】，支持高速流式输出、智能体对话、联网搜索、长文档解读、图像OCR、多轮对话，零配置部署，多路token支持，自动清理会话痕迹。",
-        "stars": 446,
+        "stars": 447,
         "language": "Java",
         "url": "https://github.com/shengdingbox/aibotgo",
         "homepage": "https://aibotgo.vercel.app",
         "topics": [],
         "pushed_at": "2025-12-05T03:26:43Z",
-        "updated_at": "2026-09-04T05:55:34Z",
+        "updated_at": "2026-09-05T13:08:08Z",
         "starred_at": "2025-07-22T12:37:43Z"
       },
       "summary": {
@@ -34570,7 +34570,7 @@
         "name": "Ali-NFC2QR",
         "owner": "14790897",
         "description": "阿里的nfc链接转为二维码",
-        "stars": 228,
+        "stars": 229,
         "language": "TypeScript",
         "url": "https://github.com/14790897/Ali-NFC2QR",
         "homepage": "https://ali.14790897.xyz/",
@@ -34578,7 +34578,7 @@
           "qrcode"
         ],
         "pushed_at": "2025-12-24T10:37:16Z",
-        "updated_at": "2026-09-04T11:20:27Z",
+        "updated_at": "2026-09-05T14:29:23Z",
         "starred_at": "2025-07-20T05:48:53Z"
       },
       "summary": {
@@ -34788,8 +34788,8 @@
           "muilt-agents",
           "workflow"
         ],
-        "pushed_at": "2026-09-05T04:14:11Z",
-        "updated_at": "2026-09-05T04:14:18Z",
+        "pushed_at": "2026-09-06T06:06:12Z",
+        "updated_at": "2026-09-06T06:06:18Z",
         "starred_at": "2025-06-20T12:41:29Z"
       },
       "summary": {
@@ -35316,7 +35316,7 @@
         "homepage": "",
         "topics": [],
         "pushed_at": "2026-08-12T12:45:33Z",
-        "updated_at": "2026-09-05T09:11:18Z",
+        "updated_at": "2026-09-06T10:59:43Z",
         "starred_at": "2025-06-18T16:04:51Z"
       },
       "summary": {
@@ -36059,13 +36059,13 @@
         "name": "AINovelLab",
         "owner": "wb-hwang",
         "description": "基于AI的小说处理工具，支持小说智能缩写/脱水、EPUB转换与分割等功能，让阅读更高效。",
-        "stars": 135,
+        "stars": 136,
         "language": "Python",
         "url": "https://github.com/wb-hwang/AINovelLab",
         "homepage": "",
         "topics": [],
         "pushed_at": "2026-03-06T08:13:43Z",
-        "updated_at": "2026-08-14T08:47:32Z",
+        "updated_at": "2026-09-06T08:59:48Z",
         "starred_at": "2025-06-10T21:14:13Z"
       },
       "summary": {
@@ -36123,7 +36123,7 @@
         "name": "MarkFlowy",
         "owner": "drl990114",
         "description": "AI-powered cross-platform editor for WYSIWYG Markdown and general-purpose text editing.",
-        "stars": 2376,
+        "stars": 2377,
         "language": "TypeScript",
         "url": "https://github.com/drl990114/MarkFlowy",
         "homepage": "https://www.markflowy.cc",
@@ -36144,8 +36144,8 @@
           "typescript",
           "windows-app"
         ],
-        "pushed_at": "2026-08-26T14:32:29Z",
-        "updated_at": "2026-09-05T02:34:10Z",
+        "pushed_at": "2026-09-06T11:09:31Z",
+        "updated_at": "2026-09-06T11:09:40Z",
         "starred_at": "2025-06-10T21:09:44Z"
       },
       "summary": {
@@ -36471,7 +36471,7 @@
         "name": "CloudPaste",
         "owner": "ling-drag0n",
         "description": "🌩️ Serverless 自托管的文件管理与文本分享工具/网盘，支持多存储聚合管理和WebDAV 服务挂载。兼容 S3、WebDAV、OneDrive、Google Drive、Telegram、HF、GitHub 等。内置   Markdown 编辑器、30+文件格式预览。支持 Cloudflare Workers 或 Docker 部署。",
-        "stars": 2638,
+        "stars": 2639,
         "language": "JavaScript",
         "url": "https://github.com/ling-drag0n/CloudPaste",
         "homepage": "https://doc.cloudpaste.qzz.io",
@@ -36489,7 +36489,7 @@
           "webdav"
         ],
         "pushed_at": "2026-01-23T08:12:18Z",
-        "updated_at": "2026-09-04T10:42:04Z",
+        "updated_at": "2026-09-06T00:39:08Z",
         "starred_at": "2025-06-10T02:20:49Z"
       },
       "summary": {
@@ -37035,7 +37035,7 @@
         "name": "SuperAutoStudy",
         "owner": "Dainoar",
         "description": "超星学习通/学习通/泛雅学习通自动云端刷课的Springboot项目,支持多级倍速播放和自动答题，已接入Super题库+大模型答题。",
-        "stars": 648,
+        "stars": 649,
         "language": "Java",
         "url": "https://github.com/Dainoar/SuperAutoStudy",
         "homepage": "",
@@ -37045,7 +37045,7 @@
           "springboot"
         ],
         "pushed_at": "2026-07-14T04:15:38Z",
-        "updated_at": "2026-09-05T07:35:44Z",
+        "updated_at": "2026-09-05T15:33:17Z",
         "starred_at": "2025-06-07T17:41:38Z"
       },
       "summary": {
@@ -37604,13 +37604,13 @@
         "name": "IMIS-BS",
         "owner": "Shengxiang-Lin",
         "description": "A Flask-based framework for small and medium-sized book sales enterprises or online bookstore book management system.",
-        "stars": 267,
+        "stars": 268,
         "language": "Python",
         "url": "https://github.com/Shengxiang-Lin/IMIS-BS",
         "homepage": "",
         "topics": [],
         "pushed_at": "2026-08-10T02:05:28Z",
-        "updated_at": "2026-08-10T02:06:47Z",
+        "updated_at": "2026-09-05T13:13:17Z",
         "starred_at": "2025-07-30T11:53:11Z"
       },
       "summary": {
@@ -38058,7 +38058,7 @@
         "tags_en": []
       },
       "pushed_at": "2026-06-16T15:48:58Z",
-      "updated_at": "2026-09-05"
+      "updated_at": "2026-09-06"
     },
     "flechazo-crushed/webmeta-cli": {
       "metadata": {
@@ -38082,7 +38082,7 @@
         "tags_en": []
       },
       "pushed_at": "2026-05-05T02:47:54Z",
-      "updated_at": "2026-09-05"
+      "updated_at": "2026-09-06"
     },
     "fastbyte19/terraform-docker-postgresql": {
       "metadata": {
@@ -38106,7 +38106,7 @@
         "tags_en": []
       },
       "pushed_at": "2026-07-27T10:33:47Z",
-      "updated_at": "2026-09-05"
+      "updated_at": "2026-09-06"
     },
     "fastbyte19/Solana-NFT-Marketplace-by-CandyMachine": {
       "metadata": {
@@ -38149,7 +38149,7 @@
         "tags_en": []
       },
       "pushed_at": "2025-11-21T01:15:31Z",
-      "updated_at": "2026-09-05"
+      "updated_at": "2026-09-06"
     },
     "fastbyte18/terraform-docker-postgresql": {
       "metadata": {
@@ -38245,7 +38245,7 @@
         "tags_en": []
       },
       "pushed_at": "2026-08-11T07:51:54Z",
-      "updated_at": "2026-09-05"
+      "updated_at": "2026-09-06"
     },
     "4pwn/NXJS-ARCH": {
       "metadata": {
