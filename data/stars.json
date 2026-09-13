@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-12 12:05 UTC",
+  "last_updated": "2026-09-13 13:14 UTC",
   "repos": {
     "waoowaooAI/waoowaoo": {
       "metadata": {
@@ -3097,7 +3097,7 @@
         "name": "gpt-load",
         "owner": "tbphp",
         "description": "Self-hosted AI gateway for multi-channel, multi-credential setups — API keys and subscription accounts, scheduling, failover, request logs and usage. 自托管 AI 网关：多渠道多凭据统一接入，含密钥与订阅账号、调度容错、日志与用量。",
-        "stars": 6636,
+        "stars": 6714,
         "language": "Go",
         "url": "https://github.com/tbphp/gpt-load",
         "homepage": "https://www.gpt-load.com",
@@ -3118,8 +3118,8 @@
           "openai",
           "self-hosted"
         ],
-        "pushed_at": "2026-09-12T11:24:19Z",
-        "updated_at": "2026-09-12T11:21:40Z",
+        "pushed_at": "2026-09-13T11:11:53Z",
+        "updated_at": "2026-09-13T12:35:47Z",
         "starred_at": "2025-06-18T04:14:43Z"
       },
       "summary": {
@@ -4429,13 +4429,13 @@
         "name": "mcp-chrome",
         "owner": "hangwin",
         "description": "Chrome MCP Server is a Chrome extension-based Model Context Protocol (MCP) server that exposes your Chrome browser functionality to AI assistants like Claude, enabling complex browser automation, content analysis, and semantic search.",
-        "stars": 12404,
+        "stars": 12406,
         "language": "TypeScript",
         "url": "https://github.com/hangwin/mcp-chrome",
         "homepage": "",
         "topics": [],
         "pushed_at": "2026-01-06T13:05:39Z",
-        "updated_at": "2026-09-12T09:01:11Z",
+        "updated_at": "2026-09-13T12:09:22Z",
         "starred_at": "2025-08-25T14:40:10Z"
       },
       "summary": {
@@ -31567,7 +31567,7 @@
         "name": "freephdlabor",
         "owner": "ltjed",
         "description": "freephdlabor: customizing personalized multiagent systems that researchs 24/7 on your own scientific problem",
-        "stars": 719,
+        "stars": 720,
         "language": "Python",
         "url": "https://github.com/ltjed/freephdlabor",
         "homepage": "https://freephdlabor.github.io/",
@@ -31579,7 +31579,7 @@
           "research-automation"
         ],
         "pushed_at": "2026-09-03T18:28:58Z",
-        "updated_at": "2026-09-11T19:05:24Z",
+        "updated_at": "2026-09-13T02:55:35Z",
         "starred_at": "2025-11-09T08:28:04Z"
       },
       "summary": {
@@ -31797,7 +31797,7 @@
         "name": "kelivo",
         "owner": "Chevey339",
         "description": "A Flutter LLM Chat Client. Support Mobile & Desktop.",
-        "stars": 3912,
+        "stars": 3921,
         "language": "Dart",
         "url": "https://github.com/Chevey339/kelivo",
         "homepage": "https://kelivo.psycheas.top",
@@ -31814,8 +31814,8 @@
           "llm",
           "openharmony"
         ],
-        "pushed_at": "2026-09-12T11:02:11Z",
-        "updated_at": "2026-09-12T11:02:15Z",
+        "pushed_at": "2026-09-13T11:03:32Z",
+        "updated_at": "2026-09-13T11:03:39Z",
         "starred_at": "2025-10-28T08:02:47Z"
       },
       "summary": {
@@ -31841,7 +31841,7 @@
         "name": "FreeDomain",
         "owner": "DigitalPlatDev",
         "description": "Free domain registration and practical DNS learning resources for everyone.",
-        "stars": 198919,
+        "stars": 199093,
         "language": "Markdown",
         "url": "https://github.com/DigitalPlatDev/FreeDomain",
         "homepage": "https://domain.digitalplat.org",
@@ -31863,7 +31863,7 @@
           "nameserver"
         ],
         "pushed_at": "2026-08-12T10:36:46Z",
-        "updated_at": "2026-09-12T12:02:34Z",
+        "updated_at": "2026-09-13T12:43:35Z",
         "starred_at": "2025-10-26T08:03:55Z"
       },
       "summary": {
@@ -32149,7 +32149,7 @@
         "name": "llm-interview-code",
         "owner": "AIR-hl",
         "description": "LLM面试常见手撕合集",
-        "stars": 613,
+        "stars": 614,
         "language": "Jupyter Notebook",
         "url": "https://github.com/AIR-hl/llm-interview-code",
         "homepage": "",
@@ -32160,7 +32160,7 @@
           "lm"
         ],
         "pushed_at": "2026-06-19T14:22:10Z",
-        "updated_at": "2026-09-12T12:04:41Z",
+        "updated_at": "2026-09-13T04:33:27Z",
         "starred_at": "2025-10-02T04:30:36Z"
       },
       "summary": {
@@ -33265,8 +33265,8 @@
           "vite",
           "vue"
         ],
-        "pushed_at": "2026-09-12T09:19:26Z",
-        "updated_at": "2026-09-12T09:18:22Z",
+        "pushed_at": "2026-09-13T11:34:57Z",
+        "updated_at": "2026-09-13T11:34:59Z",
         "starred_at": "2025-08-25T03:56:43Z"
       },
       "summary": {
@@ -33358,13 +33358,13 @@
         "name": "cf-ai-TGbot",
         "owner": "Johnsheng1",
         "description": "CF-ai-TGbot is a customizable Telegram bot powered by Node.js, integrating Cloudflare AI Gateway for smart, context-aware conversations. 🌐🤖",
-        "stars": 384,
+        "stars": 385,
         "language": "JavaScript",
         "url": "https://github.com/Johnsheng1/cf-ai-TGbot",
         "homepage": "",
         "topics": [],
         "pushed_at": "2025-07-24T09:01:56Z",
-        "updated_at": "2026-09-11T07:49:57Z",
+        "updated_at": "2026-09-13T10:27:39Z",
         "starred_at": "2025-08-24T09:00:41Z"
       },
       "summary": {
@@ -34404,13 +34404,13 @@
         "name": "auto-read-liunxdo",
         "owner": "14790897",
         "description": "Auto-scrubbing of  articles and auto-likes in discourse",
-        "stars": 802,
+        "stars": 801,
         "language": "JavaScript",
         "url": "https://github.com/14790897/auto-read-liunxdo",
         "homepage": "",
         "topics": [],
         "pushed_at": "2026-06-04T03:42:14Z",
-        "updated_at": "2026-09-11T07:49:21Z",
+        "updated_at": "2026-09-12T16:50:51Z",
         "starred_at": "2025-07-20T20:48:08Z"
       },
       "summary": {
@@ -34788,8 +34788,8 @@
           "muilt-agents",
           "workflow"
         ],
-        "pushed_at": "2026-09-12T11:56:42Z",
-        "updated_at": "2026-09-12T11:56:45Z",
+        "pushed_at": "2026-09-13T05:42:15Z",
+        "updated_at": "2026-09-13T05:42:20Z",
         "starred_at": "2025-06-20T12:41:29Z"
       },
       "summary": {
@@ -35310,13 +35310,13 @@
         "name": "cf-vps-monitor",
         "owner": "kadidalax",
         "description": "用cloudflare worker搭建的vps探针+网站检测 面板，部署简单，不需要服务器。",
-        "stars": 918,
+        "stars": 919,
         "language": "TypeScript",
         "url": "https://github.com/kadidalax/cf-vps-monitor",
         "homepage": "",
         "topics": [],
-        "pushed_at": "2026-08-12T12:45:33Z",
-        "updated_at": "2026-09-12T09:29:18Z",
+        "pushed_at": "2026-09-12T14:49:23Z",
+        "updated_at": "2026-09-13T07:48:59Z",
         "starred_at": "2025-06-18T16:04:51Z"
       },
       "summary": {
@@ -35905,7 +35905,7 @@
           "olap"
         ],
         "pushed_at": "2026-09-08T06:06:29Z",
-        "updated_at": "2026-09-11T07:50:00Z",
+        "updated_at": "2026-09-12T17:29:06Z",
         "starred_at": "2025-06-12T18:48:23Z"
       },
       "summary": {
@@ -36123,7 +36123,7 @@
         "name": "MarkFlowy",
         "owner": "drl990114",
         "description": "A high-performance, cross-platform editor that supports WYSIWYG Markdown and general text editing.",
-        "stars": 2388,
+        "stars": 2389,
         "language": "TypeScript",
         "url": "https://github.com/drl990114/MarkFlowy",
         "homepage": "https://www.markflowy.cc",
@@ -36145,7 +36145,7 @@
           "windows-app"
         ],
         "pushed_at": "2026-09-12T08:46:50Z",
-        "updated_at": "2026-09-12T11:11:06Z",
+        "updated_at": "2026-09-13T01:37:08Z",
         "starred_at": "2025-06-10T21:09:44Z"
       },
       "summary": {
@@ -36489,7 +36489,7 @@
           "webdav"
         ],
         "pushed_at": "2026-01-23T08:12:18Z",
-        "updated_at": "2026-09-12T08:02:52Z",
+        "updated_at": "2026-09-13T09:42:31Z",
         "starred_at": "2025-06-10T02:20:49Z"
       },
       "summary": {
@@ -36715,13 +36715,13 @@
         "name": "my-ai-agent",
         "owner": "Cunninger",
         "description": "My AI Agent 是一个基于 Spring Boot 和 Spring AI 框架构建的智能代理服务，集成了现代大模型能力，提供对话记忆、多模态交互等功能。本项目通过整合阿里云灵积大模型服务，实现了RAG、MCP的等主流功能",
-        "stars": 154,
+        "stars": 155,
         "language": "Java",
         "url": "https://github.com/Cunninger/my-ai-agent",
         "homepage": "",
         "topics": [],
         "pushed_at": "2025-09-24T11:22:35Z",
-        "updated_at": "2026-08-15T03:55:53Z",
+        "updated_at": "2026-09-12T15:24:11Z",
         "starred_at": "2025-06-08T08:29:20Z"
       },
       "summary": {
@@ -37035,7 +37035,7 @@
         "name": "SuperAutoStudy",
         "owner": "Dainoar",
         "description": "超星学习通/学习通/泛雅学习通自动云端刷课的Springboot项目,支持多级倍速播放和自动答题，已接入Super题库+大模型答题。",
-        "stars": 663,
+        "stars": 665,
         "language": "Java",
         "url": "https://github.com/Dainoar/SuperAutoStudy",
         "homepage": "",
@@ -37045,7 +37045,7 @@
           "springboot"
         ],
         "pushed_at": "2026-07-14T04:15:38Z",
-        "updated_at": "2026-09-12T07:38:33Z",
+        "updated_at": "2026-09-13T12:37:13Z",
         "starred_at": "2025-06-07T17:41:38Z"
       },
       "summary": {
@@ -37732,8 +37732,8 @@
           "educational-project",
           "educational-software"
         ],
-        "pushed_at": "2026-08-30T18:34:52Z",
-        "updated_at": "2026-09-11T07:49:32Z",
+        "pushed_at": "2026-09-12T13:53:07Z",
+        "updated_at": "2026-09-12T13:52:12Z",
         "starred_at": "2025-11-08T17:12:03Z"
       },
       "summary": {
@@ -37791,7 +37791,7 @@
         "name": "ZeroCat",
         "owner": "Moonrend",
         "description": "ZeroCat 零猫社区 | ZeroCat Community",
-        "stars": 355,
+        "stars": 356,
         "language": "JavaScript",
         "url": "https://github.com/Moonrend/ZeroCat",
         "homepage": "https://zerocat.dev",
@@ -37801,7 +37801,7 @@
           "scratch"
         ],
         "pushed_at": "2026-09-02T14:56:42Z",
-        "updated_at": "2026-09-02T15:01:40Z",
+        "updated_at": "2026-09-12T15:06:01Z",
         "starred_at": "2025-09-18T13:15:24Z"
       },
       "summary": {
@@ -38058,7 +38058,7 @@
         "tags_en": []
       },
       "pushed_at": "2026-06-16T15:48:58Z",
-      "updated_at": "2026-09-12"
+      "updated_at": "2026-09-13"
     },
     "flechazo-crushed/webmeta-cli": {
       "metadata": {
@@ -38082,7 +38082,7 @@
         "tags_en": []
       },
       "pushed_at": "2026-05-05T02:47:54Z",
-      "updated_at": "2026-09-12"
+      "updated_at": "2026-09-13"
     },
     "fastbyte19/terraform-docker-postgresql": {
       "metadata": {
@@ -38106,7 +38106,7 @@
         "tags_en": []
       },
       "pushed_at": "2026-07-27T10:33:47Z",
-      "updated_at": "2026-09-12"
+      "updated_at": "2026-09-13"
     },
     "fastbyte19/Solana-NFT-Marketplace-by-CandyMachine": {
       "metadata": {
@@ -38149,7 +38149,7 @@
         "tags_en": []
       },
       "pushed_at": "2025-11-21T01:15:31Z",
-      "updated_at": "2026-09-12"
+      "updated_at": "2026-09-13"
     },
     "fastbyte18/terraform-docker-postgresql": {
       "metadata": {
@@ -38245,7 +38245,7 @@
         "tags_en": []
       },
       "pushed_at": "2026-08-11T07:51:54Z",
-      "updated_at": "2026-09-12"
+      "updated_at": "2026-09-13"
     },
     "4pwn/NXJS-ARCH": {
       "metadata": {
@@ -38272,6 +38272,54 @@
       },
       "pushed_at": "2026-08-11T07:53:06Z",
       "updated_at": "2026-08-11"
+    },
+    "hixtty/moemail-telegram-bot": {
+      "metadata": {
+        "full_name": "hixtty/moemail-telegram-bot",
+        "name": "moemail-telegram-bot",
+        "owner": "hixtty",
+        "description": "这是一个基于 Cloudflare Workers 的 Telegram 机器人， 提供临时邮箱管理服务，支持创建、查看、删除临时邮箱，并提供实时邮件通知功能。 邮箱服务基于Moemail。",
+        "stars": 2,
+        "language": "JavaScript",
+        "url": "https://github.com/hixtty/moemail-telegram-bot",
+        "homepage": "",
+        "topics": [],
+        "pushed_at": "2025-10-15T21:53:03Z",
+        "updated_at": "2025-10-15T21:53:07Z",
+        "starred_at": "2025-10-03T13:07:37Z"
+      },
+      "summary": {
+        "zh": "生成失败",
+        "en": "Generation failed",
+        "tags_zh": [],
+        "tags_en": []
+      },
+      "pushed_at": "2025-10-15T21:53:03Z",
+      "updated_at": "2026-09-13"
+    },
+    "hixtty/domain-manage": {
+      "metadata": {
+        "full_name": "hixtty/domain-manage",
+        "name": "domain-manage",
+        "owner": "hixtty",
+        "description": "一个现代化的域名管理工具，基于 Cloudflare Workers 和 D1 数据库构建，帮助你统一管理多个域名的注册商、托管商、到期时间等信息，并提供自动化的 Telegram 到期提醒功能",
+        "stars": 2,
+        "language": "JavaScript",
+        "url": "https://github.com/hixtty/domain-manage",
+        "homepage": "https://demo.vibo.qzz.io/",
+        "topics": [],
+        "pushed_at": "2025-12-04T02:14:09Z",
+        "updated_at": "2025-12-04T02:14:12Z",
+        "starred_at": "2025-11-29T20:36:36Z"
+      },
+      "summary": {
+        "zh": "生成失败",
+        "en": "Generation failed",
+        "tags_zh": [],
+        "tags_en": []
+      },
+      "pushed_at": "2025-12-04T02:14:09Z",
+      "updated_at": "2026-09-13"
     }
   }
 }
