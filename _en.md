@@ -1,6 +1,6 @@
 # ⭐ GitHub Stars Index
 
-> Updated: 2026-09-13 13:14 UTC · Total: 178
+> Updated: 2026-09-14 14:55 UTC · Total: 178
 
 ---
 
@@ -199,7 +199,7 @@
 ## MayDay-wpf/snow-cli
 
 > [!info]
-> ⭐ 1,061 · TypeScript · 2026-09-12T05:14:35Z  
+> ⭐ 1,060 · TypeScript · 2026-09-14T13:25:46Z  
 > [GitHub](https://github.com/MayDay-wpf/snow-cli)  
 > `#AI 智能体` `#Code Automation` `#Terminal Tool` `#ai` `#ai-agents` `#ai-coding` 
 > Snow AI CLI is an agentic coding tool for the terminal, enabling intelligent code generation, vulnerability scanning, and async task management. With command injection, sub-agent configuration, and hook automation, it offers a customizable AI-driven development workflow for building, reviewing, and optimizing code efficiently.
@@ -317,7 +317,7 @@
 ## MGdaasLab/WHartTest
 
 > [!info]
-> ⭐ 1,034 · Python · 2026-09-11T07:50:41Z  
+> ⭐ 1,035 · Python · 2026-09-14T02:37:11Z  
 > [GitHub](https://github.com/MGdaasLab/WHartTest) · [Website](https://wharttest.mgdaas.com/)  
 > `#AI 智能体` `#Django` `#Test Automation` `#ai-test-platform` `#ai-testing` `#automated-testing` `#browser-automation` `#intelligent-testing` `#test-case-generation` 
 > WHartTest is an AI-driven test automation platform built on Django REST Framework and modern LLMs, integrating LangChain and MCP protocol. It enables automated generation of structured test cases from requirements via natural language understanding, semantic knowledge retrieval, and multi-model embedding support. Features include UI/APP automation, MCP tool integration, risk analysis, and full lifecycle test case management for enhanced efficiency and coverage.
@@ -347,7 +347,7 @@
 ## Chevey339/kelivo
 
 > [!info]
-> ⭐ 3,921 · Dart · 2026-09-13T11:03:39Z  
+> ⭐ 3,926 · Dart · 2026-09-14T13:21:23Z  
 > [GitHub](https://github.com/Chevey339/kelivo) · [Website](https://kelivo.psycheas.top)  
 > `#AI 智能体` `#Cross-Platform` `#Flutter` `#ai` `#android` `#chatbot` `#chatbox` `#flutter` `#flutter-apps` `#harmony` `#harmonyos` `#ios` `#llm` `#openharmony` 
 > Kelivo is a cross-platform LLM chat client built with Flutter, supporting mobile (Android/iOS/Harmony) and desktop (Windows/macOS/Linux). It features modern Material You design, multi-language support, integration with major AI providers, MCP tools, web search, TTS, Markdown rendering, and custom fonts for an intelligent conversational experience.
@@ -357,7 +357,7 @@
 ## DigitalPlatDev/FreeDomain
 
 > [!info]
-> ⭐ 199,093 · Markdown · 2026-09-13T12:43:35Z  
+> ⭐ 199,370 · Markdown · 2026-09-14T14:55:36Z  
 > [GitHub](https://github.com/DigitalPlatDev/FreeDomain) · [Website](https://domain.digitalplat.org)  
 > `#Digital Identity` `#Domain Service` `#Free Domain` `#digitalplat` `#dns` `#dns-tutorial` `#documentation` `#domain` `#domain-platform` `#domain-registration` `#domainname` `#domains` `#education` `#free` `#free-domain` `#freedomain` `#internet-infrastructure` `#nameserver` 
 > DigitalPlat FreeDomain offers free domain registration for individuals and organizations with exclusive extensions like .DPDNS.ORG and .US.KG. Built and maintained by Edward Hsing, founder of DigitalPlat Foundation, it integrates seamlessly with popular DNS providers such as Cloudflare. With over 400,000 domains registered, it empowers users to establish a digital presence at zero cost, promoting open access to the web.
@@ -718,7 +718,7 @@
 ## hangwin/mcp-chrome
 
 > [!info]
-> ⭐ 12,406 · TypeScript · 2026-09-13T12:09:22Z  
+> ⭐ 12,408 · TypeScript · 2026-09-14T14:30:34Z  
 > [GitHub](https://github.com/hangwin/mcp-chrome)  
 > `#AI 智能体` `#Browser Automation` `#Semantic Search` 
 > Chrome MCP Server is a Chrome extension-based Model Context Protocol (MCP) server that exposes browser functionality to AI assistants like Claude, enabling complex automation, content analysis, and semantic search. It leverages your existing Chrome browser with preserved login states and settings, supports 20+ tools, offers local streamable HTTP communication, and features SIMD-accelerated vector database for intelligent tab content discovery.
@@ -738,7 +738,7 @@
 ## talex-touch/tuff
 
 > [!info]
-> ⭐ 285 · TypeScript · 2026-09-13T11:34:59Z  
+> ⭐ 285 · TypeScript · 2026-09-14T02:05:47Z  
 > [GitHub](https://github.com/talex-touch/tuff) · [Website](https://tuff.tagzxia.com)  
 > `#AI Large Model` `#Command Center` `#Plugin System` `#桌面应用` `#bar` `#command` `#electron` `#launcher` `#raycast` `#tools` `#typescript` `#utools` `#vite` `#vue` 
 > Tuff is a local-first, AI-native desktop command center built on a sandboxed architecture. It enables fast app/file search, plugin extensibility, clipboard management, and direct preview calculations. Supports BYO LLM for privacy and offers a unified download center with progress tracking.
@@ -834,7 +834,7 @@
 ## cokice/japanese-analyzer
 
 > [!info]
-> ⭐ 804 · TypeScript · 2026-09-12T04:06:13Z  
+> ⭐ 803 · TypeScript · 2026-09-13T13:48:43Z  
 > [GitHub](https://github.com/cokice/japanese-analyzer) · [Website](https://nihongodemo.howen.ink/)  
 > `#AI LLM` `#Japanese Learning` `#Web Application` 
 > AI-powered Japanese sentence analyzer using Gemini Flash model, designed for Chinese learners. Features intelligent syntax parsing, OCR text extraction, TTS pronunciation, bilingual translation, dark mode, and customizable API key deployment with password protection.
@@ -1155,7 +1155,7 @@
 ## ZHangZHengEric/Sage
 
 > [!info]
-> ⭐ 1,215 · Python · 2026-09-13T05:42:20Z  
+> ⭐ 1,215 · Python · 2026-09-14T13:27:46Z  
 > [GitHub](https://github.com/ZHangZHengEric/Sage) · [Website](https://zhangzhengeric.github.io/Sage/)  
 > `#AI Agents` `#Multi-Agent System` `#Task Orchestration` `#agents` `#ai` `#llm` `#manus` `#muilt-agents` `#workflow` 
 > Sage is a production-ready multi-agent framework enabling complex task orchestration, model capability maximization, and secure sandbox execution. It features a visual workbench, OpenTelemetry tracing, MCP protocol support, and cross-platform desktop apps for intelligent collaboration and automation.
@@ -1283,7 +1283,7 @@
 ## kadidalax/cf-vps-monitor
 
 > [!info]
-> ⭐ 919 · TypeScript · 2026-09-13T07:48:59Z  
+> ⭐ 924 · TypeScript · 2026-09-14T11:46:58Z  
 > [GitHub](https://github.com/kadidalax/cf-vps-monitor)  
 > `#Cloudflare Worker` `#DevOps Automation` `#Server Monitoring` 
 > A lightweight VPS probe and website monitoring panel built on Cloudflare Workers and D1 database, deployable without a dedicated server. It enables real-time server status collection, website uptime checks, responsive UI, admin dashboard, Telegram alerts, and customizable themes.
@@ -1363,7 +1363,7 @@
 ## tbphp/gpt-load
 
 > [!info]
-> ⭐ 6,714 · Go · 2026-09-13T12:35:47Z  
+> ⭐ 6,738 · Go · 2026-09-14T14:22:14Z  
 > [GitHub](https://github.com/tbphp/gpt-load) · [Website](https://www.gpt-load.com)  
 > `#AI Proxy` `#API Gateway` `#Key Management` `#Load Balancing` `#ai-gateway` `#anthropic` `#api-gateway` `#claude` `#claude-code` `#codex` `#gemini` `#gin` `#go` `#golang` `#llm` `#llm-gateway` `#load-balancer` `#openai` `#self-hosted` 
 > GPT-Load is a high-performance, enterprise-grade transparent proxy service for AI APIs, designed for developers and enterprises integrating multiple AI services. Built with Go, it features intelligent key rotation, load balancing, automatic failure recovery, hot-reload configuration, and comprehensive monitoring. Supports OpenAI, Google Gemini, and Anthropic Claude APIs with a Vue 3 management interface.
@@ -1463,7 +1463,7 @@
 ## FLC-ytfl/Traffic_sign_object_detection--Using-the-Huawei-Ascend--
 
 > [!info]
-> ⭐ 69 · Python · 2026-08-29T02:19:54Z  
+> ⭐ 70 · Python · 2026-09-14T11:03:53Z  
 > [GitHub](https://github.com/FLC-ytfl/Traffic_sign_object_detection--Using-the-Huawei-Ascend--)  
 > `#AI Large Model` `#Ascend NPU Deployment` `#YOLOv8` 
 > This project implements traffic sign object detection using an enhanced YOLOv8 model with custom modules like DCCAttention and LGAFB for improved accuracy. It supports efficient deployment on Huawei Ascend 310/310B4 NPU via a full PyTorch→ONNX→OM conversion pipeline, alongside advanced data augmentation techniques including low-light simulation and noise injection to boost robustness in challenging environments.
@@ -1542,7 +1542,7 @@
 ## drl990114/MarkFlowy
 
 > [!info]
-> ⭐ 2,389 · TypeScript · 2026-09-13T01:37:08Z  
+> ⭐ 2,391 · TypeScript · 2026-09-14T13:17:41Z  
 > [GitHub](https://github.com/drl990114/MarkFlowy) · [Website](https://www.markflowy.cc)  
 > `#AI 智能体` `#Markdown Editor` `#桌面应用` `#ai` `#chatgpt` `#deepseek` `#editor` `#linux-app` `#macos-app` `#markdown` `#markdowneditor` `#notes-app` `#prosemirror` `#reactjs` `#rust-lang` `#tauri` `#typescript` `#windows-app` 
 > MarkFlowy is a modern, intelligent Markdown editor built with Tauri for lightweight performance (<20MB). It features integrated AI (Copilot, translation, summarization), multi-mode editing (source/WYSIWYG), Prosemirror core, custom themes, and cross-platform support. Designed for efficient writing, document management, and content creation.
@@ -1618,7 +1618,7 @@
 ## ling-drag0n/CloudPaste
 
 > [!info]
-> ⭐ 2,670 · JavaScript · 2026-09-13T09:42:31Z  
+> ⭐ 2,671 · JavaScript · 2026-09-14T07:45:09Z  
 > [GitHub](https://github.com/ling-drag0n/CloudPaste) · [Website](https://doc.cloudpaste.qzz.io)  
 > `#File Management` `#Multi-Storage Integration` `#Serverless Architecture` `#cloudflare` `#cloudflare-workers` `#docker` `#file-browser` `#huggingface` `#markdown` `#onedrive` `#s3` `#telegram` `#telegrambot` `#webdav` 
 > CloudPaste is a serverless file management and text sharing tool built on Cloudflare Workers, supporting multi-storage aggregation (S3, WebDAV, OneDrive, Google Drive, etc.), online preview for 30+ file formats, and WebDAV mounting. It features an integrated Markdown editor with real-time preview and export to PDF/HTML, deployable via Docker or Cloudflare Workers.
@@ -1687,7 +1687,7 @@
 ## Cunninger/my-ai-agent
 
 > [!info]
-> ⭐ 155 · Java · 2026-09-12T15:24:11Z  
+> ⭐ 156 · Java · 2026-09-13T13:51:18Z  
 > [GitHub](https://github.com/Cunninger/my-ai-agent)  
 > `#AI 智能体` `#RAG Knowledge Base` `#Spring AI` 
 > My AI Agent is an intelligent proxy service built on Spring Boot and Spring AI, integrating Alibaba Cloud Lingji large models to support conversation memory, multimodal interaction, and RAG-based knowledge base Q&A. It features a modular architecture with autonomous AI agents (ReAct pattern), image search MCP services, and PGVector vector retrieval, enabling decision-making and tool invocation for advanced human-AI interaction.
@@ -1782,7 +1782,7 @@
 ## Dainoar/SuperAutoStudy
 
 > [!info]
-> ⭐ 665 · Java · 2026-09-13T12:37:13Z  
+> ⭐ 666 · Java · 2026-09-14T02:07:52Z  
 > [GitHub](https://github.com/Dainoar/SuperAutoStudy)  
 > `#AI-Powered Q&A` `#Education Automation` `#SpringBoot Microservices` `#java` `#llm` `#springboot` 
 > SuperAutoStudy is an open-source, self-deployable automation platform for Chaoxing Learning Platform, built on Spring Boot + Dubbo + RabbitMQ. It supports multi-speed video playback, auto-answering via a million-level Super Q&A database and AI models, with distributed task scheduling and Redis caching. Features Docker Compose deployment for ARM/x86.
@@ -1811,7 +1811,7 @@
 ## sopaco/saga-reader
 
 > [!info]
-> ⭐ 534 · Rust · 2026-09-09T00:33:48Z  
+> ⭐ 535 · Rust · 2026-09-14T13:07:35Z  
 > [GitHub](https://github.com/sopaco/saga-reader) · [Website](https://aiqino.netlify.app/)  
 > `#AI 智能体` `#Desktop Application` `#Rust` `#desktop` `#llm` `#reader` `#rust` `#svelte` `#tauri` 
 > Saga Reader is a blazing-fast, lightweight cross-platform internet reader powered by AI. Built with Rust, Tauri & Svelte, it automatically retrieves content based on user-defined keywords using cloud or local LLMs for summarization and interactive AI discussions, offering a secure, ad-free, and fully open-source reading experience across Windows, Mac, and Linux.

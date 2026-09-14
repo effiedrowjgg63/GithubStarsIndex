@@ -1,6 +1,6 @@
 # ⭐ GitHub Stars Index
 
-> Updated: 2026-09-13 13:14 UTC · Total: 178
+> Updated: 2026-09-14 14:55 UTC · Total: 178
 
 ---
 
@@ -199,7 +199,7 @@
 ## MayDay-wpf/snow-cli
 
 > [!info]
-> ⭐ 1,061 · TypeScript · 2026-09-12T05:14:35Z  
+> ⭐ 1,060 · TypeScript · 2026-09-14T13:25:46Z  
 > [GitHub](https://github.com/MayDay-wpf/snow-cli)  
 > `#AI智能体` `#代码自动化` `#终端工具` `#ai` `#ai-agents` `#ai-coding` 
 > Snow AI CLI 是一款终端 Agentic 编程工具，支持智能代码生成、漏洞检测、异步任务管理和 LSP 集成。通过命令注入、子代理配置和钩子自动化，提供高度可定制的 AI 编码体验，适用于开发者快速构建、审查和优化代码。
@@ -317,7 +317,7 @@
 ## MGdaasLab/WHartTest
 
 > [!info]
-> ⭐ 1,034 · Python · 2026-09-11T07:50:41Z  
+> ⭐ 1,035 · Python · 2026-09-14T02:37:11Z  
 > [GitHub](https://github.com/MGdaasLab/WHartTest) · [Website](https://wharttest.mgdaas.com/)  
 > `#AI智能体` `#Django` `#测试自动化` `#ai-test-platform` `#ai-testing` `#automated-testing` `#browser-automation` `#intelligent-testing` `#test-case-generation` 
 > WHartTest 是基于 Django REST Framework 和现代大模型技术构建的 AI 驱动测试自动化平台，集成 LangChain 与 MCP 协议，支持从需求文档自动生成结构化测试用例。平台具备知识库语义检索、UI/APP 自动化执行、MCP 工具调用及多模型嵌入服务适配能力，提供端到端的智能测试管理解决方案，显著提升测试效率与覆盖率。
@@ -347,7 +347,7 @@
 ## Chevey339/kelivo
 
 > [!info]
-> ⭐ 3,921 · Dart · 2026-09-13T11:03:39Z  
+> ⭐ 3,926 · Dart · 2026-09-14T13:21:23Z  
 > [GitHub](https://github.com/Chevey339/kelivo) · [Website](https://kelivo.psycheas.top)  
 > `#AI智能体` `#Flutter` `#跨平台` `#ai` `#android` `#chatbot` `#chatbox` `#flutter` `#flutter-apps` `#harmony` `#harmonyos` `#ios` `#llm` `#openharmony` 
 > Kelivo 是一款基于 Flutter 开发的跨平台 LLM 聊天客户端，支持移动端（Android/iOS/Harmony）和桌面端（Windows/macOS/Linux）。具备现代化 Material You 设计、多语言支持、多 AI 服务商接入、MCP 工具集成、网页搜索、语音合成、Markdown 渲染及自定义字体等功能，提供高效智能对话体验。
@@ -357,7 +357,7 @@
 ## DigitalPlatDev/FreeDomain
 
 > [!info]
-> ⭐ 199,093 · Markdown · 2026-09-13T12:43:35Z  
+> ⭐ 199,370 · Markdown · 2026-09-14T14:55:36Z  
 > [GitHub](https://github.com/DigitalPlatDev/FreeDomain) · [Website](https://domain.digitalplat.org)  
 > `#免费域名` `#域名服务` `#数字身份` `#digitalplat` `#dns` `#dns-tutorial` `#documentation` `#domain` `#domain-platform` `#domain-registration` `#domainname` `#domains` `#education` `#free` `#free-domain` `#freedomain` `#internet-infrastructure` `#nameserver` 
 > DigitalPlat FreeDomain 是一个面向个人和组织的免费域名注册平台，提供 .DPDNS.ORG、.US.KG 等专属后缀域名，支持与主流 DNS 服务商（如 Cloudflare）无缝集成。项目由 DigitalPlat Foundation 创始人 Edward Hsing 独立开发维护，已服务超 40 万用户，致力于降低网络接入门槛，推动互联网开放包容。
@@ -718,7 +718,7 @@
 ## hangwin/mcp-chrome
 
 > [!info]
-> ⭐ 12,406 · TypeScript · 2026-09-13T12:09:22Z  
+> ⭐ 12,408 · TypeScript · 2026-09-14T14:30:34Z  
 > [GitHub](https://github.com/hangwin/mcp-chrome)  
 > `#AI智能体` `#浏览器自动化` `#语义搜索` 
 > Chrome MCP Server 是一款基于 Chrome 扩展的 Model Context Protocol (MCP) 服务器，将浏览器功能暴露给 Claude 等 AI 助手，实现复杂浏览器自动化、内容分析与语义搜索。它直接利用用户现有 Chrome 环境，保留登录状态与配置，支持 20+ 工具，提供本地流式 HTTP 通信，并集成 SIMD 加速的向量数据库，实现智能跨标签页语义检索。
@@ -738,7 +738,7 @@
 ## talex-touch/tuff
 
 > [!info]
-> ⭐ 285 · TypeScript · 2026-09-13T11:34:59Z  
+> ⭐ 285 · TypeScript · 2026-09-14T02:05:47Z  
 > [GitHub](https://github.com/talex-touch/tuff) · [Website](https://tuff.tagzxia.com)  
 > `#AI大模型` `#命令中心` `#插件系统` `#桌面应用` `#bar` `#command` `#electron` `#launcher` `#raycast` `#tools` `#typescript` `#utools` `#vite` `#vue` 
 > Tuff 是一个基于沙箱架构的本地优先、AI原生桌面命令中心，提供快速应用与文件搜索、插件化扩展、多窗口管理等功能。支持自定义 LLM 接入，具备统一下载中心与上下文智能建议，旨在无缝集成用户工作流。
@@ -834,7 +834,7 @@
 ## cokice/japanese-analyzer
 
 > [!info]
-> ⭐ 804 · TypeScript · 2026-09-12T04:06:13Z  
+> ⭐ 803 · TypeScript · 2026-09-13T13:48:43Z  
 > [GitHub](https://github.com/cokice/japanese-analyzer) · [Website](https://nihongodemo.howen.ink/)  
 > `#AI大模型` `#日语学习` `#网页应用` 
 > 基于 Gemini Flash 大模型的日语句子深度解析工具，专为中文学习者设计。支持智能句法标注、OCR图像识别、TTS朗读、整句翻译等功能，提供词性标注、假名转换、罗马音与中文释义，界面支持暗黑模式与密码保护，可自定义API密钥实现私有化部署。
@@ -1155,7 +1155,7 @@
 ## ZHangZHengEric/Sage
 
 > [!info]
-> ⭐ 1,215 · Python · 2026-09-13T05:42:20Z  
+> ⭐ 1,215 · Python · 2026-09-14T13:27:46Z  
 > [GitHub](https://github.com/ZHangZHengEric/Sage) · [Website](https://zhangzhengeric.github.io/Sage/)  
 > `#AI智能体` `#任务编排` `#多智能体系统` `#agents` `#ai` `#llm` `#manus` `#muilt-agents` `#workflow` 
 > Sage 是一个生产级多智能体框架，支持任务编排、模型能力最大化及安全沙箱执行。提供可视化工作台、OpenTelemetry 全链路追踪、MCP 协议集成和跨平台桌面应用，适用于复杂任务的智能协作与自动化处理。
@@ -1283,7 +1283,7 @@
 ## kadidalax/cf-vps-monitor
 
 > [!info]
-> ⭐ 919 · TypeScript · 2026-09-13T07:48:59Z  
+> ⭐ 924 · TypeScript · 2026-09-14T11:46:58Z  
 > [GitHub](https://github.com/kadidalax/cf-vps-monitor)  
 > `#Cloudflare Worker` `#VPS监控` `#运维自动化` 
 > 基于 Cloudflare Worker 和 D1 数据库构建的轻量级 VPS 探针与网站监控面板，无需自建服务器即可部署。支持实时采集服务器状态、检测网站可用性，并提供响应式前端界面与后台管理功能，集成 Telegram 通知及自定义主题配置。
@@ -1363,7 +1363,7 @@
 ## tbphp/gpt-load
 
 > [!info]
-> ⭐ 6,714 · Go · 2026-09-13T12:35:47Z  
+> ⭐ 6,738 · Go · 2026-09-14T14:22:14Z  
 > [GitHub](https://github.com/tbphp/gpt-load) · [Website](https://www.gpt-load.com)  
 > `#AI智能代理` `#API网关` `#密钥管理` `#负载均衡` `#ai-gateway` `#anthropic` `#api-gateway` `#claude` `#claude-code` `#codex` `#gemini` `#gin` `#go` `#golang` `#llm` `#llm-gateway` `#load-balancer` `#openai` `#self-hosted` 
 > GPT-Load 是一个高性能企业级 AI API 透明代理服务，专为需要集成多 AI 服务的开发者和企业设计。基于 Go 构建，具备智能密钥轮询、负载均衡、故障自动恢复、动态配置热重载等特性，支持 OpenAI、Google Gemini、Anthropic Claude 等多种 AI 服务格式，提供完整的监控和管理界面。
@@ -1463,7 +1463,7 @@
 ## FLC-ytfl/Traffic_sign_object_detection--Using-the-Huawei-Ascend--
 
 > [!info]
-> ⭐ 69 · Python · 2026-08-29T02:19:54Z  
+> ⭐ 70 · Python · 2026-09-14T11:03:53Z  
 > [GitHub](https://github.com/FLC-ytfl/Traffic_sign_object_detection--Using-the-Huawei-Ascend--)  
 > `#AI大模型` `#YOLOv8` `#昇腾NPU部署` 
 > 本项目基于改进版 YOLOv8，集成自研注意力机制与特征融合模块（如 DCCAttention、LGAFB），显著提升交通标志检测精度。支持华为昇腾 Ascend 310/310B4 NPU 部署，提供完整 PyTorch→ONNX→OM 模型转换流程，并配备多通道低照度数据增强技术，增强模型在复杂环境下的鲁棒性。
@@ -1542,7 +1542,7 @@
 ## drl990114/MarkFlowy
 
 > [!info]
-> ⭐ 2,389 · TypeScript · 2026-09-13T01:37:08Z  
+> ⭐ 2,391 · TypeScript · 2026-09-14T13:17:41Z  
 > [GitHub](https://github.com/drl990114/MarkFlowy) · [Website](https://www.markflowy.cc)  
 > `#AI智能体` `#Markdown编辑器` `#桌面应用` `#ai` `#chatgpt` `#deepseek` `#editor` `#linux-app` `#macos-app` `#markdown` `#markdowneditor` `#notes-app` `#prosemirror` `#reactjs` `#rust-lang` `#tauri` `#typescript` `#windows-app` 
 > MarkFlowy 是一款现代化智能 Markdown 编辑器，基于 Tauri 框架开发，体积小巧（<20MB）且性能优异。核心功能包括内置 AI 助手（支持 Copilot、翻译、摘要）、多模式编辑（源码/WYSIWYG）、Prosemirror 引擎、多语言支持及自定义主题。适用于高效写作、文档管理和跨平台内容创作。
@@ -1618,7 +1618,7 @@
 ## ling-drag0n/CloudPaste
 
 > [!info]
-> ⭐ 2,670 · JavaScript · 2026-09-13T09:42:31Z  
+> ⭐ 2,671 · JavaScript · 2026-09-14T07:45:09Z  
 > [GitHub](https://github.com/ling-drag0n/CloudPaste) · [Website](https://doc.cloudpaste.qzz.io)  
 > `#多存储聚合` `#文件管理` `#无服务器架构` `#cloudflare` `#cloudflare-workers` `#docker` `#file-browser` `#huggingface` `#markdown` `#onedrive` `#s3` `#telegram` `#telegrambot` `#webdav` 
 > CloudPaste 是一个基于 Cloudflare Workers 的无服务器文件管理与文本分享工具，支持多存储聚合（S3、WebDAV、OneDrive、Google Drive 等），提供 30+ 文件格式在线预览及 WebDAV 挂载功能。内置 Markdown 编辑器，支持实时预览与导出，兼容 Docker 部署，适用于个人或企业轻量化云盘场景。
@@ -1687,7 +1687,7 @@
 ## Cunninger/my-ai-agent
 
 > [!info]
-> ⭐ 155 · Java · 2026-09-12T15:24:11Z  
+> ⭐ 156 · Java · 2026-09-13T13:51:18Z  
 > [GitHub](https://github.com/Cunninger/my-ai-agent)  
 > `#AI智能体` `#RAG知识库` `#Spring AI` 
 > My AI Agent 是基于 Spring Boot 和 Spring AI 构建的智能代理服务，集成阿里云灵积大模型，支持对话记忆、多模态交互及 RAG 知识库问答。项目采用模块化设计，包含智能代理（ReAct 模式）、图像搜索 MCP 服务、PGVector 向量检索等核心能力，实现自主决策与工具调用，提供高效的人机交互体验。
@@ -1782,7 +1782,7 @@
 ## Dainoar/SuperAutoStudy
 
 > [!info]
-> ⭐ 665 · Java · 2026-09-13T12:37:13Z  
+> ⭐ 666 · Java · 2026-09-14T02:07:52Z  
 > [GitHub](https://github.com/Dainoar/SuperAutoStudy)  
 > `#AI智能答题` `#SpringBoot微服务` `#教育自动化` `#java` `#llm` `#springboot` 
 > SuperAutoStudy 是基于 Spring Boot + Dubbo + RabbitMQ 的分布式超星学习通自动化刷课平台，支持多级倍速播放、断点续学和智能答题。集成百万级 Super 题库与大模型技术，具备高并发任务调度能力，提供 Docker 一键部署方案，适用于个人自部署与二次开发。
@@ -1811,7 +1811,7 @@
 ## sopaco/saga-reader
 
 > [!info]
-> ⭐ 534 · Rust · 2026-09-09T00:33:48Z  
+> ⭐ 535 · Rust · 2026-09-14T13:07:35Z  
 > [GitHub](https://github.com/sopaco/saga-reader) · [Website](https://aiqino.netlify.app/)  
 > `#AI智能体` `#Rust` `#桌面应用` `#desktop` `#llm` `#reader` `#rust` `#svelte` `#tauri` 
 > Saga Reader 是一款由 AI 驱动的极速轻量级跨平台网络阅读器，基于 Rust、Tauri 和 Svelte 构建。它通过智能订阅关键词自动抓取全网信息，利用本地或云端大模型进行内容摘要与 AI 互动，提供沉浸式阅读体验，支持 Windows、Mac 和 Linux，完全开源免费且数据本地化存储。
