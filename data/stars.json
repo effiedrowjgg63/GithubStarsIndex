@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-16 13:21 UTC",
+  "last_updated": "2026-09-17 13:17 UTC",
   "repos": {
     "waoowaooAI/waoowaoo": {
       "metadata": {
@@ -3097,7 +3097,7 @@
         "name": "gpt-load",
         "owner": "tbphp",
         "description": "Self-hosted AI gateway for multi-channel, multi-credential setups — API keys and subscription accounts, scheduling, failover, request logs and usage. 自托管 AI 网关：多渠道多凭据统一接入，含密钥与订阅账号、调度容错、日志与用量。",
-        "stars": 6790,
+        "stars": 6812,
         "language": "Go",
         "url": "https://github.com/tbphp/gpt-load",
         "homepage": "https://www.gpt-load.com",
@@ -3118,8 +3118,8 @@
           "openai",
           "self-hosted"
         ],
-        "pushed_at": "2026-09-16T12:38:35Z",
-        "updated_at": "2026-09-16T13:16:57Z",
+        "pushed_at": "2026-09-17T13:12:14Z",
+        "updated_at": "2026-09-17T13:12:20Z",
         "starred_at": "2025-06-18T04:14:43Z"
       },
       "summary": {
@@ -4429,13 +4429,13 @@
         "name": "mcp-chrome",
         "owner": "hangwin",
         "description": "Chrome MCP Server is a Chrome extension-based Model Context Protocol (MCP) server that exposes your Chrome browser functionality to AI assistants like Claude, enabling complex browser automation, content analysis, and semantic search.",
-        "stars": 12424,
+        "stars": 12427,
         "language": "TypeScript",
         "url": "https://github.com/hangwin/mcp-chrome",
         "homepage": "",
         "topics": [],
         "pushed_at": "2026-01-06T13:05:39Z",
-        "updated_at": "2026-09-16T11:56:32Z",
+        "updated_at": "2026-09-17T11:39:50Z",
         "starred_at": "2025-08-25T14:40:10Z"
       },
       "summary": {
@@ -31333,8 +31333,8 @@
           "ai-agents",
           "ai-coding"
         ],
-        "pushed_at": "2026-09-15T07:57:03Z",
-        "updated_at": "2026-09-16T09:15:04Z",
+        "pushed_at": "2026-09-17T03:10:58Z",
+        "updated_at": "2026-09-17T03:11:02Z",
         "starred_at": "2025-11-23T10:29:17Z"
       },
       "summary": {
@@ -31797,7 +31797,7 @@
         "name": "kelivo",
         "owner": "Chevey339",
         "description": "A Flutter LLM Chat Client. Support Mobile & Desktop.",
-        "stars": 3950,
+        "stars": 3965,
         "language": "Dart",
         "url": "https://github.com/Chevey339/kelivo",
         "homepage": "https://kelivo.psycheas.top",
@@ -31814,8 +31814,8 @@
           "llm",
           "openharmony"
         ],
-        "pushed_at": "2026-09-15T10:01:33Z",
-        "updated_at": "2026-09-16T08:06:34Z",
+        "pushed_at": "2026-09-17T13:14:08Z",
+        "updated_at": "2026-09-17T13:14:14Z",
         "starred_at": "2025-10-28T08:02:47Z"
       },
       "summary": {
@@ -31841,7 +31841,7 @@
         "name": "FreeDomain",
         "owner": "DigitalPlatDev",
         "description": "Free domain registration and practical DNS learning resources for everyone.",
-        "stars": 199640,
+        "stars": 199809,
         "language": "Markdown",
         "url": "https://github.com/DigitalPlatDev/FreeDomain",
         "homepage": "https://dashboard.digitalplat.org",
@@ -31863,7 +31863,7 @@
           "nameserver"
         ],
         "pushed_at": "2026-08-12T10:36:46Z",
-        "updated_at": "2026-09-16T13:20:33Z",
+        "updated_at": "2026-09-17T13:15:41Z",
         "starred_at": "2025-10-26T08:03:55Z"
       },
       "summary": {
@@ -32160,7 +32160,7 @@
           "lm"
         ],
         "pushed_at": "2026-06-19T14:22:10Z",
-        "updated_at": "2026-09-16T03:29:49Z",
+        "updated_at": "2026-09-16T14:09:29Z",
         "starred_at": "2025-10-02T04:30:36Z"
       },
       "summary": {
@@ -33265,8 +33265,8 @@
           "vite",
           "vue"
         ],
-        "pushed_at": "2026-09-16T13:17:05Z",
-        "updated_at": "2026-09-16T12:36:56Z",
+        "pushed_at": "2026-09-17T09:47:30Z",
+        "updated_at": "2026-09-17T09:47:33Z",
         "starred_at": "2025-08-25T03:56:43Z"
       },
       "summary": {
@@ -33459,13 +33459,13 @@
         "name": "Cloudflare-BestIP",
         "owner": "IonRh",
         "description": "将优选IP推送到CF、阿里云、DNSpod、华为云DNS进行DNS解析，定期延时检测，web页面展示等",
-        "stars": 492,
+        "stars": 494,
         "language": "JavaScript",
         "url": "https://github.com/IonRh/Cloudflare-BestIP",
         "homepage": "",
         "topics": [],
         "pushed_at": "2026-08-05T01:14:48Z",
-        "updated_at": "2026-09-15T02:57:53Z",
+        "updated_at": "2026-09-17T05:52:10Z",
         "starred_at": "2025-07-29T22:25:25Z"
       },
       "summary": {
@@ -33623,7 +33623,7 @@
           "vscode",
           "vscode-extensions"
         ],
-        "pushed_at": "2026-09-16T11:51:59Z",
+        "pushed_at": "2026-09-17T11:01:12Z",
         "updated_at": "2026-09-15T03:51:13Z",
         "starred_at": "2025-07-26T17:07:22Z"
       },
@@ -35310,13 +35310,13 @@
         "name": "cf-vps-monitor",
         "owner": "kadidalax",
         "description": "用cloudflare worker搭建的vps探针+网站检测 面板，部署简单，不需要服务器。",
-        "stars": 925,
+        "stars": 924,
         "language": "TypeScript",
         "url": "https://github.com/kadidalax/cf-vps-monitor",
         "homepage": "",
         "topics": [],
         "pushed_at": "2026-09-12T14:49:23Z",
-        "updated_at": "2026-09-16T06:36:01Z",
+        "updated_at": "2026-09-17T01:40:54Z",
         "starred_at": "2025-06-18T16:04:51Z"
       },
       "summary": {
@@ -35968,8 +35968,8 @@
         "url": "https://github.com/w0xking/w0xking.github.io",
         "homepage": "https://w0xking-github-io.vercel.app",
         "topics": [],
-        "pushed_at": "2026-09-16T12:53:26Z",
-        "updated_at": "2026-09-16T12:53:32Z",
+        "pushed_at": "2026-09-17T10:21:08Z",
+        "updated_at": "2026-09-17T10:21:13Z",
         "starred_at": "2025-06-18T17:44:05Z"
       },
       "summary": {
@@ -36123,7 +36123,7 @@
         "name": "MarkFlowy",
         "owner": "drl990114",
         "description": "A high-performance, cross-platform editor that supports WYSIWYG Markdown and general text editing.",
-        "stars": 2392,
+        "stars": 2393,
         "language": "TypeScript",
         "url": "https://github.com/drl990114/MarkFlowy",
         "homepage": "https://www.markflowy.cc",
@@ -36145,7 +36145,7 @@
           "windows-app"
         ],
         "pushed_at": "2026-09-15T15:07:11Z",
-        "updated_at": "2026-09-16T09:41:37Z",
+        "updated_at": "2026-09-16T18:50:12Z",
         "starred_at": "2025-06-10T21:09:44Z"
       },
       "summary": {
@@ -36579,7 +36579,7 @@
         "name": "easy-6digit-domains",
         "owner": "lost66668888",
         "description": "长期更新阿里云6位10年靓号！有需要的自取",
-        "stars": 358,
+        "stars": 359,
         "language": "Python",
         "url": "https://github.com/lost66668888/easy-6digit-domains",
         "homepage": "",
@@ -36593,7 +36593,7 @@
           "xyz-domain-name"
         ],
         "pushed_at": "2025-10-18T09:34:33Z",
-        "updated_at": "2026-09-11T08:20:03Z",
+        "updated_at": "2026-09-17T05:21:32Z",
         "starred_at": "2025-06-09T02:37:43Z"
       },
       "summary": {
@@ -36715,13 +36715,13 @@
         "name": "my-ai-agent",
         "owner": "Cunninger",
         "description": "My AI Agent 是一个基于 Spring Boot 和 Spring AI 框架构建的智能代理服务，集成了现代大模型能力，提供对话记忆、多模态交互等功能。本项目通过整合阿里云灵积大模型服务，实现了RAG、MCP的等主流功能",
-        "stars": 156,
+        "stars": 157,
         "language": "Java",
         "url": "https://github.com/Cunninger/my-ai-agent",
         "homepage": "",
         "topics": [],
         "pushed_at": "2025-09-24T11:22:35Z",
-        "updated_at": "2026-09-13T13:51:18Z",
+        "updated_at": "2026-09-17T07:58:18Z",
         "starred_at": "2025-06-08T08:29:20Z"
       },
       "summary": {
@@ -37035,7 +37035,7 @@
         "name": "SuperAutoStudy",
         "owner": "Dainoar",
         "description": "超星学习通/学习通/泛雅学习通自动云端刷课的Springboot项目,支持多级倍速播放和自动答题，已接入Super题库+大模型答题。",
-        "stars": 677,
+        "stars": 678,
         "language": "Java",
         "url": "https://github.com/Dainoar/SuperAutoStudy",
         "homepage": "",
@@ -37045,7 +37045,7 @@
           "springboot"
         ],
         "pushed_at": "2026-07-14T04:15:38Z",
-        "updated_at": "2026-09-16T11:44:57Z",
+        "updated_at": "2026-09-16T13:30:21Z",
         "starred_at": "2025-06-07T17:41:38Z"
       },
       "summary": {
@@ -37663,7 +37663,7 @@
           "weaviate"
         ],
         "pushed_at": "2026-07-17T13:36:09Z",
-        "updated_at": "2026-09-16T03:25:32Z",
+        "updated_at": "2026-09-17T10:02:00Z",
         "starred_at": "2025-11-09T06:43:19Z"
       },
       "summary": {
@@ -38058,7 +38058,7 @@
         "tags_en": []
       },
       "pushed_at": "2026-06-16T15:48:58Z",
-      "updated_at": "2026-09-16"
+      "updated_at": "2026-09-17"
     },
     "flechazo-crushed/webmeta-cli": {
       "metadata": {
@@ -38082,7 +38082,7 @@
         "tags_en": []
       },
       "pushed_at": "2026-05-05T02:47:54Z",
-      "updated_at": "2026-09-16"
+      "updated_at": "2026-09-17"
     },
     "fastbyte19/terraform-docker-postgresql": {
       "metadata": {
@@ -38106,7 +38106,7 @@
         "tags_en": []
       },
       "pushed_at": "2026-07-27T10:33:47Z",
-      "updated_at": "2026-09-16"
+      "updated_at": "2026-09-17"
     },
     "fastbyte19/Solana-NFT-Marketplace-by-CandyMachine": {
       "metadata": {
@@ -38149,7 +38149,7 @@
         "tags_en": []
       },
       "pushed_at": "2025-11-21T01:15:31Z",
-      "updated_at": "2026-09-16"
+      "updated_at": "2026-09-17"
     },
     "fastbyte18/terraform-docker-postgresql": {
       "metadata": {
@@ -38245,7 +38245,7 @@
         "tags_en": []
       },
       "pushed_at": "2026-08-11T07:51:54Z",
-      "updated_at": "2026-09-16"
+      "updated_at": "2026-09-17"
     },
     "4pwn/NXJS-ARCH": {
       "metadata": {
@@ -38263,7 +38263,7 @@
           "next-auth"
         ],
         "pushed_at": "2026-08-11T07:53:06Z",
-        "updated_at": "2026-09-11T08:39:24Z",
+        "updated_at": "2026-09-17T08:43:36Z",
         "starred_at": "2025-10-23T21:08:06Z"
       },
       "summary": {
@@ -38295,7 +38295,7 @@
         "tags_en": []
       },
       "pushed_at": "2025-10-15T21:53:03Z",
-      "updated_at": "2026-09-16"
+      "updated_at": "2026-09-17"
     },
     "hixtty/domain-manage": {
       "metadata": {
@@ -38319,7 +38319,7 @@
         "tags_en": []
       },
       "pushed_at": "2025-12-04T02:14:09Z",
-      "updated_at": "2026-09-16"
+      "updated_at": "2026-09-17"
     }
   }
 }
