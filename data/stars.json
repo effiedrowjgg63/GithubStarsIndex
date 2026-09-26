@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-25 13:32 UTC",
+  "last_updated": "2026-09-26 12:55 UTC",
   "repos": {
     "waoowaooAI/waoowaoo": {
       "metadata": {
@@ -3097,7 +3097,7 @@
         "name": "gpt-load",
         "owner": "tbphp",
         "description": "Self-hosted AI gateway for multi-channel, multi-credential setups — API keys and subscription accounts, scheduling, failover, request logs and usage. 自托管 AI 网关：多渠道多凭据统一接入，含密钥与订阅账号、调度容错、日志与用量。",
-        "stars": 6983,
+        "stars": 6986,
         "language": "Go",
         "url": "https://github.com/tbphp/gpt-load",
         "homepage": "https://www.gpt-load.com",
@@ -3118,8 +3118,8 @@
           "openai",
           "self-hosted"
         ],
-        "pushed_at": "2026-09-25T10:08:13Z",
-        "updated_at": "2026-09-25T13:32:27Z",
+        "pushed_at": "2026-09-26T12:47:45Z",
+        "updated_at": "2026-09-26T12:42:18Z",
         "starred_at": "2025-06-18T04:14:43Z"
       },
       "summary": {
@@ -4429,13 +4429,13 @@
         "name": "mcp-chrome",
         "owner": "hangwin",
         "description": "Chrome MCP Server is a Chrome extension-based Model Context Protocol (MCP) server that exposes your Chrome browser functionality to AI assistants like Claude, enabling complex browser automation, content analysis, and semantic search.",
-        "stars": 12453,
+        "stars": 12452,
         "language": "TypeScript",
         "url": "https://github.com/hangwin/mcp-chrome",
         "homepage": "",
         "topics": [],
         "pushed_at": "2026-01-06T13:05:39Z",
-        "updated_at": "2026-09-25T11:02:04Z",
+        "updated_at": "2026-09-26T10:03:12Z",
         "starred_at": "2025-08-25T14:40:10Z"
       },
       "summary": {
@@ -31567,7 +31567,7 @@
         "name": "freephdlabor",
         "owner": "ltjed",
         "description": "freephdlabor: customizing personalized multiagent systems that researchs 24/7 on your own scientific problem",
-        "stars": 727,
+        "stars": 728,
         "language": "Python",
         "url": "https://github.com/ltjed/freephdlabor",
         "homepage": "https://freephdlabor.github.io/",
@@ -31579,7 +31579,7 @@
           "research-automation"
         ],
         "pushed_at": "2026-09-03T18:28:58Z",
-        "updated_at": "2026-09-24T20:33:33Z",
+        "updated_at": "2026-09-26T05:57:45Z",
         "starred_at": "2025-11-09T08:28:04Z"
       },
       "summary": {
@@ -31669,7 +31669,7 @@
           "test-case-generation"
         ],
         "pushed_at": "2026-09-22T02:38:15Z",
-        "updated_at": "2026-09-24T06:05:24Z",
+        "updated_at": "2026-09-26T07:25:55Z",
         "starred_at": "2025-11-09T01:37:27Z"
       },
       "summary": {
@@ -31797,7 +31797,7 @@
         "name": "kelivo",
         "owner": "Chevey339",
         "description": "A Flutter LLM Chat Client. Support Mobile & Desktop.",
-        "stars": 4040,
+        "stars": 4047,
         "language": "Dart",
         "url": "https://github.com/Chevey339/kelivo",
         "homepage": "https://kelivo.psycheas.top",
@@ -31815,7 +31815,7 @@
           "openharmony"
         ],
         "pushed_at": "2026-09-22T10:32:50Z",
-        "updated_at": "2026-09-25T10:50:49Z",
+        "updated_at": "2026-09-26T10:12:03Z",
         "starred_at": "2025-10-28T08:02:47Z"
       },
       "summary": {
@@ -31841,7 +31841,7 @@
         "name": "FreeDomain",
         "owner": "DigitalPlatDev",
         "description": "Free domain registration and practical DNS learning resources for everyone.",
-        "stars": 201085,
+        "stars": 201213,
         "language": "Markdown",
         "url": "https://github.com/DigitalPlatDev/FreeDomain",
         "homepage": "https://dashboard.digitalplat.org",
@@ -31863,7 +31863,7 @@
           "nameserver"
         ],
         "pushed_at": "2026-08-12T10:36:46Z",
-        "updated_at": "2026-09-25T13:26:33Z",
+        "updated_at": "2026-09-26T12:54:26Z",
         "starred_at": "2025-10-26T08:03:55Z"
       },
       "summary": {
@@ -33265,8 +33265,8 @@
           "vite",
           "vue"
         ],
-        "pushed_at": "2026-09-25T13:29:05Z",
-        "updated_at": "2026-09-25T13:27:15Z",
+        "pushed_at": "2026-09-26T11:10:48Z",
+        "updated_at": "2026-09-26T11:11:01Z",
         "starred_at": "2025-08-25T03:56:43Z"
       },
       "summary": {
@@ -33623,7 +33623,7 @@
           "vscode",
           "vscode-extensions"
         ],
-        "pushed_at": "2026-09-25T02:23:04Z",
+        "pushed_at": "2026-09-25T16:07:10Z",
         "updated_at": "2026-09-24T16:29:36Z",
         "starred_at": "2025-07-26T17:07:22Z"
       },
@@ -34776,7 +34776,7 @@
         "name": "Sage",
         "owner": "ZHangZHengEric",
         "description": "Multi-Agent System Framework For Complex Tasks",
-        "stars": 1216,
+        "stars": 1211,
         "language": "Python",
         "url": "https://github.com/ZHangZHengEric/Sage",
         "homepage": "https://zhangzhengeric.github.io/Sage/",
@@ -34789,7 +34789,7 @@
           "workflow"
         ],
         "pushed_at": "2026-09-24T07:53:49Z",
-        "updated_at": "2026-09-24T14:11:36Z",
+        "updated_at": "2026-09-25T22:14:14Z",
         "starred_at": "2025-06-20T12:41:29Z"
       },
       "summary": {
@@ -35374,7 +35374,7 @@
         "name": "Awesome-RL-for-Video-Generation",
         "owner": "wendell0218",
         "description": "A curated list of papers on reinforcement learning for video generation",
-        "stars": 590,
+        "stars": 591,
         "language": "N/A",
         "url": "https://github.com/wendell0218/Awesome-RL-for-Video-Generation",
         "homepage": "",
@@ -35387,7 +35387,7 @@
           "video-generation"
         ],
         "pushed_at": "2026-04-15T16:58:38Z",
-        "updated_at": "2026-09-18T16:57:09Z",
+        "updated_at": "2026-09-25T18:26:31Z",
         "starred_at": "2025-06-18T13:31:11Z"
       },
       "summary": {
@@ -35892,7 +35892,7 @@
         "name": "pixels",
         "owner": "pixelsdb",
         "description": "An efficient storage and compute engine for both on-prem and cloud-native data analytics.",
-        "stars": 920,
+        "stars": 921,
         "language": "Java",
         "url": "https://github.com/pixelsdb/pixels",
         "homepage": "",
@@ -35905,7 +35905,7 @@
           "olap"
         ],
         "pushed_at": "2026-09-18T02:07:00Z",
-        "updated_at": "2026-09-23T20:30:25Z",
+        "updated_at": "2026-09-26T07:32:03Z",
         "starred_at": "2025-06-12T18:48:23Z"
       },
       "summary": {
@@ -36144,7 +36144,7 @@
           "typescript",
           "windows-app"
         ],
-        "pushed_at": "2026-09-25T12:02:36Z",
+        "pushed_at": "2026-09-26T12:41:26Z",
         "updated_at": "2026-09-23T10:06:50Z",
         "starred_at": "2025-06-10T21:09:44Z"
       },
@@ -36471,7 +36471,7 @@
         "name": "CloudPaste",
         "owner": "ling-drag0n",
         "description": "🌩️ Serverless 自托管的文件管理与文本分享工具/网盘，支持多存储聚合管理和WebDAV 服务挂载。兼容 S3、WebDAV、OneDrive、Google Drive、Telegram、HF、GitHub 等。内置   Markdown 编辑器、30+文件格式预览。支持 Cloudflare Workers 或 Docker 部署。",
-        "stars": 2681,
+        "stars": 2682,
         "language": "JavaScript",
         "url": "https://github.com/ling-drag0n/CloudPaste",
         "homepage": "https://doc.cloudpaste.qzz.io",
@@ -36489,7 +36489,7 @@
           "webdav"
         ],
         "pushed_at": "2026-01-23T08:12:18Z",
-        "updated_at": "2026-09-24T01:50:53Z",
+        "updated_at": "2026-09-26T09:43:35Z",
         "starred_at": "2025-06-10T02:20:49Z"
       },
       "summary": {
@@ -37035,7 +37035,7 @@
         "name": "SuperAutoStudy",
         "owner": "Dainoar",
         "description": "超星学习通/学习通/泛雅学习通自动云端刷课的Springboot项目,支持多级倍速播放和自动答题，已接入Super题库+大模型答题。",
-        "stars": 691,
+        "stars": 694,
         "language": "Java",
         "url": "https://github.com/Dainoar/SuperAutoStudy",
         "homepage": "",
@@ -37045,7 +37045,7 @@
           "springboot"
         ],
         "pushed_at": "2026-07-14T04:15:38Z",
-        "updated_at": "2026-09-25T09:20:37Z",
+        "updated_at": "2026-09-26T12:10:23Z",
         "starred_at": "2025-06-07T17:41:38Z"
       },
       "summary": {
@@ -37636,7 +37636,7 @@
         "name": "openagent",
         "owner": "Haohao-end",
         "description": "What if OpenAI Deep Research and Dify were one platform? OpenAgent — harness architecture for rapidly building vertical AI agents, with deep reasoning loops, visual workflows, RAG, and A2A delegation. ",
-        "stars": 806,
+        "stars": 807,
         "language": "Python",
         "url": "https://github.com/Haohao-end/openagent",
         "homepage": "https://openllm.cloud",
@@ -37663,7 +37663,7 @@
           "weaviate"
         ],
         "pushed_at": "2026-07-17T13:36:09Z",
-        "updated_at": "2026-09-24T10:29:01Z",
+        "updated_at": "2026-09-25T18:54:11Z",
         "starred_at": "2025-11-09T06:43:19Z"
       },
       "summary": {
@@ -38058,7 +38058,7 @@
         "tags_en": []
       },
       "pushed_at": "2026-06-16T15:48:58Z",
-      "updated_at": "2026-09-25"
+      "updated_at": "2026-09-26"
     },
     "flechazo-crushed/webmeta-cli": {
       "metadata": {
@@ -38082,7 +38082,7 @@
         "tags_en": []
       },
       "pushed_at": "2026-05-05T02:47:54Z",
-      "updated_at": "2026-09-25"
+      "updated_at": "2026-09-26"
     },
     "fastbyte19/terraform-docker-postgresql": {
       "metadata": {
@@ -38106,7 +38106,7 @@
         "tags_en": []
       },
       "pushed_at": "2026-07-27T10:33:47Z",
-      "updated_at": "2026-09-25"
+      "updated_at": "2026-09-26"
     },
     "fastbyte19/Solana-NFT-Marketplace-by-CandyMachine": {
       "metadata": {
@@ -38149,7 +38149,7 @@
         "tags_en": []
       },
       "pushed_at": "2025-11-21T01:15:31Z",
-      "updated_at": "2026-09-25"
+      "updated_at": "2026-09-26"
     },
     "fastbyte18/terraform-docker-postgresql": {
       "metadata": {
@@ -38245,7 +38245,7 @@
         "tags_en": []
       },
       "pushed_at": "2026-08-11T07:51:54Z",
-      "updated_at": "2026-09-25"
+      "updated_at": "2026-09-26"
     },
     "4pwn/NXJS-ARCH": {
       "metadata": {
@@ -38295,7 +38295,7 @@
         "tags_en": []
       },
       "pushed_at": "2025-10-15T21:53:03Z",
-      "updated_at": "2026-09-25"
+      "updated_at": "2026-09-26"
     },
     "hixtty/domain-manage": {
       "metadata": {
@@ -38319,7 +38319,7 @@
         "tags_en": []
       },
       "pushed_at": "2025-12-04T02:14:09Z",
-      "updated_at": "2026-09-25"
+      "updated_at": "2026-09-26"
     }
   }
 }

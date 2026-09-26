@@ -1,6 +1,6 @@
 # ⭐ GitHub Stars Index
 
-> Updated: 2026-09-25 13:32 UTC · Total: 177
+> Updated: 2026-09-26 12:55 UTC · Total: 177
 
 ---
 
@@ -286,7 +286,7 @@
 ## ltjed/freephdlabor
 
 > [!info]
-> ⭐ 727 · Python · 2026-09-24T20:33:33Z  
+> ⭐ 728 · Python · 2026-09-26T05:57:45Z  
 > [GitHub](https://github.com/ltjed/freephdlabor) · [Website](https://freephdlabor.github.io/)  
 > `#AI智能体` `#多智能体系统` `#科学研究` `#自动化研究` `#ai-agents` `#ai4science` `#autonomous-agents` `#multiagent-systems` `#research-automation` 
 > freephdlabor 是一个开源多智能体框架，可自动化科学研究的完整生命周期，从假设生成到实验验证再到论文撰写。支持开箱即用和领域定制，具备动态工作流、人类协同干预及持续研究能力，适用于材料科学、生物学等跨学科研究场景。
@@ -296,7 +296,7 @@
 ## Haohao-end/openagent
 
 > [!info]
-> ⭐ 806 · Python · 2026-09-24T10:29:01Z  
+> ⭐ 807 · Python · 2026-09-25T18:54:11Z  
 > [GitHub](https://github.com/Haohao-end/openagent) · [Website](https://openllm.cloud)  
 > `#AI智能体` `#Docker部署` `#LangChain 框架` `#agent` `#ai` `#celery` `#deepagents` `#deepresearch` `#deepseek` `#docker` `#faiss-vector-database` `#flask` `#harness-engineering` `#langchain` `#langgraph` `#llmops` `#mcp` `#nginx` `#postgresql` `#skills` `#tailwindcss` `#vue` `#weaviate` 
 > OpenAgent 是一个端到端的 AI Agent 开发平台，支持 OpenAI、DeepSeek、文心一言等多模型接入，提供知识库管理、工作流自动化编排、对话历史检索等企业级功能。采用 Flask + Vue3 + LangChain 技术栈，内置 Docker 一键部署，具备实时通知、权限管控和向量检索能力。
@@ -316,7 +316,7 @@
 ## MGdaasLab/WHartTest
 
 > [!info]
-> ⭐ 1,048 · Python · 2026-09-24T06:05:24Z  
+> ⭐ 1,048 · Python · 2026-09-26T07:25:55Z  
 > [GitHub](https://github.com/MGdaasLab/WHartTest) · [Website](https://wharttest.mgdaas.com/)  
 > `#AI智能体` `#Django` `#测试自动化` `#ai-test-platform` `#ai-testing` `#automated-testing` `#browser-automation` `#intelligent-testing` `#test-case-generation` 
 > WHartTest 是基于 Django REST Framework 和现代大模型技术构建的 AI 驱动测试自动化平台，集成 LangChain 与 MCP 协议，支持从需求文档自动生成结构化测试用例。平台具备知识库语义检索、UI/APP 自动化执行、MCP 工具调用及多模型嵌入服务适配能力，提供端到端的智能测试管理解决方案，显著提升测试效率与覆盖率。
@@ -346,7 +346,7 @@
 ## Chevey339/kelivo
 
 > [!info]
-> ⭐ 4,040 · Dart · 2026-09-25T10:50:49Z  
+> ⭐ 4,047 · Dart · 2026-09-26T10:12:03Z  
 > [GitHub](https://github.com/Chevey339/kelivo) · [Website](https://kelivo.psycheas.top)  
 > `#AI智能体` `#Flutter` `#跨平台` `#ai` `#android` `#chatbot` `#chatbox` `#flutter` `#flutter-apps` `#harmony` `#harmonyos` `#ios` `#llm` `#openharmony` 
 > Kelivo 是一款基于 Flutter 开发的跨平台 LLM 聊天客户端，支持移动端（Android/iOS/Harmony）和桌面端（Windows/macOS/Linux）。具备现代化 Material You 设计、多语言支持、多 AI 服务商接入、MCP 工具集成、网页搜索、语音合成、Markdown 渲染及自定义字体等功能，提供高效智能对话体验。
@@ -356,7 +356,7 @@
 ## DigitalPlatDev/FreeDomain
 
 > [!info]
-> ⭐ 201,085 · Markdown · 2026-09-25T13:26:33Z  
+> ⭐ 201,213 · Markdown · 2026-09-26T12:54:26Z  
 > [GitHub](https://github.com/DigitalPlatDev/FreeDomain) · [Website](https://dashboard.digitalplat.org)  
 > `#免费域名` `#域名服务` `#数字身份` `#digitalplat` `#dns` `#dns-tutorial` `#documentation` `#domain` `#domain-platform` `#domain-registration` `#domainname` `#domains` `#education` `#free` `#free-domain` `#freedomain` `#internet-infrastructure` `#nameserver` 
 > DigitalPlat FreeDomain 是一个面向个人和组织的免费域名注册平台，提供 .DPDNS.ORG、.US.KG 等专属后缀域名，支持与主流 DNS 服务商（如 Cloudflare）无缝集成。项目由 DigitalPlat Foundation 创始人 Edward Hsing 独立开发维护，已服务超 40 万用户，致力于降低网络接入门槛，推动互联网开放包容。
@@ -717,7 +717,7 @@
 ## hangwin/mcp-chrome
 
 > [!info]
-> ⭐ 12,453 · TypeScript · 2026-09-25T11:02:04Z  
+> ⭐ 12,452 · TypeScript · 2026-09-26T10:03:12Z  
 > [GitHub](https://github.com/hangwin/mcp-chrome)  
 > `#AI智能体` `#浏览器自动化` `#语义搜索` 
 > Chrome MCP Server 是一款基于 Chrome 扩展的 Model Context Protocol (MCP) 服务器，将浏览器功能暴露给 Claude 等 AI 助手，实现复杂浏览器自动化、内容分析与语义搜索。它直接利用用户现有 Chrome 环境，保留登录状态与配置，支持 20+ 工具，提供本地流式 HTTP 通信，并集成 SIMD 加速的向量数据库，实现智能跨标签页语义检索。
@@ -737,7 +737,7 @@
 ## talex-touch/tuff
 
 > [!info]
-> ⭐ 285 · TypeScript · 2026-09-25T13:27:15Z  
+> ⭐ 285 · TypeScript · 2026-09-26T11:11:01Z  
 > [GitHub](https://github.com/talex-touch/tuff) · [Website](https://tuff.tagzxia.com)  
 > `#AI大模型` `#命令中心` `#插件系统` `#桌面应用` `#bar` `#command` `#electron` `#launcher` `#raycast` `#tools` `#typescript` `#utools` `#vite` `#vue` 
 > Tuff 是一个基于沙箱架构的本地优先、AI原生桌面命令中心，提供快速应用与文件搜索、插件化扩展、多窗口管理等功能。支持自定义 LLM 接入，具备统一下载中心与上下文智能建议，旨在无缝集成用户工作流。
@@ -1154,7 +1154,7 @@
 ## ZHangZHengEric/Sage
 
 > [!info]
-> ⭐ 1,216 · Python · 2026-09-24T14:11:36Z  
+> ⭐ 1,211 · Python · 2026-09-25T22:14:14Z  
 > [GitHub](https://github.com/ZHangZHengEric/Sage) · [Website](https://zhangzhengeric.github.io/Sage/)  
 > `#AI智能体` `#任务编排` `#多智能体系统` `#agents` `#ai` `#llm` `#manus` `#muilt-agents` `#workflow` 
 > Sage 是一个生产级多智能体框架，支持任务编排、模型能力最大化及安全沙箱执行。提供可视化工作台、OpenTelemetry 全链路追踪、MCP 协议集成和跨平台桌面应用，适用于复杂任务的智能协作与自动化处理。
@@ -1312,7 +1312,7 @@
 ## wendell0218/Awesome-RL-for-Video-Generation
 
 > [!info]
-> ⭐ 590 · N/A · 2026-09-18T16:57:09Z  
+> ⭐ 591 · N/A · 2026-09-25T18:26:31Z  
 > [GitHub](https://github.com/wendell0218/Awesome-RL-for-Video-Generation)  
 > `#AI智能体` `#强化学习` `#视频生成` `#dpo` `#grpo` `#ppo` `#reinforcement-learning` `#reward-model` `#video-generation` 
 > 该仓库系统梳理了强化学习在视频生成领域的最新研究进展，提供论文精选、方法分类与基准测试对比。核心亮点包括自动化的文献追踪系统（每日更新）、基于GRPO等策略的RL-Video-Gen框架，以及VideoGenBench等评估体系，为研究者提供从理论到实践的完整资源支持。
@@ -1352,7 +1352,7 @@
 ## tbphp/gpt-load
 
 > [!info]
-> ⭐ 6,983 · Go · 2026-09-25T13:32:27Z  
+> ⭐ 6,986 · Go · 2026-09-26T12:42:18Z  
 > [GitHub](https://github.com/tbphp/gpt-load) · [Website](https://www.gpt-load.com)  
 > `#AI智能代理` `#API网关` `#密钥管理` `#负载均衡` `#ai-gateway` `#anthropic` `#api-gateway` `#claude` `#claude-code` `#codex` `#gemini` `#gin` `#go` `#golang` `#llm` `#llm-gateway` `#load-balancer` `#openai` `#self-hosted` 
 > GPT-Load 是一个高性能企业级 AI API 透明代理服务，专为需要集成多 AI 服务的开发者和企业设计。基于 Go 构建，具备智能密钥轮询、负载均衡、故障自动恢复、动态配置热重载等特性，支持 OpenAI、Google Gemini、Anthropic Claude 等多种 AI 服务格式，提供完整的监控和管理界面。
@@ -1462,7 +1462,7 @@
 ## pixelsdb/pixels
 
 > [!info]
-> ⭐ 920 · Java · 2026-09-23T20:30:25Z  
+> ⭐ 921 · Java · 2026-09-26T07:32:03Z  
 > [GitHub](https://github.com/pixelsdb/pixels)  
 > `#列式存储` `#数据分析` `#数据存储` `#cloud-database` `#column-store` `#data-lake` `#data-warehouse` `#database` `#olap` 
 > Pixels是一个专为数据湖和数据仓库优化的列式存储引擎，支持S3、GCS、HDFS等多种云和本地存储系统。其性能较Parquet提升达两个数量级，已集成DuckDB、Trino、StarRocks等主流查询引擎，并自研了基于Trino的弹性MPP查询引擎Pixels-Turbo，结合Serverless架构实现高性能与成本效率的平衡。
@@ -1607,7 +1607,7 @@
 ## ling-drag0n/CloudPaste
 
 > [!info]
-> ⭐ 2,681 · JavaScript · 2026-09-24T01:50:53Z  
+> ⭐ 2,682 · JavaScript · 2026-09-26T09:43:35Z  
 > [GitHub](https://github.com/ling-drag0n/CloudPaste) · [Website](https://doc.cloudpaste.qzz.io)  
 > `#多存储聚合` `#文件管理` `#无服务器架构` `#cloudflare` `#cloudflare-workers` `#docker` `#file-browser` `#huggingface` `#markdown` `#onedrive` `#s3` `#telegram` `#telegrambot` `#webdav` 
 > CloudPaste 是一个基于 Cloudflare Workers 的无服务器文件管理与文本分享工具，支持多存储聚合（S3、WebDAV、OneDrive、Google Drive 等），提供 30+ 文件格式在线预览及 WebDAV 挂载功能。内置 Markdown 编辑器，支持实时预览与导出，兼容 Docker 部署，适用于个人或企业轻量化云盘场景。
@@ -1771,7 +1771,7 @@
 ## Dainoar/SuperAutoStudy
 
 > [!info]
-> ⭐ 691 · Java · 2026-09-25T09:20:37Z  
+> ⭐ 694 · Java · 2026-09-26T12:10:23Z  
 > [GitHub](https://github.com/Dainoar/SuperAutoStudy)  
 > `#AI智能答题` `#SpringBoot微服务` `#教育自动化` `#java` `#llm` `#springboot` 
 > SuperAutoStudy 是基于 Spring Boot + Dubbo + RabbitMQ 的分布式超星学习通自动化刷课平台，支持多级倍速播放、断点续学和智能答题。集成百万级 Super 题库与大模型技术，具备高并发任务调度能力，提供 Docker 一键部署方案，适用于个人自部署与二次开发。
