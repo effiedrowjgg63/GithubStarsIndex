@@ -1,6 +1,6 @@
 # ⭐ GitHub Stars Index
 
-> Updated: 2026-09-30 14:49 UTC · Total: 176
+> Updated: 2026-10-01 15:19 UTC · Total: 176
 
 ---
 
@@ -197,7 +197,7 @@
 ## MayDay-wpf/snow-cli
 
 > [!info]
-> ⭐ 1,062 · TypeScript · 2026-09-30T07:35:26Z  
+> ⭐ 1,063 · TypeScript · 2026-10-01T10:44:45Z  
 > [GitHub](https://github.com/MayDay-wpf/snow-cli)  
 > `#AI 智能体` `#Code Automation` `#Terminal Tool` `#ai` `#ai-agents` `#ai-coding` 
 > Snow AI CLI is an agentic coding tool for the terminal, enabling intelligent code generation, vulnerability scanning, and async task management. With command injection, sub-agent configuration, and hook automation, it offers a customizable AI-driven development workflow for building, reviewing, and optimizing code efficiently.
@@ -275,7 +275,7 @@
 ## Poseidon-fan/Gung
 
 > [!info]
-> ⭐ 369 · Rust · 2026-09-24T15:23:45Z  
+> ⭐ 361 · Rust · 2026-10-01T13:45:30Z  
 > [GitHub](https://github.com/Poseidon-fan/Gung)  
 > `#Intranet Penetration` `#Python Plugin` `#网络安全` `#intranet-penetration` `#network-programming` `#proxy` `#python-plugin` `#rust` `#tokio` 
 > Gung is an embedded intranet penetration tool that supports multiple transport protocols (TCP, QUIC, KCP, WebSocket) and proxy types (TCP, HTTP). It features a pluggable architecture with Python-based authentication and extensible plugin support for traffic analysis, ideal for secure remote access and network testing.
@@ -315,7 +315,7 @@
 ## MGdaasLab/WHartTest
 
 > [!info]
-> ⭐ 1,054 · Python · 2026-09-30T07:48:05Z  
+> ⭐ 1,055 · Python · 2026-10-01T07:35:08Z  
 > [GitHub](https://github.com/MGdaasLab/WHartTest) · [Website](https://wharttest.mgdaas.com/)  
 > `#AI 智能体` `#Django` `#Test Automation` `#ai-test-platform` `#ai-testing` `#automated-testing` `#browser-automation` `#intelligent-testing` `#test-case-generation` 
 > WHartTest is an AI-driven test automation platform built on Django REST Framework and modern LLMs, integrating LangChain and MCP protocol. It enables automated generation of structured test cases from requirements via natural language understanding, semantic knowledge retrieval, and multi-model embedding support. Features include UI/APP automation, MCP tool integration, risk analysis, and full lifecycle test case management for enhanced efficiency and coverage.
@@ -345,7 +345,7 @@
 ## Chevey339/kelivo
 
 > [!info]
-> ⭐ 4,090 · Dart · 2026-09-30T14:32:07Z  
+> ⭐ 4,096 · Dart · 2026-10-01T14:12:38Z  
 > [GitHub](https://github.com/Chevey339/kelivo) · [Website](https://kelivo.psycheas.top)  
 > `#AI 智能体` `#Cross-Platform` `#Flutter` `#ai` `#android` `#chatbot` `#chatbox` `#flutter` `#flutter-apps` `#harmony` `#harmonyos` `#ios` `#llm` `#openharmony` 
 > Kelivo is a cross-platform LLM chat client built with Flutter, supporting mobile (Android/iOS/Harmony) and desktop (Windows/macOS/Linux). It features modern Material You design, multi-language support, integration with major AI providers, MCP tools, web search, TTS, Markdown rendering, and custom fonts for an intelligent conversational experience.
@@ -355,7 +355,7 @@
 ## DigitalPlatDev/FreeDomain
 
 > [!info]
-> ⭐ 201,849 · Markdown · 2026-09-30T14:48:28Z  
+> ⭐ 201,998 · Markdown · 2026-10-01T15:13:07Z  
 > [GitHub](https://github.com/DigitalPlatDev/FreeDomain) · [Website](https://dashboard.digitalplat.org)  
 > `#Digital Identity` `#Domain Service` `#Free Domain` `#digitalplat` `#dns` `#dns-tutorial` `#documentation` `#domain` `#domain-platform` `#domain-registration` `#domainname` `#domains` `#education` `#free` `#free-domain` `#freedomain` `#internet-infrastructure` `#nameserver` 
 > DigitalPlat FreeDomain offers free domain registration for individuals and organizations with exclusive extensions like .DPDNS.ORG and .US.KG. Built and maintained by Edward Hsing, founder of DigitalPlat Foundation, it integrates seamlessly with popular DNS providers such as Cloudflare. With over 400,000 domains registered, it empowers users to establish a digital presence at zero cost, promoting open access to the web.
@@ -385,7 +385,7 @@
 ## 4pwn/NXJS-ARCH
 
 > [!info]
-> ⭐ 395 · JavaScript · 2026-09-29T13:06:51Z  
+> ⭐ 397 · JavaScript · 2026-10-01T05:42:02Z  
 > [GitHub](https://github.com/4pwn/NXJS-ARCH)  
 > `#architecture` `#docs` `#next-auth` 
 > 暂无描述。
@@ -463,7 +463,7 @@
 ## Deyweaver/DeyWeaver
 
 > [!info]
-> ⭐ 376 · TypeScript · 2026-09-21T19:08:56Z  
+> ⭐ 377 · TypeScript · 2026-09-30T16:30:30Z  
 > [GitHub](https://github.com/Deyweaver/DeyWeaver) · [Website](https://deyweaver.live)  
 > `#AI 智能体` `#Productivity Tool` `#Time Management` `#提示工程` `#ai-powered` `#calendar` `#daily-planner` `#organization-tool` `#personal-ai` `#productivity` `#task-manager` 
 > DeyWeaver is an AI-powered task planner that structures your day using smart scheduling. It generates personalized daily plans via natural language input, intelligently breaks down tasks, reschedules dynamically, and offers productivity analytics including completion tracking and burnout prediction powered by Google Gemini.
@@ -579,7 +579,7 @@
 ## Moonrend/ZeroCat
 
 > [!info]
-> ⭐ 356 · JavaScript · 2026-09-12T15:06:01Z  
+> ⭐ 356 · JavaScript · 2026-10-01T10:35:49Z  
 > [GitHub](https://github.com/Moonrend/ZeroCat) · [Website](https://zerocat.dev)  
 > `#Node.js` `#Open Source Collaboration` `#Programming Community` `#code` `#community` `#scratch` 
 > ZeroCat is a next-generation, open-source programming community built with Node.js, aiming to create a fully open collaborative coding environment. Initiated by Sunwuyuan, it emphasizes community contribution and follows the Contributor Covenant code of conduct under AGPLv3 licensing, encouraging participation via GitHub issues or pull requests.
@@ -599,7 +599,7 @@
 ## bitlap/sbt-dependency-analyzer
 
 > [!info]
-> ⭐ 82 · Scala · 2026-09-25T04:24:31Z  
+> ⭐ 82 · Scala · 2026-10-01T05:14:32Z  
 > [GitHub](https://github.com/bitlap/sbt-dependency-analyzer) · [Website](https://plugins.jetbrains.com/plugin/22427-sbt-dependency-analyzer)  
 > `#Dependency Analysis` `#IDE Plugin` `#SBT Tool` `#dependency-analysis` `#dependency-tree` `#java` `#jetbrains-plugin` `#sbt` `#scala` 
 > The Sbt Dependency Analyzer plugin offers powerful visual tools for managing and troubleshooting SBT project dependencies in IntelliJ-based IDEs. It features dependency tree visualization, conflict detection, inter-module analysis, JAR size indicators, and navigation to declarations, enhancing dependency management efficiency.
@@ -716,7 +716,7 @@
 ## hangwin/mcp-chrome
 
 > [!info]
-> ⭐ 12,456 · TypeScript · 2026-09-30T13:22:02Z  
+> ⭐ 12,458 · TypeScript · 2026-10-01T12:21:00Z  
 > [GitHub](https://github.com/hangwin/mcp-chrome)  
 > `#AI 智能体` `#Browser Automation` `#Semantic Search` 
 > Chrome MCP Server is a Chrome extension-based Model Context Protocol (MCP) server that exposes browser functionality to AI assistants like Claude, enabling complex automation, content analysis, and semantic search. It leverages your existing Chrome browser with preserved login states and settings, supports 20+ tools, offers local streamable HTTP communication, and features SIMD-accelerated vector database for intelligent tab content discovery.
@@ -736,7 +736,7 @@
 ## talex-touch/tuff
 
 > [!info]
-> ⭐ 285 · TypeScript · 2026-09-29T22:23:43Z  
+> ⭐ 285 · TypeScript · 2026-10-01T04:45:26Z  
 > [GitHub](https://github.com/talex-touch/tuff) · [Website](https://tuff.tagzxia.com)  
 > `#AI Large Model` `#Command Center` `#Plugin System` `#桌面应用` `#bar` `#command` `#electron` `#launcher` `#raycast` `#tools` `#typescript` `#utools` `#vite` `#vue` 
 > Tuff is a local-first, AI-native desktop command center built on a sandboxed architecture. It enables fast app/file search, plugin extensibility, clipboard management, and direct preview calculations. Supports BYO LLM for privacy and offers a unified download center with progress tracking.
@@ -755,7 +755,7 @@
 ## William-Liwei/ccfonline
 
 > [!info]
-> ⭐ 286 · HTML · 2026-09-21T19:08:58Z  
+> ⭐ 286 · JavaScript · 2026-10-01T03:16:55Z  
 > [GitHub](https://github.com/William-Liwei/ccfonline)  
 > `#Academic Information` `#Conferences & Journals` `#Data Query` 
 > CCF Online is an online platform specializing in computer science conference and journal information, offering key data such as submission deadlines, acceptance rates, and impact factors. It supports multi-dimensional filtering and visualization to help researchers efficiently plan academic activities.
@@ -1202,7 +1202,7 @@
 ## lumia431/reaction
 
 > [!info]
-> ⭐ 612 · C++ · 2026-09-28T08:22:47Z  
+> ⭐ 611 · C++ · 2026-10-01T06:17:24Z  
 > [GitHub](https://github.com/lumia431/reaction)  
 > `#C++20` `#High-Performance Computing` `#Reactive Programming` `#modern-cpp` `#mvvm-framework` `#reactive-programming` `#template-meta-programming` `#ui-dataflow` 
 > Reaction is a blazing-fast, modern C++20 header-only reactive framework that brings React/Vue-style dataflow to native C++. It features zero-cost abstractions via compile-time computation, automatic dependency tracking with DAG-based propagation, and multi-threading support, making it ideal for UI dataflow, game logic, financial services, and real-time calculations.
@@ -1341,7 +1341,7 @@
 ## tbphp/gpt-load
 
 > [!info]
-> ⭐ 7,020 · Go · 2026-09-30T14:23:40Z  
+> ⭐ 7,022 · Go · 2026-10-01T13:31:51Z  
 > [GitHub](https://github.com/tbphp/gpt-load) · [Website](https://www.gpt-load.com)  
 > `#AI Proxy` `#API Gateway` `#Key Management` `#Load Balancing` `#ai-gateway` `#anthropic` `#api-gateway` `#claude` `#claude-code` `#codex` `#gemini` `#gin` `#go` `#golang` `#llm` `#llm-gateway` `#load-balancer` `#openai` `#self-hosted` 
 > GPT-Load is a high-performance, enterprise-grade transparent proxy service for AI APIs, designed for developers and enterprises integrating multiple AI services. Built with Go, it features intelligent key rotation, load balancing, automatic failure recovery, hot-reload configuration, and comprehensive monitoring. Supports OpenAI, Google Gemini, and Anthropic Claude APIs with a Vue 3 management interface.
@@ -1480,7 +1480,7 @@
 ## superorange0707/Fuzzy_Diabetes
 
 > [!info]
-> ⭐ 110 · Jupyter Notebook · 2026-09-04T16:57:23Z  
+> ⭐ 105 · Jupyter Notebook · 2026-10-01T13:39:29Z  
 > [GitHub](https://github.com/superorange0707/Fuzzy_Diabetes)  
 > `#AI 智能体` `#Health Prediction` `#机器学习` 
 > Fuzzy Diabetes is an intelligent diabetes risk prediction tool based on fuzzy logic, integrating KNN, SVM, Random Forest, and ANFIS models. It takes four key health metrics from users to deliver real-time risk assessment with interactive visualizations, batch processing, and CSV export, serving as a research-backed medical decision support system.
@@ -1596,7 +1596,7 @@
 ## ling-drag0n/CloudPaste
 
 > [!info]
-> ⭐ 2,687 · JavaScript · 2026-09-30T04:52:37Z  
+> ⭐ 2,688 · JavaScript · 2026-10-01T08:22:41Z  
 > [GitHub](https://github.com/ling-drag0n/CloudPaste) · [Website](https://doc.cloudpaste.qzz.io)  
 > `#File Management` `#Multi-Storage Integration` `#Serverless Architecture` `#cloudflare` `#cloudflare-workers` `#docker` `#file-browser` `#huggingface` `#markdown` `#onedrive` `#s3` `#telegram` `#telegrambot` `#webdav` 
 > CloudPaste is a serverless file management and text sharing tool built on Cloudflare Workers, supporting multi-storage aggregation (S3, WebDAV, OneDrive, Google Drive, etc.), online preview for 30+ file formats, and WebDAV mounting. It features an integrated Markdown editor with real-time preview and export to PDF/HTML, deployable via Docker or Cloudflare Workers.
@@ -1760,7 +1760,7 @@
 ## Dainoar/SuperAutoStudy
 
 > [!info]
-> ⭐ 702 · Java · 2026-09-30T01:04:04Z  
+> ⭐ 704 · Java · 2026-10-01T10:16:13Z  
 > [GitHub](https://github.com/Dainoar/SuperAutoStudy)  
 > `#AI-Powered Q&A` `#Education Automation` `#SpringBoot Microservices` `#java` `#llm` `#springboot` 
 > SuperAutoStudy is an open-source, self-deployable automation platform for Chaoxing Learning Platform, built on Spring Boot + Dubbo + RabbitMQ. It supports multi-speed video playback, auto-answering via a million-level Super Q&A database and AI models, with distributed task scheduling and Redis caching. Features Docker Compose deployment for ARM/x86.
@@ -1888,7 +1888,7 @@
 ## Yoan98/Ncurator
 
 > [!info]
-> ⭐ 141 · HTML · 2026-09-10T09:19:59Z  
+> ⭐ 141 · HTML · 2026-10-01T01:37:56Z  
 > [GitHub](https://github.com/Yoan98/Ncurator)  
 > `#AI 智能体` `#Local Knowledge Base` `#Privacy Protection` `#浏览器插件` 
 > Ncurator (馆长) is a privacy-focused local knowledge base AI assistant running as a browser extension. It supports importing PDFs, web pages, and bookmarks to build personal knowledge bases, enabling intelligent Q&A and semantic search via local LLMs. All data is stored locally for enhanced privacy, with full offline functionality and zero cost.
