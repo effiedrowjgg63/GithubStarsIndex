@@ -1,6 +1,6 @@
 # ⭐ GitHub Stars Index
 
-> Updated: 2026-10-01 15:19 UTC · Total: 176
+> Updated: 2026-10-02 14:38 UTC · Total: 176
 
 ---
 
@@ -245,7 +245,7 @@
 ## Johonsoy/SmartStashDB
 
 > [!info]
-> ⭐ 339 · Go · 2026-09-28T08:22:45Z  
+> ⭐ 338 · Go · 2026-10-02T01:00:32Z  
 > [GitHub](https://github.com/Johonsoy/SmartStashDB)  
 > `#LSM-Tree` `#数据库` `#高性能存储` `#golang` `#kv-store` `#lsm-tree` `#write-ahead-logging` 
 > SmartStashDB 是一款基于 Go 语言开发的高性能键值存储数据库，采用 LSM-Tree、跳表和 WAL 技术，专为高吞吐量和低延迟场景设计。具备数据持久化、内存高效索引和自动压缩等特性，适用于需要可扩展可靠存储的应用系统。
@@ -335,7 +335,7 @@
 ## Moonrend/Classworks
 
 > [!info]
-> ⭐ 351 · Vue · 2026-09-29T18:00:47Z  
+> ⭐ 351 · Vue · 2026-10-02T13:19:59Z  
 > [GitHub](https://github.com/Moonrend/Classworks) · [Website](https://cs.houlang.cloud)  
 > `#Web应用` `#教育科技` `#课堂管理工具` `#edu` `#education` `#educational` `#educational-project` `#educational-software` 
 > Classworks 是一款专为班级大屏设计的作业板工具，支持实时展示和管理学生作业。基于 Node.js 和 pnpm 构建，提供简洁的 Web 界面，便于教师快速发布任务、跟踪进度，提升课堂互动效率。
@@ -345,7 +345,7 @@
 ## Chevey339/kelivo
 
 > [!info]
-> ⭐ 4,096 · Dart · 2026-10-01T14:12:38Z  
+> ⭐ 4,104 · Dart · 2026-10-02T12:13:41Z  
 > [GitHub](https://github.com/Chevey339/kelivo) · [Website](https://kelivo.psycheas.top)  
 > `#AI智能体` `#Flutter` `#跨平台` `#ai` `#android` `#chatbot` `#chatbox` `#flutter` `#flutter-apps` `#harmony` `#harmonyos` `#ios` `#llm` `#openharmony` 
 > Kelivo 是一款基于 Flutter 开发的跨平台 LLM 聊天客户端，支持移动端（Android/iOS/Harmony）和桌面端（Windows/macOS/Linux）。具备现代化 Material You 设计、多语言支持、多 AI 服务商接入、MCP 工具集成、网页搜索、语音合成、Markdown 渲染及自定义字体等功能，提供高效智能对话体验。
@@ -355,7 +355,7 @@
 ## DigitalPlatDev/FreeDomain
 
 > [!info]
-> ⭐ 201,998 · Markdown · 2026-10-01T15:13:07Z  
+> ⭐ 202,171 · Markdown · 2026-10-02T14:36:06Z  
 > [GitHub](https://github.com/DigitalPlatDev/FreeDomain) · [Website](https://dashboard.digitalplat.org)  
 > `#免费域名` `#域名服务` `#数字身份` `#digitalplat` `#dns` `#dns-tutorial` `#documentation` `#domain` `#domain-platform` `#domain-registration` `#domainname` `#domains` `#education` `#free` `#free-domain` `#freedomain` `#internet-infrastructure` `#nameserver` 
 > DigitalPlat FreeDomain 是一个面向个人和组织的免费域名注册平台，提供 .DPDNS.ORG、.US.KG 等专属后缀域名，支持与主流 DNS 服务商（如 Cloudflare）无缝集成。项目由 DigitalPlat Foundation 创始人 Edward Hsing 独立开发维护，已服务超 40 万用户，致力于降低网络接入门槛，推动互联网开放包容。
@@ -579,7 +579,7 @@
 ## Moonrend/ZeroCat
 
 > [!info]
-> ⭐ 356 · JavaScript · 2026-10-01T10:35:49Z  
+> ⭐ 355 · JavaScript · 2026-10-02T01:03:01Z  
 > [GitHub](https://github.com/Moonrend/ZeroCat) · [Website](https://zerocat.dev)  
 > `#Node.js` `#开源协作` `#编程社区` `#code` `#community` `#scratch` 
 > ZeroCat 零猫社区是一个新一代开源编程社区平台，基于 Node.js 开发，致力于构建全开源的编程协作环境。项目由孙悟元发起并维护，强调社区贡献与规范，采用 AGPLv3 协议开源，支持用户通过 Issue 或 PR 参与共建。
@@ -639,7 +639,7 @@
 ## yangtao177938/xos
 
 > [!info]
-> ⭐ 178 · CMake · 2026-07-24T12:01:27Z  
+> ⭐ 177 · CMake · 2026-10-02T01:02:57Z  
 > [GitHub](https://github.com/yangtao177938/xos)  
 > `#跨平台` `#输入共享` `#远程桌面` 
 > Deskflow 是一款开源的键盘鼠标共享工具，支持跨设备无缝控制，实现类 KVM 功能但无需视频传输。具备 TLS 加密、Wayland 兼容和剪贴板同步等特性，由 Synergy 团队赞助开发，社区驱动维护，提供多平台安装包及持续集成构建版本。
@@ -716,7 +716,7 @@
 ## hangwin/mcp-chrome
 
 > [!info]
-> ⭐ 12,458 · TypeScript · 2026-10-01T12:21:00Z  
+> ⭐ 12,458 · TypeScript · 2026-10-02T11:41:51Z  
 > [GitHub](https://github.com/hangwin/mcp-chrome)  
 > `#AI智能体` `#浏览器自动化` `#语义搜索` 
 > Chrome MCP Server 是一款基于 Chrome 扩展的 Model Context Protocol (MCP) 服务器，将浏览器功能暴露给 Claude 等 AI 助手，实现复杂浏览器自动化、内容分析与语义搜索。它直接利用用户现有 Chrome 环境，保留登录状态与配置，支持 20+ 工具，提供本地流式 HTTP 通信，并集成 SIMD 加速的向量数据库，实现智能跨标签页语义检索。
@@ -755,7 +755,7 @@
 ## William-Liwei/ccfonline
 
 > [!info]
-> ⭐ 286 · JavaScript · 2026-10-01T03:16:55Z  
+> ⭐ 286 · JavaScript · 2026-10-02T06:46:57Z  
 > [GitHub](https://github.com/William-Liwei/ccfonline)  
 > `#会议期刊` `#学术信息` `#数据查询` 
 > CCF Online是一个专注于计算机领域学术会议与期刊信息的在线查询平台，提供会议截稿时间、录用率、期刊影响因子等关键数据，支持多维度筛选与可视化展示，助力学者高效规划学术活动。
@@ -784,7 +784,7 @@
 ## yluiop123/orange
 
 > [!info]
-> ⭐ 505 · TypeScript · 2026-09-28T08:22:50Z  
+> ⭐ 504 · TypeScript · 2026-10-02T01:02:55Z  
 > [GitHub](https://github.com/yluiop123/orange) · [Website](https://yluiop123.github.io/orange/)  
 > `#ShadCN` `#前后端分离` `#管理后台` `#react-admin` `#shadcn` `#shadcn-admin` `#vite` 
 > ORANGE 是一个基于 ShadCN、Vite、React、Zustand 和 React Router 构建的现代化管理后台 UI，提供仪表盘、表单、图表等完整界面组件。前端采用 React 19 + Vite 6 架构，后端基于 Spring Boot 4.0.2 与 PostgreSQL，集成 JWT 安全认证和 OpenAPI 3.0 文档，支持国际化与 Mock API 开发。
@@ -804,7 +804,7 @@
 ## IonRh/Cloudflare-BestIP
 
 > [!info]
-> ⭐ 497 · JavaScript · 2026-09-28T08:22:45Z  
+> ⭐ 498 · JavaScript · 2026-10-02T11:11:02Z  
 > [GitHub](https://github.com/IonRh/Cloudflare-BestIP)  
 > `#DNS自动化` `#IP优选` `#网络优化` 
 > Cloudflare BestIP 是一款基于 Go 语言开发的高性能 IP 优选自动化工具，集成 XIU2/CloudflareSpeedTest 测速引擎，支持 IPv4/IPv6 双栈优选及多平台 DNS 自动更新（Cloudflare、阿里云、DNSPod、华为云），具备定时健康检测、Web 可视化展示和 Telegram 推送功能。
@@ -841,7 +841,7 @@
 ## JiayuXu0/FastAPI-Template
 
 > [!info]
-> ⭐ 521 · Python · 2026-09-30T06:55:14Z  
+> ⭐ 522 · Python · 2026-10-01T18:28:00Z  
 > [GitHub](https://github.com/JiayuXu0/FastAPI-Template) · [Website](https://jiayuxu0.github.io/FastAPI-Template/)  
 > `#FastAPI` `#企业应用` `#后端开发` `#api` `#async` `#authentication` `#boilerplate` `#database` `#fastapi` `#openapi` `#pydantic` `#python` `#starlette` `#swagger` `#template` `#uvicorn` 
 > 企业级FastAPI后端模板，采用三层架构设计，集成JWT认证、RBAC权限控制、Redis缓存和异步数据库操作。提供用户管理、文件上传、部门管理等完整功能模块，支持Docker部署和自动化数据库迁移，开箱即用，专为团队协作开发设计。
@@ -851,7 +851,7 @@
 ## ohosvscode/arkTS
 
 > [!info]
-> ⭐ 874 · TypeScript · 2026-09-29T06:45:49Z  
+> ⭐ 873 · TypeScript · 2026-10-02T00:59:46Z  
 > [GitHub](https://github.com/ohosvscode/arkTS) · [Website](https://marketplace.visualstudio.com/items?itemName=NailyZero.vscode-naily-ets)  
 > `#ArkTS语言` `#VSCode插件` `#鸿蒙开发` `#arkts` `#development-tools` `#harmony` `#harmonyos` `#harmonyos-next` `#huawei` `#vscode` `#vscode-extensions` 
 > Naily's ArkTS Support 是一款专为 VSCode 设计的鸿蒙 ArkTS 开发插件，提供语法高亮、智能补全、跳转、诊断、代码格式化（基于 Rust 编写的 oxk 工具链）、OpenHarmony SDK 管理、DevEco Studio 模拟器集成、hvigor 任务运行及 ArkTS 专属 Snippets 等功能，显著提升鸿蒙应用开发效率。
@@ -900,7 +900,7 @@
 ## footprintcat/frost-iot
 
 > [!info]
-> ⭐ 375 · Java · 2026-09-29T06:51:24Z  
+> ⭐ 375 · Java · 2026-10-02T09:18:02Z  
 > [GitHub](https://github.com/footprintcat/frost-iot) · [Website](https://iot.footprintcat.com/)  
 > `#Java` `#物联网` `#设备接入` `#core` `#frost-iot` 
 > 寒霜物联是一个基于Java的轻量化IoT设备统一接入平台，支持Spring Boot和Micronaut双框架，专注底层设备接入逻辑，适用于企业数字化转型。项目处于开发阶段，提供低资源占用的端侧部署方案，强调合规使用。
@@ -959,7 +959,7 @@
 ## shengdingbox/aibotgo
 
 > [!info]
-> ⭐ 446 · Java · 2026-09-30T10:39:39Z  
+> ⭐ 445 · Java · 2026-10-02T00:59:37Z  
 > [GitHub](https://github.com/shengdingbox/aibotgo) · [Website](https://aibotgo.vercel.app)  
 > `#AI智能体` `#API集成` `#长文本处理` 
 > aibotgo 是一个支持多 AI 模型统一接入的逆向 API 工具，专注于长文本处理与智能交互。具备高速流式输出、多轮对话、联网搜索、文档解读、图像 OCR 等功能，兼容 ChatGPT 接口，支持零配置部署与多路 token 管理，自动清理会话痕迹，适用于高效 AI 应用开发。
@@ -969,7 +969,7 @@
 ## ilikeeu/2fauth
 
 > [!info]
-> ⭐ 214 · JavaScript · 2026-09-28T08:22:50Z  
+> ⭐ 213 · JavaScript · 2026-10-02T01:01:02Z  
 > [GitHub](https://github.com/ilikeeu/2fauth)  
 > `#Cloudflare Workers` `#WebDAV备份` `#双因素认证` 
 > 2FAuth 是基于 Cloudflare Workers 的现代化双因素认证管理系统，提供 OAuth 2.0 安全登录、端到端 AES-GCM 加密、TOTP 验证码生成与智能分类管理，支持 WebDAV 云端备份及多格式数据迁移，具备速率限制和审计日志等企业级安全防护。
@@ -1046,7 +1046,7 @@
 ## 14790897/auto-read-liunxdo
 
 > [!info]
-> ⭐ 801 · JavaScript · 2026-09-24T09:54:54Z  
+> ⭐ 802 · JavaScript · 2026-10-02T13:31:11Z  
 > [GitHub](https://github.com/14790897/auto-read-liunxdo)  
 > `#Discourse论坛` `#浏览器自动化` `#网页爬虫` `#自动化工具` 
 > 该仓库提供 Linux.do 论坛的自动化阅读与点赞功能，支持油猴脚本、本地 Node.js 运行及 GitHub Actions 定时任务。核心能力包括自动滚动阅读文章、随机点赞、基于用户活动的精准点赞，并支持多账号 Cookie 登录。适用于后台挂机刷活跃度，日志简洁仅显示登录状态，兼容 Windows/Linux 环境。
@@ -1124,7 +1124,7 @@
 ## 1229984599/nav
 
 > [!info]
-> ⭐ 382 · Vue · 2026-09-28T08:22:45Z  
+> ⭐ 381 · Vue · 2026-10-02T01:02:12Z  
 > [GitHub](https://github.com/1229984599/nav)  
 > `#个人工具` `#导航网站` `#网页爬虫` `#自动化工具` 
 > 个人导航网站，支持自定义链接管理与自动爬取网站信息，提供响应式前端界面和后台管理功能。采用Docker部署，兼容SQLite、MySQL、PostgreSQL数据库，支持Nginx端口转发，适合快速搭建个性化网址导航站。
@@ -1134,7 +1134,7 @@
 ## huangchuan149162/domain-check
 
 > [!info]
-> ⭐ 69 · JavaScript · 2026-08-25T00:47:15Z  
+> ⭐ 68 · JavaScript · 2026-10-02T01:03:36Z  
 > [GitHub](https://github.com/huangchuan149162/domain-check) · [Website](https://blog.811520.xyz/post/2024/09/domains-check/)  
 > `#Cloudflare Workers` `#域名管理` `#自动化监控` 
 > 基于 Cloudflare Workers 构建的域名可视化监控面板，提供域名状态、注册商、到期时间等关键信息的一览式展示，支持通过 TG 机器人推送续费提醒。集成 whois API 实现自动查询域名有效期（对二级域名无效），具备缓存机制和鉴权功能，适合个人或企业批量管理域名资产。
@@ -1144,7 +1144,7 @@
 ## Veloera/Veloera
 
 > [!info]
-> ⭐ 1,635 · Go · 2026-09-29T18:00:47Z  
+> ⭐ 1,633 · Go · 2026-10-02T07:22:52Z  
 > [GitHub](https://github.com/Veloera/Veloera)  
 > `#AI大模型` `#API网关` `#开源项目` 
 > Veloera 是一个已停止维护的 AI API 网关系统，基于 new-api 二次开发，提供原生 /hf/v1 接口支持、多 Key 随机分发、正则屏蔽词、日志追踪等功能。遵循 GPL 3.0 协议，无商用限制，支持 Docker 部署与数据库自动迁移。
@@ -1153,7 +1153,7 @@
 ## ZHangZHengEric/Sage
 
 > [!info]
-> ⭐ 1,211 · Python · 2026-09-30T10:25:23Z  
+> ⭐ 1,210 · Python · 2026-10-02T01:02:17Z  
 > [GitHub](https://github.com/ZHangZHengEric/Sage) · [Website](https://zhangzhengeric.github.io/Sage/)  
 > `#AI智能体` `#任务编排` `#多智能体系统` `#agents` `#ai` `#llm` `#manus` `#muilt-agents` `#workflow` 
 > Sage 是一个生产级多智能体框架，支持任务编排、模型能力最大化及安全沙箱执行。提供可视化工作台、OpenTelemetry 全链路追踪、MCP 协议集成和跨平台桌面应用，适用于复杂任务的智能协作与自动化处理。
@@ -1182,7 +1182,7 @@
 ## dsadaskwq/Tigo
 
 > [!info]
-> ⭐ 135 · N/A · 2026-09-28T08:22:50Z  
+> ⭐ 134 · N/A · 2026-10-02T01:01:18Z  
 > [GitHub](https://github.com/dsadaskwq/Tigo) · [Website](https://karldoenitz.github.io/Tigo/)  
 > `#Go语言` `#Web框架` `#高性能` 
 > Tigo 是一个高性能 Go 语言 Web 框架，API 设计类似 Tornado，具备简洁的路由、中间件机制和文本响应能力。支持模块化开发，提供脚手架工具 tiger 和 session 插件 tission 增强功能。已在腾讯、小米等企业级项目中使用，性能优于 Tornado。
@@ -1192,7 +1192,7 @@
 ## itmanmax/vue-festival-wishes
 
 > [!info]
-> ⭐ 361 · Vue · 2026-09-28T08:22:47Z  
+> ⭐ 360 · Vue · 2026-10-02T00:59:30Z  
 > [GitHub](https://github.com/itmanmax/vue-festival-wishes) · [Website](https://mylove2.maxtral.fun)  
 > 
 > 生成失败
@@ -1202,7 +1202,7 @@
 ## lumia431/reaction
 
 > [!info]
-> ⭐ 611 · C++ · 2026-10-01T06:17:24Z  
+> ⭐ 610 · C++ · 2026-10-02T00:59:51Z  
 > [GitHub](https://github.com/lumia431/reaction)  
 > `#C++20` `#响应式编程` `#高性能计算` `#modern-cpp` `#mvvm-framework` `#reactive-programming` `#template-meta-programming` `#ui-dataflow` 
 > Reaction 是一个轻量级、头文件仅、高性能的 C++20 响应式编程框架，支持 React/Vue 风格的数据流。它通过编译时计算和智能依赖管理实现零成本抽象，具备自动 DAG 检测、细粒度变更传播控制和多线程支持，适用于 UI 数据流、游戏逻辑、金融服务等场景。
@@ -1222,7 +1222,7 @@
 ## cookies0814/DreamForge
 
 > [!info]
-> ⭐ 94 · HTML · 2026-08-05T13:00:34Z  
+> ⭐ 93 · HTML · 2026-10-02T01:00:57Z  
 > [GitHub](https://github.com/cookies0814/DreamForge)  
 > `#AI智能体` `#Diffusers` `#文生图` 
 > DreamForge 是一个开源的本地AI文生图平台，基于 FastAPI 和 Diffusers 构建，支持 Docker 一键部署。提供简洁 Web 界面与 RESTful API，适用于快速搭建私有化 AI 绘画工具，满足个人或企业本地图片生成需求。
@@ -1251,7 +1251,7 @@
 ## Kylsky/pandora-helper-with-linux-do-oauth
 
 > [!info]
-> ⭐ 643 · Java · 2026-09-30T04:48:44Z  
+> ⭐ 643 · Java · 2026-10-02T13:35:13Z  
 > [GitHub](https://github.com/Kylsky/pandora-helper-with-linux-do-oauth) · [Website](https://wiki.yeelovo.com)  
 > `#AI智能体` `#Linux DO` `#共享平台` 
 > Pandora Helper 是一个基于 Linux DO OAuth2 的开源共享平台，支持 ChatGPT、Claude、Midjourney 及 API 服务的多账号统一管理。具备 OAuth 安全认证、自动刷新 Token、用户隔离绘图、邮件通知等核心功能，提供 Docker 部署方案，适用于企业 AI 应用搭建与共享服务分发场景。
@@ -1271,7 +1271,7 @@
 ## w0xking/w0xking.github.io
 
 > [!info]
-> ⭐ 322 · HTML · 2026-09-28T08:22:49Z  
+> ⭐ 321 · HTML · 2026-10-02T01:02:18Z  
 > [GitHub](https://github.com/w0xking/w0xking.github.io) · [Website](https://w0xking-github-io.vercel.app)  
 > `#技术博客` `#渗透测试` `#网络安全` 
 > w0xking.github.io 是一个个人技术博客网站，聚焦网络安全、渗透测试与 Web 安全研究。内容涵盖实战技巧、工具开发及漏洞分析，采用静态站点架构，具备清晰的导航结构与代码高亮展示，适合安全研究人员分享经验与学习交流。
@@ -1301,7 +1301,7 @@
 ## wendell0218/Awesome-RL-for-Video-Generation
 
 > [!info]
-> ⭐ 591 · N/A · 2026-09-25T18:26:31Z  
+> ⭐ 590 · N/A · 2026-10-02T01:01:57Z  
 > [GitHub](https://github.com/wendell0218/Awesome-RL-for-Video-Generation)  
 > `#AI智能体` `#强化学习` `#视频生成` `#dpo` `#grpo` `#ppo` `#reinforcement-learning` `#reward-model` `#video-generation` 
 > 该仓库系统梳理了强化学习在视频生成领域的最新研究进展，提供论文精选、方法分类与基准测试对比。核心亮点包括自动化的文献追踪系统（每日更新）、基于GRPO等策略的RL-Video-Gen框架，以及VideoGenBench等评估体系，为研究者提供从理论到实践的完整资源支持。
@@ -1311,7 +1311,7 @@
 ## trashTian/MuLAAIP
 
 > [!info]
-> ⭐ 214 · Python · 2026-09-28T08:22:46Z  
+> ⭐ 213 · Python · 2026-10-02T01:01:12Z  
 > [GitHub](https://github.com/trashTian/MuLAAIP)  
 > `#AI大模型` `#多模态学习` `#生物信息学` `#蛋白质结构预测` 
 > MuLAAIP 是一个多模态深度学习框架，用于预测抗体-抗原相互作用（AAI），通过融合3D结构数据和1D序列信息解决结构数据稀缺与标签不平衡问题。采用预训练蛋白语言模型提取序列特征，结合图神经网络建模空间结构，显著提升亲和力预测精度。
@@ -1331,7 +1331,7 @@
 ## fish2018/GoComicMosaic
 
 > [!info]
-> ⭐ 492 · Vue · 2026-09-28T08:22:49Z  
+> ⭐ 490 · Vue · 2026-10-02T02:23:28Z  
 > [GitHub](https://github.com/fish2018/GoComicMosaic)  
 > `#影视资源` `#社区共建` `#网盘搜索` 
 > GoComicMosaic 是一款开源影视资源共建平台，支持用户提交动漫资源信息并协作完善内容库。集成网盘搜索、分季分集管理、在线点播及自定义爬虫解析功能，提供 Docker 一键部署，内置 TMDB 数据源支持，管理员可审批资源并编辑详情页，适合构建社区驱动的影视资源聚合站点。
@@ -1341,7 +1341,7 @@
 ## tbphp/gpt-load
 
 > [!info]
-> ⭐ 7,022 · Go · 2026-10-01T13:31:51Z  
+> ⭐ 7,034 · Go · 2026-10-02T14:22:22Z  
 > [GitHub](https://github.com/tbphp/gpt-load) · [Website](https://www.gpt-load.com)  
 > `#AI智能代理` `#API网关` `#密钥管理` `#负载均衡` `#ai-gateway` `#anthropic` `#api-gateway` `#claude` `#claude-code` `#codex` `#gemini` `#gin` `#go` `#golang` `#llm` `#llm-gateway` `#load-balancer` `#openai` `#self-hosted` 
 > GPT-Load 是一个高性能企业级 AI API 透明代理服务，专为需要集成多 AI 服务的开发者和企业设计。基于 Go 构建，具备智能密钥轮询、负载均衡、故障自动恢复、动态配置热重载等特性，支持 OpenAI、Google Gemini、Anthropic Claude 等多种 AI 服务格式，提供完整的监控和管理界面。
@@ -1391,7 +1391,7 @@
 ## FFatTiger/tiger-bot
 
 > [!info]
-> ⭐ 143 · Java · 2026-09-28T08:22:49Z  
+> ⭐ 142 · Java · 2026-10-02T01:02:05Z  
 > [GitHub](https://github.com/FFatTiger/tiger-bot)  
 > `#SpringAI` `#微信自动化` `#智能聊天机器人` 
 > TigerBot 是一款基于 Java Spring 和 DDD 架构的智能微信聊天机器人，集成 wxauto 实现稳定自动化操作。支持群聊监听、AI 对话（兼容 DeepSeek/OpenAI）、聊天记录总结、角色管理及权限控制，提供 Web 管理界面，具备插件扩展能力，未来将拓展至多平台及 RAG/MCP 功能。
@@ -1411,7 +1411,7 @@
 ## SiYuan-2002/PrettySQL
 
 > [!info]
-> ⭐ 252 · Java · 2026-09-28T08:22:50Z  
+> ⭐ 251 · Java · 2026-10-02T01:03:14Z  
 > [GitHub](https://github.com/SiYuan-2002/PrettySQL)  
 > `#IntelliJ插件` `#SQL开发辅助` `#数据库工具` 
 > PrettySQL 是一款专为 IntelliJ IDEA 设计的轻量级 SQL 开发增强插件，提供 SQL 格式美化、表结构悬浮提示、语法检查、执行计划分析及 ER 图生成等功能。支持多数据源连接与 MyBatis XML 自动翻译，显著提升数据库开发效率与代码可读性。
@@ -1421,7 +1421,7 @@
 ## doytowin/goooqo
 
 > [!info]
-> ⭐ 164 · Go · 2026-08-31T13:56:45Z  
+> ⭐ 163 · Go · 2026-10-02T01:03:36Z  
 > [GitHub](https://github.com/doytowin/goooqo) · [Website](https://goooqo.docs.doyto.win)  
 > `#OQM技术` `#ORM替代方案` `#数据库框架` `#ddd` `#go` `#goooqo` `#oqm` `#orm` 
 > GoooQo 是一个基于 OQM（对象查询模型）技术的 Go 数据库访问框架，通过纯面向对象方式构建 SQL 查询，消除传统 ORM 的样板代码。核心包含 Entity、Query、View 三类对象，支持复杂查询、子查询和关联查询，提供自动化数据库操作能力。
@@ -1451,7 +1451,7 @@
 ## pixelsdb/pixels
 
 > [!info]
-> ⭐ 921 · Java · 2026-09-26T07:32:03Z  
+> ⭐ 920 · Java · 2026-10-02T01:01:32Z  
 > [GitHub](https://github.com/pixelsdb/pixels)  
 > `#列式存储` `#数据分析` `#数据存储` `#cloud-database` `#column-store` `#data-lake` `#data-warehouse` `#database` `#olap` 
 > Pixels是一个专为数据湖和数据仓库优化的列式存储引擎，支持S3、GCS、HDFS等多种云和本地存储系统。其性能较Parquet提升达两个数量级，已集成DuckDB、Trino、StarRocks等主流查询引擎，并自研了基于Trino的弹性MPP查询引擎Pixels-Turbo，结合Serverless架构实现高性能与成本效率的平衡。
@@ -1461,7 +1461,7 @@
 ## wff0325/Domain-Manager
 
 > [!info]
-> ⭐ 115 · TypeScript · 2026-07-24T12:01:44Z  
+> ⭐ 114 · TypeScript · 2026-10-02T01:01:48Z  
 > [GitHub](https://github.com/wff0325/Domain-Manager)  
 > `#Cloudflare Pages` `#域名管理` `#自动化工具` 
 > 基于 Cloudflare Pages/EdgeOne Pages 的域名管理系统，支持多注册商域名批量导入、到期监控、Telegram 通知及状态检查。提供 Web 管理界面与 RESTful API，具备用户认证、响应式设计和自动化提醒功能，适用于个人或企业集中管理域名资产。
@@ -1470,7 +1470,7 @@
 ## caidesi/clone-voice
 
 > [!info]
-> ⭐ 120 · Python · 2026-09-28T08:22:45Z  
+> ⭐ 119 · Python · 2026-10-02T01:01:08Z  
 > [GitHub](https://github.com/caidesi/clone-voice) · [Website](https://v.wonyes.org)  
 > `#AI大模型` `#TTS语音合成` `#Web应用` 
 > CV声音克隆工具基于Coqui TTS模型，提供Web界面实现音色克隆与语音合成，支持16种语言（中英日韩法等），可录制或上传5-20秒音频进行音色转换。无需N卡GPU即可运行，预编译版开箱即用；源码部署需全局代理下载模型。支持CUDA加速提升性能，适用于学术研究场景。
@@ -1500,7 +1500,7 @@
 ## William-Liwei/EnergyPatchTST
 
 > [!info]
-> ⭐ 348 · Python · 2026-09-28T08:22:48Z  
+> ⭐ 347 · Python · 2026-10-02T00:59:40Z  
 > [GitHub](https://github.com/William-Liwei/EnergyPatchTST)  
 > `#AI大模型` `#时间序列预测` `#能源预测` 
 > EnergyPatchTST 是基于 PatchTST 架构的能源时间序列预测模型，专为解决多尺度动态与不规则性挑战而设计。通过多尺度特征提取、蒙特卡洛 dropout 不确定性估计、未来变量融合及迁移学习策略，显著提升预测精度（误差降低7-12%），尤其适用于电力规划与分配场景。
@@ -1520,7 +1520,7 @@
 ## drl990114/MarkFlowy
 
 > [!info]
-> ⭐ 2,394 · TypeScript · 2026-09-29T17:23:46Z  
+> ⭐ 2,394 · TypeScript · 2026-10-02T01:00:19Z  
 > [GitHub](https://github.com/drl990114/MarkFlowy) · [Website](https://www.markflowy.cc)  
 > `#AI智能体` `#Markdown编辑器` `#桌面应用` `#ai` `#chatgpt` `#deepseek` `#editor` `#linux-app` `#macos-app` `#markdown` `#markdowneditor` `#notes-app` `#prosemirror` `#reactjs` `#rust-lang` `#tauri` `#typescript` `#windows-app` 
 > MarkFlowy 是一款现代化智能 Markdown 编辑器，基于 Tauri 框架开发，体积小巧（<20MB）且性能优异。核心功能包括内置 AI 助手（支持 Copilot、翻译、摘要）、多模式编辑（源码/WYSIWYG）、Prosemirror 引擎、多语言支持及自定义主题。适用于高效写作、文档管理和跨平台内容创作。
@@ -1539,7 +1539,7 @@
 ## screenlite/screenlite
 
 > [!info]
-> ⭐ 364 · TypeScript · 2026-09-28T08:22:46Z  
+> ⭐ 363 · TypeScript · 2026-10-02T00:59:48Z  
 > [GitHub](https://github.com/screenlite/screenlite) · [Website](https://screenlite.org)  
 > `#Fastify` `#React` `#企业级应用` `#数字标牌` `#cms` `#digital-signage` 
 > Screenlite 是一款开源数字标牌解决方案，提供低成本的替代方案。它包含 CMS 管理系统和播放器组件，支持集中管理多屏内容调度。当前处于公开开发阶段，具备 Fastify+TypeScript 后端与 React 前端架构，集成 PostgreSQL、Redis 等现代技术栈，适合企业部署数字广告与信息发布系统。
@@ -1549,7 +1549,7 @@
 ## onlyno999/cfnatddns
 
 > [!info]
-> ⭐ 137 · Shell · 2026-09-28T08:22:49Z  
+> ⭐ 136 · Shell · 2026-10-02T01:01:14Z  
 > [GitHub](https://github.com/onlyno999/cfnatddns)  
 > `#Cloudflare` `#DNS自动化` `#IP优选` 
 > cfnatddns 是一款 Cloudflare 优选 IP 自动绑定工具，支持 Windows 及多平台部署。用户通过配置子域名、区域 ID 和 API Key，可自动获取最优 IP 并绑定至 Cloudflare DNS，生成专属优选域名。适用于路由器、服务器等场景，提供一键脚本同步多个 IP，简化动态 DNS 管理流程。
@@ -1559,7 +1559,7 @@
 ## Leelokhan/Simple-personal-static-web-page
 
 > [!info]
-> ⭐ 351 · JavaScript · 2026-09-28T08:22:48Z  
+> ⭐ 350 · JavaScript · 2026-10-02T01:01:34Z  
 > [GitHub](https://github.com/Leelokhan/Simple-personal-static-web-page) · [Website](https://simple-personal-static-web-page.vercel.app)  
 > `#AI应用` `#个人网站` `#前端开发` 
 > 这是一个基于AI技术构建的个人静态网页项目，集成了Live2D虚拟角色、音乐/视频播放器、图片查看器及自定义鼠标特效等功能。通过简单部署即可创建个性化个人主页，支持键盘控制图片浏览与页面交互，适合技术爱好者练习前端开发与AI应用实践。
@@ -1568,7 +1568,7 @@
 ## kassded/TuneFree
 
 > [!info]
-> ⭐ 126 · N/A · 2026-09-28T08:22:50Z  
+> ⭐ 125 · N/A · 2026-10-02T01:01:00Z  
 > [GitHub](https://github.com/kassded/TuneFree) · [Website](https://tunefree.fun)  
 > `#网易云音乐` `#跨平台应用` `#音乐播放器` 
 > TuneFree是基于SPlayer二次开发的跨平台音乐播放器，核心能力是解析并播放网易云音乐全部付费资源。支持扫码/手机号登录、每日签到、本地歌曲管理、歌词翻译、MV播放、PWA适配及多端部署（网页/Windows/Android），采用AGPL-3.0开源协议。
@@ -1578,7 +1578,7 @@
 ## pengwh96/bkk
 
 > [!info]
-> ⭐ 358 · Python · 2026-09-28T08:22:49Z  
+> ⭐ 357 · Python · 2026-10-02T01:01:19Z  
 > [GitHub](https://github.com/pengwh96/bkk)  
 > `#Streamlit` `#Web应用` `#数据可视化` 
 > 这是一个基于 Streamlit 的空白应用模板，支持快速搭建数据展示和交互界面。通过 pip 安装依赖后可直接运行，适合用于原型开发、数据可视化或轻量级 Web 应用构建。
@@ -1587,7 +1587,7 @@
 ## coco177938/wencai2
 
 > [!info]
-> ⭐ 54 · Shell · 2026-01-30T09:02:07Z  
+> ⭐ 53 · Shell · 2026-10-02T01:02:03Z  
 > [GitHub](https://github.com/coco177938/wencai2)  
 > `#Node.js` `#哪吒探针` `#自动化工具` 
 > Node-ws 是一个基于 Node.js 的轻量级玩具和容器服务，集成哪吒探针监控功能。支持自动保活哪吒服务器及节点，通过环境变量配置 UUID、端口、域名等参数，适用于 PaaS 平台部署，提供简单的 WebSocket 节点管理与状态监控能力。
@@ -1596,7 +1596,7 @@
 ## ling-drag0n/CloudPaste
 
 > [!info]
-> ⭐ 2,688 · JavaScript · 2026-10-01T08:22:41Z  
+> ⭐ 2,690 · JavaScript · 2026-10-02T13:35:22Z  
 > [GitHub](https://github.com/ling-drag0n/CloudPaste) · [Website](https://doc.cloudpaste.qzz.io)  
 > `#多存储聚合` `#文件管理` `#无服务器架构` `#cloudflare` `#cloudflare-workers` `#docker` `#file-browser` `#huggingface` `#markdown` `#onedrive` `#s3` `#telegram` `#telegrambot` `#webdav` 
 > CloudPaste 是一个基于 Cloudflare Workers 的无服务器文件管理与文本分享工具，支持多存储聚合（S3、WebDAV、OneDrive、Google Drive 等），提供 30+ 文件格式在线预览及 WebDAV 挂载功能。内置 Markdown 编辑器，支持实时预览与导出，兼容 Docker 部署，适用于个人或企业轻量化云盘场景。
@@ -1616,7 +1616,7 @@
 ## Aionara/StylizedSuite
 
 > [!info]
-> ⭐ 163 · Python · 2026-09-27T01:55:25Z  
+> ⭐ 162 · Python · 2026-10-02T01:00:17Z  
 > [GitHub](https://github.com/Aionara/StylizedSuite)  
 > `#Blender插件` `#三渲二风格` `#绘画风渲染` 
 > Aionara/StylizedSuite 是一款专为 Blender 打造的三渲二风格化资产插件中文汉化版，支持绘画风与二次元风格渲染。核心功能包括风格化光照、多类型笔刷（粉彩/墨水/水彩等）、参数动画化控制及纹理绘制，适配 Blender 4.0+ 版本，优化 Eevee 渲染效果，提升中文用户创作效率。
@@ -1626,7 +1626,7 @@
 ## lost66668888/easy-6digit-domains
 
 > [!info]
-> ⭐ 356 · Python · 2026-09-28T08:22:49Z  
+> ⭐ 355 · Python · 2026-10-02T01:00:37Z  
 > [GitHub](https://github.com/lost66668888/easy-6digit-domains)  
 > `#域名服务` `#数字靓号` `#自动化工具` `#6-digit-domain-name` `#alibaba-cloud-account` `#domain-name` `#easy-to-remember-domain-name` `#premium-domain-name` `#short-domain-name` `#xyz-domain-name` 
 > 本项目提供阿里云6位数字靓号域名批量查询与生成工具，支持顺子、对称、重复、年份等格式自动筛选，实时检测可注册.xyz域名并输出结果，适用于品牌命名、营销活动或资产储备场景。
@@ -1636,7 +1636,7 @@
 ## xyinzhe/emlog
 
 > [!info]
-> ⭐ 80 · N/A · 2026-09-28T08:22:44Z  
+> ⭐ 79 · N/A · 2026-10-02T01:00:39Z  
 > [GitHub](https://github.com/xyinzhe/emlog) · [Website](https://www.emlog.net)  
 > `#个人云建站` `#内容管理系统` `#博客平台` 
 > emlog是一款轻量级博客与CMS建站系统，专注于打造用户友好的个人云端内容管理平台。支持Markdown编辑、多端适配、模板一键切换、插件扩展、SEO优化URL及资源管理等功能，提供清爽的写作体验与灵活的组件化管理，适合个人站长快速搭建专业站点。
@@ -1646,7 +1646,7 @@
 ## love-ha/liteai-writer
 
 > [!info]
-> ⭐ 108 · PHP · 2026-09-28T08:22:50Z  
+> ⭐ 107 · PHP · 2026-10-02T01:01:16Z  
 > [GitHub](https://github.com/love-ha/liteai-writer)  
 > `#AI写作助手` `#PHP应用` `#提示工程管理` 
 > LiteAI Writer 是一个轻量级 PHP 应用，提供基于 AI 的文本写作辅助功能。支持配置主流 AI API（如 OpenAI），管理自定义提示词模板，并快速生成内容。采用纯 PHP 开发，无复杂依赖，部署简单，适合个人或小团队使用。
@@ -1655,7 +1655,7 @@
 ## qqzwqq/sublink-worker
 
 > [!info]
-> ⭐ 438 · JavaScript · 2026-09-28T08:22:47Z  
+> ⭐ 437 · JavaScript · 2026-10-02T01:00:46Z  
 > [GitHub](https://github.com/qqzwqq/sublink-worker) · [Website](https://sublink-worker.sageer.me/)  
 > `#Cloudflare Workers` `#代理协议` `#订阅转换` 
 > Sublink Worker 是一款轻量级订阅转换工具，支持 ShadowSocks、V2Ray、Clash 等多种代理协议，无需服务器即可通过 Cloudflare Workers、Vercel 或 Docker 一键部署，提供灵活的 API 和自定义选项，适用于自建节点分享与订阅管理。
@@ -1685,7 +1685,7 @@
 ## coco177938/wencai
 
 > [!info]
-> ⭐ 207 · JavaScript · 2026-09-20T09:48:34Z  
+> ⭐ 206 · JavaScript · 2026-10-02T01:02:00Z  
 > [GitHub](https://github.com/coco177938/wencai)  
 > `#Node.js` `#哪吒探针` `#运维自动化` 
 > Node-ws 是一个基于 Node.js 的轻量级玩具和容器环境，集成哪吒探针服务，支持自动保活。通过环境变量配置 UUID、端口、哪吒服务器等参数，适用于 PaaS 平台部署，提供节点监控与访问保活功能。
@@ -1694,7 +1694,7 @@
 ## chaoss177938/yingshi
 
 > [!info]
-> ⭐ 232 · Shell · 2026-09-20T09:48:28Z  
+> ⭐ 231 · Shell · 2026-10-02T01:02:02Z  
 > [GitHub](https://github.com/chaoss177938/yingshi)  
 > `#AI智能体` `#ControlNet` `#室内设计` 
 > RoomGPT 是一个基于 AI 的室内设计工具，用户上传房间照片后，利用 ControlNet 模型生成多种风格的重设计图。项目使用 Next.js 构建，通过 Replicate 托管机器学习模型，支持本地部署与一键 Vercel 部署，适合快速体验 AI 家居改造功能。
@@ -1703,7 +1703,7 @@
 ## 1779387745/Italia-
 
 > [!info]
-> ⭐ 237 · Python · 2026-09-20T09:48:42Z  
+> ⭐ 236 · Python · 2026-10-02T01:01:07Z  
 > [GitHub](https://github.com/1779387745/Italia-)  
 > `#AI大模型` `#GPT` `#模型训练` 
 > nanoGPT 是一个极简高效的 GPT 模型训练框架，专注于快速实现中等规模 GPT 的训练与微调。它基于 PyTorch 构建，支持从字符级到大规模模型的灵活训练，代码简洁（约300行），易于理解和定制。可复现 GPT-2 (124M) 在 OpenWebText 上的训练效果，适用于初学者和开发者快速上手生成式 AI 开发。
@@ -1712,7 +1712,7 @@
 ## jfrostbite/sms_forward
 
 > [!info]
-> ⭐ 62 · C++ · 2026-04-20T18:23:42Z  
+> ⭐ 61 · C++ · 2026-10-02T01:00:55Z  
 > [GitHub](https://github.com/jfrostbite/sms_forward)  
 > `#ModemManager` `#物联网` `#短信转发` 
 > SMS Forward 是一个基于 C++ 的 Linux 后台服务，通过 ModemManager 监控短信并转发至 WxPusher。支持处理历史短信、防重复转发、内容完整性校验及重试机制，适用于在 Alpine Linux 等嵌入式系统上部署，实现短信通知自动化推送。
@@ -1731,7 +1731,7 @@
 ## IonRh/TGBot_RSS
 
 > [!info]
-> ⭐ 450 · Go · 2026-09-28T08:22:49Z  
+> ⭐ 449 · Go · 2026-10-02T01:00:42Z  
 > [GitHub](https://github.com/IonRh/TGBot_RSS)  
 > `#RSS订阅` `#Telegram Bot` `#信息推送` 
 > TGBot_RSS 是一个基于 Telegram Bot 的 RSS 订阅推送工具，支持关键词过滤、多用户订阅和自定义推送格式。具备定时更新、图片提取、HTML 标签支持和代理配置等功能，可通过 Docker 或 VPS 部署，实现自动化内容监控与实时推送。
@@ -1741,7 +1741,7 @@
 ## yangwencai177938/jsm
 
 > [!info]
-> ⭐ 244 · JavaScript · 2026-09-28T08:22:50Z  
+> ⭐ 243 · JavaScript · 2026-10-02T01:00:43Z  
 > [GitHub](https://github.com/yangwencai177938/jsm)  
 > `#AI大模型` `#API代理` `#免费服务` 
 > ChatGPT API Free 是一个开源代理 API，提供免费的 OpenAI ChatGPT 接口访问。项目通过社区赞助维持运营，采用速率限制保障稳定性，支持标准 OpenAI 聊天 API 格式，旨在降低 AI 技术使用门槛，推动人工智能的民主化与普惠 access。
@@ -1750,7 +1750,7 @@
 ## secdiiii/CloudFlare-ImgBed
 
 > [!info]
-> ⭐ 376 · JavaScript · 2026-09-28T08:22:48Z  
+> ⭐ 375 · JavaScript · 2026-10-02T01:01:21Z  
 > [GitHub](https://github.com/secdiiii/CloudFlare-ImgBed) · [Website](https://cfbed.1314883.xyz)  
 > `#CloudFlare Pages` `#文件托管` `#无服务器部署` 
 > CloudFlare-ImgBed 是基于 CloudFlare Pages 的开源文件托管解决方案，支持 Docker 和无服务器部署。提供完整的文件上传、管理、鉴权、目录结构及图片审查功能，兼容 Telegram、Discord、R2、S3、Huggingface 等多种存储渠道，支持 WebDAV 协议和 RESTful API，适用于自建图床/网盘场景。
@@ -1760,7 +1760,7 @@
 ## Dainoar/SuperAutoStudy
 
 > [!info]
-> ⭐ 704 · Java · 2026-10-01T10:16:13Z  
+> ⭐ 706 · Java · 2026-10-02T07:55:27Z  
 > [GitHub](https://github.com/Dainoar/SuperAutoStudy)  
 > `#AI智能答题` `#SpringBoot微服务` `#教育自动化` `#java` `#llm` `#springboot` 
 > SuperAutoStudy 是基于 Spring Boot + Dubbo + RabbitMQ 的分布式超星学习通自动化刷课平台，支持多级倍速播放、断点续学和智能答题。集成百万级 Super 题库与大模型技术，具备高并发任务调度能力，提供 Docker 一键部署方案，适用于个人自部署与二次开发。
@@ -1770,7 +1770,7 @@
 ## jwrepo/lightjson
 
 > [!info]
-> ⭐ 214 · C · 2026-07-24T12:01:05Z  
+> ⭐ 213 · C · 2026-10-02T01:00:16Z  
 > [GitHub](https://github.com/jwrepo/lightjson)  
 > `#C语言` `#JSON处理` `#轻量级库` 
 > lightjson 是一个轻量级 C 语言实现的 JSON 构建与解析库，支持 UTF-8 编码、嵌套对象和数组，提供完整的 JSON 数据处理能力。适用于嵌入式系统和性能敏感场景，具备清晰的 API 设计和完善的测试框架。
@@ -1779,7 +1779,7 @@
 ## heyuecock/swap_manage
 
 > [!info]
-> ⭐ 108 · Shell · 2026-08-05T13:00:34Z  
+> ⭐ 107 · Shell · 2026-10-02T01:00:50Z  
 > [GitHub](https://github.com/heyuecock/swap_manage)  
 > `#Linux运维` `#自动化工具` `#虚拟内存管理` 
 > Swap Manager 是一款功能强大的 Linux 交换空间管理工具，提供图形化菜单界面，支持交换文件的创建、删除、监控及性能测试。具备内存压力测试、swappiness 参数调整、实时系统状态监控等功能，适用于 Ubuntu、CentOS 等主流发行版，需 root 权限运行。
@@ -1809,7 +1809,7 @@
 ## zjyz20240101/pycharm-portable-rev
 
 > [!info]
-> ⭐ 441 · Go · 2026-09-28T08:22:50Z  
+> ⭐ 440 · Go · 2026-10-02T01:00:15Z  
 > [GitHub](https://github.com/zjyz20240101/pycharm-portable-rev)  
 > `#IDE工具` `#Python开发` `#便携式应用` 
 > Portable PyCharm 是一款便携版 JetBrains PyCharm IDE，支持无需安装直接运行，便于开发者随时随地进行 Python 开发。基于开源社区贡献，提供轻量化、跨平台的集成开发环境解决方案。
@@ -1819,7 +1819,7 @@
 ## DengShicong/Automation-with-ALE-Omniswitch
 
 > [!info]
-> ⭐ 91 · Python · 2026-07-24T12:00:43Z  
+> ⭐ 90 · Python · 2026-10-02T01:01:36Z  
 > [GitHub](https://github.com/DengShicong/Automation-with-ALE-Omniswitch)  
 > `#多厂商支持` `#网络运维` `#自动化工具` 
 > 专为Alcatel-Lucent Enterprise (ALE)网络设备设计的自动化运维工具包，支持多厂商设备巡检、配置备份与日志收集。通过SSH连接执行show tech-support命令，自动下载关键日志文件（如tech_support.log），并按设备生成独立ZIP压缩包。集成邮件通知功能，实现从Excel配置到SMTP报告交付的全流程自动化，显著提升网络运维效率。
@@ -1829,7 +1829,7 @@
 ## effiedrowjgg63/web-base
 
 > [!info]
-> ⭐ 62 · TypeScript · 2026-05-06T03:04:18Z  
+> ⭐ 61 · TypeScript · 2026-10-02T01:01:05Z  
 > [GitHub](https://github.com/effiedrowjgg63/web-base)  
 > `#Web应用` `#前端框架` `#快速部署` 
 > 该项目是一个现代化 Web 应用模板，支持响应式设计和模块化开发，兼容 React、Vue 或 Next.js 等主流前端框架。通过 RESTful API 或 GraphQL 实现数据交互，可一键部署至 Vercel、Netlify 或 Docker 环境，适用于快速构建和发布浏览器端工具与服务。
@@ -1838,7 +1838,7 @@
 ## he-zhenpeng/sign-in-webHost
 
 > [!info]
-> ⭐ 194 · Python · 2026-07-27T22:18:55Z  
+> ⭐ 193 · Python · 2026-10-02T01:00:11Z  
 > [GitHub](https://github.com/he-zhenpeng/sign-in-webHost)  
 > `#定时任务` `#网页爬虫` `#自动化工具` `#账户保活` 
 > WebHostMost 自动化保活脚本通过 GitHub Actions 每月自动登录客户区，检测账户剩余时间并通过 Telegram 机器人发送通知。支持多账号批量管理，防止因未登录导致账户被删除，提供清晰的保活状态提醒与剩余时长报告。
@@ -1858,7 +1858,7 @@
 ## taoganio/uni-pagination
 
 > [!info]
-> ⭐ 203 · Java · 2026-08-05T12:57:54Z  
+> ⭐ 202 · Java · 2026-10-02T00:59:42Z  
 > [GitHub](https://github.com/taoganio/uni-pagination)  
 > `#Java框架` `#分页查询` `#数据库集成` 
 > Uni Pagination 是一个基于 Java 的通用分页框架，通过抽象化设计为 JDBC、MyBatis、MongoDB、Elasticsearch 等数据源提供统一分页接口。采用模块化架构，支持自定义分页语句与结果集处理，具备高度扩展性，适用于多数据源分页管理的企业级应用。
@@ -1897,7 +1897,7 @@
 ## chatgptuk/GS-EDU-SIGNUP
 
 > [!info]
-> ⭐ 48 · JavaScript · 2026-04-16T07:45:31Z  
+> ⭐ 49 · JavaScript · 2026-10-01T21:55:00Z  
 > [GitHub](https://github.com/chatgptuk/GS-EDU-SIGNUP)  
 > `#Google Admin SDK` `#教育信息化` `#自动化注册` 
 > 本系统通过 OAuth 授权实现 Google Workspace EDU 子账号自助注册，支持 Vercel 一键部署。集成 linux.do 身份验证，结合 Google Admin SDK 自动创建教育邮箱账户，适用于机构批量管理学生或教师账号。
