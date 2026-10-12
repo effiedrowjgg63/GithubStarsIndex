@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-11 14:50 UTC",
+  "last_updated": "2026-10-12 17:40 UTC",
   "repos": {
     "waoowaooAI/waoowaoo": {
       "metadata": {
@@ -3097,7 +3097,7 @@
         "name": "gpt-load",
         "owner": "tbphp",
         "description": "Self-hosted AI gateway for multi-channel, multi-credential setups — API keys and subscription accounts, scheduling, failover, request logs and usage. 自托管 AI 网关：多渠道多凭据统一接入，含密钥与订阅账号、调度容错、日志与用量。",
-        "stars": 7078,
+        "stars": 7080,
         "language": "Go",
         "url": "https://github.com/tbphp/gpt-load",
         "homepage": "https://www.gpt-load.com",
@@ -3118,8 +3118,8 @@
           "openai",
           "self-hosted"
         ],
-        "pushed_at": "2026-10-11T14:24:40Z",
-        "updated_at": "2026-10-11T13:57:06Z",
+        "pushed_at": "2026-10-12T12:22:52Z",
+        "updated_at": "2026-10-12T17:02:56Z",
         "starred_at": "2025-06-18T04:14:43Z"
       },
       "summary": {
@@ -4429,13 +4429,13 @@
         "name": "mcp-chrome",
         "owner": "hangwin",
         "description": "Chrome MCP Server is a Chrome extension-based Model Context Protocol (MCP) server that exposes your Chrome browser functionality to AI assistants like Claude, enabling complex browser automation, content analysis, and semantic search.",
-        "stars": 12482,
+        "stars": 12486,
         "language": "TypeScript",
         "url": "https://github.com/hangwin/mcp-chrome",
         "homepage": "",
         "topics": [],
         "pushed_at": "2026-01-06T13:05:39Z",
-        "updated_at": "2026-10-11T09:36:13Z",
+        "updated_at": "2026-10-12T15:48:51Z",
         "starred_at": "2025-08-25T14:40:10Z"
       },
       "summary": {
@@ -31333,8 +31333,8 @@
           "ai-agents",
           "ai-coding"
         ],
-        "pushed_at": "2026-10-11T04:07:30Z",
-        "updated_at": "2026-10-11T04:07:34Z",
+        "pushed_at": "2026-10-12T13:34:27Z",
+        "updated_at": "2026-10-12T13:34:28Z",
         "starred_at": "2025-11-23T10:29:17Z"
       },
       "summary": {
@@ -31656,7 +31656,7 @@
         "name": "WHartTest",
         "owner": "MGdaasLab",
         "description": "WHartTest 是一款AI驱动的测试自动化平台，实现从需求到可执行测试用例的自动化生成与管理，帮助测试团队提升效率与覆盖率。 (WHartTest is an AI-driven test automation platform that automates the generation and management of executable test cases from requirements, helping testing teams improve efficiency and coverage.)",
-        "stars": 1052,
+        "stars": 1055,
         "language": "Python",
         "url": "https://github.com/MGdaasLab/WHartTest",
         "homepage": "https://wharttest.mgdaas.com/",
@@ -31669,7 +31669,7 @@
           "test-case-generation"
         ],
         "pushed_at": "2026-09-22T02:38:15Z",
-        "updated_at": "2026-10-11T12:37:16Z",
+        "updated_at": "2026-10-12T09:55:49Z",
         "starred_at": "2025-11-09T01:37:27Z"
       },
       "summary": {
@@ -31797,7 +31797,7 @@
         "name": "kelivo",
         "owner": "Chevey339",
         "description": "A Flutter LLM Chat Client. Support Mobile & Desktop.",
-        "stars": 4198,
+        "stars": 4205,
         "language": "Dart",
         "url": "https://github.com/Chevey339/kelivo",
         "homepage": "https://kelivo.psycheas.top",
@@ -31815,7 +31815,7 @@
           "openharmony"
         ],
         "pushed_at": "2026-10-09T03:19:03Z",
-        "updated_at": "2026-10-11T14:18:07Z",
+        "updated_at": "2026-10-12T16:56:07Z",
         "starred_at": "2025-10-28T08:02:47Z"
       },
       "summary": {
@@ -31841,7 +31841,7 @@
         "name": "FreeDomain",
         "owner": "DigitalPlatDev",
         "description": "Free domain registration and practical DNS learning resources for everyone.",
-        "stars": 203499,
+        "stars": 203708,
         "language": "Markdown",
         "url": "https://github.com/DigitalPlatDev/FreeDomain",
         "homepage": "https://dashboard.digitalplat.org",
@@ -31863,7 +31863,7 @@
           "nameserver"
         ],
         "pushed_at": "2026-08-12T10:36:46Z",
-        "updated_at": "2026-10-11T14:43:52Z",
+        "updated_at": "2026-10-12T17:39:53Z",
         "starred_at": "2025-10-26T08:03:55Z"
       },
       "summary": {
@@ -31921,7 +31921,7 @@
         "name": "GPT-2-Based-Medical-Dialogue-System",
         "owner": "Haohao-end",
         "description": "A medical question-answering system built on the GPT-2 language model, fine-tuned on a large corpus of doctor-patient dialogues. The system supports multi-turn conversations and provides both command-line and web-based interfaces for interaction.",
-        "stars": 199,
+        "stars": 197,
         "language": "Python",
         "url": "https://github.com/Haohao-end/GPT-2-Based-Medical-Dialogue-System",
         "homepage": "",
@@ -31933,7 +31933,7 @@
           "transformer"
         ],
         "pushed_at": "2026-01-10T13:57:38Z",
-        "updated_at": "2026-10-09T17:37:53Z",
+        "updated_at": "2026-10-12T08:30:19Z",
         "starred_at": "2025-10-24T22:57:00Z"
       },
       "summary": {
@@ -32149,7 +32149,7 @@
         "name": "llm-interview-code",
         "owner": "AIR-hl",
         "description": "LLM面试常见手撕合集",
-        "stars": 624,
+        "stars": 627,
         "language": "Jupyter Notebook",
         "url": "https://github.com/AIR-hl/llm-interview-code",
         "homepage": "",
@@ -32160,7 +32160,7 @@
           "lm"
         ],
         "pushed_at": "2026-06-19T14:22:10Z",
-        "updated_at": "2026-10-11T08:28:52Z",
+        "updated_at": "2026-10-12T16:44:10Z",
         "starred_at": "2025-10-02T04:30:36Z"
       },
       "summary": {
@@ -32794,13 +32794,13 @@
         "name": "openwebui",
         "owner": "xzygreen",
         "description": "openwebui on pages with webdav",
-        "stars": 347,
+        "stars": 348,
         "language": "Shell",
         "url": "https://github.com/xzygreen/openwebui",
         "homepage": "",
         "topics": [],
         "pushed_at": "2025-07-23T03:47:45Z",
-        "updated_at": "2026-10-09T17:37:58Z",
+        "updated_at": "2026-10-12T10:13:21Z",
         "starred_at": "2025-09-08T05:54:34Z"
       },
       "summary": {
@@ -33265,8 +33265,8 @@
           "vite",
           "vue"
         ],
-        "pushed_at": "2026-10-11T14:01:45Z",
-        "updated_at": "2026-10-11T13:36:15Z",
+        "pushed_at": "2026-10-12T05:11:25Z",
+        "updated_at": "2026-10-12T05:11:31Z",
         "starred_at": "2025-08-25T03:56:43Z"
       },
       "summary": {
@@ -33459,13 +33459,13 @@
         "name": "Cloudflare-BestIP",
         "owner": "IonRh",
         "description": "将优选IP推送到CF、阿里云、DNSpod、华为云DNS进行DNS解析，定期延时检测，web页面展示等",
-        "stars": 500,
+        "stars": 499,
         "language": "JavaScript",
         "url": "https://github.com/IonRh/Cloudflare-BestIP",
         "homepage": "",
         "topics": [],
         "pushed_at": "2026-10-11T06:53:02Z",
-        "updated_at": "2026-10-11T06:53:05Z",
+        "updated_at": "2026-10-11T16:21:12Z",
         "starred_at": "2025-07-29T22:25:25Z"
       },
       "summary": {
@@ -33577,13 +33577,13 @@
         "name": "japanese-analyzer",
         "owner": "cokice",
         "description": "",
-        "stars": 801,
+        "stars": 802,
         "language": "TypeScript",
         "url": "https://github.com/cokice/japanese-analyzer",
         "homepage": "https://nihongodemo.howen.ink/",
         "topics": [],
         "pushed_at": "2026-10-07T08:14:58Z",
-        "updated_at": "2026-10-11T03:44:49Z",
+        "updated_at": "2026-10-12T10:02:31Z",
         "starred_at": "2025-07-27T04:01:34Z"
       },
       "summary": {
@@ -33623,7 +33623,7 @@
           "vscode",
           "vscode-extensions"
         ],
-        "pushed_at": "2026-10-10T17:48:55Z",
+        "pushed_at": "2026-10-12T15:52:44Z",
         "updated_at": "2026-10-11T03:13:04Z",
         "starred_at": "2025-07-26T17:07:22Z"
       },
@@ -34775,8 +34775,8 @@
         "full_name": "ZHangZHengEric/Sage",
         "name": "Sage",
         "owner": "ZHangZHengEric",
-        "description": "Multi-Agent System Framework For Complex Tasks",
-        "stars": 1212,
+        "description": "An extensible framework for custom, self-evolving AI agents, with configurable agent packages, tools, skills, and multi-round recursive self-improvement (RSI).",
+        "stars": 1211,
         "language": "Python",
         "url": "https://github.com/ZHangZHengEric/Sage",
         "homepage": "https://zhangzhengeric.github.io/Sage/",
@@ -34789,10 +34789,12 @@
           "mcp",
           "multi-agent",
           "python",
+          "rsi",
+          "self-evolving-agents",
           "workflow"
         ],
-        "pushed_at": "2026-10-11T13:35:36Z",
-        "updated_at": "2026-10-11T13:45:40Z",
+        "pushed_at": "2026-10-12T08:40:44Z",
+        "updated_at": "2026-10-12T08:40:48Z",
         "starred_at": "2025-06-20T12:41:29Z"
       },
       "summary": {
@@ -34818,13 +34820,13 @@
         "name": "Veloera",
         "owner": "Veloera",
         "description": "",
-        "stars": 1628,
+        "stars": 1629,
         "language": "Go",
         "url": "https://github.com/Veloera/Veloera",
         "homepage": "",
         "topics": [],
         "pushed_at": "2026-02-11T09:14:23Z",
-        "updated_at": "2026-10-11T10:04:17Z",
+        "updated_at": "2026-10-12T03:31:19Z",
         "starred_at": "2025-06-20T18:29:10Z"
       },
       "summary": {
@@ -35345,13 +35347,13 @@
         "name": "pixels-spike",
         "owner": "pixelsdb",
         "description": "A cloud-native computing framework for serverless query processing.",
-        "stars": 263,
+        "stars": 264,
         "language": "Go",
         "url": "https://github.com/pixelsdb/pixels-spike",
         "homepage": "",
         "topics": [],
         "pushed_at": "2025-07-08T12:41:44Z",
-        "updated_at": "2026-10-10T10:36:49Z",
+        "updated_at": "2026-10-12T09:50:16Z",
         "starred_at": "2025-06-18T14:05:57Z"
       },
       "summary": {
@@ -35456,7 +35458,7 @@
         "name": "mini-pixels",
         "owner": "pixelsdb",
         "description": "The educational analytic storage engine derived from Pixels (https://github.com/pixelsdb/pixels).",
-        "stars": 39,
+        "stars": 40,
         "language": "Java",
         "url": "https://github.com/pixelsdb/mini-pixels",
         "homepage": "",
@@ -35466,7 +35468,7 @@
           "olap"
         ],
         "pushed_at": "2026-01-13T04:33:42Z",
-        "updated_at": "2026-06-23T14:51:06Z",
+        "updated_at": "2026-10-12T11:56:04Z",
         "starred_at": "2025-06-18T00:22:48Z"
       },
       "summary": {
@@ -35566,7 +35568,7 @@
           "computer-network"
         ],
         "pushed_at": "2025-02-22T16:06:35Z",
-        "updated_at": "2026-09-05T08:49:08Z",
+        "updated_at": "2026-10-12T03:13:24Z",
         "starred_at": "2025-06-17T21:34:41Z"
       },
       "summary": {
@@ -35600,7 +35602,7 @@
           "computer-architecture"
         ],
         "pushed_at": "2025-02-22T16:17:10Z",
-        "updated_at": "2026-09-05T08:49:05Z",
+        "updated_at": "2026-10-12T03:15:18Z",
         "starred_at": "2025-06-17T15:40:59Z"
       },
       "summary": {
@@ -35767,7 +35769,7 @@
           "particle-physics"
         ],
         "pushed_at": "2025-09-08T05:36:45Z",
-        "updated_at": "2026-09-05T08:49:07Z",
+        "updated_at": "2026-10-12T03:12:08Z",
         "starred_at": "2025-06-14T08:26:56Z"
       },
       "summary": {
@@ -35998,13 +36000,13 @@
         "name": "EnergyPatchTST",
         "owner": "William-Liwei",
         "description": "This is an official implementation of \"EnergyPatchTST: Multi-scale Time Series Transformers with Uncertainty Estimation for Energy Forecasting\".",
-        "stars": 375,
+        "stars": 376,
         "language": "Python",
         "url": "https://github.com/William-Liwei/EnergyPatchTST",
         "homepage": "",
         "topics": [],
         "pushed_at": "2025-07-27T03:22:26Z",
-        "updated_at": "2026-10-11T09:20:40Z",
+        "updated_at": "2026-10-12T09:24:15Z",
         "starred_at": "2025-06-11T02:38:39Z"
       },
       "summary": {
@@ -36126,7 +36128,7 @@
         "name": "MarkFlowy",
         "owner": "drl990114",
         "description": "A high-performance, cross-platform editor that supports WYSIWYG Markdown and general text editing.",
-        "stars": 2396,
+        "stars": 2398,
         "language": "TypeScript",
         "url": "https://github.com/drl990114/MarkFlowy",
         "homepage": "https://www.markflowy.cc",
@@ -36148,7 +36150,7 @@
           "windows-app"
         ],
         "pushed_at": "2026-10-11T12:13:27Z",
-        "updated_at": "2026-10-11T05:56:14Z",
+        "updated_at": "2026-10-12T02:31:23Z",
         "starred_at": "2025-06-10T21:09:44Z"
       },
       "summary": {
@@ -36174,7 +36176,7 @@
         "name": "screenlite",
         "owner": "screenlite",
         "description": "Open-source digital signage software",
-        "stars": 362,
+        "stars": 363,
         "language": "TypeScript",
         "url": "https://github.com/screenlite/screenlite",
         "homepage": "https://screenlite.org",
@@ -36183,7 +36185,7 @@
           "digital-signage"
         ],
         "pushed_at": "2026-05-08T22:53:29Z",
-        "updated_at": "2026-10-02T14:42:38Z",
+        "updated_at": "2026-10-12T16:37:35Z",
         "starred_at": "2025-06-10T18:36:44Z"
       },
       "summary": {
@@ -36474,7 +36476,7 @@
         "name": "CloudPaste",
         "owner": "ling-drag0n",
         "description": "🌩️ Serverless 自托管的文件管理与文本分享工具/网盘，支持多存储聚合管理和WebDAV 服务挂载。兼容 S3、WebDAV、OneDrive、Google Drive、Telegram、HF、GitHub 等。内置   Markdown 编辑器、30+文件格式预览。支持 Cloudflare Workers 或 Docker 部署。",
-        "stars": 2697,
+        "stars": 2696,
         "language": "JavaScript",
         "url": "https://github.com/ling-drag0n/CloudPaste",
         "homepage": "https://doc.cloudpaste.qzz.io",
@@ -36492,7 +36494,7 @@
           "webdav"
         ],
         "pushed_at": "2026-01-23T08:12:18Z",
-        "updated_at": "2026-10-11T13:29:12Z",
+        "updated_at": "2026-10-12T15:23:28Z",
         "starred_at": "2025-06-10T02:20:49Z"
       },
       "summary": {
@@ -37038,7 +37040,7 @@
         "name": "SuperAutoStudy",
         "owner": "Dainoar",
         "description": "超星学习通/学习通/泛雅学习通自动云端刷课的Springboot项目,支持多级倍速播放和自动答题，已接入Super题库+大模型答题。",
-        "stars": 710,
+        "stars": 717,
         "language": "Java",
         "url": "https://github.com/Dainoar/SuperAutoStudy",
         "homepage": "",
@@ -37048,7 +37050,7 @@
           "springboot"
         ],
         "pushed_at": "2026-07-14T04:15:38Z",
-        "updated_at": "2026-10-11T13:23:44Z",
+        "updated_at": "2026-10-12T15:11:27Z",
         "starred_at": "2025-06-07T17:41:38Z"
       },
       "summary": {
@@ -37138,7 +37140,7 @@
         "name": "saga-reader",
         "owner": "sopaco",
         "description": "💪🏻 Blazing-Fast and Extremely-Lightweight Internet Reader driven by AI! Your AI-Powered think tank assistant.(Built with Rust, Tauri & Svelte)",
-        "stars": 532,
+        "stars": 531,
         "language": "Rust",
         "url": "https://github.com/sopaco/saga-reader",
         "homepage": "https://aiqino.netlify.app/",
@@ -37151,7 +37153,7 @@
           "tauri"
         ],
         "pushed_at": "2026-07-11T23:53:03Z",
-        "updated_at": "2026-10-09T17:37:54Z",
+        "updated_at": "2026-10-12T16:31:49Z",
         "starred_at": "2025-06-07T14:26:31Z"
       },
       "summary": {
@@ -37376,8 +37378,8 @@
         "url": "https://github.com/taoganio/uni-pagination",
         "homepage": "",
         "topics": [],
-        "pushed_at": "2025-11-11T03:01:42Z",
-        "updated_at": "2026-10-02T00:59:42Z",
+        "pushed_at": "2026-10-12T03:08:34Z",
+        "updated_at": "2026-10-12T03:08:38Z",
         "starred_at": "2025-06-07T09:58:10Z"
       },
       "summary": {
@@ -37613,7 +37615,7 @@
         "homepage": "",
         "topics": [],
         "pushed_at": "2026-08-10T02:05:28Z",
-        "updated_at": "2026-10-09T17:38:01Z",
+        "updated_at": "2026-10-12T03:09:12Z",
         "starred_at": "2025-07-30T11:53:11Z"
       },
       "summary": {
@@ -37639,7 +37641,7 @@
         "name": "openagent",
         "owner": "Haohao-end",
         "description": "What if OpenAI Deep Research and Dify were one platform? OpenAgent — harness architecture for rapidly building vertical AI agents, with deep reasoning loops, visual workflows, RAG, and A2A delegation. ",
-        "stars": 793,
+        "stars": 779,
         "language": "Python",
         "url": "https://github.com/Haohao-end/openagent",
         "homepage": "https://openllm.cloud",
@@ -37666,7 +37668,7 @@
           "weaviate"
         ],
         "pushed_at": "2026-07-17T13:36:09Z",
-        "updated_at": "2026-10-11T05:54:16Z",
+        "updated_at": "2026-10-12T08:31:29Z",
         "starred_at": "2025-11-09T06:43:19Z"
       },
       "summary": {
@@ -38061,7 +38063,7 @@
         "tags_en": []
       },
       "pushed_at": "2026-06-16T15:48:58Z",
-      "updated_at": "2026-10-11"
+      "updated_at": "2026-10-12"
     },
     "flechazo-crushed/webmeta-cli": {
       "metadata": {
@@ -38085,7 +38087,7 @@
         "tags_en": []
       },
       "pushed_at": "2026-05-05T02:47:54Z",
-      "updated_at": "2026-10-11"
+      "updated_at": "2026-10-12"
     },
     "fastbyte19/terraform-docker-postgresql": {
       "metadata": {
@@ -38109,7 +38111,7 @@
         "tags_en": []
       },
       "pushed_at": "2026-07-27T10:33:47Z",
-      "updated_at": "2026-10-11"
+      "updated_at": "2026-10-12"
     },
     "fastbyte19/Solana-NFT-Marketplace-by-CandyMachine": {
       "metadata": {
@@ -38152,7 +38154,7 @@
         "tags_en": []
       },
       "pushed_at": "2025-11-21T01:15:31Z",
-      "updated_at": "2026-10-11"
+      "updated_at": "2026-10-12"
     },
     "fastbyte18/terraform-docker-postgresql": {
       "metadata": {
@@ -38248,7 +38250,7 @@
         "tags_en": []
       },
       "pushed_at": "2026-08-11T07:51:54Z",
-      "updated_at": "2026-10-11"
+      "updated_at": "2026-10-12"
     },
     "4pwn/NXJS-ARCH": {
       "metadata": {
@@ -38298,7 +38300,7 @@
         "tags_en": []
       },
       "pushed_at": "2025-10-15T21:53:03Z",
-      "updated_at": "2026-10-11"
+      "updated_at": "2026-10-12"
     },
     "hixtty/domain-manage": {
       "metadata": {
@@ -38322,7 +38324,7 @@
         "tags_en": []
       },
       "pushed_at": "2025-12-04T02:14:09Z",
-      "updated_at": "2026-10-11"
+      "updated_at": "2026-10-12"
     }
   }
 }
