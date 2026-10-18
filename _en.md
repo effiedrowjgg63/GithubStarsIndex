@@ -1,6 +1,6 @@
 # ⭐ GitHub Stars Index
 
-> Updated: 2026-10-17 12:04 UTC · Total: 174
+> Updated: 2026-10-18 12:33 UTC · Total: 174
 
 ---
 
@@ -98,7 +98,7 @@
 - [[#jiayihello/Dream|jiayihello/Dream]]
 - [[#14790897/MapDistancePro|14790897/MapDistancePro]]
 - [[#14790897/Ali-NFC2QR|14790897/Ali-NFC2QR]]
-- [[#tiouoo/Aurelio|tiouoo/Aurelio]]
+- [[#tiouoo/archive|tiouoo/archive]]
 - [[#nonamev-ls/SCIE_MCE|nonamev-ls/SCIE_MCE]]
 - [[#1229984599/nav|1229984599/nav]]
 - [[#huangchuan149162/domain-check|huangchuan149162/domain-check]]
@@ -195,7 +195,7 @@
 ## MayDay-wpf/snow-cli
 
 > [!info]
-> ⭐ 1,068 · TypeScript · 2026-10-16T17:48:57Z  
+> ⭐ 1,068 · TypeScript · 2026-10-18T08:07:26Z  
 > [GitHub](https://github.com/MayDay-wpf/snow-cli)  
 > `#AI 智能体` `#Code Automation` `#Terminal Tool` `#ai` `#ai-agents` `#ai-coding` 
 > Snow AI CLI is an agentic coding tool for the terminal, enabling intelligent code generation, vulnerability scanning, and async task management. With command injection, sub-agent configuration, and hook automation, it offers a customizable AI-driven development workflow for building, reviewing, and optimizing code efficiently.
@@ -343,7 +343,7 @@
 ## Chevey339/kelivo
 
 > [!info]
-> ⭐ 4,241 · Dart · 2026-10-17T11:48:50Z  
+> ⭐ 4,260 · Dart · 2026-10-18T11:29:23Z  
 > [GitHub](https://github.com/Chevey339/kelivo) · [Website](https://kelivo.psycheas.top)  
 > `#AI 智能体` `#Cross-Platform` `#Flutter` `#ai` `#android` `#chatbot` `#chatbox` `#flutter` `#flutter-apps` `#harmony` `#harmonyos` `#ios` `#llm` `#openharmony` 
 > Kelivo is a cross-platform LLM chat client built with Flutter, supporting mobile (Android/iOS/Harmony) and desktop (Windows/macOS/Linux). It features modern Material You design, multi-language support, integration with major AI providers, MCP tools, web search, TTS, Markdown rendering, and custom fonts for an intelligent conversational experience.
@@ -353,7 +353,7 @@
 ## DigitalPlatDev/FreeDomain
 
 > [!info]
-> ⭐ 204,567 · Markdown · 2026-10-17T12:02:19Z  
+> ⭐ 204,740 · Markdown · 2026-10-18T12:32:50Z  
 > [GitHub](https://github.com/DigitalPlatDev/FreeDomain) · [Website](https://dashboard.digitalplat.org)  
 > `#Digital Identity` `#Domain Service` `#Free Domain` `#digitalplat` `#dns` `#dns-tutorial` `#documentation` `#domain` `#domain-platform` `#domain-registration` `#domainname` `#domains` `#education` `#free` `#free-domain` `#freedomain` `#internet-infrastructure` `#nameserver` 
 > DigitalPlat FreeDomain offers free domain registration for individuals and organizations with exclusive extensions like .DPDNS.ORG and .US.KG. Built and maintained by Edward Hsing, founder of DigitalPlat Foundation, it integrates seamlessly with popular DNS providers such as Cloudflare. With over 400,000 domains registered, it empowers users to establish a digital presence at zero cost, promoting open access to the web.
@@ -383,7 +383,7 @@
 ## 4pwn/NXJS-ARCH
 
 > [!info]
-> ⭐ 392 · JavaScript · 2026-10-17T07:08:43Z  
+> ⭐ 394 · JavaScript · 2026-10-18T09:09:05Z  
 > [GitHub](https://github.com/4pwn/NXJS-ARCH)  
 > `#architecture` `#docs` `#next-auth` 
 > 暂无描述。
@@ -577,7 +577,7 @@
 ## Moonrend/ZeroCat
 
 > [!info]
-> ⭐ 351 · JavaScript · 2026-10-17T07:10:09Z  
+> ⭐ 351 · JavaScript · 2026-10-18T11:40:08Z  
 > [GitHub](https://github.com/Moonrend/ZeroCat) · [Website](https://zerocat.dev)  
 > `#Node.js` `#Open Source Collaboration` `#Programming Community` `#code` `#community` `#scratch` 
 > ZeroCat is a next-generation, open-source programming community built with Node.js, aiming to create a fully open collaborative coding environment. Initiated by Sunwuyuan, it emphasizes community contribution and follows the Contributor Covenant code of conduct under AGPLv3 licensing, encouraging participation via GitHub issues or pull requests.
@@ -646,7 +646,7 @@
 ## William-Liwei/shuprophet
 
 > [!info]
-> ⭐ 264 · Vue · 2026-10-17T07:06:57Z  
+> ⭐ 265 · Vue · 2026-10-18T05:03:00Z  
 > [GitHub](https://github.com/William-Liwei/shuprophet)  
 > `#AI Large Model` `#Academic Research` `#Time Series Forecasting` `#Web Application` 
 > SHU Prophet is an academic-driven time series intelligent decision platform integrating 6 proprietary prediction models from CCF-B/C conference papers (e.g., ScatterFusion, AWGFormer). It offers AI-powered conversational analysis, multi-model visualization comparison, community knowledge sharing, and user tier systems. Built with Vue3+Python+Flask+LangChain, it supports cloud deployment and Docker one-click installation for research-to-production workflows.
@@ -714,7 +714,7 @@
 ## hangwin/mcp-chrome
 
 > [!info]
-> ⭐ 12,499 · TypeScript · 2026-10-17T09:46:04Z  
+> ⭐ 12,498 · TypeScript · 2026-10-18T12:11:14Z  
 > [GitHub](https://github.com/hangwin/mcp-chrome)  
 > `#AI 智能体` `#Browser Automation` `#Semantic Search` 
 > Chrome MCP Server is a Chrome extension-based Model Context Protocol (MCP) server that exposes browser functionality to AI assistants like Claude, enabling complex automation, content analysis, and semantic search. It leverages your existing Chrome browser with preserved login states and settings, supports 20+ tools, offers local streamable HTTP communication, and features SIMD-accelerated vector database for intelligent tab content discovery.
@@ -1054,7 +1054,7 @@
 ## sz30/2048--
 
 > [!info]
-> ⭐ 527 · HTML · 2026-10-17T07:10:06Z  
+> ⭐ 528 · HTML · 2026-10-17T18:59:07Z  
 > [GitHub](https://github.com/sz30/2048--)  
 > `#Casual Game` `#Flask` `#Web Game` 
 > 2048++ is an enhanced version of the classic 2048 game built with Flask, featuring an undo mechanic and a fast mode. Players can revert moves infinitely or trigger an Easter egg to instantly convert all tiles into 128, adding strategic depth and fun.
@@ -1090,13 +1090,13 @@
 > <sub>阿里的nfc链接转为二维码</sub>
 
 ---
-## tiouoo/Aurelio
+## tiouoo/archive
 
 > [!info]
-> ⭐ 176 · C# · 2026-10-17T07:09:52Z  
-> [GitHub](https://github.com/tiouoo/Aurelio) · [Website](https://aurelio.yeppioo.vip)  
-> `#Avalonia UI` `#Cross-Platform` `#Desktop Application` 
-> Aurelio is a modern cross-platform desktop workspace built with .NET 8 and Avalonia UI, featuring file management, terminal integration, plugin architecture, Fluent Design interface, and multi-language support for high performance and extensibility.
+> ⭐ 175 · N/A · 2026-10-18T05:54:40Z  
+> [GitHub](https://github.com/tiouoo/archive)  
+> 
+> 暂无描述。
 
 ---
 ## nonamev-ls/SCIE_MCE
@@ -1132,7 +1132,7 @@
 ## ZHangZHengEric/Sage
 
 > [!info]
-> ⭐ 1,212 · Python · 2026-10-17T11:22:09Z  
+> ⭐ 1,212 · Python · 2026-10-18T06:26:41Z  
 > [GitHub](https://github.com/ZHangZHengEric/Sage) · [Website](https://zhangzhengeric.github.io/Sage/)  
 > `#AI Agents` `#Multi-Agent System` `#Task Orchestration` `#agents` `#ai` `#flutter` `#llm` `#manus` `#mcp` `#multi-agent` `#python` `#rsi` `#self-evolving-agents` `#workflow` 
 > Sage is a production-ready multi-agent framework enabling complex task orchestration, model capability maximization, and secure sandbox execution. It features a visual workbench, OpenTelemetry tracing, MCP protocol support, and cross-platform desktop apps for intelligent collaboration and automation.
@@ -1300,7 +1300,7 @@
 ## karldoenitz/Tigo
 
 > [!info]
-> ⭐ 2,204 · Go · 2026-10-17T07:10:42Z  
+> ⭐ 2,203 · Go · 2026-10-17T23:41:41Z  
 > [GitHub](https://github.com/karldoenitz/Tigo) · [Website](https://karldoenitz.github.io/Tigo/)  
 > `#Go Language` `#High Concurrency` `#Web Framework` `#go` `#golang` `#middleware` `#rest-api` `#restful` `#tigo` `#web` 
 > Tigo is a high-performance Go web framework featuring Tornado-like asynchronous APIs with superior performance. It supports routing, middleware, and RESTful development via tools like the scaffold generator 'tiger' and session plugin 'tission', ideal for building scalable backend services.
@@ -1320,7 +1320,7 @@
 ## tbphp/gpt-load
 
 > [!info]
-> ⭐ 7,145 · Go · 2026-10-17T12:01:43Z  
+> ⭐ 7,149 · Go · 2026-10-18T10:45:44Z  
 > [GitHub](https://github.com/tbphp/gpt-load) · [Website](https://www.gpt-load.com)  
 > `#AI Proxy` `#API Gateway` `#Key Management` `#Load Balancing` `#ai-gateway` `#anthropic` `#api-gateway` `#claude` `#claude-code` `#codex` `#gemini` `#gin` `#go` `#golang` `#llm` `#llm-gateway` `#load-balancer` `#openai` `#self-hosted` 
 > GPT-Load is a high-performance, enterprise-grade transparent proxy service for AI APIs, designed for developers and enterprises integrating multiple AI services. Built with Go, it features intelligent key rotation, load balancing, automatic failure recovery, hot-reload configuration, and comprehensive monitoring. Supports OpenAI, Google Gemini, and Anthropic Claude APIs with a Vue 3 management interface.
@@ -1430,7 +1430,7 @@
 ## pixelsdb/pixels
 
 > [!info]
-> ⭐ 918 · Java · 2026-10-17T07:10:21Z  
+> ⭐ 919 · Java · 2026-10-18T07:40:54Z  
 > [GitHub](https://github.com/pixelsdb/pixels)  
 > `#Analytics Engine` `#Columnar Format` `#Data Storage` `#cloud-database` `#column-store` `#data-lake` `#data-warehouse` `#database` `#olap` 
 > Pixels is a columnar storage engine optimized for data lakes and warehouses, supporting S3, GCS, HDFS, and other cloud-native or on-premises storage systems. It outperforms Parquet by up to two orders of magnitude and integrates with DuckDB, Trino, StarRocks, and Hive. Pixels-Turbo, its MPP query engine, leverages autoscaling clusters and serverless functions (e.g., AWS Lambda) for high performance and cost-efficiency in continuous and bursty workloads.
@@ -1479,7 +1479,7 @@
 ## William-Liwei/EnergyPatchTST
 
 > [!info]
-> ⭐ 376 · Python · 2026-10-17T07:10:46Z  
+> ⭐ 377 · Python · 2026-10-18T02:20:28Z  
 > [GitHub](https://github.com/William-Liwei/EnergyPatchTST)  
 > `#AI Large Model` `#Energy Forecasting` `#Time Series Forecasting` 
 > EnergyPatchTST is an advanced time series forecasting model extending PatchTST for energy prediction. It leverages multi-scale feature extraction, uncertainty estimation via Monte Carlo dropout, integration of future variables like weather data, and transfer learning to achieve up to 12% lower error rates, making it ideal for power generation planning and allocation.
@@ -1499,7 +1499,7 @@
 ## drl990114/MarkFlowy
 
 > [!info]
-> ⭐ 2,400 · TypeScript · 2026-10-17T10:36:50Z  
+> ⭐ 2,402 · TypeScript · 2026-10-18T05:09:08Z  
 > [GitHub](https://github.com/drl990114/MarkFlowy) · [Website](https://www.markflowy.cc)  
 > `#AI 智能体` `#Markdown Editor` `#桌面应用` `#ai` `#chatgpt` `#deepseek` `#editor` `#linux-app` `#macos-app` `#markdown` `#markdowneditor` `#notes-app` `#prosemirror` `#reactjs` `#rust-lang` `#tauri` `#typescript` `#windows-app` 
 > MarkFlowy is a modern, intelligent Markdown editor built with Tauri for lightweight performance (<20MB). It features integrated AI (Copilot, translation, summarization), multi-mode editing (source/WYSIWYG), Prosemirror core, custom themes, and cross-platform support. Designed for efficient writing, document management, and content creation.
@@ -1538,7 +1538,7 @@
 ## Leelokhan/Simple-personal-static-web-page
 
 > [!info]
-> ⭐ 337 · JavaScript · 2026-10-17T07:10:29Z  
+> ⭐ 337 · JavaScript · 2026-10-18T04:30:05Z  
 > [GitHub](https://github.com/Leelokhan/Simple-personal-static-web-page) · [Website](https://simple-personal-static-web-page.vercel.app)  
 > `#AI Application` `#Frontend Development` `#Personal Website` 
 > This is a personal static web page built with AI, featuring Live2D virtual characters, music/video players, image viewer with WASD controls, and custom mouse effects. It enables easy deployment for personalized homepages, ideal for frontend development practice and exploring AI-powered web interactions.
@@ -1585,7 +1585,7 @@
 ## lbjxr/domain-check-new
 
 > [!info]
-> ⭐ 406 · JavaScript · 2026-10-17T07:10:30Z  
+> ⭐ 407 · JavaScript · 2026-10-18T02:07:43Z  
 > [GitHub](https://github.com/lbjxr/domain-check-new)  
 > `#Automated Notifications` `#Cloudflare Workers` `#Domain Management` 
 > A concise and efficient domain monitoring dashboard built on Cloudflare Workers, offering an intuitive interface to view domain status, registrar, registration/expiration dates, and usage progress. Features TG bot notifications, password-protected access via KV storage, sorting, notes, and Bing daily backgrounds for secure personal domain management.
@@ -1605,7 +1605,7 @@
 ## lost66668888/easy-6digit-domains
 
 > [!info]
-> ⭐ 354 · Python · 2026-10-17T07:09:42Z  
+> ⭐ 355 · Python · 2026-10-18T09:03:56Z  
 > [GitHub](https://github.com/lost66668888/easy-6digit-domains)  
 > `#Automation Tool` `#Domain Service` `#Memorable Numbers` `#6-digit-domain-name` `#alibaba-cloud-account` `#domain-name` `#easy-to-remember-domain-name` `#premium-domain-name` `#short-domain-name` `#xyz-domain-name` 
 > This project provides a batch domain availability checker and generator for memorable 6-digit .xyz domains on Alibaba Cloud, supporting patterns like sequences, symmetry, repeats, and years. It outputs registrable domains priced at 7 CNY in real-time, ideal for branding or asset acquisition.
@@ -1654,7 +1654,7 @@
 ## ustcllm/RecFM
 
 > [!info]
-> ⭐ 1,030 · N/A · 2026-10-17T07:11:05Z  
+> ⭐ 1,029 · N/A · 2026-10-18T11:33:23Z  
 > [GitHub](https://github.com/ustcllm/RecFM)  
 > `#AI Foundation Models` `#Industrial Applications` `#Recommendation Systems` 
 > RecFM is a comprehensive toolkit for developing foundation models in recommendation systems, developed by USTCLLM. It includes modular libraries like RecStudio and industrial-grade solutions such as RecStudio4Industry, CELA, GRE, and Nexus, enabling efficient model training, deployment, and multi-domain text embedding across recommendation scenarios.
@@ -1710,7 +1710,7 @@
 ## IonRh/TGBot_RSS
 
 > [!info]
-> ⭐ 448 · Go · 2026-10-17T07:09:56Z  
+> ⭐ 449 · Go · 2026-10-18T05:34:11Z  
 > [GitHub](https://github.com/IonRh/TGBot_RSS)  
 > `#Information Push` `#RSS Subscription` `#Telegram Bot` 
 > TGBot_RSS is a Telegram Bot-based RSS subscription tool that supports keyword filtering, multi-user subscriptions, and customizable push formats. It features scheduled updates, image extraction, HTML tag support, and proxy configuration, deployable via Docker or VPS for automated content monitoring and real-time notifications.
@@ -1739,7 +1739,7 @@
 ## Dainoar/SuperAutoStudy
 
 > [!info]
-> ⭐ 744 · Java · 2026-10-17T10:28:02Z  
+> ⭐ 748 · Java · 2026-10-18T00:04:52Z  
 > [GitHub](https://github.com/Dainoar/SuperAutoStudy)  
 > `#AI-Powered Q&A` `#Education Automation` `#SpringBoot Microservices` `#java` `#llm` `#springboot` 
 > SuperAutoStudy is an open-source, self-deployable automation platform for Chaoxing Learning Platform, built on Spring Boot + Dubbo + RabbitMQ. It supports multi-speed video playback, auto-answering via a million-level Super Q&A database and AI models, with distributed task scheduling and Redis caching. Features Docker Compose deployment for ARM/x86.
