@@ -1,6 +1,6 @@
 # ⭐ GitHub Stars Index
 
-> Updated: 2026-10-26 15:03 UTC · Total: 175
+> Updated: 2026-10-27 14:17 UTC · Total: 175
 
 ---
 
@@ -196,7 +196,7 @@
 ## MayDay-wpf/snow-cli
 
 > [!info]
-> ⭐ 1,068 · TypeScript · 2026-10-25T15:58:33Z  
+> ⭐ 1,069 · TypeScript · 2026-10-27T09:57:59Z  
 > [GitHub](https://github.com/MayDay-wpf/snow-cli)  
 > `#AI智能体` `#代码自动化` `#终端工具` `#ai` `#ai-agents` `#ai-coding` 
 > Snow AI CLI 是一款终端 Agentic 编程工具，支持智能代码生成、漏洞检测、异步任务管理和 LSP 集成。通过命令注入、子代理配置和钩子自动化，提供高度可定制的 AI 编码体验，适用于开发者快速构建、审查和优化代码。
@@ -254,7 +254,7 @@
 ## ryty1/TG_Talk
 
 > [!info]
-> ⭐ 33 · Python · 2026-02-27T00:45:47Z  
+> ⭐ 32 · Python · 2026-10-27T06:58:33Z  
 > [GitHub](https://github.com/ryty1/TG_Talk)  
 > `#Telegram机器人` `#多机器人托管` `#自动化工具` 
 > TG_Talk 是一个高效的双向托管平台，专为管理多个 Telegram 客服机器人设计。支持 Docker 一键部署（跨平台）和传统 Linux 部署，提供直接转发与话题群组双模式、5种验证码防滥用机制、SQLite 数据持久化及自动备份功能，适用于个人客服到团队协作的全场景需求。
@@ -294,7 +294,7 @@
 ## Haohao-end/openagent
 
 > [!info]
-> ⭐ 774 · Python · 2026-10-26T12:42:25Z  
+> ⭐ 774 · Python · 2026-10-27T12:42:40Z  
 > [GitHub](https://github.com/Haohao-end/openagent) · [Website](https://openllm.cloud)  
 > `#AI智能体` `#Docker部署` `#LangChain 框架` `#agent` `#ai` `#celery` `#deepagents` `#deepresearch` `#deepseek` `#docker` `#faiss-vector-database` `#flask` `#harness-engineering` `#langchain` `#langgraph` `#llmops` `#mcp` `#nginx` `#postgresql` `#skills` `#tailwindcss` `#vue` `#weaviate` 
 > OpenAgent 是一个端到端的 AI Agent 开发平台，支持 OpenAI、DeepSeek、文心一言等多模型接入，提供知识库管理、工作流自动化编排、对话历史检索等企业级功能。采用 Flask + Vue3 + LangChain 技术栈，内置 Docker 一键部署，具备实时通知、权限管控和向量检索能力。
@@ -314,7 +314,7 @@
 ## MGdaasLab/WHartTest
 
 > [!info]
-> ⭐ 1,081 · Python · 2026-10-26T10:55:44Z  
+> ⭐ 1,083 · Python · 2026-10-27T13:56:16Z  
 > [GitHub](https://github.com/MGdaasLab/WHartTest) · [Website](https://wharttest.mgdaas.com/)  
 > `#AI智能体` `#Django` `#测试自动化` `#ai-test-platform` `#ai-testing` `#automated-testing` `#browser-automation` `#intelligent-testing` `#test-case-generation` 
 > WHartTest 是基于 Django REST Framework 和现代大模型技术构建的 AI 驱动测试自动化平台，集成 LangChain 与 MCP 协议，支持从需求文档自动生成结构化测试用例。平台具备知识库语义检索、UI/APP 自动化执行、MCP 工具调用及多模型嵌入服务适配能力，提供端到端的智能测试管理解决方案，显著提升测试效率与覆盖率。
@@ -344,7 +344,7 @@
 ## Chevey339/kelivo
 
 > [!info]
-> ⭐ 4,331 · Dart · 2026-10-26T14:36:56Z  
+> ⭐ 4,346 · Dart · 2026-10-27T14:16:57Z  
 > [GitHub](https://github.com/Chevey339/kelivo) · [Website](https://kelivo.psycheas.top)  
 > `#AI智能体` `#Flutter` `#跨平台` `#ai` `#android` `#chatbot` `#chatbox` `#flutter` `#flutter-apps` `#harmony` `#harmonyos` `#ios` `#llm` `#openharmony` 
 > Kelivo 是一款基于 Flutter 开发的跨平台 LLM 聊天客户端，支持移动端（Android/iOS/Harmony）和桌面端（Windows/macOS/Linux）。具备现代化 Material You 设计、多语言支持、多 AI 服务商接入、MCP 工具集成、网页搜索、语音合成、Markdown 渲染及自定义字体等功能，提供高效智能对话体验。
@@ -354,7 +354,7 @@
 ## DigitalPlatDev/FreeDomain
 
 > [!info]
-> ⭐ 205,871 · Markdown · 2026-10-26T14:57:46Z  
+> ⭐ 206,029 · Markdown · 2026-10-27T14:12:42Z  
 > [GitHub](https://github.com/DigitalPlatDev/FreeDomain) · [Website](https://dashboard.digitalplat.org)  
 > `#免费域名` `#域名服务` `#数字身份` `#digitalplat` `#dns` `#dns-tutorial` `#documentation` `#domain` `#domain-platform` `#domain-registration` `#domainname` `#domains` `#education` `#free` `#free-domain` `#freedomain` `#internet-infrastructure` `#nameserver` 
 > DigitalPlat FreeDomain 是一个面向个人和组织的免费域名注册平台，提供 .DPDNS.ORG、.US.KG 等专属后缀域名，支持与主流 DNS 服务商（如 Cloudflare）无缝集成。项目由 DigitalPlat Foundation 创始人 Edward Hsing 独立开发维护，已服务超 40 万用户，致力于降低网络接入门槛，推动互联网开放包容。
@@ -462,7 +462,7 @@
 ## Deyweaver/DeyWeaver
 
 > [!info]
-> ⭐ 382 · TypeScript · 2026-10-26T03:13:59Z  
+> ⭐ 381 · TypeScript · 2026-10-27T13:51:45Z  
 > [GitHub](https://github.com/Deyweaver/DeyWeaver) · [Website](https://deyweaver.live)  
 > `#AI智能体` `#提示工程` `#时间管理` `#生产力工具` `#ai-powered` `#calendar` `#daily-planner` `#organization-tool` `#personal-ai` `#productivity` `#task-manager` 
 > DeyWeaver 是一款基于 AI 的智能任务规划工具，通过自然语言交互生成个性化日程安排，支持任务分解、动态重排、会议准备与生产力分析。集成 Google Gemini 模型，提供可视化进度追踪与 burnout 预测，助力高效时间管理。
@@ -510,7 +510,7 @@
 ## C2SAgent/c2sagent
 
 > [!info]
-> ⭐ 302 · Python · 2026-10-26T03:13:49Z  
+> ⭐ 303 · Python · 2026-10-27T01:31:19Z  
 > [GitHub](https://github.com/C2SAgent/c2sagent) · [Website](https://www.c2sagent.com)  
 > `#AI智能体` `#Agent协作` `#MCP协议` `#a2a` `#agents` `#configurable` `#mcp` `#multi-agent` 
 > C2S Agent是一个轻量级AI智能体构建平台，支持通过HTTP接口快速配置MCP工具，并实现Agent间的自主协作。核心功能包括可配置的在线Agent、单端口多A2A服务与多MCP服务集成，适用于构建协同式AI应用系统。
@@ -598,7 +598,7 @@
 ## bitlap/sbt-dependency-analyzer
 
 > [!info]
-> ⭐ 81 · Scala · 2026-10-26T04:12:21Z  
+> ⭐ 81 · Scala · 2026-10-27T12:27:26Z  
 > [GitHub](https://github.com/bitlap/sbt-dependency-analyzer) · [Website](https://plugins.jetbrains.com/plugin/22427-sbt-dependency-analyzer)  
 > `#IDE插件` `#SBT工具` `#依赖分析` `#dependency-analysis` `#dependency-tree` `#java` `#jetbrains-plugin` `#sbt` `#scala` 
 > Sbt Dependency Analyzer 是一款专为 IntelliJ IDEA 和 Android Studio 设计的插件，提供可视化依赖树、冲突检测、跨模块依赖分析及 JAR 大小统计等功能，支持快速定位依赖声明与排除传递依赖，显著提升 SBT 项目依赖管理效率。
@@ -628,7 +628,7 @@
 ## xzygreen/openwebui
 
 > [!info]
-> ⭐ 349 · Shell · 2026-10-26T03:15:32Z  
+> ⭐ 350 · Shell · 2026-10-27T08:56:17Z  
 > [GitHub](https://github.com/xzygreen/openwebui)  
 > `#AI智能体` `#云端部署` `#提示工程` `#知识管理` 
 > Open-WebUI 是一个社区驱动的 AI 平台分支，专注于通过 WebDAV 实现文件存储与同步，支持 Hugging Face 部署。提供 HTTP 客户端缓冲区调优、注册邮箱验证等高级配置，适用于需要云端知识库管理的 AI 应用场景。
@@ -647,7 +647,7 @@
 ## William-Liwei/shuprophet
 
 > [!info]
-> ⭐ 262 · Vue · 2026-10-26T03:15:36Z  
+> ⭐ 263 · Vue · 2026-10-27T05:28:29Z  
 > [GitHub](https://github.com/William-Liwei/shuprophet)  
 > `#AI大模型` `#Web应用` `#学术研究` `#时间序列预测` 
 > 鼠先知(SHU Prophet)是一个学术驱动的时间序列智能决策平台，集成6个来自CCF-B/C会议论文的自研预测模型(如ScatterFusion、AWGFormer等)，提供AI对话式分析、多模型可视化对比、社区知识共享及用户等级体系。基于Vue3+Python+Flask+LangChain技术栈，支持云端部署与Docker一键安装，实现从研究到生产的完整闭环。
@@ -715,7 +715,7 @@
 ## hangwin/mcp-chrome
 
 > [!info]
-> ⭐ 12,510 · TypeScript · 2026-10-26T11:54:06Z  
+> ⭐ 12,511 · TypeScript · 2026-10-27T12:05:37Z  
 > [GitHub](https://github.com/hangwin/mcp-chrome)  
 > `#AI智能体` `#浏览器自动化` `#语义搜索` 
 > Chrome MCP Server 是一款基于 Chrome 扩展的 Model Context Protocol (MCP) 服务器，将浏览器功能暴露给 Claude 等 AI 助手，实现复杂浏览器自动化、内容分析与语义搜索。它直接利用用户现有 Chrome 环境，保留登录状态与配置，支持 20+ 工具，提供本地流式 HTTP 通信，并集成 SIMD 加速的向量数据库，实现智能跨标签页语义检索。
@@ -735,7 +735,7 @@
 ## talex-touch/tuff
 
 > [!info]
-> ⭐ 285 · TypeScript · 2026-10-26T02:55:42Z  
+> ⭐ 285 · TypeScript · 2026-10-27T07:45:06Z  
 > [GitHub](https://github.com/talex-touch/tuff) · [Website](https://tuff.tagzxia.com)  
 > `#AI大模型` `#命令中心` `#插件系统` `#桌面应用` `#bar` `#command` `#electron` `#launcher` `#raycast` `#tools` `#typescript` `#utools` `#vite` `#vue` 
 > Tuff 是一个基于沙箱架构的本地优先、AI原生桌面命令中心，提供快速应用与文件搜索、插件化扩展、多窗口管理等功能。支持自定义 LLM 接入，具备统一下载中心与上下文智能建议，旨在无缝集成用户工作流。
@@ -813,7 +813,7 @@
 ## harren-collections/dnspod-monitor
 
 > [!info]
-> ⭐ 240 · Python · 2026-10-26T03:14:10Z  
+> ⭐ 241 · Python · 2026-10-26T15:11:46Z  
 > [GitHub](https://github.com/harren-collections/dnspod-monitor)  
 > `#DNS监控` `#网络运维` `#自动化通知` 
 > 该工具用于监控 DNSPod 域名 IP 变化，通过定时检测并推送 Telegram 通知，适用于动态域名管理场景。支持自定义监听间隔与子域名配置，具备可扩展性，便于集成更多自动化功能。
@@ -831,7 +831,7 @@
 ## cokice/japanese-analyzer
 
 > [!info]
-> ⭐ 800 · TypeScript · 2026-10-26T03:14:27Z  
+> ⭐ 801 · TypeScript · 2026-10-27T05:19:25Z  
 > [GitHub](https://github.com/cokice/japanese-analyzer) · [Website](https://nihongodemo.howen.ink/)  
 > `#AI大模型` `#日语学习` `#网页应用` 
 > 基于 Gemini Flash 大模型的日语句子深度解析工具，专为中文学习者设计。支持智能句法标注、OCR图像识别、TTS朗读、整句翻译等功能，提供词性标注、假名转换、罗马音与中文释义，界面支持暗黑模式与密码保护，可自定义API密钥实现私有化部署。
@@ -840,7 +840,7 @@
 ## JiayuXu0/FastAPI-Template
 
 > [!info]
-> ⭐ 530 · Python · 2026-10-25T14:38:30Z  
+> ⭐ 531 · Python · 2026-10-27T08:37:33Z  
 > [GitHub](https://github.com/JiayuXu0/FastAPI-Template) · [Website](https://jiayuxu0.github.io/FastAPI-Template/)  
 > `#FastAPI` `#企业应用` `#后端开发` `#api` `#async` `#authentication` `#boilerplate` `#database` `#fastapi` `#openapi` `#pydantic` `#python` `#starlette` `#swagger` `#template` `#uvicorn` 
 > 企业级FastAPI后端模板，采用三层架构设计，集成JWT认证、RBAC权限控制、Redis缓存和异步数据库操作。提供用户管理、文件上传、部门管理等完整功能模块，支持Docker部署和自动化数据库迁移，开箱即用，专为团队协作开发设计。
@@ -948,7 +948,7 @@
 ## shengdingbox/aibotgo
 
 > [!info]
-> ⭐ 443 · Java · 2026-10-26T03:13:14Z  
+> ⭐ 444 · Java · 2026-10-27T05:54:47Z  
 > [GitHub](https://github.com/shengdingbox/aibotgo) · [Website](https://aibotgo.vercel.app)  
 > `#AI智能体` `#API集成` `#长文本处理` 
 > aibotgo 是一个支持多 AI 模型统一接入的逆向 API 工具，专注于长文本处理与智能交互。具备高速流式输出、多轮对话、联网搜索、文档解读、图像 OCR 等功能，兼容 ChatGPT 接口，支持零配置部署与多路 token 管理，自动清理会话痕迹，适用于高效 AI 应用开发。
@@ -1055,7 +1055,7 @@
 ## sz30/2048--
 
 > [!info]
-> ⭐ 527 · HTML · 2026-10-26T02:58:52Z  
+> ⭐ 528 · HTML · 2026-10-26T20:53:54Z  
 > [GitHub](https://github.com/sz30/2048--)  
 > `#Flask` `#休闲游戏` `#网页游戏` 
 > 2048++是一款经典2048游戏的增强版本，采用Flask框架开发，支持撤销操作和快速模式。玩家可无限次回退移动，并通过特定按键序列触发彩蛋将全部方块变为128，大幅提升游戏体验与趣味性。
@@ -1133,7 +1133,7 @@
 ## ZHangZHengEric/Sage
 
 > [!info]
-> ⭐ 1,214 · Python · 2026-10-26T05:56:49Z  
+> ⭐ 1,214 · Python · 2026-10-27T09:41:40Z  
 > [GitHub](https://github.com/ZHangZHengEric/Sage) · [Website](https://zhangzhengeric.github.io/Sage/)  
 > `#AI智能体` `#任务编排` `#多智能体系统` `#agents` `#ai` `#flutter` `#llm` `#manus` `#mcp` `#multi-agent` `#python` `#rsi` `#self-evolving-agents` `#workflow` 
 > Sage 是一个生产级多智能体框架，支持任务编排、模型能力最大化及安全沙箱执行。提供可视化工作台、OpenTelemetry 全链路追踪、MCP 协议集成和跨平台桌面应用，适用于复杂任务的智能协作与自动化处理。
@@ -1261,7 +1261,7 @@
 ## kadidalax/cf-vps-monitor
 
 > [!info]
-> ⭐ 920 · TypeScript · 2026-10-26T14:16:47Z  
+> ⭐ 922 · TypeScript · 2026-10-27T02:45:56Z  
 > [GitHub](https://github.com/kadidalax/cf-vps-monitor)  
 > `#Cloudflare Worker` `#VPS监控` `#运维自动化` 
 > 基于 Cloudflare Worker 和 D1 数据库构建的轻量级 VPS 探针与网站监控面板，无需自建服务器即可部署。支持实时采集服务器状态、检测网站可用性，并提供响应式前端界面与后台管理功能，集成 Telegram 通知及自定义主题配置。
@@ -1281,7 +1281,7 @@
 ## pixelsdb/pixels-spike
 
 > [!info]
-> ⭐ 263 · Go · 2026-10-26T03:14:27Z  
+> ⭐ 264 · Go · 2026-10-26T18:14:11Z  
 > [GitHub](https://github.com/pixelsdb/pixels-spike)  
 > `#云原生` `#无服务器计算` `#查询处理` 
 > pixels-spike 是一个云原生无服务器查询处理框架，专为高性能、弹性扩展的云环境设计。它支持基于容器的函数部署，自动扩缩容，并与 AWS ECS 深度集成，适用于实时数据分析、事件驱动计算等场景，提供低延迟、高可用的查询处理能力。
@@ -1331,7 +1331,7 @@
 ## tbphp/gpt-load
 
 > [!info]
-> ⭐ 7,170 · Go · 2026-10-26T14:27:02Z  
+> ⭐ 7,172 · Go · 2026-10-27T13:28:45Z  
 > [GitHub](https://github.com/tbphp/gpt-load) · [Website](https://www.gpt-load.com)  
 > `#AI智能代理` `#API网关` `#密钥管理` `#负载均衡` `#ai-gateway` `#anthropic` `#api-gateway` `#claude` `#claude-code` `#codex` `#gemini` `#gin` `#go` `#golang` `#llm` `#llm-gateway` `#load-balancer` `#openai` `#self-hosted` 
 > GPT-Load 是一个高性能企业级 AI API 透明代理服务，专为需要集成多 AI 服务的开发者和企业设计。基于 Go 构建，具备智能密钥轮询、负载均衡、故障自动恢复、动态配置热重载等特性，支持 OpenAI、Google Gemini、Anthropic Claude 等多种 AI 服务格式，提供完整的监控和管理界面。
@@ -1371,7 +1371,7 @@
 ## pixelsdb/pixels-rover
 
 > [!info]
-> ⭐ 253 · JavaScript · 2026-10-26T03:15:15Z  
+> ⭐ 252 · JavaScript · 2026-10-27T13:51:54Z  
 > [GitHub](https://github.com/pixelsdb/pixels-rover)  
 > `#Web管理界面` `#时空数据库` `#自然语言查询` 
 > Pixels Rover 是 PixelsDB 的 Web 管理界面，提供可视化数据探索与交互分析功能。支持通过自然语言查询数据库，集成文本转 SQL 能力，适用于大规模时空数据的可视化展示与运维监控。
@@ -1510,7 +1510,7 @@
 ## drl990114/MarkFlowy
 
 > [!info]
-> ⭐ 2,414 · TypeScript · 2026-10-26T09:00:47Z  
+> ⭐ 2,416 · TypeScript · 2026-10-27T02:22:26Z  
 > [GitHub](https://github.com/drl990114/MarkFlowy) · [Website](https://www.markflowy.cc)  
 > `#AI智能体` `#Markdown编辑器` `#桌面应用` `#ai` `#chatgpt` `#cross-platform` `#deepseek` `#editor` `#linux-app` `#local-first` `#macos-app` `#markdown` `#markdowneditor` `#notes-app` `#reactjs` `#rust-lang` `#tauri` `#typescript` `#windows-app` 
 > MarkFlowy 是一款现代化智能 Markdown 编辑器，基于 Tauri 框架开发，体积小巧（<20MB）且性能优异。核心功能包括内置 AI 助手（支持 Copilot、翻译、摘要）、多模式编辑（源码/WYSIWYG）、Prosemirror 引擎、多语言支持及自定义主题。适用于高效写作、文档管理和跨平台内容创作。
@@ -1586,7 +1586,7 @@
 ## ling-drag0n/CloudPaste
 
 > [!info]
-> ⭐ 2,709 · JavaScript · 2026-10-26T03:33:36Z  
+> ⭐ 2,715 · JavaScript · 2026-10-27T13:19:56Z  
 > [GitHub](https://github.com/ling-drag0n/CloudPaste) · [Website](https://doc.cloudpaste.qzz.io)  
 > `#多存储聚合` `#文件管理` `#无服务器架构` `#cloudflare` `#cloudflare-workers` `#docker` `#file-browser` `#huggingface` `#markdown` `#onedrive` `#s3` `#telegram` `#telegrambot` `#webdav` 
 > CloudPaste 是一个基于 Cloudflare Workers 的无服务器文件管理与文本分享工具，支持多存储聚合（S3、WebDAV、OneDrive、Google Drive 等），提供 30+ 文件格式在线预览及 WebDAV 挂载功能。内置 Markdown 编辑器，支持实时预览与导出，兼容 Docker 部署，适用于个人或企业轻量化云盘场景。
@@ -1750,7 +1750,7 @@
 ## Dainoar/SuperAutoStudy
 
 > [!info]
-> ⭐ 770 · Java · 2026-10-26T13:33:10Z  
+> ⭐ 777 · Java · 2026-10-27T12:15:19Z  
 > [GitHub](https://github.com/Dainoar/SuperAutoStudy)  
 > `#AI智能答题` `#SpringBoot微服务` `#教育自动化` `#java` `#llm` `#springboot` 
 > SuperAutoStudy 是基于 Spring Boot + Dubbo + RabbitMQ 的分布式超星学习通自动化刷课平台，支持多级倍速播放、断点续学和智能答题。集成百万级 Super 题库与大模型技术，具备高并发任务调度能力，提供 Docker 一键部署方案，适用于个人自部署与二次开发。
@@ -1799,7 +1799,7 @@
 ## zjyz20240101/pycharm-portable-rev
 
 > [!info]
-> ⭐ 433 · Go · 2026-10-26T02:53:46Z  
+> ⭐ 434 · Go · 2026-10-27T05:57:58Z  
 > [GitHub](https://github.com/zjyz20240101/pycharm-portable-rev)  
 > `#IDE工具` `#Python开发` `#便携式应用` 
 > Portable PyCharm 是一款便携版 JetBrains PyCharm IDE，支持无需安装直接运行，便于开发者随时随地进行 Python 开发。基于开源社区贡献，提供轻量化、跨平台的集成开发环境解决方案。
@@ -1878,7 +1878,7 @@
 ## Yoan98/Ncurator
 
 > [!info]
-> ⭐ 367 · TypeScript · 2026-10-26T15:00:44Z  
+> ⭐ 383 · TypeScript · 2026-10-27T13:54:01Z  
 > [GitHub](https://github.com/Yoan98/Ncurator) · [Website](https://www.guanzhangai.cn/zh)  
 > `#AI智能体` `#本地知识库` `#浏览器插件` `#隐私保护` 
 > Ncurator（馆长）是一款注重隐私的本地知识库AI问答助手，以浏览器插件形式运行。支持导入PDF、网页、书签等构建个人知识库，通过本地大模型实现智能问答与语义搜索。所有数据本地存储，确保隐私安全，支持离线使用且完全免费。
