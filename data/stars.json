@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-28 14:59 UTC",
+  "last_updated": "2026-10-29 15:06 UTC",
   "repos": {
     "waoowaooAI/waoowaoo": {
       "metadata": {
@@ -3097,7 +3097,7 @@
         "name": "gpt-load",
         "owner": "tbphp",
         "description": "Self-hosted AI gateway for multi-channel, multi-credential setups — API keys and subscription accounts, scheduling, failover, request logs and usage. 自托管 AI 网关：多渠道多凭据统一接入，含密钥与订阅账号、调度容错、日志与用量。",
-        "stars": 7176,
+        "stars": 7180,
         "language": "Go",
         "url": "https://github.com/tbphp/gpt-load",
         "homepage": "https://www.gpt-load.com",
@@ -3118,8 +3118,8 @@
           "openai",
           "self-hosted"
         ],
-        "pushed_at": "2026-10-28T14:40:00Z",
-        "updated_at": "2026-10-28T13:35:54Z",
+        "pushed_at": "2026-10-29T12:00:00Z",
+        "updated_at": "2026-10-29T11:49:47Z",
         "starred_at": "2025-06-18T04:14:43Z"
       },
       "summary": {
@@ -4429,13 +4429,13 @@
         "name": "mcp-chrome",
         "owner": "hangwin",
         "description": "Chrome MCP Server is a Chrome extension-based Model Context Protocol (MCP) server that exposes your Chrome browser functionality to AI assistants like Claude, enabling complex browser automation, content analysis, and semantic search.",
-        "stars": 12512,
+        "stars": 12520,
         "language": "TypeScript",
         "url": "https://github.com/hangwin/mcp-chrome",
         "homepage": "",
         "topics": [],
         "pushed_at": "2026-01-06T13:05:39Z",
-        "updated_at": "2026-10-28T00:33:55Z",
+        "updated_at": "2026-10-29T14:20:08Z",
         "starred_at": "2025-08-25T14:40:10Z"
       },
       "summary": {
@@ -31324,7 +31324,7 @@
         "name": "snow-cli",
         "owner": "MayDay-wpf",
         "description": "Agentic coding in your terminal,Simultaneously compatible with OpenAI, Gemini, and Claude.运行在终端的 AI 编程智能体，同时兼容 Deepseek、OpenAI、Gemini和Claude。",
-        "stars": 1069,
+        "stars": 1068,
         "language": "TypeScript",
         "url": "https://github.com/MayDay-wpf/snow-cli",
         "homepage": "",
@@ -31333,8 +31333,8 @@
           "ai-agents",
           "ai-coding"
         ],
-        "pushed_at": "2026-10-28T11:37:42Z",
-        "updated_at": "2026-10-28T11:37:47Z",
+        "pushed_at": "2026-10-29T14:56:12Z",
+        "updated_at": "2026-10-29T14:56:13Z",
         "starred_at": "2025-11-23T10:29:17Z"
       },
       "summary": {
@@ -31528,7 +31528,7 @@
         "name": "Gung",
         "owner": "Poseidon-fan",
         "description": "An embedded intranet penetration tool, support extensive protocol stack and python plugin",
-        "stars": 359,
+        "stars": 360,
         "language": "Rust",
         "url": "https://github.com/Poseidon-fan/Gung",
         "homepage": "",
@@ -31541,7 +31541,7 @@
           "tokio"
         ],
         "pushed_at": "2026-07-20T11:44:18Z",
-        "updated_at": "2026-10-26T03:13:24Z",
+        "updated_at": "2026-10-28T17:49:28Z",
         "starred_at": "2025-11-09T11:17:28Z"
       },
       "summary": {
@@ -31797,7 +31797,7 @@
         "name": "kelivo",
         "owner": "Chevey339",
         "description": "A Flutter LLM Chat Client. Support Mobile & Desktop.",
-        "stars": 4352,
+        "stars": 4366,
         "language": "Dart",
         "url": "https://github.com/Chevey339/kelivo",
         "homepage": "https://kelivo.psycheas.top",
@@ -31814,8 +31814,8 @@
           "llm",
           "openharmony"
         ],
-        "pushed_at": "2026-10-28T12:37:35Z",
-        "updated_at": "2026-10-28T14:52:59Z",
+        "pushed_at": "2026-10-29T14:03:14Z",
+        "updated_at": "2026-10-29T15:06:27Z",
         "starred_at": "2025-10-28T08:02:47Z"
       },
       "summary": {
@@ -31841,7 +31841,7 @@
         "name": "FreeDomain",
         "owner": "DigitalPlatDev",
         "description": "Free domain registration and practical DNS learning resources for everyone.",
-        "stars": 206146,
+        "stars": 206274,
         "language": "Markdown",
         "url": "https://github.com/DigitalPlatDev/FreeDomain",
         "homepage": "https://dashboard.digitalplat.org",
@@ -31863,7 +31863,7 @@
           "nameserver"
         ],
         "pushed_at": "2026-08-12T10:36:46Z",
-        "updated_at": "2026-10-28T14:56:11Z",
+        "updated_at": "2026-10-29T15:05:36Z",
         "starred_at": "2025-10-26T08:03:55Z"
       },
       "summary": {
@@ -32399,7 +32399,7 @@
         "name": "p6s",
         "owner": "XiangyuFan17",
         "description": "🐘easily access PostgreSQL deployed in any environment, especially within Kubernetes (k8s).",
-        "stars": 255,
+        "stars": 256,
         "language": "Go",
         "url": "https://github.com/XiangyuFan17/p6s",
         "homepage": "",
@@ -32410,7 +32410,7 @@
           "terminal"
         ],
         "pushed_at": "2025-07-24T07:08:28Z",
-        "updated_at": "2026-10-26T03:14:10Z",
+        "updated_at": "2026-10-29T09:30:48Z",
         "starred_at": "2025-09-26T10:51:34Z"
       },
       "summary": {
@@ -32767,8 +32767,8 @@
           "sbt",
           "scala"
         ],
-        "pushed_at": "2026-10-28T05:05:11Z",
-        "updated_at": "2026-10-28T05:05:12Z",
+        "pushed_at": "2026-10-29T13:43:36Z",
+        "updated_at": "2026-10-29T13:43:42Z",
         "starred_at": "2025-09-18T00:10:14Z"
       },
       "summary": {
@@ -33623,8 +33623,8 @@
           "vscode",
           "vscode-extensions"
         ],
-        "pushed_at": "2026-10-28T02:44:11Z",
-        "updated_at": "2026-10-26T02:54:06Z",
+        "pushed_at": "2026-10-28T23:00:58Z",
+        "updated_at": "2026-10-29T07:16:04Z",
         "starred_at": "2025-07-26T17:07:22Z"
       },
       "summary": {
@@ -33728,7 +33728,7 @@
         "name": "Milo-discord-fun-bot",
         "owner": "msgaxzzz",
         "description": "Open-source Discord bot for community operations, support, and lightweight moderation.",
-        "stars": 328,
+        "stars": 329,
         "language": "Python",
         "url": "https://github.com/msgaxzzz/Milo-discord-fun-bot",
         "homepage": "https://milo-discord-bot.menice.dev",
@@ -33739,7 +33739,7 @@
           "python"
         ],
         "pushed_at": "2026-03-20T20:56:10Z",
-        "updated_at": "2026-10-26T03:15:13Z",
+        "updated_at": "2026-10-29T09:01:35Z",
         "starred_at": "2025-07-23T11:52:10Z"
       },
       "summary": {
@@ -34776,7 +34776,7 @@
         "name": "Sage",
         "owner": "ZHangZHengEric",
         "description": "An RSI Agent Harness for running, evaluating, and evolving agents—with tools, skills, MCP, stateful execution, and multi-agent workflows.",
-        "stars": 1214,
+        "stars": 1215,
         "language": "Python",
         "url": "https://github.com/ZHangZHengEric/Sage",
         "homepage": "https://zhangzhengeric.github.io/Sage/",
@@ -34793,8 +34793,8 @@
           "self-evolving-agents",
           "workflow"
         ],
-        "pushed_at": "2026-10-28T07:48:46Z",
-        "updated_at": "2026-10-28T07:48:52Z",
+        "pushed_at": "2026-10-29T07:46:17Z",
+        "updated_at": "2026-10-29T07:46:22Z",
         "starred_at": "2025-06-20T12:41:29Z"
       },
       "summary": {
@@ -36136,7 +36136,7 @@
         "name": "MarkFlowy",
         "owner": "drl990114",
         "description": "A high-performance, local-first Markdown editor and general-purpose text editor for Windows, macOS, and Linux, with WYSIWYG and Markdown source editing.",
-        "stars": 2422,
+        "stars": 2423,
         "language": "TypeScript",
         "url": "https://github.com/drl990114/MarkFlowy",
         "homepage": "https://www.markflowy.cc",
@@ -36158,8 +36158,8 @@
           "typescript",
           "windows-app"
         ],
-        "pushed_at": "2026-10-25T14:20:57Z",
-        "updated_at": "2026-10-28T10:58:29Z",
+        "pushed_at": "2026-10-29T15:03:26Z",
+        "updated_at": "2026-10-29T15:03:34Z",
         "starred_at": "2025-06-10T21:09:44Z"
       },
       "summary": {
@@ -36185,7 +36185,7 @@
         "name": "screenlite",
         "owner": "screenlite",
         "description": "Open-source digital signage software",
-        "stars": 364,
+        "stars": 363,
         "language": "TypeScript",
         "url": "https://github.com/screenlite/screenlite",
         "homepage": "https://screenlite.org",
@@ -36194,7 +36194,7 @@
           "digital-signage"
         ],
         "pushed_at": "2026-05-08T22:53:29Z",
-        "updated_at": "2026-10-24T12:01:01Z",
+        "updated_at": "2026-10-28T15:02:06Z",
         "starred_at": "2025-06-10T18:36:44Z"
       },
       "summary": {
@@ -36485,7 +36485,7 @@
         "name": "CloudPaste",
         "owner": "ling-drag0n",
         "description": "🌩️ Serverless 自托管的文件管理与文本分享工具/网盘，支持多存储聚合管理和WebDAV 服务挂载。兼容 S3、WebDAV、OneDrive、Google Drive、Telegram、HF、GitHub 等。内置   Markdown 编辑器、30+文件格式预览。支持 Cloudflare Workers 或 Docker 部署。",
-        "stars": 2716,
+        "stars": 2717,
         "language": "JavaScript",
         "url": "https://github.com/ling-drag0n/CloudPaste",
         "homepage": "https://doc.cloudpaste.qzz.io",
@@ -36503,7 +36503,7 @@
           "webdav"
         ],
         "pushed_at": "2026-01-23T08:12:18Z",
-        "updated_at": "2026-10-28T09:17:31Z",
+        "updated_at": "2026-10-29T01:06:21Z",
         "starred_at": "2025-06-10T02:20:49Z"
       },
       "summary": {
@@ -37049,7 +37049,7 @@
         "name": "SuperAutoStudy",
         "owner": "Dainoar",
         "description": "超星学习通/学习通/泛雅学习通自动云端刷课的Springboot项目,支持多级倍速播放和自动答题，已接入Super题库+大模型答题。",
-        "stars": 781,
+        "stars": 785,
         "language": "Java",
         "url": "https://github.com/Dainoar/SuperAutoStudy",
         "homepage": "",
@@ -37059,7 +37059,7 @@
           "springboot"
         ],
         "pushed_at": "2026-07-14T04:15:38Z",
-        "updated_at": "2026-10-28T14:58:49Z",
+        "updated_at": "2026-10-29T11:15:06Z",
         "starred_at": "2025-06-07T17:41:38Z"
       },
       "summary": {
@@ -37149,7 +37149,7 @@
         "name": "saga-reader",
         "owner": "sopaco",
         "description": "💪🏻 Blazing-Fast and Extremely-Lightweight Internet Reader driven by AI! Your AI-Powered think tank assistant.(Built with Rust, Tauri & Svelte)",
-        "stars": 529,
+        "stars": 530,
         "language": "Rust",
         "url": "https://github.com/sopaco/saga-reader",
         "homepage": "https://aiqino.netlify.app/",
@@ -37162,7 +37162,7 @@
           "tauri"
         ],
         "pushed_at": "2026-07-11T23:53:03Z",
-        "updated_at": "2026-10-28T03:31:52Z",
+        "updated_at": "2026-10-29T05:30:36Z",
         "starred_at": "2025-06-07T14:26:31Z"
       },
       "summary": {
@@ -37483,13 +37483,13 @@
         "name": "Ncurator",
         "owner": "Yoan98",
         "description": "馆长（NCurator）｜打造最好用的处理本地办公文件的 AI 助手",
-        "stars": 388,
+        "stars": 390,
         "language": "TypeScript",
         "url": "https://github.com/Yoan98/Ncurator",
         "homepage": "https://www.guanzhangai.cn/zh",
         "topics": [],
         "pushed_at": "2026-10-28T09:43:00Z",
-        "updated_at": "2026-10-28T09:55:53Z",
+        "updated_at": "2026-10-29T10:00:42Z",
         "starred_at": "2025-05-03T13:17:31Z"
       },
       "summary": {
@@ -37676,8 +37676,8 @@
           "vue",
           "weaviate"
         ],
-        "pushed_at": "2026-10-28T12:52:33Z",
-        "updated_at": "2026-10-28T12:52:39Z",
+        "pushed_at": "2026-10-29T11:54:04Z",
+        "updated_at": "2026-10-29T11:54:09Z",
         "starred_at": "2025-11-09T06:43:19Z"
       },
       "summary": {
@@ -38072,7 +38072,7 @@
         "tags_en": []
       },
       "pushed_at": "2026-06-16T15:48:58Z",
-      "updated_at": "2026-10-28"
+      "updated_at": "2026-10-29"
     },
     "flechazo-crushed/webmeta-cli": {
       "metadata": {
@@ -38096,7 +38096,7 @@
         "tags_en": []
       },
       "pushed_at": "2026-05-05T02:47:54Z",
-      "updated_at": "2026-10-28"
+      "updated_at": "2026-10-29"
     },
     "fastbyte19/terraform-docker-postgresql": {
       "metadata": {
@@ -38120,7 +38120,7 @@
         "tags_en": []
       },
       "pushed_at": "2026-07-27T10:33:47Z",
-      "updated_at": "2026-10-28"
+      "updated_at": "2026-10-29"
     },
     "fastbyte19/Solana-NFT-Marketplace-by-CandyMachine": {
       "metadata": {
@@ -38163,7 +38163,7 @@
         "tags_en": []
       },
       "pushed_at": "2025-11-21T01:15:31Z",
-      "updated_at": "2026-10-28"
+      "updated_at": "2026-10-29"
     },
     "fastbyte18/terraform-docker-postgresql": {
       "metadata": {
@@ -38259,7 +38259,7 @@
         "tags_en": []
       },
       "pushed_at": "2026-08-11T07:51:54Z",
-      "updated_at": "2026-10-28"
+      "updated_at": "2026-10-29"
     },
     "4pwn/NXJS-ARCH": {
       "metadata": {
@@ -38267,7 +38267,7 @@
         "name": "NXJS-ARCH",
         "owner": "4pwn",
         "description": "",
-        "stars": 393,
+        "stars": 394,
         "language": "JavaScript",
         "url": "https://github.com/4pwn/NXJS-ARCH",
         "homepage": "",
@@ -38277,7 +38277,7 @@
           "next-auth"
         ],
         "pushed_at": "2026-08-11T07:53:06Z",
-        "updated_at": "2026-10-26T03:15:50Z",
+        "updated_at": "2026-10-28T17:45:46Z",
         "starred_at": "2025-10-23T21:08:06Z"
       },
       "summary": {
@@ -38309,7 +38309,7 @@
         "tags_en": []
       },
       "pushed_at": "2025-10-15T21:53:03Z",
-      "updated_at": "2026-10-28"
+      "updated_at": "2026-10-29"
     },
     "hixtty/domain-manage": {
       "metadata": {
@@ -38333,7 +38333,7 @@
         "tags_en": []
       },
       "pushed_at": "2025-12-04T02:14:09Z",
-      "updated_at": "2026-10-28"
+      "updated_at": "2026-10-29"
     },
     "tiouoo/archive": {
       "metadata": {
