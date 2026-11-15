@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-14 14:55 UTC",
+  "last_updated": "2026-11-15 15:32 UTC",
   "repos": {
     "waoowaooAI/waoowaoo": {
       "metadata": {
@@ -3118,8 +3118,8 @@
           "openai",
           "self-hosted"
         ],
-        "pushed_at": "2026-11-13T15:00:02Z",
-        "updated_at": "2026-11-14T11:58:17Z",
+        "pushed_at": "2026-11-15T05:55:15Z",
+        "updated_at": "2026-11-15T13:51:49Z",
         "starred_at": "2025-06-18T04:14:43Z"
       },
       "summary": {
@@ -4429,13 +4429,13 @@
         "name": "mcp-chrome",
         "owner": "hangwin",
         "description": "Chrome MCP Server is a Chrome extension-based Model Context Protocol (MCP) server that exposes your Chrome browser functionality to AI assistants like Claude, enabling complex browser automation, content analysis, and semantic search.",
-        "stars": 12544,
+        "stars": 12545,
         "language": "TypeScript",
         "url": "https://github.com/hangwin/mcp-chrome",
         "homepage": "",
         "topics": [],
         "pushed_at": "2026-01-06T13:05:39Z",
-        "updated_at": "2026-11-14T14:40:07Z",
+        "updated_at": "2026-11-15T01:42:10Z",
         "starred_at": "2025-08-25T14:40:10Z"
       },
       "summary": {
@@ -31324,7 +31324,7 @@
         "name": "snow-cli",
         "owner": "MayDay-wpf",
         "description": "Agentic coding in your terminal,Simultaneously compatible with OpenAI, Gemini, and Claude.运行在终端的 AI 编程智能体，同时兼容 Deepseek、OpenAI、Gemini和Claude。",
-        "stars": 1065,
+        "stars": 1066,
         "language": "TypeScript",
         "url": "https://github.com/MayDay-wpf/snow-cli",
         "homepage": "",
@@ -31334,7 +31334,7 @@
           "ai-coding"
         ],
         "pushed_at": "2026-11-13T01:57:10Z",
-        "updated_at": "2026-11-11T14:56:19Z",
+        "updated_at": "2026-11-15T04:43:43Z",
         "starred_at": "2025-11-23T10:29:17Z"
       },
       "summary": {
@@ -31797,7 +31797,7 @@
         "name": "kelivo",
         "owner": "Chevey339",
         "description": "A Flutter LLM Chat Client. Support Mobile & Desktop.",
-        "stars": 4531,
+        "stars": 4538,
         "language": "Dart",
         "url": "https://github.com/Chevey339/kelivo",
         "homepage": "https://kelivo.psycheas.top",
@@ -31814,8 +31814,8 @@
           "llm",
           "openharmony"
         ],
-        "pushed_at": "2026-11-14T12:31:12Z",
-        "updated_at": "2026-11-14T11:54:32Z",
+        "pushed_at": "2026-11-15T13:38:06Z",
+        "updated_at": "2026-11-15T09:24:18Z",
         "starred_at": "2025-10-28T08:02:47Z"
       },
       "summary": {
@@ -31841,7 +31841,7 @@
         "name": "FreeDomain",
         "owner": "DigitalPlatDev",
         "description": "Free domain registration and practical DNS learning resources for everyone.",
-        "stars": 208154,
+        "stars": 208267,
         "language": "Markdown",
         "url": "https://github.com/DigitalPlatDev/FreeDomain",
         "homepage": "https://dashboard.digitalplat.org",
@@ -31863,7 +31863,7 @@
           "nameserver"
         ],
         "pushed_at": "2026-08-12T10:36:46Z",
-        "updated_at": "2026-11-14T14:47:02Z",
+        "updated_at": "2026-11-15T15:32:14Z",
         "starred_at": "2025-10-26T08:03:55Z"
       },
       "summary": {
@@ -32149,7 +32149,7 @@
         "name": "llm-interview-code",
         "owner": "AIR-hl",
         "description": "LLM面试常见手撕合集",
-        "stars": 641,
+        "stars": 642,
         "language": "Jupyter Notebook",
         "url": "https://github.com/AIR-hl/llm-interview-code",
         "homepage": "",
@@ -32160,7 +32160,7 @@
           "lm"
         ],
         "pushed_at": "2026-06-19T14:22:10Z",
-        "updated_at": "2026-11-13T23:40:16Z",
+        "updated_at": "2026-11-14T18:35:44Z",
         "starred_at": "2025-10-02T04:30:36Z"
       },
       "summary": {
@@ -32643,13 +32643,13 @@
         "name": "LLM4WM",
         "owner": "PKU-PCNI",
         "description": "",
-        "stars": 513,
+        "stars": 514,
         "language": "Python",
         "url": "https://github.com/PKU-PCNI/LLM4WM",
         "homepage": "",
         "topics": [],
         "pushed_at": "2026-03-20T12:43:19Z",
-        "updated_at": "2026-11-13T07:03:41Z",
+        "updated_at": "2026-11-14T19:37:10Z",
         "starred_at": "2025-09-18T13:29:59Z"
       },
       "summary": {
@@ -33265,7 +33265,7 @@
           "vite",
           "vue"
         ],
-        "pushed_at": "2026-11-10T22:14:49Z",
+        "pushed_at": "2026-11-15T14:39:06Z",
         "updated_at": "2026-11-10T16:10:33Z",
         "starred_at": "2025-08-25T03:56:43Z"
       },
@@ -33491,13 +33491,13 @@
         "name": "dnspod-monitor",
         "owner": "harren-collections",
         "description": "",
-        "stars": 236,
+        "stars": 237,
         "language": "Python",
         "url": "https://github.com/harren-collections/dnspod-monitor",
         "homepage": "",
         "topics": [],
         "pushed_at": "2025-09-06T17:59:50Z",
-        "updated_at": "2026-11-09T14:26:26Z",
+        "updated_at": "2026-11-15T03:35:01Z",
         "starred_at": "2025-07-29T19:57:11Z"
       },
       "summary": {
@@ -34438,13 +34438,13 @@
         "name": "2048--",
         "owner": "sz30",
         "description": "2048++:An enhanced version based on the classic sudoku game 2048, adding interesting recall and cheat features!!",
-        "stars": 522,
+        "stars": 523,
         "language": "HTML",
         "url": "https://github.com/sz30/2048--",
         "homepage": "",
         "topics": [],
         "pushed_at": "2026-11-10T09:30:46Z",
-        "updated_at": "2026-11-09T18:01:27Z",
+        "updated_at": "2026-11-14T17:42:11Z",
         "starred_at": "2025-07-20T09:29:03Z"
       },
       "summary": {
@@ -34776,7 +34776,7 @@
         "name": "Sage",
         "owner": "ZHangZHengEric",
         "description": "An RSI Agent Harness for running, evaluating, and evolving agents—with tools, skills, MCP, stateful execution, and multi-agent workflows.",
-        "stars": 1214,
+        "stars": 1215,
         "language": "Python",
         "url": "https://github.com/ZHangZHengEric/Sage",
         "homepage": "https://zhangzhengeric.github.io/Sage/",
@@ -34793,8 +34793,8 @@
           "self-evolving-agents",
           "workflow"
         ],
-        "pushed_at": "2026-11-13T07:09:38Z",
-        "updated_at": "2026-11-12T15:29:53Z",
+        "pushed_at": "2026-11-15T12:24:41Z",
+        "updated_at": "2026-11-15T05:13:23Z",
         "starred_at": "2025-06-20T12:41:29Z"
       },
       "summary": {
@@ -36136,7 +36136,7 @@
         "name": "MarkFlowy",
         "owner": "drl990114",
         "description": "A high-performance, local-first Markdown editor and general-purpose text editor for Windows, macOS, and Linux, with WYSIWYG and Markdown source editing.",
-        "stars": 2438,
+        "stars": 2437,
         "language": "TypeScript",
         "url": "https://github.com/drl990114/MarkFlowy",
         "homepage": "https://www.markflowy.cc",
@@ -36158,8 +36158,8 @@
           "typescript",
           "windows-app"
         ],
-        "pushed_at": "2026-11-12T13:37:08Z",
-        "updated_at": "2026-11-14T12:01:26Z",
+        "pushed_at": "2026-11-15T14:28:18Z",
+        "updated_at": "2026-11-15T07:56:49Z",
         "starred_at": "2025-06-10T21:09:44Z"
       },
       "summary": {
@@ -36185,7 +36185,7 @@
         "name": "screenlite",
         "owner": "screenlite",
         "description": "Open-source digital signage software",
-        "stars": 366,
+        "stars": 367,
         "language": "TypeScript",
         "url": "https://github.com/screenlite/screenlite",
         "homepage": "https://screenlite.org",
@@ -36194,7 +36194,7 @@
           "digital-signage"
         ],
         "pushed_at": "2026-05-08T22:53:29Z",
-        "updated_at": "2026-11-13T23:15:57Z",
+        "updated_at": "2026-11-14T22:30:06Z",
         "starred_at": "2025-06-10T18:36:44Z"
       },
       "summary": {
@@ -36254,13 +36254,13 @@
         "name": "cfnatddns",
         "owner": "onlyno999",
         "description": "cf全自动优选工具cfnatddns直接下载那个压缩包，CFNATDDNS，Windows版本运行完成事。修改里面的配置文件里面有说明。  DNS绑定域名若希望使用域名IP：在Cloudflare中添加子域名（如best.yourdomain.zone.id），确保已挂靠到Cloudflare。在CfnatN中填写子域名、区域ID和全局API密钥。运行工具，优选IP将自动绑定到子域名，专属优选域名。绑定后需等待生效",
-        "stars": 131,
+        "stars": 130,
         "language": "Shell",
         "url": "https://github.com/onlyno999/cfnatddns",
         "homepage": "",
         "topics": [],
         "pushed_at": "2025-07-19T09:20:03Z",
-        "updated_at": "2026-11-05T06:33:32Z",
+        "updated_at": "2026-11-14T22:43:17Z",
         "starred_at": "2025-06-10T17:04:30Z"
       },
       "summary": {
@@ -36503,7 +36503,7 @@
           "webdav"
         ],
         "pushed_at": "2026-01-23T08:12:18Z",
-        "updated_at": "2026-11-14T11:00:47Z",
+        "updated_at": "2026-11-14T22:43:12Z",
         "starred_at": "2025-06-10T02:20:49Z"
       },
       "summary": {
@@ -37049,7 +37049,7 @@
         "name": "SuperAutoStudy",
         "owner": "Dainoar",
         "description": "超星学习通/学习通/泛雅学习通自动云端刷课的Springboot项目,支持多级倍速播放和自动答题，已接入Super题库+大模型答题。",
-        "stars": 821,
+        "stars": 823,
         "language": "Java",
         "url": "https://github.com/Dainoar/SuperAutoStudy",
         "homepage": "",
@@ -37059,7 +37059,7 @@
           "springboot"
         ],
         "pushed_at": "2026-07-14T04:15:38Z",
-        "updated_at": "2026-11-14T08:39:57Z",
+        "updated_at": "2026-11-15T14:35:41Z",
         "starred_at": "2025-06-07T17:41:38Z"
       },
       "summary": {
@@ -37483,13 +37483,13 @@
         "name": "Ncurator",
         "owner": "Yoan98",
         "description": "馆长（NCurator）｜打造最好用的处理本地办公文件的 AI 助手",
-        "stars": 430,
+        "stars": 431,
         "language": "TypeScript",
         "url": "https://github.com/Yoan98/Ncurator",
         "homepage": "https://www.guanzhangai.cn/zh",
         "topics": [],
         "pushed_at": "2026-11-12T08:15:20Z",
-        "updated_at": "2026-11-14T11:05:56Z",
+        "updated_at": "2026-11-15T14:10:33Z",
         "starred_at": "2025-05-03T13:17:31Z"
       },
       "summary": {
@@ -37676,7 +37676,7 @@
           "vue",
           "weaviate"
         ],
-        "pushed_at": "2026-11-14T10:08:31Z",
+        "pushed_at": "2026-11-15T15:32:15Z",
         "updated_at": "2026-11-14T11:45:30Z",
         "starred_at": "2025-11-09T06:43:19Z"
       },
@@ -38072,7 +38072,7 @@
         "tags_en": []
       },
       "pushed_at": "2026-06-16T15:48:58Z",
-      "updated_at": "2026-11-14"
+      "updated_at": "2026-11-15"
     },
     "flechazo-crushed/webmeta-cli": {
       "metadata": {
@@ -38096,7 +38096,7 @@
         "tags_en": []
       },
       "pushed_at": "2026-05-05T02:47:54Z",
-      "updated_at": "2026-11-14"
+      "updated_at": "2026-11-15"
     },
     "fastbyte19/terraform-docker-postgresql": {
       "metadata": {
@@ -38120,7 +38120,7 @@
         "tags_en": []
       },
       "pushed_at": "2026-07-27T10:33:47Z",
-      "updated_at": "2026-11-14"
+      "updated_at": "2026-11-15"
     },
     "fastbyte19/Solana-NFT-Marketplace-by-CandyMachine": {
       "metadata": {
@@ -38163,7 +38163,7 @@
         "tags_en": []
       },
       "pushed_at": "2025-11-21T01:15:31Z",
-      "updated_at": "2026-11-14"
+      "updated_at": "2026-11-15"
     },
     "fastbyte18/terraform-docker-postgresql": {
       "metadata": {
@@ -38259,7 +38259,7 @@
         "tags_en": []
       },
       "pushed_at": "2026-08-11T07:51:54Z",
-      "updated_at": "2026-11-14"
+      "updated_at": "2026-11-15"
     },
     "4pwn/NXJS-ARCH": {
       "metadata": {
@@ -38309,7 +38309,7 @@
         "tags_en": []
       },
       "pushed_at": "2025-10-15T21:53:03Z",
-      "updated_at": "2026-11-14"
+      "updated_at": "2026-11-15"
     },
     "hixtty/domain-manage": {
       "metadata": {
@@ -38333,7 +38333,7 @@
         "tags_en": []
       },
       "pushed_at": "2025-12-04T02:14:09Z",
-      "updated_at": "2026-11-14"
+      "updated_at": "2026-11-15"
     },
     "tiouoo/archive": {
       "metadata": {
