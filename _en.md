@@ -1,6 +1,6 @@
 # ⭐ GitHub Stars Index
 
-> Updated: 2026-11-19 17:14 UTC · Total: 173
+> Updated: 2026-11-20 16:52 UTC · Total: 173
 
 ---
 
@@ -194,7 +194,7 @@
 ## MayDay-wpf/snow-cli
 
 > [!info]
-> ⭐ 1,067 · TypeScript · 2026-11-19T10:29:50Z  
+> ⭐ 1,066 · TypeScript · 2026-11-20T11:58:55Z  
 > [GitHub](https://github.com/MayDay-wpf/snow-cli)  
 > `#AI 智能体` `#Code Automation` `#Terminal Tool` `#ai` `#ai-agents` `#ai-coding` 
 > Snow AI CLI is an agentic coding tool for the terminal, enabling intelligent code generation, vulnerability scanning, and async task management. With command injection, sub-agent configuration, and hook automation, it offers a customizable AI-driven development workflow for building, reviewing, and optimizing code efficiently.
@@ -242,7 +242,7 @@
 ## Johonsoy/SmartStashDB
 
 > [!info]
-> ⭐ 336 · Go · 2026-11-18T09:49:31Z  
+> ⭐ 335 · Go · 2026-11-19T23:15:08Z  
 > [GitHub](https://github.com/Johonsoy/SmartStashDB)  
 > `#Database` `#High-Performance Storage` `#LSM-Tree` `#golang` `#kv-store` `#lsm-tree` `#write-ahead-logging` 
 > SmartStashDB is a high-performance key-value store built in Go, leveraging LSM-Tree, Skip-List, and Write-Ahead Logging (WAL) for low-latency reads/writes. It ensures durability, scalability, and memory efficiency, making it ideal for write-heavy and data-intensive applications requiring reliable storage.
@@ -292,7 +292,7 @@
 ## Haohao-end/openagent
 
 > [!info]
-> ⭐ 755 · Python · 2026-11-18T09:49:33Z  
+> ⭐ 756 · Python · 2026-11-20T11:25:56Z  
 > [GitHub](https://github.com/Haohao-end/openagent) · [Website](https://openllm.cloud)  
 > `#AI Agents` `#Docker Deployment` `#LangChain 框架` `#agent` `#ai` `#celery` `#deepagents` `#deepresearch` `#deepseek` `#docker` `#faiss-vector-database` `#flask` `#harness-engineering` `#langchain` `#langgraph` `#llmops` `#mcp` `#nginx` `#postgresql` `#skills` `#tailwindcss` `#vue` `#weaviate` 
 > OpenAgent is an end-to-end AI agent development platform supporting multi-provider LLMs (OpenAI/DeepSeek/Wenxin/Tongyi), featuring knowledge base management, workflow automation, conversation search, and enterprise-grade security. Built with Flask + Vue3 + LangChain, it offers one-click Docker deployment with real-time notifications and vector-based retrieval.
@@ -312,7 +312,7 @@
 ## MGdaasLab/WHartTest
 
 > [!info]
-> ⭐ 1,091 · Python · 2026-11-19T10:25:37Z  
+> ⭐ 1,096 · Python · 2026-11-20T10:37:17Z  
 > [GitHub](https://github.com/MGdaasLab/WHartTest) · [Website](https://wharttest.mgdaas.com/)  
 > `#AI 智能体` `#Django` `#Test Automation` `#ai-test-platform` `#ai-testing` `#automated-testing` `#browser-automation` `#intelligent-testing` `#test-case-generation` 
 > WHartTest is an AI-driven test automation platform built on Django REST Framework and modern LLMs, integrating LangChain and MCP protocol. It enables automated generation of structured test cases from requirements via natural language understanding, semantic knowledge retrieval, and multi-model embedding support. Features include UI/APP automation, MCP tool integration, risk analysis, and full lifecycle test case management for enhanced efficiency and coverage.
@@ -342,7 +342,7 @@
 ## Chevey339/kelivo
 
 > [!info]
-> ⭐ 4,680 · Dart · 2026-11-19T17:04:28Z  
+> ⭐ 4,693 · Dart · 2026-11-20T16:30:21Z  
 > [GitHub](https://github.com/Chevey339/kelivo) · [Website](https://kelivo.psycheas.top)  
 > `#AI 智能体` `#Cross-Platform` `#Flutter` `#ai` `#android` `#chatbot` `#chatbox` `#flutter` `#flutter-apps` `#harmony` `#harmonyos` `#ios` `#llm` `#openharmony` 
 > Kelivo is a cross-platform LLM chat client built with Flutter, supporting mobile (Android/iOS/Harmony) and desktop (Windows/macOS/Linux). It features modern Material You design, multi-language support, integration with major AI providers, MCP tools, web search, TTS, Markdown rendering, and custom fonts for an intelligent conversational experience.
@@ -352,7 +352,7 @@
 ## DigitalPlatDev/FreeDomain
 
 > [!info]
-> ⭐ 208,702 · Markdown · 2026-11-19T17:00:15Z  
+> ⭐ 208,779 · Markdown · 2026-11-20T16:36:50Z  
 > [GitHub](https://github.com/DigitalPlatDev/FreeDomain) · [Website](https://dashboard.digitalplat.org)  
 > `#Digital Identity` `#Domain Service` `#Free Domain` `#digitalplat` `#dns` `#dns-tutorial` `#documentation` `#domain` `#domain-platform` `#domain-registration` `#domainname` `#domains` `#education` `#free` `#free-domain` `#freedomain` `#internet-infrastructure` `#nameserver` 
 > DigitalPlat FreeDomain offers free domain registration for individuals and organizations with exclusive extensions like .DPDNS.ORG and .US.KG. Built and maintained by Edward Hsing, founder of DigitalPlat Foundation, it integrates seamlessly with popular DNS providers such as Cloudflare. With over 400,000 domains registered, it empowers users to establish a digital presence at zero cost, promoting open access to the web.
@@ -576,7 +576,7 @@
 ## Moonrend/ZeroCat
 
 > [!info]
-> ⭐ 343 · JavaScript · 2026-11-18T09:49:33Z  
+> ⭐ 342 · JavaScript · 2026-11-19T23:05:08Z  
 > [GitHub](https://github.com/Moonrend/ZeroCat) · [Website](https://zerocat.dev)  
 > `#Node.js` `#Open Source Collaboration` `#Programming Community` `#code` `#community` `#scratch` 
 > ZeroCat is a next-generation, open-source programming community built with Node.js, aiming to create a fully open collaborative coding environment. Initiated by Sunwuyuan, it emphasizes community contribution and follows the Contributor Covenant code of conduct under AGPLv3 licensing, encouraging participation via GitHub issues or pull requests.
@@ -713,7 +713,7 @@
 ## hangwin/mcp-chrome
 
 > [!info]
-> ⭐ 12,553 · TypeScript · 2026-11-19T16:26:07Z  
+> ⭐ 12,554 · TypeScript · 2026-11-20T13:52:55Z  
 > [GitHub](https://github.com/hangwin/mcp-chrome)  
 > `#AI 智能体` `#Browser Automation` `#Semantic Search` 
 > Chrome MCP Server is a Chrome extension-based Model Context Protocol (MCP) server that exposes browser functionality to AI assistants like Claude, enabling complex automation, content analysis, and semantic search. It leverages your existing Chrome browser with preserved login states and settings, supports 20+ tools, offers local streamable HTTP communication, and features SIMD-accelerated vector database for intelligent tab content discovery.
@@ -801,7 +801,7 @@
 ## IonRh/Cloudflare-BestIP
 
 > [!info]
-> ⭐ 504 · JavaScript · 2026-11-18T09:49:33Z  
+> ⭐ 503 · JavaScript · 2026-11-19T22:53:36Z  
 > [GitHub](https://github.com/IonRh/Cloudflare-BestIP)  
 > `#DNS Automation` `#IP Selection` `#Network Optimization` 
 > Cloudflare BestIP is a high-performance IP optimization automation tool built with Go, integrating the XIU2/CloudflareSpeedTest speed test engine. It supports dual-stack IPv4/IPv6 selection and automatic DNS updates across major providers (Cloudflare, Aliyun, DNSPod, HUAWEI Cloud), featuring health monitoring, web dashboard via Cloudflare Workers KV, and Telegram notifications.
@@ -838,7 +838,7 @@
 ## JiayuXu0/FastAPI-Template
 
 > [!info]
-> ⭐ 535 · Python · 2026-11-14T03:48:33Z  
+> ⭐ 536 · Python · 2026-11-20T07:25:34Z  
 > [GitHub](https://github.com/JiayuXu0/FastAPI-Template) · [Website](https://jiayuxu0.github.io/FastAPI-Template/)  
 > `#Backend Development` `#Enterprise Application` `#FastAPI` `#api` `#async` `#authentication` `#boilerplate` `#database` `#fastapi` `#openapi` `#pydantic` `#python` `#starlette` `#swagger` `#template` `#uvicorn` 
 > Production-ready FastAPI backend template featuring clean three-layer architecture with JWT authentication, RBAC authorization, Redis caching, and async database operations. Includes complete modules for user management, file handling, department organization, Docker deployment, and automated database migrations - ready for team development.
@@ -1043,7 +1043,7 @@
 ## yanyaoli/cmpedu-dl
 
 > [!info]
-> ⭐ 308 · JavaScript · 2026-11-18T09:49:33Z  
+> ⭐ 309 · JavaScript · 2026-11-20T10:13:10Z  
 > [GitHub](https://github.com/yanyaoli/cmpedu-dl) · [Website](https://greasyfork.org/scripts/483095)  
 > `#Automation Tool` `#浏览器插件` `#网页爬虫` `#cmpedu` `#tampermonkey` 
 > Cmpedu Downloader is a Tampermonkey script designed for the China Machine Press Education Service Network, enabling resource downloads without login or teacher permissions. It auto-detects book/resource pages and displays a download panel on PC and mobile, streamlining access to educational materials.
@@ -1300,7 +1300,7 @@
 ## karldoenitz/Tigo
 
 > [!info]
-> ⭐ 2,198 · Go · 2026-11-18T09:49:31Z  
+> ⭐ 2,196 · Go · 2026-11-19T21:00:44Z  
 > [GitHub](https://github.com/karldoenitz/Tigo) · [Website](https://karldoenitz.github.io/Tigo/)  
 > `#Go Language` `#High Concurrency` `#Web Framework` `#go` `#golang` `#middleware` `#rest-api` `#restful` `#tigo` `#web` 
 > Tigo is a high-performance Go web framework featuring Tornado-like asynchronous APIs with superior performance. It supports routing, middleware, and RESTful development via tools like the scaffold generator 'tiger' and session plugin 'tission', ideal for building scalable backend services.
@@ -1320,7 +1320,7 @@
 ## tbphp/gpt-load
 
 > [!info]
-> ⭐ 7,232 · Go · 2026-11-19T14:29:57Z  
+> ⭐ 7,241 · Go · 2026-11-20T15:53:23Z  
 > [GitHub](https://github.com/tbphp/gpt-load) · [Website](https://gpt-load.com)  
 > `#AI Proxy` `#API Gateway` `#Key Management` `#Load Balancing` `#ai-gateway` `#anthropic` `#api-gateway` `#claude` `#claude-code` `#codex` `#gemini` `#gin` `#go` `#golang` `#llm` `#llm-gateway` `#load-balancer` `#openai` `#self-hosted` 
 > GPT-Load is a high-performance, enterprise-grade transparent proxy service for AI APIs, designed for developers and enterprises integrating multiple AI services. Built with Go, it features intelligent key rotation, load balancing, automatic failure recovery, hot-reload configuration, and comprehensive monitoring. Supports OpenAI, Google Gemini, and Anthropic Claude APIs with a Vue 3 management interface.
@@ -1430,7 +1430,7 @@
 ## pixelsdb/pixels
 
 > [!info]
-> ⭐ 919 · Java · 2026-11-18T09:49:34Z  
+> ⭐ 918 · Java · 2026-11-19T21:26:34Z  
 > [GitHub](https://github.com/pixelsdb/pixels)  
 > `#Analytics Engine` `#Columnar Format` `#Data Storage` `#cloud-database` `#column-store` `#data-lake` `#data-warehouse` `#database` `#olap` 
 > Pixels is a columnar storage engine optimized for data lakes and warehouses, supporting S3, GCS, HDFS, and other cloud-native or on-premises storage systems. It outperforms Parquet by up to two orders of magnitude and integrates with DuckDB, Trino, StarRocks, and Hive. Pixels-Turbo, its MPP query engine, leverages autoscaling clusters and serverless functions (e.g., AWS Lambda) for high performance and cost-efficiency in continuous and bursty workloads.
@@ -1499,7 +1499,7 @@
 ## drl990114/MarkFlowy
 
 > [!info]
-> ⭐ 2,438 · TypeScript · 2026-11-18T09:49:31Z  
+> ⭐ 2,439 · TypeScript · 2026-11-20T08:13:22Z  
 > [GitHub](https://github.com/drl990114/MarkFlowy) · [Website](https://www.markflowy.cc)  
 > `#AI 智能体` `#Markdown Editor` `#桌面应用` `#ai` `#chatgpt` `#cross-platform` `#deepseek` `#editor` `#linux-app` `#local-first` `#macos-app` `#markdown` `#markdowneditor` `#notes-app` `#reactjs` `#rust-lang` `#tauri` `#typescript` `#windows-app` 
 > MarkFlowy is a modern, intelligent Markdown editor built with Tauri for lightweight performance (<20MB). It features integrated AI (Copilot, translation, summarization), multi-mode editing (source/WYSIWYG), Prosemirror core, custom themes, and cross-platform support. Designed for efficient writing, document management, and content creation.
@@ -1575,7 +1575,7 @@
 ## ling-drag0n/CloudPaste
 
 > [!info]
-> ⭐ 2,725 · JavaScript · 2026-11-19T15:19:57Z  
+> ⭐ 2,726 · JavaScript · 2026-11-20T04:16:48Z  
 > [GitHub](https://github.com/ling-drag0n/CloudPaste) · [Website](https://doc.cloudpaste.qzz.io)  
 > `#File Management` `#Multi-Storage Integration` `#Serverless Architecture` `#cloudflare` `#cloudflare-workers` `#docker` `#file-browser` `#huggingface` `#markdown` `#onedrive` `#s3` `#telegram` `#telegrambot` `#webdav` 
 > CloudPaste is a serverless file management and text sharing tool built on Cloudflare Workers, supporting multi-storage aggregation (S3, WebDAV, OneDrive, Google Drive, etc.), online preview for 30+ file formats, and WebDAV mounting. It features an integrated Markdown editor with real-time preview and export to PDF/HTML, deployable via Docker or Cloudflare Workers.
@@ -1739,7 +1739,7 @@
 ## Dainoar/SuperAutoStudy
 
 > [!info]
-> ⭐ 834 · Java · 2026-11-19T16:43:49Z  
+> ⭐ 835 · Java · 2026-11-20T12:41:32Z  
 > [GitHub](https://github.com/Dainoar/SuperAutoStudy)  
 > `#AI-Powered Q&A` `#Education Automation` `#SpringBoot Microservices` `#java` `#llm` `#springboot` 
 > SuperAutoStudy is an open-source, self-deployable automation platform for Chaoxing Learning Platform, built on Spring Boot + Dubbo + RabbitMQ. It supports multi-speed video playback, auto-answering via a million-level Super Q&A database and AI models, with distributed task scheduling and Redis caching. Features Docker Compose deployment for ARM/x86.
@@ -1817,7 +1817,7 @@
 ## juejin-wuyang/memberclub
 
 > [!info]
-> ⭐ 585 · Java · 2026-11-18T09:49:31Z  
+> ⭐ 586 · Java · 2026-11-20T00:16:33Z  
 > [GitHub](https://github.com/juejin-wuyang/memberclub)  
 > `#Domain Capabilities` `#E-commerce Mid-Platform` `#SDK Development` `#Spring Boot` `#java` `#springboot` 
 > MemberClub is an open-source e-commerce transaction toolkit that provides core capabilities (order placement, fulfillment, after-sales, settlement) via SDK, enabling developers to rapidly build new e-commerce systems like assembling blocks. Built on SpringBoot with integrated components, it uses a workflow engine and extension point engine for flexible orchestration, solving issues of feature bloat, tight coupling, and inflexibility in traditional mall systems. Ideal for learning e-commerce mid-platform architecture and DDD.
@@ -1857,7 +1857,7 @@
 ## Yoan98/Ncurator
 
 > [!info]
-> ⭐ 436 · TypeScript · 2026-11-19T09:33:42Z  
+> ⭐ 448 · TypeScript · 2026-11-20T11:00:30Z  
 > [GitHub](https://github.com/Yoan98/Ncurator) · [Website](https://www.guanzhangai.cn/zh)  
 > `#AI 智能体` `#Local Knowledge Base` `#Privacy Protection` `#浏览器插件` 
 > Ncurator (馆长) is a privacy-focused local knowledge base AI assistant running as a browser extension. It supports importing PDFs, web pages, and bookmarks to build personal knowledge bases, enabling intelligent Q&A and semantic search via local LLMs. All data is stored locally for enhanced privacy, with full offline functionality and zero cost.
