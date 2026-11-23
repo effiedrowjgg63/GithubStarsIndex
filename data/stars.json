@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-22 16:07 UTC",
+  "last_updated": "2026-11-23 20:01 UTC",
   "repos": {
     "waoowaooAI/waoowaoo": {
       "metadata": {
@@ -3097,7 +3097,7 @@
         "name": "gpt-load",
         "owner": "tbphp",
         "description": "Self-hosted AI gateway for multi-channel, multi-credential setups — API keys and subscription accounts, scheduling, failover, request logs and usage. 自托管 AI 网关：多渠道多凭据统一接入，含密钥与订阅账号、调度容错、日志与用量。",
-        "stars": 7245,
+        "stars": 7249,
         "language": "Go",
         "url": "https://github.com/tbphp/gpt-load",
         "homepage": "https://gpt-load.com",
@@ -3118,8 +3118,8 @@
           "openai",
           "self-hosted"
         ],
-        "pushed_at": "2026-11-22T05:54:27Z",
-        "updated_at": "2026-11-22T13:16:00Z",
+        "pushed_at": "2026-11-23T14:15:56Z",
+        "updated_at": "2026-11-23T16:17:41Z",
         "starred_at": "2025-06-18T04:14:43Z"
       },
       "summary": {
@@ -4429,13 +4429,13 @@
         "name": "mcp-chrome",
         "owner": "hangwin",
         "description": "Chrome MCP Server is a Chrome extension-based Model Context Protocol (MCP) server that exposes your Chrome browser functionality to AI assistants like Claude, enabling complex browser automation, content analysis, and semantic search.",
-        "stars": 12554,
+        "stars": 12558,
         "language": "TypeScript",
         "url": "https://github.com/hangwin/mcp-chrome",
         "homepage": "",
         "topics": [],
         "pushed_at": "2026-01-06T13:05:39Z",
-        "updated_at": "2026-11-22T13:59:51Z",
+        "updated_at": "2026-11-23T16:35:51Z",
         "starred_at": "2025-08-25T14:40:10Z"
       },
       "summary": {
@@ -31324,7 +31324,7 @@
         "name": "snow-cli",
         "owner": "MayDay-wpf",
         "description": "Agentic coding in your terminal,Simultaneously compatible with OpenAI, Gemini, and Claude.运行在终端的 AI 编程智能体，同时兼容 Deepseek、OpenAI、Gemini和Claude。",
-        "stars": 1067,
+        "stars": 1069,
         "language": "TypeScript",
         "url": "https://github.com/MayDay-wpf/snow-cli",
         "homepage": "",
@@ -31334,7 +31334,7 @@
           "ai-coding"
         ],
         "pushed_at": "2026-11-19T09:31:52Z",
-        "updated_at": "2026-11-21T09:30:33Z",
+        "updated_at": "2026-11-23T13:15:47Z",
         "starred_at": "2025-11-23T10:29:17Z"
       },
       "summary": {
@@ -31656,7 +31656,7 @@
         "name": "WHartTest",
         "owner": "MGdaasLab",
         "description": "WHartTest 是一款AI驱动的测试自动化平台，实现从需求到可执行测试用例的自动化生成与管理，帮助测试团队提升效率与覆盖率。 (WHartTest is an AI-driven test automation platform that automates the generation and management of executable test cases from requirements, helping testing teams improve efficiency and coverage.)",
-        "stars": 1097,
+        "stars": 1102,
         "language": "Python",
         "url": "https://github.com/MGdaasLab/WHartTest",
         "homepage": "https://wharttest.mgdaas.com/",
@@ -31669,7 +31669,7 @@
           "test-case-generation"
         ],
         "pushed_at": "2026-11-12T09:01:08Z",
-        "updated_at": "2026-11-22T03:58:40Z",
+        "updated_at": "2026-11-23T07:00:03Z",
         "starred_at": "2025-11-09T01:37:27Z"
       },
       "summary": {
@@ -31797,7 +31797,7 @@
         "name": "kelivo",
         "owner": "Chevey339",
         "description": "A Flutter LLM Chat Client. Support Mobile & Desktop.",
-        "stars": 4735,
+        "stars": 4748,
         "language": "Dart",
         "url": "https://github.com/Chevey339/kelivo",
         "homepage": "https://kelivo.psycheas.top",
@@ -31814,8 +31814,8 @@
           "llm",
           "openharmony"
         ],
-        "pushed_at": "2026-11-22T15:14:51Z",
-        "updated_at": "2026-11-22T15:56:08Z",
+        "pushed_at": "2026-11-23T03:57:19Z",
+        "updated_at": "2026-11-23T17:43:02Z",
         "starred_at": "2025-10-28T08:02:47Z"
       },
       "summary": {
@@ -31841,7 +31841,7 @@
         "name": "FreeDomain",
         "owner": "DigitalPlatDev",
         "description": "Free domain registration and practical DNS learning resources for everyone.",
-        "stars": 208952,
+        "stars": 209068,
         "language": "Markdown",
         "url": "https://github.com/DigitalPlatDev/FreeDomain",
         "homepage": "https://dashboard.digitalplat.org",
@@ -31863,7 +31863,7 @@
           "nameserver"
         ],
         "pushed_at": "2026-08-12T10:36:46Z",
-        "updated_at": "2026-11-22T16:02:43Z",
+        "updated_at": "2026-11-23T19:58:58Z",
         "starred_at": "2025-10-26T08:03:55Z"
       },
       "summary": {
@@ -32643,13 +32643,13 @@
         "name": "LLM4WM",
         "owner": "PKU-PCNI",
         "description": "",
-        "stars": 514,
+        "stars": 515,
         "language": "Python",
         "url": "https://github.com/PKU-PCNI/LLM4WM",
         "homepage": "",
         "topics": [],
         "pushed_at": "2026-03-20T12:43:19Z",
-        "updated_at": "2026-11-18T11:58:39Z",
+        "updated_at": "2026-11-23T07:51:05Z",
         "starred_at": "2025-09-18T13:29:59Z"
       },
       "summary": {
@@ -32767,7 +32767,7 @@
           "sbt",
           "scala"
         ],
-        "pushed_at": "2026-11-17T07:23:33Z",
+        "pushed_at": "2026-11-23T06:51:18Z",
         "updated_at": "2026-11-09T17:59:54Z",
         "starred_at": "2025-09-18T00:10:14Z"
       },
@@ -33265,7 +33265,7 @@
           "vite",
           "vue"
         ],
-        "pushed_at": "2026-11-22T15:33:56Z",
+        "pushed_at": "2026-11-23T17:06:23Z",
         "updated_at": "2026-11-18T09:49:30Z",
         "starred_at": "2025-08-25T03:56:43Z"
       },
@@ -33623,7 +33623,7 @@
           "vscode",
           "vscode-extensions"
         ],
-        "pushed_at": "2026-11-21T13:40:59Z",
+        "pushed_at": "2026-11-23T10:45:43Z",
         "updated_at": "2026-11-18T09:49:32Z",
         "starred_at": "2025-07-26T17:07:22Z"
       },
@@ -33650,7 +33650,7 @@
         "name": "FastAPI-Template",
         "owner": "JiayuXu0",
         "description": "A production-ready FastAPI backend template with clean architecture. 一个功能完整、架构清晰的企业级FastAPI后端模板，专为团队开发设计，开箱即用。",
-        "stars": 536,
+        "stars": 537,
         "language": "Python",
         "url": "https://github.com/JiayuXu0/FastAPI-Template",
         "homepage": "https://jiayuxu0.github.io/FastAPI-Template/",
@@ -33670,7 +33670,7 @@
           "uvicorn"
         ],
         "pushed_at": "2026-05-07T02:38:00Z",
-        "updated_at": "2026-11-20T07:25:34Z",
+        "updated_at": "2026-11-23T10:49:34Z",
         "starred_at": "2025-07-26T21:54:51Z"
       },
       "summary": {
@@ -34369,7 +34369,7 @@
         "name": "cmpedu-dl",
         "owner": "yanyaoli",
         "description": "机械工业出版社教育服务网资源下载，无需登录，无需教师权限，油猴脚本。",
-        "stars": 309,
+        "stars": 310,
         "language": "JavaScript",
         "url": "https://github.com/yanyaoli/cmpedu-dl",
         "homepage": "https://greasyfork.org/scripts/483095",
@@ -34378,7 +34378,7 @@
           "tampermonkey"
         ],
         "pushed_at": "2026-03-18T09:44:19Z",
-        "updated_at": "2026-11-20T10:13:10Z",
+        "updated_at": "2026-11-23T00:59:31Z",
         "starred_at": "2025-07-20T16:38:17Z"
       },
       "summary": {
@@ -34776,7 +34776,7 @@
         "name": "Sage",
         "owner": "ZHangZHengEric",
         "description": "An RSI Agent Harness for running, evaluating, and evolving agents—with tools, skills, MCP, stateful execution, and multi-agent workflows.",
-        "stars": 1221,
+        "stars": 1222,
         "language": "Python",
         "url": "https://github.com/ZHangZHengEric/Sage",
         "homepage": "https://zhangzhengeric.github.io/Sage/",
@@ -34793,8 +34793,8 @@
           "self-evolving-agents",
           "workflow"
         ],
-        "pushed_at": "2026-11-22T15:10:51Z",
-        "updated_at": "2026-11-22T12:20:34Z",
+        "pushed_at": "2026-11-23T13:41:03Z",
+        "updated_at": "2026-11-23T13:21:02Z",
         "starred_at": "2025-06-20T12:41:29Z"
       },
       "summary": {
@@ -35315,13 +35315,13 @@
         "name": "cf-vps-monitor",
         "owner": "kadidalax",
         "description": "用cloudflare worker搭建的vps探针+网站检测 面板，部署简单，不需要服务器。",
-        "stars": 928,
+        "stars": 931,
         "language": "TypeScript",
         "url": "https://github.com/kadidalax/cf-vps-monitor",
         "homepage": "",
         "topics": [],
         "pushed_at": "2026-10-26T16:36:17Z",
-        "updated_at": "2026-11-22T16:02:14Z",
+        "updated_at": "2026-11-23T16:24:03Z",
         "starred_at": "2025-06-18T16:04:51Z"
       },
       "summary": {
@@ -36136,7 +36136,7 @@
         "name": "MarkFlowy",
         "owner": "drl990114",
         "description": "A high-performance, local-first Markdown editor and general-purpose text editor for Windows, macOS, and Linux, with WYSIWYG and Markdown source editing.",
-        "stars": 2441,
+        "stars": 2442,
         "language": "TypeScript",
         "url": "https://github.com/drl990114/MarkFlowy",
         "homepage": "https://www.markflowy.cc",
@@ -36159,7 +36159,7 @@
           "windows-app"
         ],
         "pushed_at": "2026-11-22T12:42:02Z",
-        "updated_at": "2026-11-22T12:07:12Z",
+        "updated_at": "2026-11-23T14:25:31Z",
         "starred_at": "2025-06-10T21:09:44Z"
       },
       "summary": {
@@ -36485,7 +36485,7 @@
         "name": "CloudPaste",
         "owner": "ling-drag0n",
         "description": "🌩️ Serverless 自托管的文件管理与文本分享工具/网盘，支持多存储聚合管理和WebDAV 服务挂载。兼容 S3、WebDAV、OneDrive、Google Drive、Telegram、HF、GitHub 等。内置   Markdown 编辑器、30+文件格式预览。支持 Cloudflare Workers 或 Docker 部署。",
-        "stars": 2728,
+        "stars": 2729,
         "language": "JavaScript",
         "url": "https://github.com/ling-drag0n/CloudPaste",
         "homepage": "https://doc.cloudpaste.qzz.io",
@@ -36503,7 +36503,7 @@
           "webdav"
         ],
         "pushed_at": "2026-01-23T08:12:18Z",
-        "updated_at": "2026-11-22T10:42:34Z",
+        "updated_at": "2026-11-23T08:33:45Z",
         "starred_at": "2025-06-10T02:20:49Z"
       },
       "summary": {
@@ -37049,7 +37049,7 @@
         "name": "SuperAutoStudy",
         "owner": "Dainoar",
         "description": "超星学习通/学习通/泛雅学习通自动云端刷课的Springboot项目,支持多级倍速播放和自动答题，已接入Super题库+大模型答题。",
-        "stars": 838,
+        "stars": 840,
         "language": "Java",
         "url": "https://github.com/Dainoar/SuperAutoStudy",
         "homepage": "",
@@ -37059,7 +37059,7 @@
           "springboot"
         ],
         "pushed_at": "2026-07-14T04:15:38Z",
-        "updated_at": "2026-11-22T02:51:13Z",
+        "updated_at": "2026-11-23T10:46:29Z",
         "starred_at": "2025-06-07T17:41:38Z"
       },
       "summary": {
@@ -37488,7 +37488,7 @@
         "url": "https://github.com/Yoan98/Ncurator",
         "homepage": "https://www.guanzhangai.cn/zh",
         "topics": [],
-        "pushed_at": "2026-11-21T05:34:56Z",
+        "pushed_at": "2026-11-23T08:35:19Z",
         "updated_at": "2026-11-22T13:16:49Z",
         "starred_at": "2025-05-03T13:17:31Z"
       },
@@ -37676,7 +37676,7 @@
           "vue",
           "weaviate"
         ],
-        "pushed_at": "2026-11-22T14:36:22Z",
+        "pushed_at": "2026-11-23T09:48:19Z",
         "updated_at": "2026-11-21T20:35:37Z",
         "starred_at": "2025-11-09T06:43:19Z"
       },
@@ -38072,7 +38072,7 @@
         "tags_en": []
       },
       "pushed_at": "2026-06-16T15:48:58Z",
-      "updated_at": "2026-11-22"
+      "updated_at": "2026-11-23"
     },
     "flechazo-crushed/webmeta-cli": {
       "metadata": {
@@ -38096,7 +38096,7 @@
         "tags_en": []
       },
       "pushed_at": "2026-05-05T02:47:54Z",
-      "updated_at": "2026-11-22"
+      "updated_at": "2026-11-23"
     },
     "fastbyte19/terraform-docker-postgresql": {
       "metadata": {
@@ -38120,7 +38120,7 @@
         "tags_en": []
       },
       "pushed_at": "2026-07-27T10:33:47Z",
-      "updated_at": "2026-11-22"
+      "updated_at": "2026-11-23"
     },
     "fastbyte19/Solana-NFT-Marketplace-by-CandyMachine": {
       "metadata": {
@@ -38163,7 +38163,7 @@
         "tags_en": []
       },
       "pushed_at": "2025-11-21T01:15:31Z",
-      "updated_at": "2026-11-22"
+      "updated_at": "2026-11-23"
     },
     "fastbyte18/terraform-docker-postgresql": {
       "metadata": {
@@ -38259,7 +38259,7 @@
         "tags_en": []
       },
       "pushed_at": "2026-08-11T07:51:54Z",
-      "updated_at": "2026-11-22"
+      "updated_at": "2026-11-23"
     },
     "4pwn/NXJS-ARCH": {
       "metadata": {
@@ -38309,7 +38309,7 @@
         "tags_en": []
       },
       "pushed_at": "2025-10-15T21:53:03Z",
-      "updated_at": "2026-11-22"
+      "updated_at": "2026-11-23"
     },
     "hixtty/domain-manage": {
       "metadata": {
@@ -38333,7 +38333,7 @@
         "tags_en": []
       },
       "pushed_at": "2025-12-04T02:14:09Z",
-      "updated_at": "2026-11-22"
+      "updated_at": "2026-11-23"
     },
     "tiouoo/archive": {
       "metadata": {
